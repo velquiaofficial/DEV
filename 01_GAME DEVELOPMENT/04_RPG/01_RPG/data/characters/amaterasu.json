@@ -1,0 +1,109 @@
+{
+  "id": "amaterasu",
+  "uid": "amaterasu_001",
+  "name": "天照",
+  "name_ja": "天照",
+  "name_en": "AMATERASU",
+  "origin": "DIVINE",
+  "era": "MYTH",
+  "civ": "japan",
+  "civilization": "YAMATO",
+  "civilization_id": "yamato",
+  "relic": "yata_mirror",
+  "reconstruction": "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。",
+  "seed": true,
+  "class": "DIVINE",
+  "role": "SUPPORT_ATTACKER",
+  "role_ui": "Support",
+  "element": "SUN",
+  "weapon": "YATA_MIRROR",
+  "height": 165,
+  "appearance": {
+    "hair": "long_black_gold",
+    "eyes": "solar_gold",
+    "costume": "yamato_divine"
+  },
+  "stats": {
+    "hp": 852,
+    "attack": 73,
+    "defense": 65,
+    "speed": 74
+  },
+  "hp": 120,
+  "speed": 8.2,
+  "damage": 14,
+  "skills": [
+    "solar_slash",
+    "sakura_domain",
+    "eternal_sun"
+  ],
+  "normal_attack": {
+    "id": "amaterasu_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "solar_slash",
+    "name_ja": "日輪斬",
+    "name_en": "SOLAR SLASH"
+  },
+  "skill_2": {
+    "id": "sakura_domain",
+    "name_ja": "桜域",
+    "name_en": "SAKURA DOMAIN"
+  },
+  "ultimate": {
+    "id": "eternal_sun",
+    "name_ja": "常世の太陽",
+    "name_en": "ETERNAL SUN"
+  },
+  "passive": {
+    "id": "amaterasu_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "確保したRELICの近くで緩やかに回復する"
+  },
+  "civilization_tags": [
+    "japan",
+    "YAMATO",
+    "MYTH",
+    "DIVINE",
+    "SUN"
+  ],
+  "relationships": [
+    "tsukuyomi",
+    "susanoo",
+    "edo",
+    "tokyo",
+    "future_tokyo",
+    "athena",
+    "anubis"
+  ],
+  "voice_type": "radiant",
+  "music_theme": "光・太陽・浄化・復活",
+  "civilization_shift_effect": "東京廃墟が神域化。Amaterasu Power +15%. Healing +10%. Relic Generation +20%.",
+  "theme": "光・太陽・浄化・復活",
+  "passive_text": "確保したRELICの近くで緩やかに回復する",
+  "story": "私は太陽の記憶。鏡に映る世界が消えても、光は残る。",
+  "founder": true,
+  "implementation": "PLAYABLE",
+  "playable": true,
+  "belt": "yamato",
+  "land": "yamato",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/yamato/amaterasu.png",
+  "colors": {
+    "body": [
+      0.86,
+      0.882,
+      0.912
+    ],
+    "emit": [
+      0.92,
+      0.772,
+      0.382
+    ]
+  }
+}

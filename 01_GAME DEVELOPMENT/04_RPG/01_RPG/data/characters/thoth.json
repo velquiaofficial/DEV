@@ -1,0 +1,101 @@
+{
+  "id": "thoth",
+  "uid": "thoth_001",
+  "name": "トト",
+  "name_ja": "トト",
+  "name_en": "THOTH",
+  "origin": "MYTH",
+  "era": "ANCIENT",
+  "civ": "egypt",
+  "civilization": "KEMET",
+  "civilization_id": "kemet",
+  "relic": "judgment_scale",
+  "reconstruction": "ナイルと蓮が灰色の街を潤す。",
+  "seed": false,
+  "class": "MYTH",
+  "role": "TACTICIAN",
+  "role_ui": "Tactician",
+  "element": "INK",
+  "weapon": "IBIS_STYLUS",
+  "height": 168,
+  "appearance": {
+    "hair": "kemet_hair",
+    "eyes": "thoth_eyes",
+    "costume": "kemet_myth"
+  },
+  "stats": {
+    "hp": 852,
+    "attack": 62,
+    "defense": 66,
+    "speed": 68
+  },
+  "hp": 120,
+  "speed": 7.5,
+  "damage": 12,
+  "skills": [
+    "thoth_skill1",
+    "thoth_skill2",
+    "thoth_skill3"
+  ],
+  "normal_attack": {
+    "id": "thoth_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "thoth_skill1",
+    "name_ja": "聖刻",
+    "name_en": "聖刻"
+  },
+  "skill_2": {
+    "id": "thoth_skill2",
+    "name_ja": "月のインク",
+    "name_en": "月のインク"
+  },
+  "ultimate": {
+    "id": "thoth_skill3",
+    "name_ja": "記録",
+    "name_en": "記録"
+  },
+  "passive": {
+    "id": "thoth_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "技能情報が敵に長く残る"
+  },
+  "civilization_tags": [
+    "egypt",
+    "KEMET",
+    "ANCIENT",
+    "MYTH",
+    "INK"
+  ],
+  "relationships": [],
+  "voice_type": "measured",
+  "music_theme": "書記・月・知恵",
+  "civilization_shift_effect": "砂→ナイル→蓮→神殿→KEMET DOMAIN",
+  "theme": "書記・月・知恵",
+  "passive_text": "技能情報が敵に長く残る",
+  "story": "書かれなければ、王も砂だ。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "kemet",
+  "land": "kemet",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/kemet/thoth.png",
+  "colors": {
+    "body": [
+      0.092,
+      0.115,
+      0.183
+    ],
+    "emit": [
+      0.892,
+      0.695,
+      0.223
+    ]
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "id": "assyria",
+  "parts": [
+    {
+      "name": "hair",
+      "file": "hair.png",
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "box": [
+        40,
+        8,
+        379,
+        214
+      ]
+    },
+    {
+      "name": "face",
+      "file": "face.png",
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "box": [
+        121,
+        62,
+        298,
+        236
+      ]
+    },
+    {
+      "name": "eyes",
+      "file": "eyes.png",
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "box": [
+        129,
+        95,
+        290,
+        160
+      ]
+    },
+    {
+      "name": "mouth",
+      "file": "mouth.png",
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "box": [
+        169,
+        160,
+        250,
+        214
+      ]
+    },
+    {
+      "name": "body",
+      "file": "body.png",
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "box": [
+        80,
+        203,
+        339,
+        541
+      ]
+    },
+    {
+      "name": "arm_l",
+      "file": "arm_l.png",
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "box": [
+        8,
+        214,
+        137,
+        486
+      ]
+    },
+    {
+      "name": "arm_r",
+      "file": "arm_r.png",
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "box": [
+        282,
+        214,
+        412,
+        486
+      ]
+    }
+  ]
+}

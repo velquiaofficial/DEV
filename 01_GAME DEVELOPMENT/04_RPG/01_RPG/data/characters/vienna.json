@@ -1,0 +1,101 @@
+{
+  "id": "vienna",
+  "uid": "vienna_001",
+  "name": "ウィーン",
+  "name_ja": "ウィーン",
+  "name_en": "VIENNA",
+  "origin": "LEGACY",
+  "era": "MODERN",
+  "civ": "modern",
+  "civilization": "MODERN",
+  "civilization_id": "modern",
+  "relic": "modern_relic",
+  "reconstruction": "煤煙→汽笛→並木→近代都市→MODERN DOMAIN",
+  "seed": false,
+  "class": "LEGACY",
+  "role": "SUPPORT",
+  "role_ui": "Support",
+  "element": "MUSIC",
+  "weapon": "WALTZ_BATON",
+  "height": 162,
+  "appearance": {
+    "hair": "modern_hair",
+    "eyes": "vienna_eyes",
+    "costume": "modern_legacy"
+  },
+  "stats": {
+    "hp": 838,
+    "attack": 62,
+    "defense": 66,
+    "speed": 69
+  },
+  "hp": 118,
+  "speed": 7.7,
+  "damage": 12,
+  "skills": [
+    "vienna_skill1",
+    "vienna_skill2",
+    "vienna_skill3"
+  ],
+  "normal_attack": {
+    "id": "vienna_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "vienna_skill1",
+    "name_ja": "円舞",
+    "name_en": "円舞"
+  },
+  "skill_2": {
+    "id": "vienna_skill2",
+    "name_ja": "会議",
+    "name_en": "会議"
+  },
+  "ultimate": {
+    "id": "vienna_skill3",
+    "name_ja": "帝都楽",
+    "name_en": "帝都楽"
+  },
+  "passive": {
+    "id": "vienna_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "味方が技能を使うと回復"
+  },
+  "civilization_tags": [
+    "modern",
+    "MODERN",
+    "MODERN",
+    "LEGACY",
+    "MUSIC"
+  ],
+  "relationships": [],
+  "voice_type": "warm",
+  "music_theme": "音楽・帝都・会議",
+  "civilization_shift_effect": "煤煙→汽笛→並木→近代都市→MODERN DOMAIN",
+  "theme": "音楽・帝都・会議",
+  "passive_text": "味方が技能を使うと回復",
+  "story": "楽譜が残れば、帝国はまだ鳴る。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "modern",
+  "land": "modern",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/modern/vienna.png",
+  "colors": {
+    "body": [
+      0.143,
+      0.185,
+      0.283
+    ],
+    "emit": [
+      0.642,
+      0.706,
+      0.823
+    ]
+  }
+}

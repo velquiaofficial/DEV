@@ -1,0 +1,101 @@
+{
+  "id": "petersburg",
+  "uid": "petersburg_001",
+  "name": "ペテルブルク",
+  "name_ja": "ペテルブルク",
+  "name_en": "PETERSBURG",
+  "origin": "LEGACY",
+  "era": "MODERN",
+  "civ": "modern",
+  "civilization": "MODERN",
+  "civilization_id": "modern",
+  "relic": "modern_relic",
+  "reconstruction": "煤煙→汽笛→並木→近代都市→MODERN DOMAIN",
+  "seed": false,
+  "class": "LEGACY",
+  "role": "TACTICIAN",
+  "role_ui": "Tactician",
+  "element": "WINDOW",
+  "weapon": "WHITE_NIGHT",
+  "height": 165,
+  "appearance": {
+    "hair": "modern_hair",
+    "eyes": "petersburg_eyes",
+    "costume": "modern_legacy"
+  },
+  "stats": {
+    "hp": 895,
+    "attack": 68,
+    "defense": 68,
+    "speed": 68
+  },
+  "hp": 126,
+  "speed": 7.5,
+  "damage": 13,
+  "skills": [
+    "petersburg_skill1",
+    "petersburg_skill2",
+    "petersburg_skill3"
+  ],
+  "normal_attack": {
+    "id": "petersburg_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "petersburg_skill1",
+    "name_ja": "白夜",
+    "name_en": "白夜"
+  },
+  "skill_2": {
+    "id": "petersburg_skill2",
+    "name_ja": "運河",
+    "name_en": "運河"
+  },
+  "ultimate": {
+    "id": "petersburg_skill3",
+    "name_ja": "窓都",
+    "name_en": "窓都"
+  },
+  "passive": {
+    "id": "petersburg_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "ERA SHIFTの効果時間が延びる"
+  },
+  "civilization_tags": [
+    "modern",
+    "MODERN",
+    "MODERN",
+    "LEGACY",
+    "WINDOW"
+  ],
+  "relationships": [],
+  "voice_type": "measured",
+  "music_theme": "白夜・運河・窓",
+  "civilization_shift_effect": "煤煙→汽笛→並木→近代都市→MODERN DOMAIN",
+  "theme": "白夜・運河・窓",
+  "passive_text": "ERA SHIFTの効果時間が延びる",
+  "story": "窓を北に開いた都。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "modern",
+  "land": "modern",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/modern/petersburg.png",
+  "colors": {
+    "body": [
+      0.188,
+      0.212,
+      0.265
+    ],
+    "emit": [
+      0.688,
+      0.733,
+      0.805
+    ]
+  }
+}

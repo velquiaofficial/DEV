@@ -1,0 +1,101 @@
+{
+  "id": "uruk",
+  "uid": "uruk_001",
+  "name": "ウルク",
+  "name_ja": "ウルク",
+  "name_en": "URUK",
+  "origin": "LEGEND",
+  "era": "ANCIENT",
+  "civ": "mesopotamia",
+  "civilization": "MESOPOTAMIA",
+  "civilization_id": "mesopotamia",
+  "relic": "venus_star",
+  "reconstruction": "古代都市の門と星の王権が地上へ戻る。",
+  "seed": false,
+  "class": "LEGEND",
+  "role": "ATTACKER",
+  "role_ui": "Attacker",
+  "element": "WALL",
+  "weapon": "EPIC_AXE",
+  "height": 170,
+  "appearance": {
+    "hair": "mesopotamia_hair",
+    "eyes": "uruk_eyes",
+    "costume": "mesopotamia_legend"
+  },
+  "stats": {
+    "hp": 1008,
+    "attack": 83,
+    "defense": 71,
+    "speed": 68
+  },
+  "hp": 142,
+  "speed": 7.6,
+  "damage": 16,
+  "skills": [
+    "uruk_skill1",
+    "uruk_skill2",
+    "uruk_skill3"
+  ],
+  "normal_attack": {
+    "id": "uruk_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "uruk_skill1",
+    "name_ja": "城壁",
+    "name_en": "城壁"
+  },
+  "skill_2": {
+    "id": "uruk_skill2",
+    "name_ja": "英雄",
+    "name_en": "英雄"
+  },
+  "ultimate": {
+    "id": "uruk_skill3",
+    "name_ja": "叙事詩",
+    "name_en": "叙事詩"
+  },
+  "passive": {
+    "id": "uruk_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "HPが高いほど突破が速い"
+  },
+  "civilization_tags": [
+    "mesopotamia",
+    "MESOPOTAMIA",
+    "ANCIENT",
+    "LEGEND",
+    "WALL"
+  ],
+  "relationships": [],
+  "voice_type": "fierce",
+  "music_theme": "城壁・英雄・叙事詩",
+  "civilization_shift_effect": "砂塵→楔形→聖塔→両河→MESOPOTAMIA DOMAIN",
+  "theme": "城壁・英雄・叙事詩",
+  "passive_text": "HPが高いほど突破が速い",
+  "story": "壁を建てた手が、名を残す。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "mesopotamia",
+  "land": "mesopotamia",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/mesopotamia/uruk.png",
+  "colors": {
+    "body": [
+      0.18,
+      0.1,
+      0.08
+    ],
+    "emit": [
+      0.92,
+      0.62,
+      0.2
+    ]
+  }
+}

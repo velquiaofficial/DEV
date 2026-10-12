@@ -1,0 +1,7 @@
+{
+  "_note": "スロットIDをファイルパスへ上書きする。拡張子は png jpg jpeg webp のどれでもよい。空文字は無視する。例: \"opening.001\": \"res://assets/opening/cuts/001\"",
+  "opening.001": "",
+  "title.bg": "",
+  "home.stand": "",
+  "character.profile.amaterasu": ""
+}

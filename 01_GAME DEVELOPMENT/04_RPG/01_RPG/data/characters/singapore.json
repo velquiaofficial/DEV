@@ -1,0 +1,101 @@
+{
+  "id": "singapore",
+  "uid": "singapore_001",
+  "name": "シンガポール",
+  "name_ja": "シンガポール",
+  "name_en": "SINGAPORE",
+  "origin": "NEXUS",
+  "era": "CONTEMPORARY",
+  "civ": "contemporary",
+  "civilization": "CONTEMPORARY",
+  "civilization_id": "contemporary",
+  "relic": "contemporary_relic",
+  "reconstruction": "空白→街灯→交差点→現代都市→CONTEMPORARY DOMAIN",
+  "seed": false,
+  "class": "NEXUS",
+  "role": "TACTICIAN",
+  "role_ui": "Tactician",
+  "element": "NODE",
+  "weapon": "PORT_GARDEN",
+  "height": 159,
+  "appearance": {
+    "hair": "contemporary_hair",
+    "eyes": "singapore_eyes",
+    "costume": "contemporary_nexus"
+  },
+  "stats": {
+    "hp": 852,
+    "attack": 68,
+    "defense": 66,
+    "speed": 76
+  },
+  "hp": 120,
+  "speed": 8.5,
+  "damage": 13,
+  "skills": [
+    "singapore_skill1",
+    "singapore_skill2",
+    "singapore_skill3"
+  ],
+  "normal_attack": {
+    "id": "singapore_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "singapore_skill1",
+    "name_ja": "港湾国家",
+    "name_en": "港湾国家"
+  },
+  "skill_2": {
+    "id": "singapore_skill2",
+    "name_ja": "庭園",
+    "name_en": "庭園"
+  },
+  "ultimate": {
+    "id": "singapore_skill3",
+    "name_ja": "結節点",
+    "name_en": "結節点"
+  },
+  "passive": {
+    "id": "singapore_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "味方が散らばっても計画が切れない"
+  },
+  "civilization_tags": [
+    "contemporary",
+    "CONTEMPORARY",
+    "CONTEMPORARY",
+    "NEXUS",
+    "NODE"
+  ],
+  "relationships": [],
+  "voice_type": "measured",
+  "music_theme": "港・庭・結節",
+  "civilization_shift_effect": "空白→街灯→交差点→現代都市→CONTEMPORARY DOMAIN",
+  "theme": "港・庭・結節",
+  "passive_text": "味方が散らばっても計画が切れない",
+  "story": "小さな島が、世界の結び目になる。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "contemporary",
+  "land": "contemporary",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/contemporary/singapore.png",
+  "colors": {
+    "body": [
+      0.11,
+      0.116,
+      0.156
+    ],
+    "emit": [
+      0.56,
+      0.706,
+      0.946
+    ]
+  }
+}

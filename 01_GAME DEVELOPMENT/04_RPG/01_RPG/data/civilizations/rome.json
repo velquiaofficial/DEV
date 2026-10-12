@@ -1,0 +1,32 @@
+{
+  "id": "rome",
+  "code": "ROME",
+  "civ": "rome",
+  "launch": false,
+  "name": "ローマ",
+  "name_en": "ROME",
+  "members": [
+    "roma",
+    "venice",
+    "carthage",
+    "byzantium",
+    "ottoman",
+    "istanbul"
+  ],
+  "features": [
+    "Triumphal Arch",
+    "Aqueduct",
+    "Fortress",
+    "Roman Road",
+    "Forum",
+    "Column",
+    "Military Camp"
+  ],
+  "civilization_shift": {
+    "capture": 20,
+    "hp": 10
+  },
+  "shift_text": "瓦礫→石畳→凱旋門→街道→ROME DOMAIN",
+  "banner": "res://assets/characters/_keyart/rome.png",
+  "sheet": "res://assets/characters/_sheets/rome.png"
+}

@@ -1,0 +1,101 @@
+{
+  "id": "babylon",
+  "uid": "babylon_001",
+  "name": "バビロン",
+  "name_ja": "バビロン",
+  "name_en": "BABYLON",
+  "origin": "LEGEND",
+  "era": "ANCIENT",
+  "civ": "mesopotamia",
+  "civilization": "MESOPOTAMIA",
+  "civilization_id": "mesopotamia",
+  "relic": "venus_star",
+  "reconstruction": "古代都市の門と星の王権が地上へ戻る。",
+  "seed": false,
+  "class": "LEGEND",
+  "role": "CONTROLLER",
+  "role_ui": "Controller",
+  "element": "LAW",
+  "weapon": "LAW_STELE",
+  "height": 164,
+  "appearance": {
+    "hair": "mesopotamia_hair",
+    "eyes": "babylon_eyes",
+    "costume": "mesopotamia_legend"
+  },
+  "stats": {
+    "hp": 980,
+    "attack": 73,
+    "defense": 70,
+    "speed": 65
+  },
+  "hp": 138,
+  "speed": 7.2,
+  "damage": 14,
+  "skills": [
+    "babylon_skill1",
+    "babylon_skill2",
+    "babylon_skill3"
+  ],
+  "normal_attack": {
+    "id": "babylon_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "babylon_skill1",
+    "name_ja": "法碑",
+    "name_en": "法碑"
+  },
+  "skill_2": {
+    "id": "babylon_skill2",
+    "name_ja": "空中庭",
+    "name_en": "空中庭"
+  },
+  "ultimate": {
+    "id": "babylon_skill3",
+    "name_ja": "大塔",
+    "name_en": "大塔"
+  },
+  "passive": {
+    "id": "babylon_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "敵の技能を一度無効化しやすくする"
+  },
+  "civilization_tags": [
+    "mesopotamia",
+    "MESOPOTAMIA",
+    "ANCIENT",
+    "LEGEND",
+    "LAW"
+  ],
+  "relationships": [],
+  "voice_type": "low",
+  "music_theme": "塔・法・川",
+  "civilization_shift_effect": "砂塵→楔形→聖塔→両河→MESOPOTAMIA DOMAIN",
+  "theme": "塔・法・川",
+  "passive_text": "敵の技能を一度無効化しやすくする",
+  "story": "法が残れば、都はまだある。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "mesopotamia",
+  "land": "mesopotamia",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/mesopotamia/babylon.png",
+  "colors": {
+    "body": [
+      0.14,
+      0.076,
+      0.096
+    ],
+    "emit": [
+      0.88,
+      0.596,
+      0.216
+    ]
+  }
+}

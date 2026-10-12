@@ -1,0 +1,23 @@
+{
+  "id": "void",
+  "code": "VOID",
+  "civ": "void",
+  "launch": false,
+  "name": "忘却",
+  "name_en": "OBLIVION",
+  "members": [
+    "oblivion"
+  ],
+  "features": [
+    "Colorless",
+    "Ruined",
+    "Silent",
+    "Lost Memories"
+  ],
+  "civilization_shift": {
+    "decay": 100
+  },
+  "shift_text": "THE FORGOTTEN WORLD",
+  "banner": "res://assets/characters/_keyart/void.png",
+  "sheet": "res://assets/characters/_sheets/void.png"
+}

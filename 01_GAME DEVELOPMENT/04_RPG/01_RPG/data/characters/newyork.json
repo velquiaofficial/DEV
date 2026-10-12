@@ -1,0 +1,101 @@
+{
+  "id": "newyork",
+  "uid": "newyork_001",
+  "name": "ニューヨーク",
+  "name_ja": "ニューヨーク",
+  "name_en": "NEW YORK",
+  "origin": "NEXUS",
+  "era": "CONTEMPORARY",
+  "civ": "contemporary",
+  "civilization": "CONTEMPORARY",
+  "civilization_id": "contemporary",
+  "relic": "contemporary_relic",
+  "reconstruction": "空白→街灯→交差点→現代都市→CONTEMPORARY DOMAIN",
+  "seed": false,
+  "class": "NEXUS",
+  "role": "ATTACKER",
+  "role_ui": "Attacker",
+  "element": "AMBITION",
+  "weapon": "SKYLINE_EDGE",
+  "height": 170,
+  "appearance": {
+    "hair": "contemporary_hair",
+    "eyes": "newyork_eyes",
+    "costume": "contemporary_nexus"
+  },
+  "stats": {
+    "hp": 923,
+    "attack": 83,
+    "defense": 69,
+    "speed": 72
+  },
+  "hp": 130,
+  "speed": 8.0,
+  "damage": 16,
+  "skills": [
+    "newyork_skill1",
+    "newyork_skill2",
+    "newyork_skill3"
+  ],
+  "normal_attack": {
+    "id": "newyork_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "newyork_skill1",
+    "name_ja": "塔",
+    "name_en": "塔"
+  },
+  "skill_2": {
+    "id": "newyork_skill2",
+    "name_ja": "交差",
+    "name_en": "交差"
+  },
+  "ultimate": {
+    "id": "newyork_skill3",
+    "name_ja": "フロンティア",
+    "name_en": "フロンティア"
+  },
+  "passive": {
+    "id": "newyork_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "攻撃するたびUltimateが貯まる"
+  },
+  "civilization_tags": [
+    "contemporary",
+    "CONTEMPORARY",
+    "CONTEMPORARY",
+    "NEXUS",
+    "AMBITION"
+  ],
+  "relationships": [],
+  "voice_type": "fierce",
+  "music_theme": "野心・垂直都市・前線",
+  "civilization_shift_effect": "空白→街灯→交差点→現代都市→CONTEMPORARY DOMAIN",
+  "theme": "野心・垂直都市・前線",
+  "passive_text": "攻撃するたびUltimateが貯まる",
+  "story": "可能性の先端に立つ。忘れさせない。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "contemporary",
+  "land": "contemporary",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/contemporary/newyork.png",
+  "colors": {
+    "body": [
+      0.04,
+      0.062,
+      0.192
+    ],
+    "emit": [
+      0.47,
+      0.652,
+      0.982
+    ]
+  }
+}

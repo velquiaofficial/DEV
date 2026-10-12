@@ -1,0 +1,4 @@
+[
+  { "id": "lost_memory", "name": "Lost Memory", "hp": 400, "attack": 40, "defense": 20 },
+  { "id": "forgotten_weapon", "name": "文明を失った巨大兵器", "hp": 2400, "attack": 90, "defense": 80 }
+]

@@ -1,0 +1,25 @@
+X:1
+T:黒曜のフレーズ
+C:オリジナル
+M:4/4
+L:1/8
+Q:1/4=160
+K:Am
+P:Aメロ
+"Am" A c c B A G A E | "F" A A G F E F G A | "C" G G A G E D E G | "G" B B A G D E F G |
+w: や み の か た ち だ よ | こ ど う が は し る よ | ほ の お を た も っ て | ま え に い る き み へ
+"Am" A E A c e c A E | "Dm" D F A F D E F A | "E" E ^G B ^G E F E D | "E" B ^G E B E F E E |
+w: こ え じゃ お そ い か ら | お ん ぷ で ひ ら く よ | こ わ く て も い い よ | め を あ げ た ま ま で
+P:Bメロ
+"F" A c c A F G A c | "C" G G E G c B A G | "G" B d d B G A B G | "E" E ^G B e B ^G E D |
+w: い き を の ん で い く | か ぞ え て ふ み こ む | ゆ か が ひ び く よ う | あ し な み そ ろ え て
+"Am" A c e c A G A E | "Dm" F A A F D E F G | "E" ^G B B ^G E F ^G B | "E" e d c B ^G A B E |
+w: む ね の ほ の う が ね | う た に な る ま え に | く ち び る う ご く よ | い ま こ こ で ひ ら け
+P:サビ
+"Am" A c e e c A B c | "F" A A c A F G A c | "C" E G c e c B G E | "G" B d d B G A B d |
+w: や み を き り さ く よ | こ こ ろ の エ ッ ジ で | ひ る ま な い ま ま で | ま え へ ふ み だ そ う
+"Am" e c A c e d c A | "Dm" A A F D F A c A | "E" B ^G E ^G B c B ^G | "E" E ^G B e e d B E |
+w: こ ど う を か さ ね て | か げ を お い こ し て | ひ か り を つ か ん で | フ レ ー ズ を は な て
+P:アウトロ
+"Am" A c e e c A B c | "F" A A c A F G A c | "C" E G c e c B G E | "Am" A8 |
+w: * * * * * * * * | * * * * * * * * | * * * * * * * * | *

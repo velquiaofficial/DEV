@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#07141c">
+  <title>三角テトリス</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect fill='%2307141c' width='32' height='32'/><path fill='%237ee0c6' d='M16 4l12 22H4z'/></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;700&family=Zen+Maru+Gothic:wght@500;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css?v=13">
+</head>
+<body>
+  <div class="sky" aria-hidden="true">
+    <div class="stars"></div>
+    <div class="dune"></div>
+  </div>
+
+  <main class="shell">
+    <section class="panel info">
+      <header>
+        <p class="eyebrow">正三角形の盤</p>
+        <h1>三角テトリス</h1>
+        <p class="lead">三角形4枚か5枚のピースを60度ずつ回して積む。横一列が消えると、上にあった三角が下まで落ちる。</p>
+      </header>
+
+      <div class="stat-grid">
+        <article><span>スコア</span><strong id="score">0</strong></article>
+        <article><span>ベスト</span><strong id="best">0</strong></article>
+        <article><span>レベル</span><strong id="level">1</strong></article>
+        <article><span>列</span><strong id="clears">0</strong></article>
+        <article><span>連鎖</span><strong id="chain">-</strong></article>
+        <article><span>最大</span><strong id="max-chain">-</strong></article>
+      </div>
+
+      <p id="status" class="status">横一列を埋めると消える。</p>
+      <button id="action-btn" type="button">はじめる</button>
+
+      <ul class="keys">
+        <li><kbd>←</kbd><kbd>→</kbd><span>移動</span></li>
+        <li><kbd>↑</kbd><kbd>Z</kbd><span>右回転</span></li>
+        <li><kbd>X</kbd><span>左回転</span></li>
+        <li><kbd>C</kbd><span>ホールド</span></li>
+        <li><kbd>↓</kbd><span>ゆっくり落下</span></li>
+        <li><kbd>Space</kbd><span>一気に落下</span></li>
+        <li><kbd>P</kbd><span>一時停止</span></li>
+      </ul>
+    </section>
+
+    <section class="stage">
+      <div class="bezel">
+        <div class="screen" id="screen">
+          <canvas id="board" width="356" height="778"></canvas>
+          <p id="board-hint" class="board-hint">三角をそろえて列を消そう</p>
+          <div id="banner" class="banner" role="status"></div>
+          <div id="board-layer" class="board-layer" hidden>
+            <p id="layer-kicker" class="kicker"></p>
+            <p id="layer-title" class="layer-title"></p>
+            <p id="layer-sub"></p>
+            <button id="layer-btn" type="button"></button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <aside class="panel queue">
+      <div class="queue-top">
+        <h2>つぎ</h2>
+        <p id="hold" class="hold">ホールド なし</p>
+      </div>
+      <canvas id="next" width="312" height="132"></canvas>
+      <div class="rule">
+        <h2>ピース</h2>
+        <ul class="lore">
+          <li><i data-el="1"></i><span>山</span></li>
+          <li><i data-el="2"></i><span>棒</span></li>
+          <li><i data-el="3"></i><span>鉤</span></li>
+          <li><i data-el="4"></i><span>斜</span></li>
+          <li><i data-el="5"></i><span>槍</span></li>
+          <li><i data-el="6"></i><span>刃</span></li>
+          <li><i data-el="7"></i><span>枝</span></li>
+          <li><i data-el="8"></i><span>凸</span></li>
+          <li><i data-el="9"></i><span>尺</span></li>
+          <li><i data-el="10"></i><span>冠</span></li>
+          <li><i data-el="11"></i><span>板</span></li>
+          <li><i data-el="12"></i><span>梁</span></li>
+          <li><i data-el="13"></i><span>床</span></li>
+        </ul>
+        <p>板・梁・床は横に長く、列を埋めやすい。</p>
+      </div>
+      <button id="sound-btn" type="button" aria-pressed="true">音オン</button>
+    </aside>
+  </main>
+
+  <nav class="touch" aria-label="タッチ操作">
+    <button type="button" data-act="left" aria-label="左へ">←</button>
+    <button type="button" data-act="rot" aria-label="回転">回転</button>
+    <button type="button" data-act="right" aria-label="右へ">→</button>
+    <button type="button" data-act="soft" aria-label="落下">↓</button>
+    <button type="button" data-act="hard" aria-label="一気に落下">落下</button>
+    <button type="button" data-act="hold" aria-label="ホールド">保</button>
+  </nav>
+
+  <script src="game.js?v=13"></script>
+</body>
+</html>

@@ -1,0 +1,101 @@
+{
+  "id": "shanghai",
+  "uid": "shanghai_001",
+  "name": "上海",
+  "name_ja": "上海",
+  "name_en": "SHANGHAI",
+  "origin": "NEXUS",
+  "era": "CONTEMPORARY",
+  "civ": "china",
+  "civilization": "HUAXIA",
+  "civilization_id": "huaxia",
+  "relic": "china_relic",
+  "reconstruction": "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN",
+  "seed": false,
+  "class": "NEXUS",
+  "role": "ATTACKER",
+  "role_ui": "Attacker",
+  "element": "PORT",
+  "weapon": "BUND_LIGHT",
+  "height": 166,
+  "appearance": {
+    "hair": "huaxia_hair",
+    "eyes": "shanghai_eyes",
+    "costume": "huaxia_nexus"
+  },
+  "stats": {
+    "hp": 880,
+    "attack": 83,
+    "defense": 67,
+    "speed": 76
+  },
+  "hp": 124,
+  "speed": 8.4,
+  "damage": 16,
+  "skills": [
+    "shanghai_skill1",
+    "shanghai_skill2",
+    "shanghai_skill3"
+  ],
+  "normal_attack": {
+    "id": "shanghai_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "shanghai_skill1",
+    "name_ja": "外灘",
+    "name_en": "外灘"
+  },
+  "skill_2": {
+    "id": "shanghai_skill2",
+    "name_ja": "層港",
+    "name_en": "層港"
+  },
+  "ultimate": {
+    "id": "shanghai_skill3",
+    "name_ja": "東方の灯",
+    "name_en": "東方の灯"
+  },
+  "passive": {
+    "id": "shanghai_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "攻撃速度が時間とともに上がる"
+  },
+  "civilization_tags": [
+    "china",
+    "HUAXIA",
+    "CONTEMPORARY",
+    "NEXUS",
+    "PORT"
+  ],
+  "relationships": [],
+  "voice_type": "fierce",
+  "music_theme": "港・層・光",
+  "civilization_shift_effect": "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN",
+  "theme": "港・層・光",
+  "passive_text": "攻撃速度が時間とともに上がる",
+  "story": "川が海になる場所で、私は光る。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "huaxia",
+  "land": "huaxia",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/huaxia/shanghai.png",
+  "colors": {
+    "body": [
+      0.5,
+      0.128,
+      0.068
+    ],
+    "emit": [
+      1.0,
+      0.768,
+      0.248
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "mali",
+  "uid": "mali_001",
+  "name": "マリ",
+  "name_ja": "マリ",
+  "name_en": "MALI",
+  "origin": "LEGEND",
+  "era": "MEDIEVAL",
+  "civ": "medieval",
+  "civilization": "MEDIEVAL",
+  "civilization_id": "medieval",
+  "relic": "medieval_relic",
+  "reconstruction": "荒野→城壁→旗→城塞→MEDIEVAL DOMAIN",
+  "seed": false,
+  "class": "LEGEND",
+  "role": "SUPPORT",
+  "role_ui": "Support",
+  "element": "GOLD",
+  "weapon": "GOLDEN_STAFF",
+  "height": 167,
+  "appearance": {
+    "hair": "medieval_hair",
+    "eyes": "mali_eyes",
+    "costume": "medieval_legend"
+  },
+  "stats": {
+    "hp": 880,
+    "attack": 62,
+    "defense": 67,
+    "speed": 68
+  },
+  "hp": 124,
+  "speed": 7.5,
+  "damage": 12,
+  "skills": [
+    "mali_skill1",
+    "mali_skill2",
+    "mali_skill3"
+  ],
+  "normal_attack": {
+    "id": "mali_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "mali_skill1",
+    "name_ja": "黄金",
+    "name_en": "黄金"
+  },
+  "skill_2": {
+    "id": "mali_skill2",
+    "name_ja": "学都",
+    "name_en": "学都"
+  },
+  "ultimate": {
+    "id": "mali_skill3",
+    "name_ja": "砂漠の王",
+    "name_en": "砂漠の王"
+  },
+  "passive": {
+    "id": "mali_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "確保RELICが味方を癒す"
+  },
+  "civilization_tags": [
+    "medieval",
+    "MEDIEVAL",
+    "MEDIEVAL",
+    "LEGEND",
+    "GOLD"
+  ],
+  "relationships": [],
+  "voice_type": "warm",
+  "music_theme": "黄金・学都・砂漠",
+  "civilization_shift_effect": "荒野→城壁→旗→城塞→MEDIEVAL DOMAIN",
+  "theme": "黄金・学都・砂漠",
+  "passive_text": "確保RELICが味方を癒す",
+  "story": "金が流れても、学は残る。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "medieval",
+  "land": "medieval",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/medieval/mali.png",
+  "colors": {
+    "body": [
+      0.24,
+      0.18,
+      0.1
+    ],
+    "emit": [
+      0.82,
+      0.64,
+      0.28
+    ]
+  }
+}

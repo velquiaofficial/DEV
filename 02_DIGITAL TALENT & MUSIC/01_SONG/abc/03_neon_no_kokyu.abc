@@ -1,0 +1,37 @@
+X:1
+T:ネオンの呼吸
+C:オリジナル
+M:4/4
+L:1/8
+Q:1/4=128
+K:Dm
+P:Aメロ
+"Dm" z F A A A G F E | "Bb" z F G B B A G F | "F" z A c A A G F E | "C" z G E G G F E D |
+w: * ま ち の ね い ろ が | * きょ う め い す る よ | * く ち び る か ら ね | * こ え が も れ る よ
+"Dm" z F A A A G F E | "Gm" z G B B B A G F | "Bb" z F A B B c B A | "A" z E ^c A A E D D |
+w: * が ら す ご し に ね | * ひ か り が ふ る よ | * い き を す っ て ね | * う た に か え る よ
+P:Bメロ
+"Bb" z F A B B d c B | "F" z A c c c A G F | "C" z E G G G A G E | "Dm" z F A A A c A F |
+w: * あ し ぶ み し て る | * し ん ご う ま ち さ | * あ お に な る よ ね | * む ね が は や る よ
+"Bb" z B d d d c B A | "F" z A c c c A G F | "C" z G G E E G B G | "A" z E ^c A A E D D |
+w: * か ぞ え て く よ ね | * ひ か り の ほ う へ | * て を ふ っ て く よ | * う た い だ す よ ね
+P:サビ
+"Dm" z A c d d c A F | "Bb" z B d F F d B A | "F" z c A F F G A c | "C" z G G E E D C C |
+w: * こ え を あ わ せ て | * ま ち の こ ど う さ | * わ た し は い る よ | * い き を す る よ ね
+"Dm" z A c d d A F D | "Gm" z B A G G F D D | "Bb" z d c B B A G F | "A" z E ^c A A E D D |
+w: * こ わ れ て も ね え | * う た は の こ る よ | * よ る を こ え て く | * う た い だ そ う よ
+P:ブリッジ
+"Dm" F2 A2 d2 A A | "Bb" B2 A2 G2 F F | "F" A2 c2 A2 F F | "C" G2 A2 G2 E E |
+w: も し も ね え | き え そ う で | で も ま だ ね | う た が あ る
+"Dm" D2 F2 A2 F F | "Gm" G2 A2 B2 A A | "Bb" B2 c2 d2 B B | "A" E2 ^c2 A2 A A |
+w: む ね の お く | ち い さ く ね | ひ び い て る | き こ え る よ
+P:ブリッジ
+"Dm" F2 A2 d2 F F | "Bb" B2 A2 G2 F F | "F" A2 c2 A2 F F | "C" G2 E2 G2 c c |
+w: も う い ち ど | こ え を だ す | よ る の そ ら | こ た え る よ
+"Dm" D2 F2 A2 d d | "Gm" G2 B2 A2 G G | "Bb" B2 d2 c2 B B | "A" E2 ^c2 A2 A A |
+w: わ た し の ね | な ま え を ね | き い て て ね | ほ し い よ ね
+P:アウトロ
+"Dm" z A c d d c A F | "Bb" z B d F F d B A | "F" z c A F F G A c | "C" z G G E E D C C |
+w: * * * * * * * * | * * * * * * * * | * * * * * * * * | * * * * * * * *
+"Dm" z A c d d A F D | "Gm" z B A G G F D D | "Bb" z d c B B A G F | "Dm" D8 |
+w: * * * * * * * * | * * * * * * * * | * * * * * * * * | *

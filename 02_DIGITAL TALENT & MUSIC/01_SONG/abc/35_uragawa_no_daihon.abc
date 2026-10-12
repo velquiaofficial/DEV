@@ -1,0 +1,62 @@
+X:1
+T:裏側の台本
+C:オリジナル
+M:4/4
+L:1/8
+Q:1/4=148
+K:E
+P:Aメロ
+"E" G G A G G F G F | "C#m" E F G F E F G F | "A" A A B A A F A G | "B" B A B A B G A A |
+w: だ い ほ ん の よ は く | セ リ フ が た り な い | き み の な ま え を ね | か き く わ え て い く
+"E" E F G F E F G F | "A" A G A G A F G F | "C#m" G A B A G F A G | "B" B A B A B G A A |
+w: そ で の う ら が わ で | こ え を あ わ せ る よ | そ れ で も よ む か ら | ペ ー ジ が た り な い
+P:Aメロ2
+"E" B c d c B c d c | "C#m" c c d c c B c B | "A" c d e d c c d c | "B" d e f e d c e d |
+w: い ち ま い め は よ る | に ま い め は な ま え | さ ん ま い め ひ か り | よ ん ま い め は き み
+"E" B c d c B B c B | "A" c d d c c B c c | "C#m" c d e d c c d c | "B" d e f e d c e d |
+w: ご ま い め は う た よ | ろ く ま い め こ え が | な な ま い め あ し た | は ち ま い め は こ こ
+P:Aメロ3
+"E" G G A G G F G F | "C#m" E F G F E F G F | "A" A A B A A F A G | "B" B A B A B G A A |
+w: と が き が お お く て | せ り ふ お い か け て | か ん む り が お ち る | そ の ま え に い う よ
+"E" E F G F E F G F | "A" A G A G A F G F | "C#m" G A B A G F A G | "B" B A B A B G A A |
+w: な ま え を よ ぶ せ り | ひ か り が さ し て ね | こ こ ろ の だ い ほ ん | ま だ と じ な い か ら
+P:Bメロ
+"A" c d e d c c d c | "E" B c d c B B c B | "C#m" G B c B G A B A | "B" B c d c B c d c |
+w: そ で の ひ か り で ね | せ り ふ を み な お す | ま ち が っ て も い い | か き な お す か ら ね
+"F#m" A B c B A B c B | "A" c c d c c B c B | "B" d c d c B c d c | "B" B c c B B A B B |
+w: あ し も と ひ び い て | こ え が ま ざ っ て く | う た は だ い ほ ん を | こ え て い く よ る だ
+P:Bメロ2
+"A" c d e d c c d c | "E" B c d c B B c B | "C#m" G B c B G A B A | "B" B c d c B c d c |
+w: ひ か り が お ち て く | せ り ふ が お ち な い | な ま え は お ち な い | き み は わ ら っ て る
+"F#m" A B c B A B c B | "A" c c d c c B c B | "B" d c d c B c d c | "B" B c c B B A B B |
+w: ペ ー ジ の う ら が わ | も う い ち ま い あ る | よ る の だ い ほ ん だ | う た で と じ る か ら
+P:サビ
+"E" e f f e e d e e | "B" f g a g f f g f | "C#m" e e f e e c e d | "A" e f g f e e f e |
+w: だ い ほ ん の よ は く | セ リ フ が た り な い | き み の な ま え を ね | か き く わ え て い く
+"E" B c d c B c d c | "C#m" e f g f e e f e | "A" e e f e e c e d | "B" f g g f f e f f |
+w: そ で の う ら が わ で | こ え を あ わ せ る よ | そ れ で も よ む か ら | ペ ー ジ が た り な い
+P:サビ2
+"E" e f f e e d e e | "B" f g a g f f g f | "C#m" e e f e e c e d | "A" e f g f e e f e |
+w: と が き が お お く て | せ り ふ お い か け て | そ の ま え に い う よ | な ま え を よ ぶ せ り
+"E" B c d c B c d c | "C#m" e f g f e e f e | "A" e e f e e c e d | "B" f g g f f e f f |
+w: ひ か り が さ し て ね | こ こ ろ の だ い ほ ん | ま だ と じ な い か ら | う た は だ い ほ ん を
+P:ブリッジ
+"C#m" G B c B G A B A | "A" E F G F E E F E | "E" G A B A G F A G | "B" B A B A B G A A |
+w: せ り ふ が き れ た ら | こ え で つ な ぐ か ら | な ま え を は さ み て | ひ か り を は さ み て
+"F#m" F G G F F E F F | "C#m" E F G F E F G F | "A" A B B A A G A A | "B" F G A G F F G F |
+w: よ る を は さ み て ね | う た は と ま ら な い | あ し た も こ こ だ よ | こ こ に い る か ら ね
+P:ブリッジ2
+"C#m" G B c B G A B A | "A" E F G F E E F E | "E" G A B A G F A G | "B" B A B A B G A A |
+w: い ち ま い め は よ る | に ま い め は な ま え | さ ん ま い め ひ か り | よ ん ま い め は き み
+"F#m" F G G F F E F F | "C#m" E F G F E F G F | "A" A B B A A G A A | "B" F G A G F F G F |
+w: ご ま い め は う た よ | ろ く ま い め こ え が | な な ま い め あ し た | は ち ま い め は こ こ
+P:Cメロ
+"A" c d e d c c d c | "E" B c d c B B c B | "C#m" G B c B G A B A | "B" B c d c B c d c |
+w: あ し も と ひ び い て | こ え が ま ざ っ て く | こ え て い く よ る だ | せ り ふ が お ち な い
+"F#m" A B c B A B c B | "A" c c d c c B c B | "B" d c d c B c d c | "B" B c c B B A B B |
+w: な ま え は お ち な い | ペ ー ジ の う ら が わ | も う い ち ま い あ る | う た で と じ る か ら
+P:アウトロ
+"E" e f f e e d e e | "B" f g a g f f g f | "C#m" e e f e e c e d | "A" e f g f e e f e |
+w: * * * * * * * * | * * * * * * * * | * * * * * * * * | * * * * * * * *
+"E" B c d c B c d c | "C#m" e f g f e e f e | "A" e e f e e c e d | "E" E8 |
+w: * * * * * * * * | * * * * * * * * | * * * * * * * * | *

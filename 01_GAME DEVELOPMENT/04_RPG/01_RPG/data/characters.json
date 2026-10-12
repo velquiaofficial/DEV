@@ -1,0 +1,13 @@
+[
+  {
+    "id": "amaterasu_001",
+    "name": "天照",
+    "civilization": "japan",
+    "element": "sun",
+    "relic": "yata_mirror",
+    "hp": 1200,
+    "attack": 180,
+    "defense": 100,
+    "skills": ["solar_slash", "sakura_domain", "eternal_sun"]
+  }
+]

@@ -1,0 +1,135 @@
+{
+  "note": "絵を置く場所。paths の順に探し、png / jpg / jpeg / webp のどれでも読む。{id} {nnn} {face} {code} は画面が埋める。差し替えだけなら overrides.json にスロットIDとファイルパスを書く。",
+  "slots": [
+    {
+      "id": "title.bg",
+      "note": "タイトル背景",
+      "paths": ["res://assets/title/bg", "res://assets/world/tokyo_ruins"]
+    },
+    {
+      "id": "title.logo",
+      "note": "タイトルロゴ",
+      "paths": ["res://assets/title/logo"]
+    },
+    {
+      "id": "title.stand",
+      "note": "タイトルの立ち絵。{id} は amaterasu",
+      "paths": ["res://assets/title/stand", "res://assets/characters/profile/{id}", "res://assets/characters/select/{id}"]
+    },
+    {
+      "id": "home.bg",
+      "note": "ホーム背景",
+      "paths": ["res://assets/home/bg", "res://assets/world/tokyo_ruins"]
+    },
+    {
+      "id": "home.stand",
+      "note": "ホームの立ち絵",
+      "paths": ["res://assets/home/stand", "res://assets/characters/profile/{id}", "res://assets/characters/select/{id}"]
+    },
+    {
+      "id": "opening.cut",
+      "note": "オープニングのカット。{nnn} は 001 から 015",
+      "paths": ["res://assets/opening/{nnn}", "res://assets/opening/cuts/{nnn}"]
+    },
+    {
+      "id": "opening.poster",
+      "note": "オープニングのポスター",
+      "paths": ["res://assets/opening/poster/main", "res://assets/opening/015"]
+    },
+    {
+      "id": "character.profile",
+      "note": "キャラ設定画面の絵。ファイル名はキャラID",
+      "paths": ["res://assets/characters/profile/{id}", "res://assets/characters/select/{id}", "res://assets/characters/cards/{id}"]
+    },
+    {
+      "id": "character.emblem",
+      "note": "キャラの紋章",
+      "paths": ["res://assets/characters/emblem/{id}"]
+    },
+    {
+      "id": "character.expr",
+      "note": "表情。amaterasu_talk.png のように ID と face をつなぐ",
+      "paths": ["res://assets/characters/expr/{id}_{face}", "res://assets/characters/expr/{id}"]
+    },
+    {
+      "id": "character.select",
+      "note": "選択絵",
+      "paths": ["res://assets/characters/select/{id}"]
+    },
+    {
+      "id": "character.dock",
+      "note": "戦闘下の顔",
+      "paths": ["res://assets/characters/dock/{id}"]
+    },
+    {
+      "id": "character.battle",
+      "note": "戦闘スプライト",
+      "paths": ["res://assets/characters/battle/{id}"]
+    },
+    {
+      "id": "story.bg",
+      "note": "アーカイブ背景。{id} は章ID、無ければ {nnn} のオープニング",
+      "paths": ["res://assets/story/{id}", "res://assets/opening/{nnn}"]
+    },
+    {
+      "id": "stage.plate",
+      "note": "ステージ背景。{code} は 1_1 のようにハイフンをアンダースコアにする",
+      "paths": ["res://assets/campaign/{code}", "res://assets/stages/{code}"]
+    },
+    {
+      "id": "map.plate",
+      "note": "神域の絵。{id} は文明ID",
+      "paths": ["res://assets/map/{id}"]
+    },
+    {
+      "id": "shop.pickup",
+      "note": "ピックアップ召喚のバナー",
+      "paths": ["res://assets/shop/pickup"]
+    },
+    {
+      "id": "shop.normal",
+      "note": "通常召喚のバナー",
+      "paths": ["res://assets/shop/normal"]
+    },
+    {
+      "id": "shop.event",
+      "note": "発掘のバナー",
+      "paths": ["res://assets/shop/event"]
+    },
+    {
+      "id": "event.banner",
+      "note": "イベント画面のバナー",
+      "paths": ["res://assets/event/banner"]
+    },
+    {
+      "id": "result.win",
+      "note": "勝利画面",
+      "paths": ["res://assets/result/win"]
+    },
+    {
+      "id": "result.lose",
+      "note": "敗北画面",
+      "paths": ["res://assets/result/lose"]
+    },
+    {
+      "id": "battle.backdrop",
+      "note": "戦闘背景",
+      "paths": ["res://assets/battle/backdrop", "res://assets/world/battlefield_tokyo"]
+    },
+    {
+      "id": "battle.lane",
+      "note": "戦闘の地面",
+      "paths": ["res://assets/battle/lane"]
+    },
+    {
+      "id": "ui.frame",
+      "note": "共通の額縁",
+      "paths": ["res://assets/ui/frame"]
+    },
+    {
+      "id": "relic.icon",
+      "note": "遺物アイコン",
+      "paths": ["res://assets/relics/{id}"]
+    }
+  ]
+}

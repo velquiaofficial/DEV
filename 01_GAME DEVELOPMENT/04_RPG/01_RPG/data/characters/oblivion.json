@@ -1,0 +1,101 @@
+{
+  "id": "oblivion",
+  "uid": "oblivion_001",
+  "name": "忘却",
+  "name_ja": "忘却",
+  "name_en": "OBLIVION",
+  "origin": "ANTAGONIST",
+  "era": "VOID",
+  "civ": "void",
+  "civilization": "VOID",
+  "civilization_id": "void",
+  "relic": "void_relic",
+  "reconstruction": "文明を無かったことにする。",
+  "seed": false,
+  "class": "ANTAGONIST",
+  "role": "ATTACKER",
+  "role_ui": "Attacker",
+  "element": "VOID",
+  "weapon": "VOID_HAND",
+  "height": 188,
+  "appearance": {
+    "hair": "void_hair",
+    "eyes": "oblivion_eyes",
+    "costume": "void_antagonist"
+  },
+  "stats": {
+    "hp": 1988,
+    "attack": 83,
+    "defense": 80,
+    "speed": 61
+  },
+  "hp": 280,
+  "speed": 6.8,
+  "damage": 16,
+  "skills": [
+    "oblivion_skill1",
+    "oblivion_skill2",
+    "oblivion_skill3"
+  ],
+  "normal_attack": {
+    "id": "oblivion_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "oblivion_skill1",
+    "name_ja": "抹消",
+    "name_en": "抹消"
+  },
+  "skill_2": {
+    "id": "oblivion_skill2",
+    "name_ja": "奪取",
+    "name_en": "奪取"
+  },
+  "ultimate": {
+    "id": "oblivion_skill3",
+    "name_ja": "無史",
+    "name_en": "無史"
+  },
+  "passive": {
+    "id": "oblivion_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "確保したRELICを腐敗させ、文明を戻す"
+  },
+  "civilization_tags": [
+    "void",
+    "VOID",
+    "VOID",
+    "ANTAGONIST",
+    "VOID"
+  ],
+  "relationships": [],
+  "voice_type": "fierce",
+  "music_theme": "消去・崩壊・時間・虚無",
+  "civilization_shift_effect": "文明を無かったことにする。",
+  "theme": "消去・崩壊・時間・虚無",
+  "passive_text": "確保したRELICを腐敗させ、文明を戻す",
+  "story": "名前を失えば、世界は最初から無かった。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": false,
+  "belt": "void",
+  "land": "void",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/void/oblivion.png",
+  "colors": {
+    "body": [
+      0.07,
+      0.07,
+      0.09
+    ],
+    "emit": [
+      0.7,
+      0.08,
+      0.16
+    ]
+  }
+}

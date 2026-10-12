@@ -1,0 +1,101 @@
+{
+  "id": "amsterdam",
+  "uid": "amsterdam_001",
+  "name": "アムステルダム",
+  "name_ja": "アムステルダム",
+  "name_en": "AMSTERDAM",
+  "origin": "LEGACY",
+  "era": "EARLY MODERN",
+  "civ": "modern",
+  "civilization": "MODERN",
+  "civilization_id": "modern",
+  "relic": "modern_relic",
+  "reconstruction": "煤煙→汽笛→並木→近代都市→MODERN DOMAIN",
+  "seed": false,
+  "class": "LEGACY",
+  "role": "TACTICIAN",
+  "role_ui": "Tactician",
+  "element": "CANAL",
+  "weapon": "CANAL_LEDGER",
+  "height": 160,
+  "appearance": {
+    "hair": "modern_hair",
+    "eyes": "amsterdam_eyes",
+    "costume": "modern_legacy"
+  },
+  "stats": {
+    "hp": 852,
+    "attack": 68,
+    "defense": 66,
+    "speed": 70
+  },
+  "hp": 120,
+  "speed": 7.8,
+  "damage": 13,
+  "skills": [
+    "amsterdam_skill1",
+    "amsterdam_skill2",
+    "amsterdam_skill3"
+  ],
+  "normal_attack": {
+    "id": "amsterdam_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "amsterdam_skill1",
+    "name_ja": "運河",
+    "name_en": "運河"
+  },
+  "skill_2": {
+    "id": "amsterdam_skill2",
+    "name_ja": "市場",
+    "name_en": "市場"
+  },
+  "ultimate": {
+    "id": "amsterdam_skill3",
+    "name_ja": "造船",
+    "name_en": "造船"
+  },
+  "passive": {
+    "id": "amsterdam_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "水際の捕獲が速い"
+  },
+  "civilization_tags": [
+    "modern",
+    "MODERN",
+    "EARLY_MODERN",
+    "LEGACY",
+    "CANAL"
+  ],
+  "relationships": [],
+  "voice_type": "measured",
+  "music_theme": "運河・市場・造船",
+  "civilization_shift_effect": "煤煙→汽笛→並木→近代都市→MODERN DOMAIN",
+  "theme": "運河・市場・造船",
+  "passive_text": "水際の捕獲が速い",
+  "story": "水の上の都は、沈まない計算をする。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "modern",
+  "land": "modern",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/modern/amsterdam.png",
+  "colors": {
+    "body": [
+      0.278,
+      0.267,
+      0.229
+    ],
+    "emit": [
+      0.777,
+      0.786,
+      0.769
+    ]
+  }
+}

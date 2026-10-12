@@ -1,0 +1,35 @@
+{
+  "id": "mesopotamia",
+  "code": "MESOPOTAMIA",
+  "civ": "mesopotamia",
+  "launch": true,
+  "name": "メソポタミア",
+  "name_en": "MESOPOTAMIA",
+  "members": [
+    "ishtar",
+    "sumer",
+    "babylon",
+    "persia",
+    "uruk",
+    "ur",
+    "nineveh",
+    "assyria",
+    "palmyra",
+    "ctesiphon"
+  ],
+  "features": [
+    "Ziggurat",
+    "Cuneiform",
+    "Gate",
+    "River",
+    "Garden",
+    "Clay Tablet"
+  ],
+  "civilization_shift": {
+    "hp": 12,
+    "control": 8
+  },
+  "shift_text": "砂塵→楔形→聖塔→両河→MESOPOTAMIA DOMAIN",
+  "banner": "res://assets/characters/_keyart/mesopotamia.png",
+  "sheet": "res://assets/characters/_sheets/mesopotamia.png"
+}

@@ -1,0 +1,101 @@
+{
+  "id": "mexico",
+  "uid": "mexico_001",
+  "name": "メキシコ",
+  "name_ja": "メキシコ",
+  "name_en": "MEXICO",
+  "origin": "NEXUS",
+  "era": "CONTEMPORARY",
+  "civ": "contemporary",
+  "civilization": "CONTEMPORARY",
+  "civilization_id": "contemporary",
+  "relic": "contemporary_relic",
+  "reconstruction": "空白→街灯→交差点→現代都市→CONTEMPORARY DOMAIN",
+  "seed": false,
+  "class": "NEXUS",
+  "role": "TACTICIAN",
+  "role_ui": "Tactician",
+  "element": "LAYER",
+  "weapon": "MURAL_SEAL",
+  "height": 162,
+  "appearance": {
+    "hair": "contemporary_hair",
+    "eyes": "mexico_eyes",
+    "costume": "contemporary_nexus"
+  },
+  "stats": {
+    "hp": 909,
+    "attack": 68,
+    "defense": 68,
+    "speed": 71
+  },
+  "hp": 128,
+  "speed": 7.9,
+  "damage": 13,
+  "skills": [
+    "mexico_skill1",
+    "mexico_skill2",
+    "mexico_skill3"
+  ],
+  "normal_attack": {
+    "id": "mexico_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "mexico_skill1",
+    "name_ja": "壁画",
+    "name_en": "壁画"
+  },
+  "skill_2": {
+    "id": "mexico_skill2",
+    "name_ja": "層都",
+    "name_en": "層都"
+  },
+  "ultimate": {
+    "id": "mexico_skill3",
+    "name_ja": "高原",
+    "name_en": "高原"
+  },
+  "passive": {
+    "id": "mexico_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "確保文明が多いほど計画が速い"
+  },
+  "civilization_tags": [
+    "contemporary",
+    "CONTEMPORARY",
+    "CONTEMPORARY",
+    "NEXUS",
+    "LAYER"
+  ],
+  "relationships": [],
+  "voice_type": "measured",
+  "music_theme": "層都・壁画・高原",
+  "civilization_shift_effect": "空白→街灯→交差点→現代都市→CONTEMPORARY DOMAIN",
+  "theme": "層都・壁画・高原",
+  "passive_text": "確保文明が多いほど計画が速い",
+  "story": "古い絵の上に、新しい都が重なる。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "contemporary",
+  "land": "contemporary",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/contemporary/mexico.png",
+  "colors": {
+    "body": [
+      0.17,
+      0.152,
+      0.132
+    ],
+    "emit": [
+      0.62,
+      0.742,
+      0.922
+    ]
+  }
+}

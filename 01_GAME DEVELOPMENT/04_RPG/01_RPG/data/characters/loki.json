@@ -1,0 +1,101 @@
+{
+  "id": "loki",
+  "uid": "loki_001",
+  "name": "ロキ",
+  "name_ja": "ロキ",
+  "name_en": "LOKI",
+  "origin": "MYTH",
+  "era": "MYTH",
+  "civ": "norse",
+  "civilization": "NORSE",
+  "civilization_id": "norse",
+  "relic": "world_tree_shard",
+  "reconstruction": "霧の森とルーンが東京を覆う。",
+  "seed": false,
+  "class": "MYTH",
+  "role": "ASSASSIN",
+  "role_ui": "Assassin",
+  "element": "FIRE",
+  "weapon": "TRICK_DAGGER",
+  "height": 169,
+  "appearance": {
+    "hair": "norse_hair",
+    "eyes": "loki_eyes",
+    "costume": "norse_myth"
+  },
+  "stats": {
+    "hp": 738,
+    "attack": 83,
+    "defense": 63,
+    "speed": 83
+  },
+  "hp": 104,
+  "speed": 9.2,
+  "damage": 16,
+  "skills": [
+    "loki_skill1",
+    "loki_skill2",
+    "loki_skill3"
+  ],
+  "normal_attack": {
+    "id": "loki_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "loki_skill1",
+    "name_ja": "偽名",
+    "name_en": "偽名"
+  },
+  "skill_2": {
+    "id": "loki_skill2",
+    "name_ja": "変化",
+    "name_en": "変化"
+  },
+  "ultimate": {
+    "id": "loki_skill3",
+    "name_ja": "終火",
+    "name_en": "終火"
+  },
+  "passive": {
+    "id": "loki_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "技能後に移動が速くなる"
+  },
+  "civilization_tags": [
+    "norse",
+    "NORSE",
+    "MYTH",
+    "MYTH",
+    "FIRE"
+  ],
+  "relationships": [],
+  "voice_type": "quiet",
+  "music_theme": "策略・変化・火",
+  "civilization_shift_effect": "霧→ルーン→神木→虹橋→NORSE DOMAIN",
+  "theme": "策略・変化・火",
+  "passive_text": "技能後に移動が速くなる",
+  "story": "名前をずらすことも、戦いだ。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "norse",
+  "land": "norse",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/norse/loki.png",
+  "colors": {
+    "body": [
+      0.172,
+      0.155,
+      0.203
+    ],
+    "emit": [
+      0.942,
+      0.545,
+      0.703
+    ]
+  }
+}

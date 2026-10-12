@@ -1,0 +1,101 @@
+{
+  "id": "ryugu",
+  "uid": "ryugu_001",
+  "name": "龍宮",
+  "name_ja": "龍宮",
+  "name_en": "RYUGU",
+  "origin": "LEGEND",
+  "era": "MYTH",
+  "civ": "japan",
+  "civilization": "YAMATO",
+  "civilization_id": "yamato",
+  "relic": "yata_mirror",
+  "reconstruction": "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。",
+  "seed": false,
+  "class": "LEGEND",
+  "role": "CONTROLLER",
+  "role_ui": "Controller",
+  "element": "TIDE",
+  "weapon": "TIDE_ORB",
+  "height": 162,
+  "appearance": {
+    "hair": "yamato_hair",
+    "eyes": "ryugu_eyes",
+    "costume": "yamato_legend"
+  },
+  "stats": {
+    "hp": 866,
+    "attack": 62,
+    "defense": 67,
+    "speed": 68
+  },
+  "hp": 122,
+  "speed": 7.6,
+  "damage": 12,
+  "skills": [
+    "ryugu_skill1",
+    "ryugu_skill2",
+    "ryugu_skill3"
+  ],
+  "normal_attack": {
+    "id": "ryugu_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "ryugu_skill1",
+    "name_ja": "潮宮",
+    "name_en": "潮宮"
+  },
+  "skill_2": {
+    "id": "ryugu_skill2",
+    "name_ja": "乙姫",
+    "name_en": "乙姫"
+  },
+  "ultimate": {
+    "id": "ryugu_skill3",
+    "name_ja": "龍宮城",
+    "name_en": "龍宮城"
+  },
+  "passive": {
+    "id": "ryugu_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "水際のRELICに強く干渉する"
+  },
+  "civilization_tags": [
+    "japan",
+    "YAMATO",
+    "MYTH",
+    "LEGEND",
+    "TIDE"
+  ],
+  "relationships": [],
+  "voice_type": "low",
+  "music_theme": "海宮・潮・異界",
+  "civilization_shift_effect": "廃墟→光→桜→鳥居→神社→神木→YAMATO DOMAIN",
+  "theme": "海宮・潮・異界",
+  "passive_text": "水際のRELICに強く干渉する",
+  "story": "海の底に、まだ都がある。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "yamato",
+  "land": "yamato",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/yamato/ryugu.png",
+  "colors": {
+    "body": [
+      0.98,
+      0.954,
+      0.864
+    ],
+    "emit": [
+      1.0,
+      0.844,
+      0.334
+    ]
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "ワードウルフ",
+  "short_name": "ワードウルフ",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#14171f",
+  "theme_color": "#14171f",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "andalus",
+  "uid": "andalus_001",
+  "name": "アンダルス",
+  "name_ja": "アンダルス",
+  "name_en": "ANDALUS",
+  "origin": "LEGACY",
+  "era": "MEDIEVAL",
+  "civ": "medieval",
+  "civilization": "MEDIEVAL",
+  "civilization_id": "medieval",
+  "relic": "medieval_relic",
+  "reconstruction": "荒野→城壁→旗→城塞→MEDIEVAL DOMAIN",
+  "seed": false,
+  "class": "LEGACY",
+  "role": "SUPPORT",
+  "role_ui": "Support",
+  "element": "STAR",
+  "weapon": "GARDEN_ASTROLABE",
+  "height": 160,
+  "appearance": {
+    "hair": "medieval_hair",
+    "eyes": "andalus_eyes",
+    "costume": "medieval_legacy"
+  },
+  "stats": {
+    "hp": 838,
+    "attack": 62,
+    "defense": 66,
+    "speed": 70
+  },
+  "hp": 118,
+  "speed": 7.8,
+  "damage": 12,
+  "skills": [
+    "andalus_skill1",
+    "andalus_skill2",
+    "andalus_skill3"
+  ],
+  "normal_attack": {
+    "id": "andalus_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "andalus_skill1",
+    "name_ja": "庭園",
+    "name_en": "庭園"
+  },
+  "skill_2": {
+    "id": "andalus_skill2",
+    "name_ja": "星学",
+    "name_en": "星学"
+  },
+  "ultimate": {
+    "id": "andalus_skill3",
+    "name_ja": "共存",
+    "name_en": "共存"
+  },
+  "passive": {
+    "id": "andalus_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "異なる土地の味方がいると回復"
+  },
+  "civilization_tags": [
+    "medieval",
+    "MEDIEVAL",
+    "MEDIEVAL",
+    "LEGACY",
+    "STAR"
+  ],
+  "relationships": [],
+  "voice_type": "warm",
+  "music_theme": "庭園・星学・共存",
+  "civilization_shift_effect": "荒野→城壁→旗→城塞→MEDIEVAL DOMAIN",
+  "theme": "庭園・星学・共存",
+  "passive_text": "異なる土地の味方がいると回復",
+  "story": "複数の名が同時に生きた都。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "medieval",
+  "land": "medieval",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/medieval/andalus.png",
+  "colors": {
+    "body": [
+      0.195,
+      0.153,
+      0.118
+    ],
+    "emit": [
+      0.775,
+      0.613,
+      0.298
+    ]
+  }
+}

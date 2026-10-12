@@ -1,0 +1,101 @@
+{
+  "id": "ottoman",
+  "uid": "ottoman_001",
+  "name": "オスマン",
+  "name_ja": "オスマン",
+  "name_en": "OTTOMAN",
+  "origin": "LEGEND",
+  "era": "EARLY MODERN",
+  "civ": "rome",
+  "civilization": "ROME",
+  "civilization_id": "rome",
+  "relic": "rome_relic",
+  "reconstruction": "瓦礫→石畳→凱旋門→街道→ROME DOMAIN",
+  "seed": false,
+  "class": "LEGEND",
+  "role": "CONTROLLER",
+  "role_ui": "Controller",
+  "element": "CRESCENT",
+  "weapon": "CRESCENT_GUN",
+  "height": 169,
+  "appearance": {
+    "hair": "rome_hair",
+    "eyes": "ottoman_eyes",
+    "costume": "rome_legend"
+  },
+  "stats": {
+    "hp": 1037,
+    "attack": 73,
+    "defense": 72,
+    "speed": 63
+  },
+  "hp": 146,
+  "speed": 7.0,
+  "damage": 14,
+  "skills": [
+    "ottoman_skill1",
+    "ottoman_skill2",
+    "ottoman_skill3"
+  ],
+  "normal_attack": {
+    "id": "ottoman_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "ottoman_skill1",
+    "name_ja": "半月",
+    "name_en": "半月"
+  },
+  "skill_2": {
+    "id": "ottoman_skill2",
+    "name_ja": "帝都",
+    "name_en": "帝都"
+  },
+  "ultimate": {
+    "id": "ottoman_skill3",
+    "name_ja": "砲門",
+    "name_en": "砲門"
+  },
+  "passive": {
+    "id": "ottoman_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "確保したRELICの喪失が遅い"
+  },
+  "civilization_tags": [
+    "rome",
+    "ROME",
+    "EARLY_MODERN",
+    "LEGEND",
+    "CRESCENT"
+  ],
+  "relationships": [],
+  "voice_type": "low",
+  "music_theme": "帝都・半月・砲",
+  "civilization_shift_effect": "瓦礫→石畳→凱旋門→街道→ROME DOMAIN",
+  "theme": "帝都・半月・砲",
+  "passive_text": "確保したRELICの喪失が遅い",
+  "story": "三つの名を持つ都は、消えにくい。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "rome",
+  "land": "rome",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/rome/ottoman.png",
+  "colors": {
+    "body": [
+      0.684,
+      0.158,
+      0.114
+    ],
+    "emit": [
+      0.964,
+      0.758,
+      0.254
+    ]
+  }
+}

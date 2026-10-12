@@ -1,0 +1,32 @@
+[
+  {
+    "id": "yata_mirror",
+    "name": "八咫鏡",
+    "civilization": "japan",
+    "reconstruction": "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。"
+  },
+  {
+    "id": "lost_city_aegis",
+    "name": "失われた都市の盾",
+    "civilization": "greece",
+    "reconstruction": "都市が白い大理石の神殿都市へ変化する。"
+  },
+  {
+    "id": "judgment_scale",
+    "name": "審判の秤",
+    "civilization": "egypt",
+    "reconstruction": "砂と黄金に覆われた死者の都市になる。"
+  },
+  {
+    "id": "venus_star",
+    "name": "金星章",
+    "civilization": "mesopotamia",
+    "reconstruction": "古代都市の門と星の王権が地上へ戻る。"
+  },
+  {
+    "id": "shadow_spear",
+    "name": "影の槍",
+    "civilization": "celtic",
+    "reconstruction": "霧と異界の戦士領域が重なる。"
+  }
+]

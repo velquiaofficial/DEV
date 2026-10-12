@@ -1,0 +1,103 @@
+{
+  "id": "scathach",
+  "parts": [
+    {
+      "name": "hair",
+      "file": "hair.png",
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "box": [
+        95,
+        4,
+        723,
+        431
+      ]
+    },
+    {
+      "name": "face",
+      "file": "face.png",
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "box": [
+        245,
+        116,
+        573,
+        476
+      ]
+    },
+    {
+      "name": "eyes",
+      "file": "eyes.png",
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "box": [
+        260,
+        184,
+        558,
+        319
+      ]
+    },
+    {
+      "name": "mouth",
+      "file": "mouth.png",
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "box": [
+        334,
+        319,
+        484,
+        431
+      ]
+    },
+    {
+      "name": "body",
+      "file": "body.png",
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "box": [
+        170,
+        409,
+        648,
+        1107
+      ]
+    },
+    {
+      "name": "arm_l",
+      "file": "arm_l.png",
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "box": [
+        36,
+        431,
+        275,
+        994
+      ]
+    },
+    {
+      "name": "arm_r",
+      "file": "arm_r.png",
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "box": [
+        543,
+        431,
+        783,
+        994
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": "ishtar",
+  "uid": "ishtar_001",
+  "name": "イシュタル",
+  "name_ja": "イシュタル",
+  "name_en": "ISHTAR",
+  "origin": "DIVINE",
+  "era": "ANCIENT",
+  "civ": "mesopotamia",
+  "civilization": "MESOPOTAMIA",
+  "civilization_id": "mesopotamia",
+  "relic": "venus_star",
+  "reconstruction": "古代都市の門と星の王権が地上へ戻る。",
+  "seed": true,
+  "class": "DIVINE",
+  "role": "ATTACKER",
+  "role_ui": "Attacker",
+  "element": "VENUS",
+  "weapon": "VENUS_LION",
+  "height": 166,
+  "appearance": {
+    "hair": "mesopotamia_hair",
+    "eyes": "ishtar_eyes",
+    "costume": "mesopotamia_divine"
+  },
+  "stats": {
+    "hp": 923,
+    "attack": 83,
+    "defense": 69,
+    "speed": 73
+  },
+  "hp": 130,
+  "speed": 8.1,
+  "damage": 16,
+  "skills": [
+    "ishtar_skill1",
+    "ishtar_skill2",
+    "ishtar_skill3"
+  ],
+  "normal_attack": {
+    "id": "ishtar_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "ishtar_skill1",
+    "name_ja": "金星",
+    "name_en": "金星"
+  },
+  "skill_2": {
+    "id": "ishtar_skill2",
+    "name_ja": "愛戦",
+    "name_en": "愛戦"
+  },
+  "ultimate": {
+    "id": "ishtar_skill3",
+    "name_ja": "門の獅子",
+    "name_en": "門の獅子"
+  },
+  "passive": {
+    "id": "ishtar_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "攻撃するたびUltimateが貯まる"
+  },
+  "civilization_tags": [
+    "mesopotamia",
+    "MESOPOTAMIA",
+    "ANCIENT",
+    "DIVINE",
+    "VENUS"
+  ],
+  "relationships": [
+    "sumer",
+    "babylon",
+    "uruk"
+  ],
+  "voice_type": "fierce",
+  "music_theme": "金星・愛・戦争",
+  "civilization_shift_effect": "砂塵→楔形→聖塔→両河→MESOPOTAMIA DOMAIN",
+  "theme": "金星・愛・戦争",
+  "passive_text": "攻撃するたびUltimateが貯まる",
+  "story": "愛も戦いも、同じ門を通る。",
+  "founder": false,
+  "implementation": "PLAYABLE",
+  "playable": true,
+  "belt": "mesopotamia",
+  "land": "mesopotamia",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/mesopotamia/ishtar.png",
+  "colors": {
+    "body": [
+      0.1,
+      0.052,
+      0.112
+    ],
+    "emit": [
+      0.84,
+      0.572,
+      0.232
+    ]
+  }
+}

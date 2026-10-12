@@ -1,0 +1,66 @@
+{
+  "title": "永結のレリクシア",
+  "subtitle": "PROJECT: AETERNA",
+  "duration": 30,
+  "shots": [
+    {
+      "scene": 1,
+      "start": 0,
+      "end": 3,
+      "map": "TokyoRuins",
+      "camera": "Camera_A",
+      "weather": "cloudy",
+      "note": "色を失った東京。風のみ。"
+    },
+    {
+      "scene": 2,
+      "start": 3,
+      "end": 6,
+      "id": "AmaterasuAwakening",
+      "note": "天照の目が開く。瞳に太陽紋章。"
+    },
+    {
+      "scene": 3,
+      "start": 6,
+      "end": 10,
+      "id": "RelicActivation",
+      "note": "八咫鏡が浮遊。古代文字。"
+    },
+    {
+      "scene": 4,
+      "start": 10,
+      "end": 15,
+      "id": "MemoryWave",
+      "note": "廃墟→鳥居→桜→神域"
+    },
+    {
+      "scene": 5,
+      "start": 15,
+      "end": 20,
+      "id": "YamatoShift",
+      "note": "東京の半分が日本神話文明へ"
+    },
+    {
+      "scene": 6,
+      "start": 20,
+      "end": 24,
+      "id": "AthenaArrival",
+      "note": "アテナ降臨。ギリシャ都市化。"
+    },
+    {
+      "scene": 7,
+      "start": 24,
+      "end": 27,
+      "id": "CivilizationCollision",
+      "note": "二つの文明領域が接触"
+    },
+    {
+      "scene": 8,
+      "start": 27,
+      "end": 30,
+      "id": "TitleReveal",
+      "note": "永結のレリクシア"
+    }
+  ],
+  "tagline": "人類の記憶は、少女となって永遠を戦う。"
+}

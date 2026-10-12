@@ -1,0 +1,101 @@
+{
+  "id": "lunar",
+  "uid": "lunar_001",
+  "name": "月面",
+  "name_ja": "月面",
+  "name_en": "LUNAR",
+  "origin": "NEXUS",
+  "era": "FUTURE",
+  "civ": "future",
+  "civilization": "FUTURE",
+  "civilization_id": "future",
+  "relic": "memory_core",
+  "reconstruction": "失われたネットワークが回路として蘇る。",
+  "seed": false,
+  "class": "NEXUS",
+  "role": "DEFENDER",
+  "role_ui": "Defender",
+  "element": "MOON",
+  "weapon": "SILENT_DOME",
+  "height": 161,
+  "appearance": {
+    "hair": "future_hair",
+    "eyes": "lunar_eyes",
+    "costume": "future_nexus"
+  },
+  "stats": {
+    "hp": 1065,
+    "attack": 62,
+    "defense": 73,
+    "speed": 62
+  },
+  "hp": 150,
+  "speed": 6.9,
+  "damage": 12,
+  "skills": [
+    "lunar_skill1",
+    "lunar_skill2",
+    "lunar_skill3"
+  ],
+  "normal_attack": {
+    "id": "lunar_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "lunar_skill1",
+    "name_ja": "月面",
+    "name_en": "月面"
+  },
+  "skill_2": {
+    "id": "lunar_skill2",
+    "name_ja": "静都",
+    "name_en": "静都"
+  },
+  "ultimate": {
+    "id": "lunar_skill3",
+    "name_ja": "観測塔",
+    "name_en": "観測塔"
+  },
+  "passive": {
+    "id": "lunar_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "上側にいると非常に硬い"
+  },
+  "civilization_tags": [
+    "future",
+    "FUTURE",
+    "FUTURE",
+    "NEXUS",
+    "MOON"
+  ],
+  "relationships": [],
+  "voice_type": "steadfast",
+  "music_theme": "月都市・静・観測",
+  "civilization_shift_effect": "沈黙→軌道→記憶核→FUTURE DOMAIN",
+  "theme": "月都市・静・観測",
+  "passive_text": "上側にいると非常に硬い",
+  "story": "地上を忘れないための、もう一つの夜。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "future",
+  "land": "future",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/future/lunar.png",
+  "colors": {
+    "body": [
+      0.088,
+      0.087,
+      0.089
+    ],
+    "emit": [
+      0.808,
+      0.837,
+      0.939
+    ]
+  }
+}

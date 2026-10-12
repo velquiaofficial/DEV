@@ -1,0 +1,101 @@
+{
+  "id": "hachiman",
+  "uid": "hachiman_001",
+  "name": "八幡",
+  "name_ja": "八幡",
+  "name_en": "HACHIMAN",
+  "origin": "LEGEND",
+  "era": "MYTH",
+  "civ": "japan",
+  "civilization": "YAMATO",
+  "civilization_id": "yamato",
+  "relic": "yata_mirror",
+  "reconstruction": "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。",
+  "seed": false,
+  "class": "LEGEND",
+  "role": "DEFENDER",
+  "role_ui": "Defender",
+  "element": "WARD",
+  "weapon": "WAR_BOW",
+  "height": 169,
+  "appearance": {
+    "hair": "yamato_hair",
+    "eyes": "hachiman_eyes",
+    "costume": "yamato_legend"
+  },
+  "stats": {
+    "hp": 1051,
+    "attack": 68,
+    "defense": 73,
+    "speed": 63
+  },
+  "hp": 148,
+  "speed": 7.0,
+  "damage": 13,
+  "skills": [
+    "hachiman_skill1",
+    "hachiman_skill2",
+    "hachiman_skill3"
+  ],
+  "normal_attack": {
+    "id": "hachiman_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "hachiman_skill1",
+    "name_ja": "八幡弓",
+    "name_en": "八幡弓"
+  },
+  "skill_2": {
+    "id": "hachiman_skill2",
+    "name_ja": "守護",
+    "name_en": "守護"
+  },
+  "ultimate": {
+    "id": "hachiman_skill3",
+    "name_ja": "旗神",
+    "name_en": "旗神"
+  },
+  "passive": {
+    "id": "hachiman_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "味方の被弾を一度分散する"
+  },
+  "civilization_tags": [
+    "japan",
+    "YAMATO",
+    "MYTH",
+    "LEGEND",
+    "WARD"
+  ],
+  "relationships": [],
+  "voice_type": "steadfast",
+  "music_theme": "弓・守護・軍神",
+  "civilization_shift_effect": "廃墟→光→桜→鳥居→神社→神木→YAMATO DOMAIN",
+  "theme": "弓・守護・軍神",
+  "passive_text": "味方の被弾を一度分散する",
+  "story": "守る名が残れば、戦いも残る。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "yamato",
+  "land": "yamato",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/yamato/hachiman.png",
+  "colors": {
+    "body": [
+      0.95,
+      0.936,
+      0.876
+    ],
+    "emit": [
+      1.0,
+      0.826,
+      0.346
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+[
+  {
+    "from": "amaterasu",
+    "to": "tsukuyomi",
+    "type": "memory_link"
+  },
+  {
+    "from": "amaterasu",
+    "to": "susanoo",
+    "type": "memory_link"
+  },
+  {
+    "from": "amaterasu",
+    "to": "edo",
+    "type": "memory_link"
+  },
+  {
+    "from": "amaterasu",
+    "to": "tokyo",
+    "type": "memory_link"
+  },
+  {
+    "from": "amaterasu",
+    "to": "future_tokyo",
+    "type": "memory_link"
+  },
+  {
+    "from": "amaterasu",
+    "to": "athena",
+    "type": "memory_link"
+  },
+  {
+    "from": "amaterasu",
+    "to": "anubis",
+    "type": "memory_link"
+  },
+  {
+    "from": "edo",
+    "to": "amaterasu",
+    "type": "memory_link"
+  },
+  {
+    "from": "edo",
+    "to": "tokyo",
+    "type": "memory_link"
+  },
+  {
+    "from": "edo",
+    "to": "osaka",
+    "type": "memory_link"
+  },
+  {
+    "from": "edo",
+    "to": "nagasaki",
+    "type": "memory_link"
+  },
+  {
+    "from": "tokyo",
+    "to": "amaterasu",
+    "type": "memory_link"
+  },
+  {
+    "from": "tokyo",
+    "to": "edo",
+    "type": "memory_link"
+  },
+  {
+    "from": "tokyo",
+    "to": "future_tokyo",
+    "type": "memory_link"
+  },
+  {
+    "from": "tokyo",
+    "to": "yokohama",
+    "type": "memory_link"
+  },
+  {
+    "from": "tokyo",
+    "to": "meiji",
+    "type": "memory_link"
+  },
+  {
+    "from": "future_tokyo",
+    "to": "tokyo",
+    "type": "memory_link"
+  },
+  {
+    "from": "future_tokyo",
+    "to": "amaterasu",
+    "type": "memory_link"
+  },
+  {
+    "from": "future_tokyo",
+    "to": "yamato",
+    "type": "memory_link"
+  },
+  {
+    "from": "future_tokyo",
+    "to": "aeterna",
+    "type": "memory_link"
+  },
+  {
+    "from": "athena",
+    "to": "roma",
+    "type": "memory_link"
+  },
+  {
+    "from": "athena",
+    "to": "byzantium",
+    "type": "memory_link"
+  },
+  {
+    "from": "athena",
+    "to": "sparta",
+    "type": "memory_link"
+  },
+  {
+    "from": "athena",
+    "to": "apollo",
+    "type": "memory_link"
+  },
+  {
+    "from": "athena",
+    "to": "amaterasu",
+    "type": "memory_link"
+  },
+  {
+    "from": "roma",
+    "to": "athena",
+    "type": "memory_link"
+  },
+  {
+    "from": "roma",
+    "to": "byzantium",
+    "type": "memory_link"
+  },
+  {
+    "from": "roma",
+    "to": "venice",
+    "type": "memory_link"
+  },
+  {
+    "from": "roma",
+    "to": "carthage",
+    "type": "memory_link"
+  },
+  {
+    "from": "isis",
+    "to": "anubis",
+    "type": "memory_link"
+  },
+  {
+    "from": "isis",
+    "to": "ra",
+    "type": "memory_link"
+  },
+  {
+    "from": "isis",
+    "to": "hathor",
+    "type": "memory_link"
+  },
+  {
+    "from": "anubis",
+    "to": "isis",
+    "type": "memory_link"
+  },
+  {
+    "from": "anubis",
+    "to": "ra",
+    "type": "memory_link"
+  },
+  {
+    "from": "anubis",
+    "to": "amaterasu",
+    "type": "memory_link"
+  },
+  {
+    "from": "xishi",
+    "to": "hangzhou",
+    "type": "memory_link"
+  },
+  {
+    "from": "xishi",
+    "to": "luoyang",
+    "type": "memory_link"
+  },
+  {
+    "from": "xishi",
+    "to": "changan",
+    "type": "memory_link"
+  },
+  {
+    "from": "xishi",
+    "to": "nuwa",
+    "type": "memory_link"
+  },
+  {
+    "from": "ishtar",
+    "to": "sumer",
+    "type": "memory_link"
+  },
+  {
+    "from": "ishtar",
+    "to": "babylon",
+    "type": "memory_link"
+  },
+  {
+    "from": "ishtar",
+    "to": "uruk",
+    "type": "memory_link"
+  },
+  {
+    "from": "scathach",
+    "to": "amaterasu",
+    "type": "memory_link"
+  },
+  {
+    "from": "scathach",
+    "to": "athena",
+    "type": "memory_link"
+  }
+]

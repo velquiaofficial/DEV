@@ -1,0 +1,104 @@
+{
+  "id": "scathach",
+  "uid": "scathach_001",
+  "name": "スカアハ",
+  "name_ja": "スカアハ",
+  "name_en": "SCATHACH",
+  "origin": "LEGEND",
+  "era": "MYTH",
+  "civ": "celtic",
+  "civilization": "CELTIC",
+  "civilization_id": "celtic",
+  "relic": "shadow_spear",
+  "reconstruction": "霧と異界の戦士領域が重なる。",
+  "seed": true,
+  "class": "LEGEND",
+  "role": "ATTACKER",
+  "role_ui": "Attacker",
+  "element": "SHADOW",
+  "weapon": "SHADOW_SPEAR",
+  "height": 171,
+  "appearance": {
+    "hair": "celtic_hair",
+    "eyes": "scathach_eyes",
+    "costume": "celtic_legend"
+  },
+  "stats": {
+    "hp": 909,
+    "attack": 88,
+    "defense": 68,
+    "speed": 79
+  },
+  "hp": 128,
+  "speed": 8.8,
+  "damage": 17,
+  "skills": [
+    "scathach_skill1",
+    "scathach_skill2",
+    "scathach_skill3"
+  ],
+  "normal_attack": {
+    "id": "scathach_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "scathach_skill1",
+    "name_ja": "影槍",
+    "name_en": "影槍"
+  },
+  "skill_2": {
+    "id": "scathach_skill2",
+    "name_ja": "異界門",
+    "name_en": "異界門"
+  },
+  "ultimate": {
+    "id": "scathach_skill3",
+    "name_ja": "師の試練",
+    "name_en": "師の試練"
+  },
+  "passive": {
+    "id": "scathach_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "回避直後の攻撃が強化される"
+  },
+  "civilization_tags": [
+    "celtic",
+    "CELTIC",
+    "MYTH",
+    "LEGEND",
+    "SHADOW"
+  ],
+  "relationships": [
+    "amaterasu",
+    "athena"
+  ],
+  "voice_type": "fierce",
+  "music_theme": "影・戦士・魔術・異界",
+  "civilization_shift_effect": "霧→異界→影の槍→CELTIC DOMAIN",
+  "theme": "影・戦士・魔術・異界",
+  "passive_text": "回避直後の攻撃が強化される",
+  "story": "影の国で、私は戦士を作る。忘れられた槍は、まだ届く。",
+  "founder": false,
+  "implementation": "PLAYABLE",
+  "playable": true,
+  "belt": "celtic",
+  "land": "celtic",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/celtic/scathach.png",
+  "colors": {
+    "body": [
+      0.04,
+      0.092,
+      0.152
+    ],
+    "emit": [
+      0.37,
+      0.802,
+      0.652
+    ]
+  }
+}

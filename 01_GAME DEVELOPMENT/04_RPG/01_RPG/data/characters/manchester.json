@@ -1,0 +1,101 @@
+{
+  "id": "manchester",
+  "uid": "manchester_001",
+  "name": "マンチェスター",
+  "name_ja": "マンチェスター",
+  "name_en": "MANCHESTER",
+  "origin": "LEGACY",
+  "era": "MODERN",
+  "civ": "modern",
+  "civilization": "MODERN",
+  "civilization_id": "modern",
+  "relic": "modern_relic",
+  "reconstruction": "煤煙→汽笛→並木→近代都市→MODERN DOMAIN",
+  "seed": false,
+  "class": "LEGACY",
+  "role": "ATTACKER",
+  "role_ui": "Attacker",
+  "element": "STEAM",
+  "weapon": "STEAM_HAMMER",
+  "height": 164,
+  "appearance": {
+    "hair": "modern_hair",
+    "eyes": "manchester_eyes",
+    "costume": "modern_legacy"
+  },
+  "stats": {
+    "hp": 923,
+    "attack": 78,
+    "defense": 69,
+    "speed": 68
+  },
+  "hp": 130,
+  "speed": 7.6,
+  "damage": 15,
+  "skills": [
+    "manchester_skill1",
+    "manchester_skill2",
+    "manchester_skill3"
+  ],
+  "normal_attack": {
+    "id": "manchester_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "manchester_skill1",
+    "name_ja": "蒸気",
+    "name_en": "蒸気"
+  },
+  "skill_2": {
+    "id": "manchester_skill2",
+    "name_ja": "工場",
+    "name_en": "工場"
+  },
+  "ultimate": {
+    "id": "manchester_skill3",
+    "name_ja": "産業",
+    "name_en": "産業"
+  },
+  "passive": {
+    "id": "manchester_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "時間が経つほど攻撃が上がる"
+  },
+  "civilization_tags": [
+    "modern",
+    "MODERN",
+    "MODERN",
+    "LEGACY",
+    "STEAM"
+  ],
+  "relationships": [],
+  "voice_type": "fierce",
+  "music_theme": "蒸気・工場・産業",
+  "civilization_shift_effect": "煤煙→汽笛→並木→近代都市→MODERN DOMAIN",
+  "theme": "蒸気・工場・産業",
+  "passive_text": "時間が経つほど攻撃が上がる",
+  "story": "煙が消えても、リズムは残る。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "modern",
+  "land": "modern",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/modern/manchester.png",
+  "colors": {
+    "body": [
+      0.12,
+      0.172,
+      0.292
+    ],
+    "emit": [
+      0.62,
+      0.692,
+      0.832
+    ]
+  }
+}

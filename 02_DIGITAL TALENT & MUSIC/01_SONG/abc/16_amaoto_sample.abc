@@ -1,0 +1,37 @@
+X:1
+T:雨音サンプル
+C:オリジナル
+M:4/4
+L:1/8
+Q:1/4=96
+K:F
+P:Aメロ
+"F" F2 A2 A2 F2 | "Dm" A2 B2 A2 G2 | "Bb" B2 c2 B2 G2 | "C" G2 A2 G2 F2 |
+w: あ め の ね | し た た る | ガ ラ ス に | お と が ね
+"F" F2 G2 F2 F2 | "Bb" B2 B2 B2 G2 | "Dm" A2 B2 A2 G2 | "C" G2 A2 G2 F2 |
+w: つ づ い て | し ず か な | よ る だ よ | し ず く が
+P:Aメロ2
+"F" c2 d2 c2 c2 | "Dm" d2 e2 d2 c2 | "Bb" d2 f2 f2 d2 | "C" c2 d2 c2 c2 |
+w: な ま え を | あ ら う よ | つ め た い | そ れ で も
+"F" c2 d2 c2 B2 | "Bb" d2 e2 d2 c2 | "Dm" d2 f2 f2 d2 | "C" c2 d2 c2 B2 |
+w: う た う よ | か さ の ね | ひ ら い て | ま ち の ひ
+P:Bメロ
+"Bb" B2 d2 d2 B2 | "F" c2 d2 c2 c2 | "Dm" A2 c2 d2 B2 | "C" c2 e2 e2 c2 |
+w: に じ む よ | こ え だ け | の こ る よ | あ め は ね
+"Gm" B2 d2 d2 B2 | "Bb" B2 c2 B2 A2 | "C" c2 d2 c2 c2 | "C" c2 d2 c2 B2 |
+w: や ま な い | で も き み | わ ら っ て | て を だ す
+P:サビ
+"F" f2 g2 f2 e2 | "C" e2 f2 e2 d2 | "Dm" f2 g2 f2 f2 | "Bb" f2 g2 f2 d2 |
+w: あ め の ね | サ ン プ ル | な ま え は | き え な い
+"F" f2 a2 a2 f2 | "Dm" d2 f2 f2 d2 | "Bb" f2 g2 f2 e2 | "C" c2 d2 c2 c2 |
+w: し ず か に | う た う よ | よ る そ ら | の こ る よ
+P:ブリッジ
+"Dm" F2 G2 F2 F2 | "Bb" B2 c2 B2 G2 | "F" F2 A2 A2 F2 | "C" c2 c2 c2 A2 |
+w: む か え て | し ず く よ | ひ か る よ | う た え ば
+"Gm" G2 G2 G2 E2 | "Dm" A2 B2 A2 G2 | "Bb" B2 c2 B2 G2 | "C" G2 A2 G2 F2 |
+w: あ た た か | ま ど べ で | す わ っ て | き い て る
+P:アウトロ
+"F" f2 g2 f2 e2 | "C" e2 f2 e2 d2 | "Dm" f2 g2 f2 f2 | "Bb" f2 g2 f2 d2 |
+w: * * * * | * * * * | * * * * | * * * *
+"F" f2 a2 a2 f2 | "Dm" d2 f2 f2 d2 | "Bb" f2 g2 f2 e2 | "F" F8 |
+w: * * * * | * * * * | * * * * | *

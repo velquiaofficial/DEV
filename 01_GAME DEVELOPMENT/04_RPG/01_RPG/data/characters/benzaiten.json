@@ -1,0 +1,101 @@
+{
+  "id": "benzaiten",
+  "uid": "benzaiten_001",
+  "name": "弁財天",
+  "name_ja": "弁財天",
+  "name_en": "BENZAITEN",
+  "origin": "MYTH",
+  "era": "MYTH",
+  "civ": "japan",
+  "civilization": "YAMATO",
+  "civilization_id": "yamato",
+  "relic": "yata_mirror",
+  "reconstruction": "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。",
+  "seed": false,
+  "class": "MYTH",
+  "role": "SUPPORT",
+  "role_ui": "Support",
+  "element": "WATER",
+  "weapon": "BIWA",
+  "height": 160,
+  "appearance": {
+    "hair": "yamato_hair",
+    "eyes": "benzaiten_eyes",
+    "costume": "yamato_myth"
+  },
+  "stats": {
+    "hp": 809,
+    "attack": 57,
+    "defense": 65,
+    "speed": 72
+  },
+  "hp": 114,
+  "speed": 8.0,
+  "damage": 11,
+  "skills": [
+    "benzaiten_skill1",
+    "benzaiten_skill2",
+    "benzaiten_skill3"
+  ],
+  "normal_attack": {
+    "id": "benzaiten_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "benzaiten_skill1",
+    "name_ja": "弁才",
+    "name_en": "弁才"
+  },
+  "skill_2": {
+    "id": "benzaiten_skill2",
+    "name_ja": "水音",
+    "name_en": "水音"
+  },
+  "ultimate": {
+    "id": "benzaiten_skill3",
+    "name_ja": "妙音",
+    "name_en": "妙音"
+  },
+  "passive": {
+    "id": "benzaiten_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "味方が技能を使うと回復"
+  },
+  "civilization_tags": [
+    "japan",
+    "YAMATO",
+    "MYTH",
+    "MYTH",
+    "WATER"
+  ],
+  "relationships": [],
+  "voice_type": "warm",
+  "music_theme": "音・水・財",
+  "civilization_shift_effect": "廃墟→光→桜→鳥居→神社→神木→YAMATO DOMAIN",
+  "theme": "音・水・財",
+  "passive_text": "味方が技能を使うと回復",
+  "story": "音が残れば、都は沈まない。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "yamato",
+  "land": "yamato",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/yamato/benzaiten.png",
+  "colors": {
+    "body": [
+      0.965,
+      0.945,
+      0.87
+    ],
+    "emit": [
+      1.0,
+      0.835,
+      0.34
+    ]
+  }
+}

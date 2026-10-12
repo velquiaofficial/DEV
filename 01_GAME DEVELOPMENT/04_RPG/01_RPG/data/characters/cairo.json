@@ -1,0 +1,101 @@
+{
+  "id": "cairo",
+  "uid": "cairo_001",
+  "name": "カイロ",
+  "name_ja": "カイロ",
+  "name_en": "CAIRO",
+  "origin": "NEXUS",
+  "era": "MODERN",
+  "civ": "egypt",
+  "civilization": "KEMET",
+  "civilization_id": "kemet",
+  "relic": "judgment_scale",
+  "reconstruction": "ナイルと蓮が灰色の街を潤す。",
+  "seed": false,
+  "class": "NEXUS",
+  "role": "TACTICIAN",
+  "role_ui": "Tactician",
+  "element": "LAYER",
+  "weapon": "MARKET_MAP",
+  "height": 161,
+  "appearance": {
+    "hair": "kemet_hair",
+    "eyes": "cairo_eyes",
+    "costume": "kemet_nexus"
+  },
+  "stats": {
+    "hp": 895,
+    "attack": 68,
+    "defense": 68,
+    "speed": 72
+  },
+  "hp": 126,
+  "speed": 8.0,
+  "damage": 13,
+  "skills": [
+    "cairo_skill1",
+    "cairo_skill2",
+    "cairo_skill3"
+  ],
+  "normal_attack": {
+    "id": "cairo_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "cairo_skill1",
+    "name_ja": "市場",
+    "name_en": "市場"
+  },
+  "skill_2": {
+    "id": "cairo_skill2",
+    "name_ja": "層都",
+    "name_en": "層都"
+  },
+  "ultimate": {
+    "id": "cairo_skill3",
+    "name_ja": "ナイル回路",
+    "name_en": "ナイル回路"
+  },
+  "passive": {
+    "id": "cairo_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "捕獲中に味方が近づくと加速"
+  },
+  "civilization_tags": [
+    "egypt",
+    "KEMET",
+    "MODERN",
+    "NEXUS",
+    "LAYER"
+  ],
+  "relationships": [],
+  "voice_type": "measured",
+  "music_theme": "市場・層・近代ナイル",
+  "civilization_shift_effect": "砂→ナイル→蓮→神殿→KEMET DOMAIN",
+  "theme": "市場・層・近代ナイル",
+  "passive_text": "捕獲中に味方が近づくと加速",
+  "story": "千年の埃の上に、新しい名前が重なる。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "kemet",
+  "land": "kemet",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/kemet/cairo.png",
+  "colors": {
+    "body": [
+      0.2,
+      0.18,
+      0.14
+    ],
+    "emit": [
+      1.0,
+      0.76,
+      0.18
+    ]
+  }
+}

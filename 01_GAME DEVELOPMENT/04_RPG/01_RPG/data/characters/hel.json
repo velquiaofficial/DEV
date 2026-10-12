@@ -1,0 +1,101 @@
+{
+  "id": "hel",
+  "uid": "hel_001",
+  "name": "ヘル",
+  "name_ja": "ヘル",
+  "name_en": "HEL",
+  "origin": "DIVINE",
+  "era": "MYTH",
+  "civ": "norse",
+  "civilization": "NORSE",
+  "civilization_id": "norse",
+  "relic": "world_tree_shard",
+  "reconstruction": "霧の森とルーンが東京を覆う。",
+  "seed": false,
+  "class": "DIVINE",
+  "role": "CONTROLLER",
+  "role_ui": "Controller",
+  "element": "DEATH",
+  "weapon": "HALF_CROWN",
+  "height": 166,
+  "appearance": {
+    "hair": "norse_hair",
+    "eyes": "hel_eyes",
+    "costume": "norse_divine"
+  },
+  "stats": {
+    "hp": 1008,
+    "attack": 68,
+    "defense": 71,
+    "speed": 61
+  },
+  "hp": 142,
+  "speed": 6.8,
+  "damage": 13,
+  "skills": [
+    "hel_skill1",
+    "hel_skill2",
+    "hel_skill3"
+  ],
+  "normal_attack": {
+    "id": "hel_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "hel_skill1",
+    "name_ja": "半身",
+    "name_en": "半身"
+  },
+  "skill_2": {
+    "id": "hel_skill2",
+    "name_ja": "冷門",
+    "name_en": "冷門"
+  },
+  "ultimate": {
+    "id": "hel_skill3",
+    "name_ja": "死者の国",
+    "name_en": "死者の国"
+  },
+  "passive": {
+    "id": "hel_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "倒れた敵の復活を遅らせる"
+  },
+  "civilization_tags": [
+    "norse",
+    "NORSE",
+    "MYTH",
+    "DIVINE",
+    "DEATH"
+  ],
+  "relationships": [],
+  "voice_type": "low",
+  "music_theme": "死界・半身・冷気",
+  "civilization_shift_effect": "霧→ルーン→神木→虹橋→NORSE DOMAIN",
+  "theme": "死界・半身・冷気",
+  "passive_text": "倒れた敵の復活を遅らせる",
+  "story": "半分は生、半分は忘れられた側。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "norse",
+  "land": "norse",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/norse/hel.png",
+  "colors": {
+    "body": [
+      0.154,
+      0.144,
+      0.21
+    ],
+    "emit": [
+      0.924,
+      0.534,
+      0.71
+    ]
+  }
+}

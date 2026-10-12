@@ -1,0 +1,101 @@
+{
+  "id": "hongkong",
+  "uid": "hongkong_001",
+  "name": "ホンコン",
+  "name_ja": "ホンコン",
+  "name_en": "HONG KONG",
+  "origin": "NEXUS",
+  "era": "CONTEMPORARY",
+  "civ": "china",
+  "civilization": "HUAXIA",
+  "civilization_id": "huaxia",
+  "relic": "china_relic",
+  "reconstruction": "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN",
+  "seed": false,
+  "class": "NEXUS",
+  "role": "TACTICIAN",
+  "role_ui": "Tactician",
+  "element": "GATE",
+  "weapon": "HARBOUR_KEY",
+  "height": 160,
+  "appearance": {
+    "hair": "huaxia_hair",
+    "eyes": "hongkong_eyes",
+    "costume": "huaxia_nexus"
+  },
+  "stats": {
+    "hp": 838,
+    "attack": 68,
+    "defense": 66,
+    "speed": 77
+  },
+  "hp": 118,
+  "speed": 8.6,
+  "damage": 13,
+  "skills": [
+    "hongkong_skill1",
+    "hongkong_skill2",
+    "hongkong_skill3"
+  ],
+  "normal_attack": {
+    "id": "hongkong_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "hongkong_skill1",
+    "name_ja": "維港",
+    "name_en": "維港"
+  },
+  "skill_2": {
+    "id": "hongkong_skill2",
+    "name_ja": "層島",
+    "name_en": "層島"
+  },
+  "ultimate": {
+    "id": "hongkong_skill3",
+    "name_ja": "東の門",
+    "name_en": "東の門"
+  },
+  "passive": {
+    "id": "hongkong_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "狭い範囲の捕獲が非常に速い"
+  },
+  "civilization_tags": [
+    "china",
+    "HUAXIA",
+    "CONTEMPORARY",
+    "NEXUS",
+    "GATE"
+  ],
+  "relationships": [],
+  "voice_type": "measured",
+  "music_theme": "港・層・二都",
+  "civilization_shift_effect": "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN",
+  "theme": "港・層・二都",
+  "passive_text": "狭い範囲の捕獲が非常に速い",
+  "story": "二つの名を同時に生きる。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "huaxia",
+  "land": "huaxia",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/huaxia/hongkong.png",
+  "colors": {
+    "body": [
+      0.52,
+      0.14,
+      0.06
+    ],
+    "emit": [
+      1.0,
+      0.78,
+      0.24
+    ]
+  }
+}

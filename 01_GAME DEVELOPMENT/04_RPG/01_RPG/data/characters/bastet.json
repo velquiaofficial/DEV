@@ -1,0 +1,101 @@
+{
+  "id": "bastet",
+  "uid": "bastet_001",
+  "name": "バステト",
+  "name_ja": "バステト",
+  "name_en": "BASTET",
+  "origin": "MYTH",
+  "era": "MYTH",
+  "civ": "egypt",
+  "civilization": "KEMET",
+  "civilization_id": "kemet",
+  "relic": "judgment_scale",
+  "reconstruction": "ナイルと蓮が灰色の街を潤す。",
+  "seed": false,
+  "class": "MYTH",
+  "role": "ASSASSIN",
+  "role_ui": "Assassin",
+  "element": "NIGHT",
+  "weapon": "CAT_CLAWS",
+  "height": 156,
+  "appearance": {
+    "hair": "kemet_hair",
+    "eyes": "bastet_eyes",
+    "costume": "kemet_myth"
+  },
+  "stats": {
+    "hp": 767,
+    "attack": 83,
+    "defense": 64,
+    "speed": 81
+  },
+  "hp": 108,
+  "speed": 9.0,
+  "damage": 16,
+  "skills": [
+    "bastet_skill1",
+    "bastet_skill2",
+    "bastet_skill3"
+  ],
+  "normal_attack": {
+    "id": "bastet_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "bastet_skill1",
+    "name_ja": "猫歩",
+    "name_en": "猫歩"
+  },
+  "skill_2": {
+    "id": "bastet_skill2",
+    "name_ja": "守護鈴",
+    "name_en": "守護鈴"
+  },
+  "ultimate": {
+    "id": "bastet_skill3",
+    "name_ja": "夜眼",
+    "name_en": "夜眼"
+  },
+  "passive": {
+    "id": "bastet_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "回避直後の攻撃が強化される"
+  },
+  "civilization_tags": [
+    "egypt",
+    "KEMET",
+    "MYTH",
+    "MYTH",
+    "NIGHT"
+  ],
+  "relationships": [],
+  "voice_type": "quiet",
+  "music_theme": "猫・守護・夜",
+  "civilization_shift_effect": "砂→ナイル→蓮→神殿→KEMET DOMAIN",
+  "theme": "猫・守護・夜",
+  "passive_text": "回避直後の攻撃が強化される",
+  "story": "静かな都を、爪で覚える。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "kemet",
+  "land": "kemet",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/kemet/bastet.png",
+  "colors": {
+    "body": [
+      0.128,
+      0.137,
+      0.169
+    ],
+    "emit": [
+      0.928,
+      0.717,
+      0.209
+    ]
+  }
+}

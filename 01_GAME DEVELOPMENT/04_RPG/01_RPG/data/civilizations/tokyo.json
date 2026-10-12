@@ -1,0 +1,33 @@
+{
+  "id": "tokyo",
+  "code": "TOKYO",
+  "civ": "japan",
+  "launch": true,
+  "name": "東京",
+  "name_en": "TOKYO",
+  "members": [
+    "tokyo",
+    "meiji",
+    "yokohama",
+    "future_tokyo",
+    "yamato"
+  ],
+  "features": [
+    "Skyscraper",
+    "Railway",
+    "Neon",
+    "Road",
+    "Digital Screen",
+    "Network",
+    "Station",
+    "Urban Infrastructure"
+  ],
+  "civilization_shift": {
+    "capture": 15,
+    "speed": 10,
+    "relic_generation": 10
+  },
+  "shift_text": "灰色の線路→ネオン→駅→回路都市→TOKYO DOMAIN",
+  "banner": "res://assets/characters/_keyart/tokyo.png",
+  "sheet": "res://assets/characters/_sheets/tokyo.png"
+}

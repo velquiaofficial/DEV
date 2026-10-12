@@ -1,0 +1,44 @@
+[
+  {
+    "id": "MYTH",
+    "name": "神話",
+    "name_en": "MYTH",
+    "order": 0
+  },
+  {
+    "id": "ANCIENT",
+    "name": "古代",
+    "name_en": "ANCIENT",
+    "order": 1
+  },
+  {
+    "id": "MEDIEVAL",
+    "name": "中世",
+    "name_en": "MEDIEVAL",
+    "order": 2
+  },
+  {
+    "id": "EARLY MODERN",
+    "name": "近世",
+    "name_en": "EARLY MODERN",
+    "order": 3
+  },
+  {
+    "id": "MODERN",
+    "name": "近代",
+    "name_en": "MODERN",
+    "order": 4
+  },
+  {
+    "id": "CONTEMPORARY",
+    "name": "現代",
+    "name_en": "CONTEMPORARY",
+    "order": 5
+  },
+  {
+    "id": "FUTURE",
+    "name": "未来",
+    "name_en": "FUTURE",
+    "order": 6
+  }
+]

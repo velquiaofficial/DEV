@@ -1,0 +1,101 @@
+{
+  "id": "ctesiphon",
+  "uid": "ctesiphon_001",
+  "name": "クテシフォン",
+  "name_ja": "クテシフォン",
+  "name_en": "CTESIPHON",
+  "origin": "LEGACY",
+  "era": "ANCIENT",
+  "civ": "mesopotamia",
+  "civilization": "MESOPOTAMIA",
+  "civilization_id": "mesopotamia",
+  "relic": "venus_star",
+  "reconstruction": "古代都市の門と星の王権が地上へ戻る。",
+  "seed": false,
+  "class": "LEGACY",
+  "role": "CONTROLLER",
+  "role_ui": "Controller",
+  "element": "ARCH",
+  "weapon": "GREAT_ARCH",
+  "height": 165,
+  "appearance": {
+    "hair": "mesopotamia_hair",
+    "eyes": "ctesiphon_eyes",
+    "costume": "mesopotamia_legacy"
+  },
+  "stats": {
+    "hp": 994,
+    "attack": 73,
+    "defense": 71,
+    "speed": 64
+  },
+  "hp": 140,
+  "speed": 7.1,
+  "damage": 14,
+  "skills": [
+    "ctesiphon_skill1",
+    "ctesiphon_skill2",
+    "ctesiphon_skill3"
+  ],
+  "normal_attack": {
+    "id": "ctesiphon_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "ctesiphon_skill1",
+    "name_ja": "大アーチ",
+    "name_en": "大アーチ"
+  },
+  "skill_2": {
+    "id": "ctesiphon_skill2",
+    "name_ja": "再帝",
+    "name_en": "再帝"
+  },
+  "ultimate": {
+    "id": "ctesiphon_skill3",
+    "name_ja": "両河",
+    "name_en": "両河"
+  },
+  "passive": {
+    "id": "ctesiphon_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "ERA SHIFTで領域が広がる"
+  },
+  "civilization_tags": [
+    "mesopotamia",
+    "MESOPOTAMIA",
+    "ANCIENT",
+    "LEGACY",
+    "ARCH"
+  ],
+  "relationships": [],
+  "voice_type": "low",
+  "music_theme": "アーチ・再帝国・両河",
+  "civilization_shift_effect": "砂塵→楔形→聖塔→両河→MESOPOTAMIA DOMAIN",
+  "theme": "アーチ・再帝国・両河",
+  "passive_text": "ERA SHIFTで領域が広がる",
+  "story": "アーチの向こうは、まだ帝国だ。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "mesopotamia",
+  "land": "mesopotamia",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/mesopotamia/ctesiphon.png",
+  "colors": {
+    "body": [
+      0.28,
+      0.16,
+      0.04
+    ],
+    "emit": [
+      1.0,
+      0.68,
+      0.16
+    ]
+  }
+}

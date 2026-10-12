@@ -1,0 +1,101 @@
+{
+  "id": "minos",
+  "uid": "minos_001",
+  "name": "ミノス",
+  "name_ja": "ミノス",
+  "name_en": "MINOS",
+  "origin": "LEGEND",
+  "era": "ANCIENT",
+  "civ": "greece",
+  "civilization": "HELLAS",
+  "civilization_id": "hellas",
+  "relic": "lost_city_aegis",
+  "reconstruction": "都市が白い大理石の神殿都市へ変化する。",
+  "seed": false,
+  "class": "LEGEND",
+  "role": "DEFENDER",
+  "role_ui": "Defender",
+  "element": "LAW",
+  "weapon": "LABYRINTH_AXE",
+  "height": 173,
+  "appearance": {
+    "hair": "hellas_hair",
+    "eyes": "minos_eyes",
+    "costume": "hellas_legend"
+  },
+  "stats": {
+    "hp": 1079,
+    "attack": 68,
+    "defense": 73,
+    "speed": 59
+  },
+  "hp": 152,
+  "speed": 6.6,
+  "damage": 13,
+  "skills": [
+    "minos_skill1",
+    "minos_skill2",
+    "minos_skill3"
+  ],
+  "normal_attack": {
+    "id": "minos_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "minos_skill1",
+    "name_ja": "迷宮",
+    "name_en": "迷宮"
+  },
+  "skill_2": {
+    "id": "minos_skill2",
+    "name_ja": "牛頭",
+    "name_en": "牛頭"
+  },
+  "ultimate": {
+    "id": "minos_skill3",
+    "name_ja": "海の法",
+    "name_en": "海の法"
+  },
+  "passive": {
+    "id": "minos_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "敵の直線移動を妨げる"
+  },
+  "civilization_tags": [
+    "greece",
+    "HELLAS",
+    "ANCIENT",
+    "LEGEND",
+    "LAW"
+  ],
+  "relationships": [],
+  "voice_type": "steadfast",
+  "music_theme": "迷宮・海王・審判",
+  "civilization_shift_effect": "廃墟→大理石→神殿→オリーブ→HELLAS DOMAIN",
+  "theme": "迷宮・海王・審判",
+  "passive_text": "敵の直線移動を妨げる",
+  "story": "迷うことは、忘れないための形だ。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "hellas",
+  "land": "hellas",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/hellas/minos.png",
+  "colors": {
+    "body": [
+      0.924,
+      0.898,
+      0.794
+    ],
+    "emit": [
+      0.514,
+      0.658,
+      0.924
+    ]
+  }
+}

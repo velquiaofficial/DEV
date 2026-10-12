@@ -1,0 +1,101 @@
+{
+  "id": "machine",
+  "uid": "machine_001",
+  "name": "機関",
+  "name_ja": "機関",
+  "name_en": "MACHINE",
+  "origin": "NEXUS",
+  "era": "FUTURE",
+  "civ": "future",
+  "civilization": "FUTURE",
+  "civilization_id": "future",
+  "relic": "memory_core",
+  "reconstruction": "失われたネットワークが回路として蘇る。",
+  "seed": false,
+  "class": "NEXUS",
+  "role": "CONTROLLER",
+  "role_ui": "Controller",
+  "element": "MACHINE",
+  "weapon": "COOLING_RING",
+  "height": 166,
+  "appearance": {
+    "hair": "future_hair",
+    "eyes": "machine_eyes",
+    "costume": "future_nexus"
+  },
+  "stats": {
+    "hp": 1051,
+    "attack": 73,
+    "defense": 73,
+    "speed": 63
+  },
+  "hp": 148,
+  "speed": 7.0,
+  "damage": 14,
+  "skills": [
+    "machine_skill1",
+    "machine_skill2",
+    "machine_skill3"
+  ],
+  "normal_attack": {
+    "id": "machine_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "machine_skill1",
+    "name_ja": "機関",
+    "name_en": "機関"
+  },
+  "skill_2": {
+    "id": "machine_skill2",
+    "name_ja": "冷却",
+    "name_en": "冷却"
+  },
+  "ultimate": {
+    "id": "machine_skill3",
+    "name_ja": "規律環",
+    "name_en": "規律環"
+  },
+  "passive": {
+    "id": "machine_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "RELICの喪失速度を落とす"
+  },
+  "civilization_tags": [
+    "future",
+    "FUTURE",
+    "FUTURE",
+    "NEXUS",
+    "MACHINE"
+  ],
+  "relationships": [],
+  "voice_type": "low",
+  "music_theme": "機械文明・規律・冷却",
+  "civilization_shift_effect": "沈黙→軌道→記憶核→FUTURE DOMAIN",
+  "theme": "機械文明・規律・冷却",
+  "passive_text": "RELICの喪失速度を落とす",
+  "story": "機械は忘れない。だから恐い。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "future",
+  "land": "future",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/future/machine.png",
+  "colors": {
+    "body": [
+      0.04,
+      0.044,
+      0.118
+    ],
+    "emit": [
+      0.736,
+      0.794,
+      0.968
+    ]
+  }
+}

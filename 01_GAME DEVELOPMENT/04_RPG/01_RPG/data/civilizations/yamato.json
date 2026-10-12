@@ -1,0 +1,41 @@
+{
+  "id": "yamato",
+  "code": "YAMATO",
+  "civ": "japan",
+  "launch": true,
+  "name": "ヤマト",
+  "name_en": "YAMATO",
+  "members": [
+    "amaterasu",
+    "tsukuyomi",
+    "susanoo",
+    "inari",
+    "izanami",
+    "takemikazuchi",
+    "hachiman",
+    "benzaiten",
+    "ryugu",
+    "edo",
+    "osaka",
+    "nagasaki",
+    "kamakura"
+  ],
+  "features": [
+    "Shrine",
+    "Torii",
+    "Sakura",
+    "Stone Lantern",
+    "Sacred Tree",
+    "Divine Light",
+    "Sacred Water",
+    "Mountain"
+  ],
+  "civilization_shift": {
+    "power": 15,
+    "healing": 10,
+    "relic_generation": 20
+  },
+  "shift_text": "廃墟→光→桜→鳥居→神社→神木→YAMATO DOMAIN",
+  "banner": "res://assets/characters/_keyart/yamato.png",
+  "sheet": "res://assets/characters/_sheets/yamato.png"
+}

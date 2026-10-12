@@ -1,0 +1,46 @@
+# Dependencies
+node_modules/
+.npm/
+.pnpm-store/
+
+# Build / engine caches
+.godot/
+.import/
+*.translation
+bin/
+*.obj
+*.o
+*.a
+*.lib
+*.dll
+*.exe
+*.pck
+*.tmp
+*.log
+
+# Nested repos / tooling
+**/.git/
+__pycache__/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*~
+
+# Large local artifacts
+**/godot-cpp/bin/
+**/Output/
+**/MovieRender/
+**/*.zip
+**/*.7z
+**/*.rar
+**/sample_image/

@@ -1,0 +1,101 @@
+{
+  "id": "meiji",
+  "uid": "meiji_001",
+  "name": "明治",
+  "name_ja": "明治",
+  "name_en": "MEIJI",
+  "origin": "LEGACY",
+  "era": "MODERN",
+  "civ": "japan",
+  "civilization": "TOKYO",
+  "civilization_id": "tokyo",
+  "relic": "yata_mirror",
+  "reconstruction": "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。",
+  "seed": false,
+  "class": "LEGACY",
+  "role": "TACTICIAN",
+  "role_ui": "Tactician",
+  "element": "STEAM",
+  "weapon": "TREATY_SABER",
+  "height": 165,
+  "appearance": {
+    "hair": "tokyo_hair",
+    "eyes": "meiji_eyes",
+    "costume": "tokyo_legacy"
+  },
+  "stats": {
+    "hp": 880,
+    "attack": 68,
+    "defense": 67,
+    "speed": 70
+  },
+  "hp": 124,
+  "speed": 7.8,
+  "damage": 13,
+  "skills": [
+    "meiji_skill1",
+    "meiji_skill2",
+    "meiji_skill3"
+  ],
+  "normal_attack": {
+    "id": "meiji_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "meiji_skill1",
+    "name_ja": "汽笛",
+    "name_en": "汽笛"
+  },
+  "skill_2": {
+    "id": "meiji_skill2",
+    "name_ja": "条約",
+    "name_en": "条約"
+  },
+  "ultimate": {
+    "id": "meiji_skill3",
+    "name_ja": "文明開化",
+    "name_en": "文明開化"
+  },
+  "passive": {
+    "id": "meiji_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "ERA SHIFT直後に味方を加速する"
+  },
+  "civilization_tags": [
+    "japan",
+    "TOKYO",
+    "MODERN",
+    "LEGACY",
+    "STEAM"
+  ],
+  "relationships": [],
+  "voice_type": "measured",
+  "music_theme": "開化・汽笛・制服",
+  "civilization_shift_effect": "灰色の線路→ネオン→駅→回路都市→TOKYO DOMAIN",
+  "theme": "開化・汽笛・制服",
+  "passive_text": "ERA SHIFT直後に味方を加速する",
+  "story": "新しい名前を付けても、古い魂は残る。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "tokyo",
+  "land": "tokyo",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/tokyo/meiji.png",
+  "colors": {
+    "body": [
+      0.045,
+      0.079,
+      0.174
+    ],
+    "emit": [
+      0.165,
+      0.829,
+      0.964
+    ]
+  }
+}

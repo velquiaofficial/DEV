@@ -1,0 +1,101 @@
+{
+  "id": "memphis",
+  "uid": "memphis_001",
+  "name": "メンフィス",
+  "name_ja": "メンフィス",
+  "name_en": "MEMPHIS",
+  "origin": "LEGACY",
+  "era": "ANCIENT",
+  "civ": "egypt",
+  "civilization": "KEMET",
+  "civilization_id": "kemet",
+  "relic": "judgment_scale",
+  "reconstruction": "ナイルと蓮が灰色の街を潤す。",
+  "seed": false,
+  "class": "LEGACY",
+  "role": "DEFENDER",
+  "role_ui": "Defender",
+  "element": "STONE",
+  "weapon": "WHITE_WALL",
+  "height": 162,
+  "appearance": {
+    "hair": "kemet_hair",
+    "eyes": "memphis_eyes",
+    "costume": "kemet_legacy"
+  },
+  "stats": {
+    "hp": 1051,
+    "attack": 62,
+    "defense": 73,
+    "speed": 61
+  },
+  "hp": 148,
+  "speed": 6.8,
+  "damage": 12,
+  "skills": [
+    "memphis_skill1",
+    "memphis_skill2",
+    "memphis_skill3"
+  ],
+  "normal_attack": {
+    "id": "memphis_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "memphis_skill1",
+    "name_ja": "白壁",
+    "name_en": "白壁"
+  },
+  "skill_2": {
+    "id": "memphis_skill2",
+    "name_ja": "工匠",
+    "name_en": "工匠"
+  },
+  "ultimate": {
+    "id": "memphis_skill3",
+    "name_ja": "古都",
+    "name_en": "古都"
+  },
+  "passive": {
+    "id": "memphis_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "領域内で防御が上がる"
+  },
+  "civilization_tags": [
+    "egypt",
+    "KEMET",
+    "ANCIENT",
+    "LEGACY",
+    "STONE"
+  ],
+  "relationships": [],
+  "voice_type": "steadfast",
+  "music_theme": "白壁・工房・王墓",
+  "civilization_shift_effect": "砂→ナイル→蓮→神殿→KEMET DOMAIN",
+  "theme": "白壁・工房・王墓",
+  "passive_text": "領域内で防御が上がる",
+  "story": "最初の都は、最後まで残るべきだ。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "kemet",
+  "land": "kemet",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/kemet/memphis.png",
+  "colors": {
+    "body": [
+      0.146,
+      0.148,
+      0.162
+    ],
+    "emit": [
+      0.946,
+      0.728,
+      0.202
+    ]
+  }
+}

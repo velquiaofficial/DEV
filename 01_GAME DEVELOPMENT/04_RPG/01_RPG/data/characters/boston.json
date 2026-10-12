@@ -1,0 +1,101 @@
+{
+  "id": "boston",
+  "uid": "boston_001",
+  "name": "ボストン",
+  "name_ja": "ボストン",
+  "name_en": "BOSTON",
+  "origin": "LEGACY",
+  "era": "MODERN",
+  "civ": "modern",
+  "civilization": "MODERN",
+  "civilization_id": "modern",
+  "relic": "modern_relic",
+  "reconstruction": "煤煙→汽笛→並木→近代都市→MODERN DOMAIN",
+  "seed": false,
+  "class": "LEGACY",
+  "role": "DEFENDER",
+  "role_ui": "Defender",
+  "element": "LIBERTY",
+  "weapon": "HARBOR_LANTERN",
+  "height": 163,
+  "appearance": {
+    "hair": "modern_hair",
+    "eyes": "boston_eyes",
+    "costume": "modern_legacy"
+  },
+  "stats": {
+    "hp": 994,
+    "attack": 68,
+    "defense": 71,
+    "speed": 65
+  },
+  "hp": 140,
+  "speed": 7.2,
+  "damage": 13,
+  "skills": [
+    "boston_skill1",
+    "boston_skill2",
+    "boston_skill3"
+  ],
+  "normal_attack": {
+    "id": "boston_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "boston_skill1",
+    "name_ja": "茶会",
+    "name_en": "茶会"
+  },
+  "skill_2": {
+    "id": "boston_skill2",
+    "name_ja": "独立",
+    "name_en": "独立"
+  },
+  "ultimate": {
+    "id": "boston_skill3",
+    "name_ja": "港の灯",
+    "name_en": "港の灯"
+  },
+  "passive": {
+    "id": "boston_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "味方が倒れると防御が上がる"
+  },
+  "civilization_tags": [
+    "modern",
+    "MODERN",
+    "MODERN",
+    "LEGACY",
+    "LIBERTY"
+  ],
+  "relationships": [],
+  "voice_type": "steadfast",
+  "music_theme": "港・独立・知",
+  "civilization_shift_effect": "煤煙→汽笛→並木→近代都市→MODERN DOMAIN",
+  "theme": "港・独立・知",
+  "passive_text": "味方が倒れると防御が上がる",
+  "story": "自由の名を、霧に返さない。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "modern",
+  "land": "modern",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/modern/boston.png",
+  "colors": {
+    "body": [
+      0.232,
+      0.239,
+      0.247
+    ],
+    "emit": [
+      0.732,
+      0.759,
+      0.787
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "amaterasu": {
+    "name": "天照",
+    "element": "fire",
+    "level": 30,
+    "stats": { "hp": 9800, "atk": 1800, "def": 260, "heal": 2000 },
+    "start": { "hp": 8520 },
+    "skills": [
+      { "type": "single", "stat": "atk", "rate": 1, "fx": "shot" },
+      { "type": "aoe", "stat": "atk", "rate": "5/6", "fx": "rain" },
+      { "type": "heal", "stat": "heal", "rate": 1.3, "fx": "heal" },
+      { "type": "single", "stat": "atk", "rate": "26/9", "fx": "thick" }
+    ],
+    "special": { "type": "single", "stat": "atk", "rate": "14/3", "hits": 3, "fx": "pillar" }
+  },
+  "athena": {
+    "name": "アテナ",
+    "element": "ice",
+    "level": 32,
+    "stats": { "hp": 8600, "atk": 2000, "def": 340, "heal": 1800 },
+    "start": { "hp": 7430 },
+    "skills": [
+      { "type": "single", "stat": "atk", "rate": 1, "fx": "thick" },
+      { "type": "single", "stat": "atk", "rate": 1.4, "fx": "fan" },
+      { "type": "heal", "stat": "heal", "rate": "11/9", "target": "self" },
+      { "type": "aoe", "stat": "atk", "rate": 0.85, "fx": "rain" }
+    ],
+    "special": { "type": "aoe", "stat": "atk", "rate": 1.7, "hits": 3, "fx": "pillar" }
+  },
+  "isis": {
+    "name": "イシス",
+    "element": "light",
+    "level": 31,
+    "stats": { "hp": 9000, "atk": 2400, "def": 220, "heal": 1800 },
+    "start": { "hp": 7890 },
+    "skills": [
+      { "type": "heal", "stat": "heal", "rate": 1, "target": "all", "fx": "heal" },
+      { "type": "single", "stat": "atk", "rate": 1, "fx": "bloom" },
+      { "type": "aoe", "stat": "atk", "rate": "2/3", "fx": "rain" },
+      { "type": "single", "stat": "atk", "rate": 2, "fx": "arc" }
+    ],
+    "special": { "type": "single", "stat": "atk", "rate": 3.25, "hits": 4, "fx": "pillar" }
+  },
+  "roma": {
+    "name": "ローマ",
+    "element": "dark",
+    "level": 29,
+    "stats": { "hp": 8200, "atk": 2100, "def": 300, "heal": 2000 },
+    "start": { "hp": 6980 },
+    "skills": [
+      { "type": "single", "stat": "atk", "rate": 1, "fx": "shot" },
+      { "type": "aoe", "stat": "atk", "rate": "6/7", "fx": "fan" },
+      { "type": "single", "stat": "atk", "rate": "32/21", "fx": "thick" },
+      { "type": "heal", "stat": "heal", "rate": 1, "fx": "heal" }
+    ],
+    "special": { "type": "single", "stat": "atk", "rate": "24/7", "hits": 3, "fx": "thick" }
+  },
+  "cleopatra": {
+    "name": "クレオパトラ",
+    "element": "moon",
+    "level": 33,
+    "stats": { "hp": 8400, "atk": 1900, "def": 240, "heal": 2000 },
+    "start": { "hp": 7120 },
+    "skills": [
+      { "type": "single", "stat": "atk", "rate": 1, "fx": "arc" },
+      { "type": "heal", "stat": "heal", "rate": 1.2, "fx": "heal" },
+      { "type": "aoe", "stat": "atk", "rate": "20/19", "fx": "rain" },
+      { "type": "single", "stat": "atk", "rate": "50/19", "fx": "bloom" }
+    ],
+    "special": { "type": "aoe", "stat": "atk", "rate": "36/19", "hits": 4, "fx": "rain" }
+  },
+  "freyja": {
+    "name": "フレイヤ",
+    "element": "ice",
+    "level": 28,
+    "stats": { "hp": 9400, "atk": 1500, "def": 300, "heal": 2400 },
+    "start": { "hp": 7600 },
+    "skills": [
+      { "type": "heal", "stat": "heal", "rate": 1.1, "fx": "heal" },
+      { "type": "heal", "stat": "heal", "rate": 0.7, "target": "all", "fx": "bloom" },
+      { "type": "single", "stat": "atk", "rate": 1.1, "fx": "arc" },
+      { "type": "aoe", "stat": "atk", "rate": 0.7, "fx": "rain" }
+    ],
+    "special": { "type": "heal", "stat": "heal", "rate": 1.6, "target": "all", "hits": 3, "fx": "heal" }
+  },
+  "artemis": {
+    "name": "アルテミス",
+    "element": "moon",
+    "level": 31,
+    "stats": { "hp": 7800, "atk": 2600, "def": 210, "heal": 1500 },
+    "start": { "hp": 6900 },
+    "skills": [
+      { "type": "single", "stat": "atk", "rate": 1.15, "fx": "shot" },
+      { "type": "single", "stat": "atk", "rate": 1.35, "fx": "thick" },
+      { "type": "single", "stat": "atk", "rate": 1.6, "fx": "arc" },
+      { "type": "aoe", "stat": "atk", "rate": 0.75, "fx": "fan" }
+    ],
+    "special": { "type": "single", "stat": "atk", "rate": 3.4, "hits": 4, "fx": "pillar" }
+  }
+}

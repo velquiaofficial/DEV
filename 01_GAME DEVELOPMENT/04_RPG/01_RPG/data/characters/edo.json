@@ -1,0 +1,106 @@
+{
+  "id": "edo",
+  "uid": "edo_001",
+  "name": "江戸",
+  "name_ja": "江戸",
+  "name_en": "EDO",
+  "origin": "LEGACY",
+  "era": "EARLY MODERN",
+  "civ": "japan",
+  "civilization": "YAMATO",
+  "civilization_id": "yamato",
+  "relic": "yata_mirror",
+  "reconstruction": "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。",
+  "seed": false,
+  "class": "LEGACY",
+  "role": "ASSASSIN",
+  "role_ui": "Assassin",
+  "element": "BLADE",
+  "weapon": "IAITO",
+  "height": 157,
+  "appearance": {
+    "hair": "yamato_hair",
+    "eyes": "edo_eyes",
+    "costume": "yamato_legacy"
+  },
+  "stats": {
+    "hp": 710,
+    "attack": 94,
+    "defense": 62,
+    "speed": 85
+  },
+  "hp": 100,
+  "speed": 9.4,
+  "damage": 18,
+  "skills": [
+    "edo_skill1",
+    "edo_skill2",
+    "edo_skill3"
+  ],
+  "normal_attack": {
+    "id": "edo_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "edo_skill1",
+    "name_ja": "夜駆け",
+    "name_en": "夜駆け"
+  },
+  "skill_2": {
+    "id": "edo_skill2",
+    "name_ja": "居合",
+    "name_en": "居合"
+  },
+  "ultimate": {
+    "id": "edo_skill3",
+    "name_ja": "千斬",
+    "name_en": "千斬"
+  },
+  "passive": {
+    "id": "edo_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "回避直後の攻撃が強化される"
+  },
+  "civilization_tags": [
+    "japan",
+    "YAMATO",
+    "EARLY_MODERN",
+    "LEGACY",
+    "BLADE"
+  ],
+  "relationships": [
+    "amaterasu",
+    "tokyo",
+    "osaka",
+    "nagasaki"
+  ],
+  "voice_type": "quiet",
+  "music_theme": "高速・居合・奇襲・致命",
+  "civilization_shift_effect": "廃墟→光→桜→鳥居→神社→神木→YAMATO DOMAIN",
+  "theme": "高速・居合・奇襲・致命",
+  "passive_text": "回避直後の攻撃が強化される",
+  "story": "夜の町は刃のように細い。私はそこで走る。",
+  "founder": true,
+  "implementation": "PLAYABLE",
+  "playable": true,
+  "belt": "yamato",
+  "land": "yamato",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/yamato/edo.png",
+  "colors": {
+    "body": [
+      0.995,
+      0.963,
+      0.858
+    ],
+    "emit": [
+      1.0,
+      0.853,
+      0.328
+    ]
+  }
+}

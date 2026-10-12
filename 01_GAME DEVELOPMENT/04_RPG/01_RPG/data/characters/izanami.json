@@ -1,0 +1,101 @@
+{
+  "id": "izanami",
+  "uid": "izanami_001",
+  "name": "伊邪那美",
+  "name_ja": "伊邪那美",
+  "name_en": "IZANAMI",
+  "origin": "DIVINE",
+  "era": "MYTH",
+  "civ": "japan",
+  "civilization": "YAMATO",
+  "civilization_id": "yamato",
+  "relic": "yata_mirror",
+  "reconstruction": "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。",
+  "seed": false,
+  "class": "DIVINE",
+  "role": "CONTROLLER",
+  "role_ui": "Controller",
+  "element": "UNDERWORLD",
+  "weapon": "YOMI_MIRROR",
+  "height": 166,
+  "appearance": {
+    "hair": "yamato_hair",
+    "eyes": "izanami_eyes",
+    "costume": "yamato_divine"
+  },
+  "stats": {
+    "hp": 909,
+    "attack": 68,
+    "defense": 68,
+    "speed": 67
+  },
+  "hp": 128,
+  "speed": 7.4,
+  "damage": 13,
+  "skills": [
+    "izanami_skill1",
+    "izanami_skill2",
+    "izanami_skill3"
+  ],
+  "normal_attack": {
+    "id": "izanami_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "izanami_skill1",
+    "name_ja": "黄泉",
+    "name_en": "黄泉"
+  },
+  "skill_2": {
+    "id": "izanami_skill2",
+    "name_ja": "創世",
+    "name_en": "創世"
+  },
+  "ultimate": {
+    "id": "izanami_skill3",
+    "name_ja": "回帰",
+    "name_en": "回帰"
+  },
+  "passive": {
+    "id": "izanami_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "倒れた敵の復活を遅らせる"
+  },
+  "civilization_tags": [
+    "japan",
+    "YAMATO",
+    "MYTH",
+    "DIVINE",
+    "UNDERWORLD"
+  ],
+  "relationships": [],
+  "voice_type": "low",
+  "music_theme": "黄泉・創世・境界",
+  "civilization_shift_effect": "廃墟→光→桜→鳥居→神社→神木→YAMATO DOMAIN",
+  "theme": "黄泉・創世・境界",
+  "passive_text": "倒れた敵の復活を遅らせる",
+  "story": "生んだものは、還る場所を知っている。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "yamato",
+  "land": "yamato",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/yamato/izanami.png",
+  "colors": {
+    "body": [
+      0.92,
+      0.918,
+      0.888
+    ],
+    "emit": [
+      0.98,
+      0.808,
+      0.358
+    ]
+  }
+}

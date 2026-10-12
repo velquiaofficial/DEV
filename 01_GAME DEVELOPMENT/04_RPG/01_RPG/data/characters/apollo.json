@@ -1,0 +1,101 @@
+{
+  "id": "apollo",
+  "uid": "apollo_001",
+  "name": "アポロン",
+  "name_ja": "アポロン",
+  "name_en": "APOLLO",
+  "origin": "DIVINE",
+  "era": "MYTH",
+  "civ": "greece",
+  "civilization": "HELLAS",
+  "civilization_id": "hellas",
+  "relic": "lost_city_aegis",
+  "reconstruction": "都市が白い大理石の神殿都市へ変化する。",
+  "seed": false,
+  "class": "DIVINE",
+  "role": "ATTACKER",
+  "role_ui": "Attacker",
+  "element": "LIGHT",
+  "weapon": "GOLDEN_BOW",
+  "height": 176,
+  "appearance": {
+    "hair": "hellas_hair",
+    "eyes": "apollo_eyes",
+    "costume": "hellas_divine"
+  },
+  "stats": {
+    "hp": 909,
+    "attack": 83,
+    "defense": 68,
+    "speed": 74
+  },
+  "hp": 128,
+  "speed": 8.2,
+  "damage": 16,
+  "skills": [
+    "apollo_skill1",
+    "apollo_skill2",
+    "apollo_skill3"
+  ],
+  "normal_attack": {
+    "id": "apollo_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "apollo_skill1",
+    "name_ja": "光矢",
+    "name_en": "光矢"
+  },
+  "skill_2": {
+    "id": "apollo_skill2",
+    "name_ja": "神託",
+    "name_en": "神託"
+  },
+  "ultimate": {
+    "id": "apollo_skill3",
+    "name_ja": "デルポイ",
+    "name_en": "デルポイ"
+  },
+  "passive": {
+    "id": "apollo_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "遠距離ほどダメージが伸びる"
+  },
+  "civilization_tags": [
+    "greece",
+    "HELLAS",
+    "MYTH",
+    "DIVINE",
+    "LIGHT"
+  ],
+  "relationships": [],
+  "voice_type": "fierce",
+  "music_theme": "光矢・神託・芸術",
+  "civilization_shift_effect": "廃墟→大理石→神殿→オリーブ→HELLAS DOMAIN",
+  "theme": "光矢・神託・芸術",
+  "passive_text": "遠距離ほどダメージが伸びる",
+  "story": "予言は残酷だ。それでも弦は鳴る。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "hellas",
+  "land": "hellas",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/hellas/apollo.png",
+  "colors": {
+    "body": [
+      0.852,
+      0.855,
+      0.823
+    ],
+    "emit": [
+      0.442,
+      0.615,
+      0.953
+    ]
+  }
+}

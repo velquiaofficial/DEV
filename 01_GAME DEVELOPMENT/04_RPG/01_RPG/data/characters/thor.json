@@ -1,0 +1,101 @@
+{
+  "id": "thor",
+  "uid": "thor_001",
+  "name": "トール",
+  "name_ja": "トール",
+  "name_en": "THOR",
+  "origin": "DIVINE",
+  "era": "MYTH",
+  "civ": "norse",
+  "civilization": "NORSE",
+  "civilization_id": "norse",
+  "relic": "world_tree_shard",
+  "reconstruction": "霧の森とルーンが東京を覆う。",
+  "seed": false,
+  "class": "DIVINE",
+  "role": "ATTACKER",
+  "role_ui": "Attacker",
+  "element": "THUNDER",
+  "weapon": "MJOLNIR",
+  "height": 174,
+  "appearance": {
+    "hair": "norse_hair",
+    "eyes": "thor_eyes",
+    "costume": "norse_divine"
+  },
+  "stats": {
+    "hp": 1136,
+    "attack": 94,
+    "defense": 75,
+    "speed": 62
+  },
+  "hp": 160,
+  "speed": 6.9,
+  "damage": 18,
+  "skills": [
+    "thor_skill1",
+    "thor_skill2",
+    "thor_skill3"
+  ],
+  "normal_attack": {
+    "id": "thor_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "thor_skill1",
+    "name_ja": "雷槌",
+    "name_en": "雷槌"
+  },
+  "skill_2": {
+    "id": "thor_skill2",
+    "name_ja": "嵐輪",
+    "name_en": "嵐輪"
+  },
+  "ultimate": {
+    "id": "thor_skill3",
+    "name_ja": "ミョルニル",
+    "name_en": "ミョルニル"
+  },
+  "passive": {
+    "id": "thor_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "攻撃が命中すると周囲にも割れる"
+  },
+  "civilization_tags": [
+    "norse",
+    "NORSE",
+    "MYTH",
+    "DIVINE",
+    "THUNDER"
+  ],
+  "relationships": [],
+  "voice_type": "fierce",
+  "music_theme": "雷・守護・力",
+  "civilization_shift_effect": "霧→ルーン→神木→虹橋→NORSE DOMAIN",
+  "theme": "雷・守護・力",
+  "passive_text": "攻撃が命中すると周囲にも割れる",
+  "story": "空が割れても、家は守る。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "norse",
+  "land": "norse",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/norse/thor.png",
+  "colors": {
+    "body": [
+      0.136,
+      0.134,
+      0.218
+    ],
+    "emit": [
+      0.906,
+      0.524,
+      0.718
+    ]
+  }
+}

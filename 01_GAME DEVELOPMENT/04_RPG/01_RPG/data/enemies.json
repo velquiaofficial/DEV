@@ -1,0 +1,20 @@
+[
+  {
+    "id": "lost_memory",
+    "name_ja": "Lost Memory",
+    "name_en": "LOST MEMORY",
+    "hp": 400,
+    "attack": 40,
+    "defense": 20,
+    "role": "fodder"
+  },
+  {
+    "id": "forgotten_weapon",
+    "name_ja": "文明を失った巨大兵器",
+    "name_en": "FORGOTTEN WEAPON",
+    "hp": 2400,
+    "attack": 90,
+    "defense": 80,
+    "role": "boss"
+  }
+]

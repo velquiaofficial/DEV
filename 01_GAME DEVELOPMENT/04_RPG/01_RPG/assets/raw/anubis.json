@@ -1,0 +1,11 @@
+{
+  "id": "anubis",
+  "obj": "assets/raw/anubis.obj",
+  "portrait": "assets/characters/kemet/anubis.png",
+  "rig": "auto_rig",
+  "lod": [
+    "lod0",
+    "lod1",
+    "lod2"
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "inari",
+  "uid": "inari_001",
+  "name": "稲荷",
+  "name_ja": "稲荷",
+  "name_en": "INARI",
+  "origin": "MYTH",
+  "era": "MYTH",
+  "civ": "japan",
+  "civilization": "YAMATO",
+  "civilization_id": "yamato",
+  "relic": "yata_mirror",
+  "reconstruction": "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。",
+  "seed": false,
+  "class": "MYTH",
+  "role": "SUPPORT",
+  "role_ui": "Support",
+  "element": "HARVEST",
+  "weapon": "RICE_STAFF",
+  "height": 158,
+  "appearance": {
+    "hair": "yamato_hair",
+    "eyes": "inari_eyes",
+    "costume": "yamato_myth"
+  },
+  "stats": {
+    "hp": 795,
+    "attack": 57,
+    "defense": 65,
+    "speed": 73
+  },
+  "hp": 112,
+  "speed": 8.1,
+  "damage": 11,
+  "skills": [
+    "inari_skill1",
+    "inari_skill2",
+    "inari_skill3"
+  ],
+  "normal_attack": {
+    "id": "inari_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "inari_skill1",
+    "name_ja": "白狐",
+    "name_en": "白狐"
+  },
+  "skill_2": {
+    "id": "inari_skill2",
+    "name_ja": "稲穂",
+    "name_en": "稲穂"
+  },
+  "ultimate": {
+    "id": "inari_skill3",
+    "name_ja": "千成",
+    "name_en": "千成"
+  },
+  "passive": {
+    "id": "inari_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "味方の回復量がわずかに増える"
+  },
+  "civilization_tags": [
+    "japan",
+    "YAMATO",
+    "MYTH",
+    "MYTH",
+    "HARVEST"
+  ],
+  "relationships": [],
+  "voice_type": "warm",
+  "music_theme": "狐・稲・豊穣",
+  "civilization_shift_effect": "廃墟→光→桜→鳥居→神社→神木→YAMATO DOMAIN",
+  "theme": "狐・稲・豊穣",
+  "passive_text": "味方の回復量がわずかに増える",
+  "story": "飢えを忘れさせない。それが社の仕事。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "yamato",
+  "land": "yamato",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/yamato/inari.png",
+  "colors": {
+    "body": [
+      0.905,
+      0.909,
+      0.894
+    ],
+    "emit": [
+      0.965,
+      0.799,
+      0.364
+    ]
+  }
+}

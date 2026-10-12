@@ -1,0 +1,101 @@
+{
+  "id": "nuwa",
+  "uid": "nuwa_001",
+  "name": "女媧",
+  "name_ja": "女媧",
+  "name_en": "NUWA",
+  "origin": "DIVINE",
+  "era": "MYTH",
+  "civ": "china",
+  "civilization": "HUAXIA",
+  "civilization_id": "huaxia",
+  "relic": "china_relic",
+  "reconstruction": "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN",
+  "seed": false,
+  "class": "DIVINE",
+  "role": "SUPPORT",
+  "role_ui": "Support",
+  "element": "CREATION",
+  "weapon": "FIVE_COLOR_STONE",
+  "height": 168,
+  "appearance": {
+    "hair": "huaxia_hair",
+    "eyes": "nuwa_eyes",
+    "costume": "huaxia_divine"
+  },
+  "stats": {
+    "hp": 923,
+    "attack": 57,
+    "defense": 69,
+    "speed": 67
+  },
+  "hp": 130,
+  "speed": 7.4,
+  "damage": 11,
+  "skills": [
+    "nuwa_skill1",
+    "nuwa_skill2",
+    "nuwa_skill3"
+  ],
+  "normal_attack": {
+    "id": "nuwa_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "nuwa_skill1",
+    "name_ja": "補天",
+    "name_en": "補天"
+  },
+  "skill_2": {
+    "id": "nuwa_skill2",
+    "name_ja": "造人",
+    "name_en": "造人"
+  },
+  "ultimate": {
+    "id": "nuwa_skill3",
+    "name_ja": "五色石",
+    "name_en": "五色石"
+  },
+  "passive": {
+    "id": "nuwa_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "倒れた味方を蘇生しやすくする"
+  },
+  "civilization_tags": [
+    "china",
+    "HUAXIA",
+    "MYTH",
+    "DIVINE",
+    "CREATION"
+  ],
+  "relationships": [],
+  "voice_type": "warm",
+  "music_theme": "補天・創世・石",
+  "civilization_shift_effect": "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN",
+  "theme": "補天・創世・石",
+  "passive_text": "倒れた味方を蘇生しやすくする",
+  "story": "天が欠けても、私は継ぐ。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "huaxia",
+  "land": "huaxia",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/huaxia/nuwa.png",
+  "colors": {
+    "body": [
+      0.36,
+      0.044,
+      0.124
+    ],
+    "emit": [
+      0.86,
+      0.684,
+      0.304
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "xishi",
+  "uid": "xishi_001",
+  "name": "西施",
+  "name_ja": "西施",
+  "name_en": "XISHI",
+  "origin": "LEGEND",
+  "era": "ANCIENT",
+  "civ": "china",
+  "civilization": "HUAXIA",
+  "civilization_id": "huaxia",
+  "relic": "china_relic",
+  "reconstruction": "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN",
+  "seed": false,
+  "class": "LEGEND",
+  "role": "SUPPORT",
+  "role_ui": "Support",
+  "element": "SILK",
+  "weapon": "WEST_LAKE_SILK",
+  "height": 162,
+  "appearance": {
+    "hair": "huaxia_hair",
+    "eyes": "xishi_eyes",
+    "costume": "huaxia_legend"
+  },
+  "stats": {
+    "hp": 824,
+    "attack": 62,
+    "defense": 66,
+    "speed": 75
+  },
+  "hp": 116,
+  "speed": 8.3,
+  "damage": 12,
+  "skills": [
+    "xishi_skill1",
+    "xishi_skill2",
+    "xishi_skill3"
+  ],
+  "normal_attack": {
+    "id": "xishi_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "xishi_skill1",
+    "name_ja": "湖光",
+    "name_en": "湖光"
+  },
+  "skill_2": {
+    "id": "xishi_skill2",
+    "name_ja": "絹舞",
+    "name_en": "絹舞"
+  },
+  "ultimate": {
+    "id": "xishi_skill3",
+    "name_ja": "傾国",
+    "name_en": "傾国"
+  },
+  "passive": {
+    "id": "xishi_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "味方が技能を使うと回復し、領域が華夏へ寄る"
+  },
+  "civilization_tags": [
+    "china",
+    "HUAXIA",
+    "ANCIENT",
+    "LEGEND",
+    "SILK"
+  ],
+  "relationships": [
+    "hangzhou",
+    "luoyang",
+    "changan",
+    "nuwa"
+  ],
+  "voice_type": "warm",
+  "music_theme": "湖・絹・傾国・復元",
+  "civilization_shift_effect": "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN",
+  "theme": "湖・絹・傾国・復元",
+  "passive_text": "味方が技能を使うと回復し、領域が華夏へ寄る",
+  "story": "国が傾いても、名前は湖に残る。私はそれを岸へ戻す。",
+  "founder": true,
+  "implementation": "PLAYABLE",
+  "playable": true,
+  "belt": "huaxia",
+  "land": "huaxia",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/huaxia/xishi.png",
+  "colors": {
+    "body": [
+      0.34,
+      0.04,
+      0.132
+    ],
+    "emit": [
+      0.84,
+      0.672,
+      0.312
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "tang",
+  "uid": "tang_001",
+  "name": "唐",
+  "name_ja": "唐",
+  "name_en": "TANG",
+  "origin": "LEGEND",
+  "era": "MEDIEVAL",
+  "civ": "china",
+  "civilization": "HUAXIA",
+  "civilization_id": "huaxia",
+  "relic": "china_relic",
+  "reconstruction": "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN",
+  "seed": false,
+  "class": "LEGEND",
+  "role": "ATTACKER",
+  "role_ui": "Attacker",
+  "element": "VERSE",
+  "weapon": "TANG_SABER",
+  "height": 167,
+  "appearance": {
+    "hair": "huaxia_hair",
+    "eyes": "tang_eyes",
+    "costume": "huaxia_legend"
+  },
+  "stats": {
+    "hp": 966,
+    "attack": 83,
+    "defense": 70,
+    "speed": 72
+  },
+  "hp": 136,
+  "speed": 8.0,
+  "damage": 16,
+  "skills": [
+    "tang_skill1",
+    "tang_skill2",
+    "tang_skill3"
+  ],
+  "normal_attack": {
+    "id": "tang_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "tang_skill1",
+    "name_ja": "唐騎",
+    "name_en": "唐騎"
+  },
+  "skill_2": {
+    "id": "tang_skill2",
+    "name_ja": "長安詩",
+    "name_en": "長安詩"
+  },
+  "ultimate": {
+    "id": "tang_skill3",
+    "name_ja": "開放",
+    "name_en": "開放"
+  },
+  "passive": {
+    "id": "tang_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "移動したあと攻撃が伸びる"
+  },
+  "civilization_tags": [
+    "china",
+    "HUAXIA",
+    "MEDIEVAL",
+    "LEGEND",
+    "VERSE"
+  ],
+  "relationships": [],
+  "voice_type": "fierce",
+  "music_theme": "詩・騎馬・開放",
+  "civilization_shift_effect": "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN",
+  "theme": "詩・騎馬・開放",
+  "passive_text": "移動したあと攻撃が伸びる",
+  "story": "開いた都は、剣より詩で残る。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "huaxia",
+  "land": "huaxia",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/huaxia/tang.png",
+  "colors": {
+    "body": [
+      0.44,
+      0.092,
+      0.092
+    ],
+    "emit": [
+      0.94,
+      0.732,
+      0.272
+    ]
+  }
+}

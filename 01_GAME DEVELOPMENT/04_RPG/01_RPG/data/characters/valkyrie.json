@@ -1,0 +1,101 @@
+{
+  "id": "valkyrie",
+  "uid": "valkyrie_001",
+  "name": "ヴァルキリー",
+  "name_ja": "ヴァルキリー",
+  "name_en": "VALKYRIE",
+  "origin": "MYTH",
+  "era": "MEDIEVAL",
+  "civ": "norse",
+  "civilization": "NORSE",
+  "civilization_id": "norse",
+  "relic": "world_tree_shard",
+  "reconstruction": "霧の森とルーンが東京を覆う。",
+  "seed": false,
+  "class": "MYTH",
+  "role": "ASSASSIN",
+  "role_ui": "Assassin",
+  "element": "WING",
+  "weapon": "CHOOSER_SPEAR",
+  "height": 171,
+  "appearance": {
+    "hair": "norse_hair",
+    "eyes": "valkyrie_eyes",
+    "costume": "norse_myth"
+  },
+  "stats": {
+    "hp": 781,
+    "attack": 88,
+    "defense": 64,
+    "speed": 82
+  },
+  "hp": 110,
+  "speed": 9.1,
+  "damage": 17,
+  "skills": [
+    "valkyrie_skill1",
+    "valkyrie_skill2",
+    "valkyrie_skill3"
+  ],
+  "normal_attack": {
+    "id": "valkyrie_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "valkyrie_skill1",
+    "name_ja": "選定",
+    "name_en": "選定"
+  },
+  "skill_2": {
+    "id": "valkyrie_skill2",
+    "name_ja": "翼撃",
+    "name_en": "翼撃"
+  },
+  "ultimate": {
+    "id": "valkyrie_skill3",
+    "name_ja": "英霊送り",
+    "name_en": "英霊送り"
+  },
+  "passive": {
+    "id": "valkyrie_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "低HPの敵を優先して追う"
+  },
+  "civilization_tags": [
+    "norse",
+    "NORSE",
+    "MEDIEVAL",
+    "MYTH",
+    "WING"
+  ],
+  "relationships": [],
+  "voice_type": "quiet",
+  "music_theme": "選択・翼・戦場",
+  "civilization_shift_effect": "霧→ルーン→神木→虹橋→NORSE DOMAIN",
+  "theme": "選択・翼・戦場",
+  "passive_text": "低HPの敵を優先して追う",
+  "story": "誰を残すか。それが戦いの名前だ。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "norse",
+  "land": "norse",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/norse/valkyrie.png",
+  "colors": {
+    "body": [
+      0.208,
+      0.177,
+      0.189
+    ],
+    "emit": [
+      0.978,
+      0.567,
+      0.689
+    ]
+  }
+}

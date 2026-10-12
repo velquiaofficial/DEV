@@ -1,0 +1,105 @@
+{
+  "id": "isis",
+  "uid": "isis_001",
+  "name": "イシス",
+  "name_ja": "イシス",
+  "name_en": "ISIS",
+  "origin": "MYTH",
+  "era": "ANCIENT",
+  "civ": "egypt",
+  "civilization": "KEMET",
+  "civilization_id": "kemet",
+  "relic": "ankh_wings",
+  "reconstruction": "ナイルと蓮が灰色の街を潤す。",
+  "seed": false,
+  "class": "MYTH",
+  "role": "SUPPORT",
+  "role_ui": "Support",
+  "element": "LIFE",
+  "weapon": "ANKH_WINGS",
+  "height": 164,
+  "appearance": {
+    "hair": "kemet_hair",
+    "eyes": "isis_eyes",
+    "costume": "kemet_myth"
+  },
+  "stats": {
+    "hp": 781,
+    "attack": 52,
+    "defense": 64,
+    "speed": 68
+  },
+  "hp": 110,
+  "speed": 7.6,
+  "damage": 10,
+  "skills": [
+    "isis_skill1",
+    "isis_skill2",
+    "isis_skill3"
+  ],
+  "normal_attack": {
+    "id": "isis_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "isis_skill1",
+    "name_ja": "生命の翼",
+    "name_en": "生命の翼"
+  },
+  "skill_2": {
+    "id": "isis_skill2",
+    "name_ja": "星の呪",
+    "name_en": "星の呪"
+  },
+  "ultimate": {
+    "id": "isis_skill3",
+    "name_ja": "再生",
+    "name_en": "再生"
+  },
+  "passive": {
+    "id": "isis_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "味方の戦闘不能を一度だけ遅らせる"
+  },
+  "civilization_tags": [
+    "egypt",
+    "KEMET",
+    "ANCIENT",
+    "MYTH",
+    "LIFE"
+  ],
+  "relationships": [
+    "anubis",
+    "ra",
+    "hathor"
+  ],
+  "voice_type": "warm",
+  "music_theme": "回復・生命・蘇生・呪術",
+  "civilization_shift_effect": "砂→ナイル→蓮→神殿→KEMET DOMAIN",
+  "theme": "回復・生命・蘇生・呪術",
+  "passive_text": "味方の戦闘不能を一度だけ遅らせる",
+  "story": "折れたものは捨てない。私は結び直す。",
+  "founder": true,
+  "implementation": "PLAYABLE",
+  "playable": true,
+  "belt": "kemet",
+  "land": "kemet",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/kemet/isis.png",
+  "colors": {
+    "body": [
+      0.04,
+      0.072,
+      0.212
+    ],
+    "emit": [
+      0.82,
+      0.652,
+      0.252
+    ]
+  }
+}

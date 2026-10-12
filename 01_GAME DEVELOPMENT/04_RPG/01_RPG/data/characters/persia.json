@@ -1,0 +1,101 @@
+{
+  "id": "persia",
+  "uid": "persia_001",
+  "name": "ペルシア",
+  "name_ja": "ペルシア",
+  "name_en": "PERSIA",
+  "origin": "LEGEND",
+  "era": "ANCIENT",
+  "civ": "mesopotamia",
+  "civilization": "MESOPOTAMIA",
+  "civilization_id": "mesopotamia",
+  "relic": "venus_star",
+  "reconstruction": "古代都市の門と星の王権が地上へ戻る。",
+  "seed": false,
+  "class": "LEGEND",
+  "role": "DEFENDER",
+  "role_ui": "Defender",
+  "element": "LIGHT",
+  "weapon": "ROYAL_ROAD",
+  "height": 167,
+  "appearance": {
+    "hair": "mesopotamia_hair",
+    "eyes": "persia_eyes",
+    "costume": "mesopotamia_legend"
+  },
+  "stats": {
+    "hp": 1065,
+    "attack": 68,
+    "defense": 73,
+    "speed": 60
+  },
+  "hp": 150,
+  "speed": 6.7,
+  "damage": 13,
+  "skills": [
+    "persia_skill1",
+    "persia_skill2",
+    "persia_skill3"
+  ],
+  "normal_attack": {
+    "id": "persia_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "persia_skill1",
+    "name_ja": "王道",
+    "name_en": "王道"
+  },
+  "skill_2": {
+    "id": "persia_skill2",
+    "name_ja": "百柱",
+    "name_en": "百柱"
+  },
+  "ultimate": {
+    "id": "persia_skill3",
+    "name_ja": "光の帝国",
+    "name_en": "光の帝国"
+  },
+  "passive": {
+    "id": "persia_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "領域内で味方が倒れにくい"
+  },
+  "civilization_tags": [
+    "mesopotamia",
+    "MESOPOTAMIA",
+    "ANCIENT",
+    "LEGEND",
+    "LIGHT"
+  ],
+  "relationships": [],
+  "voice_type": "steadfast",
+  "music_theme": "王道・百柱・帝国",
+  "civilization_shift_effect": "砂塵→楔形→聖塔→両河→MESOPOTAMIA DOMAIN",
+  "theme": "王道・百柱・帝国",
+  "passive_text": "領域内で味方が倒れにくい",
+  "story": "道があれば、帝国は歩ける。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "mesopotamia",
+  "land": "mesopotamia",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/mesopotamia/persia.png",
+  "colors": {
+    "body": [
+      0.16,
+      0.088,
+      0.088
+    ],
+    "emit": [
+      0.9,
+      0.608,
+      0.208
+    ]
+  }
+}

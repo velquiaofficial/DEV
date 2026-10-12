@@ -1,0 +1,11 @@
+{
+  "id": "scathach",
+  "obj": "assets/raw/scathach.obj",
+  "portrait": "assets/characters/celtic/scathach.png",
+  "rig": "auto_rig",
+  "lod": [
+    "lod0",
+    "lod1",
+    "lod2"
+  ]
+}

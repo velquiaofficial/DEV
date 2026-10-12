@@ -1,0 +1,117 @@
+[
+  {
+    "id": "yata_mirror",
+    "name_ja": "八咫鏡",
+    "name_en": "YATA MIRROR",
+    "civ": "japan",
+    "owner": "amaterasu",
+    "motif": "鏡",
+    "reconstruction": "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。",
+    "layers": [
+      "torii",
+      "sakura",
+      "shrine",
+      "sunlight"
+    ]
+  },
+  {
+    "id": "lost_city_aegis",
+    "name_ja": "失われた都市の盾",
+    "name_en": "LOST CITY AEGIS",
+    "civ": "greece",
+    "owner": "athena",
+    "motif": "盾",
+    "reconstruction": "都市が白い大理石の神殿都市へ変化する。",
+    "layers": [
+      "column",
+      "temple",
+      "olive",
+      "marble"
+    ]
+  },
+  {
+    "id": "judgment_scale",
+    "name_ja": "審判の秤",
+    "name_en": "JUDGMENT SCALE",
+    "civ": "egypt",
+    "owner": "anubis",
+    "motif": "秤",
+    "reconstruction": "砂と黄金に覆われた死者の都市になる。",
+    "layers": [
+      "sand",
+      "gold",
+      "obelisk",
+      "underworld"
+    ]
+  },
+  {
+    "id": "venus_star",
+    "name_ja": "金星章",
+    "name_en": "VENUS STAR",
+    "civ": "mesopotamia",
+    "owner": "ishtar",
+    "motif": "星章",
+    "reconstruction": "古代都市の門と星の王権が地上へ戻る。",
+    "layers": [
+      "gate",
+      "star",
+      "ziggurat"
+    ]
+  },
+  {
+    "id": "shadow_spear",
+    "name_ja": "影の槍",
+    "name_en": "SHADOW SPEAR",
+    "civ": "celtic",
+    "owner": "scathach",
+    "motif": "槍",
+    "reconstruction": "霧と異界の戦士領域が重なる。",
+    "layers": [
+      "mist",
+      "shadow",
+      "otherworld"
+    ]
+  },
+  {
+    "id": "ankh_wings",
+    "name_ja": "生命のアンク",
+    "name_en": "ANKH WINGS",
+    "civ": "egypt",
+    "owner": "isis",
+    "motif": "アンク",
+    "reconstruction": "ナイルと蓮が灰色の街を潤す。",
+    "layers": [
+      "lotus",
+      "nile",
+      "temple"
+    ]
+  },
+  {
+    "id": "world_tree_shard",
+    "name_ja": "世界樹の欠片",
+    "name_en": "WORLD TREE SHARD",
+    "civ": "norse",
+    "owner": "freya",
+    "motif": "世界樹",
+    "reconstruction": "霧の森とルーンが東京を覆う。",
+    "layers": [
+      "runestone",
+      "grove",
+      "bifrost"
+    ]
+  },
+  {
+    "id": "memory_core",
+    "name_ja": "量子記憶核",
+    "name_en": "MEMORY CORE",
+    "civ": "future",
+    "owner": "aeterna",
+    "motif": "人工知能コア",
+    "reconstruction": "失われたネットワークが回路として蘇る。",
+    "layers": [
+      "circuit",
+      "archive",
+      "orbit"
+    ]
+  }
+]

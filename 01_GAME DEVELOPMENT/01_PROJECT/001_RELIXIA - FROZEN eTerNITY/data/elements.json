@@ -1,0 +1,7 @@
+{
+  "fire": { "name": "火", "color": "#ff8a3d" },
+  "ice": { "name": "氷", "color": "#6fd4ff" },
+  "light": { "name": "光", "color": "#ffd36e" },
+  "dark": { "name": "闇", "color": "#ff6fa8" },
+  "moon": { "name": "月", "color": "#c9a0ff" }
+}

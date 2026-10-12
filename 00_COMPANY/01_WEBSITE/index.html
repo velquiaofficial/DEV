@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="VELQUIA creates unforgettable casual games with inventive mechanics, luminous art, and seasons players return to.">
+  <meta name="theme-color" content="#0a0a0c">
+  <title>VELQUIA — We Create Unforgettable Gaming Experiences</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+JP:wght@400;500;700&family=Outfit:wght@500;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" href="image/velquia-logo.jpg">
+</head>
+<body>
+  <canvas id="meteors" aria-hidden="true"></canvas>
+  <div class="progress" aria-hidden="true"><span id="scroll-progress"></span></div>
+  <div class="grain" aria-hidden="true"></div>
+  <a class="skip" href="#main">Skip to content</a>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="logo" href="#home" aria-label="VELQUIA home">
+        <img src="image/velquia-logo.jpg" alt="" width="40" height="40">
+        <span>VELQUIA</span>
+      </a>
+      <button class="menu-btn" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="site-nav">
+        <span></span><span></span><span></span>
+      </button>
+      <nav id="site-nav" class="nav" aria-label="Primary">
+        <a href="#home" class="active">Home</a>
+        <a href="#games">Our Games</a>
+        <a href="#play">Play Games</a>
+        <a href="#about">About Us</a>
+        <a href="#services">Business</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="hero" id="home" aria-labelledby="hero-title">
+      <canvas id="starfield" aria-hidden="true"></canvas>
+      <div class="hero-copy">
+        <p class="eyebrow">
+          <span class="eyebrow-ico" aria-hidden="true">
+            <svg width="14" height="14" viewBox="0 0 14 14">
+              <rect x="1.2" y="3.4" width="11.6" height="7.2" rx="2.2" fill="none" stroke="currentColor" stroke-width="1.2"/>
+              <path d="M3.6 7h2.2M4.7 5.9v2.2" stroke="currentColor" stroke-width="1.1" stroke-linecap="round"/>
+              <circle cx="9.2" cy="6.1" r="0.7" fill="currentColor"/>
+              <circle cx="10.5" cy="7.6" r="0.7" fill="currentColor"/>
+            </svg>
+          </span>
+          Level up your gaming
+        </p>
+        <h1 id="hero-title">
+          We Create<br>
+          <span class="grad">Unforgettable</span><br>
+          Gaming<br>
+          Experiences
+        </h1>
+        <p class="lede">Redefining casual gaming with innovative mechanics, stunning visuals, and engaging experiences that keep players coming back for more.</p>
+        <div class="actions">
+          <a class="btn btn-primary" href="#games">Explore Games</a>
+          <a class="btn btn-ghost" href="#contact">
+            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+              <path d="M6 16V11a6 6 0 1 1 12 0v5l1.5 2h-15L6 16z" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/>
+              <path d="M10 19a2 2 0 0 0 4 0" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/>
+            </svg>
+            Get Updates
+          </a>
+        </div>
+      </div>
+      <div class="hero-emblem">
+        <img class="hero-mark" src="image/velquia-logo.jpg" alt="VELQUIA">
+        <span class="orbit" aria-hidden="true"></span>
+      </div>
+      <a class="scroll-ind" href="#games">
+        <span>Scroll</span>
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <path d="M6 9l6 6 6-6" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+      </a>
+      <div class="ribbon" aria-hidden="true">
+        <div class="ribbon-track">
+          <span>Game Creation</span><i></i><span>Content Production</span><i></i><span>Media</span><i></i><span>Development</span><i></i>
+          <span>Game Creation</span><i></i><span>Content Production</span><i></i><span>Media</span><i></i><span>Development</span><i></i>
+          <span>Game Creation</span><i></i><span>Content Production</span><i></i><span>Media</span><i></i><span>Development</span><i></i>
+          <span>Game Creation</span><i></i><span>Content Production</span><i></i><span>Media</span><i></i><span>Development</span><i></i>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="games" aria-labelledby="games-title">
+      <div class="section-inner">
+        <div class="section-head">
+          <div>
+            <p class="kicker">Our Games</p>
+            <h2 id="games-title">Our Games</h2>
+          </div>
+          <span class="section-no" aria-hidden="true">01</span>
+        </div>
+        <article class="biz feature-game">
+          <p class="feature-kicker" aria-hidden="true">Flagship</p>
+          <div>
+            <p class="biz-index">01 — Flagship</p>
+            <h3>RELIXIA: FROZEN ETERNITY</h3>
+            <p>The studio's main project. Trials of the other games open from this site.</p>
+          </div>
+        </article>
+        <div class="grid-3">
+          <article class="card">
+            <div class="card-art art-1" aria-hidden="true"><span class="blob b1"></span><span class="blob b2"></span></div>
+            <div class="card-body">
+              <div class="card-meta"><p class="genre">Puzzle</p><span class="card-no">01</span></div>
+              <h3>Triangle Tetris</h3>
+              <p>A puzzle trial from the studio shelf.</p>
+              <a class="card-link" href="../../01_GAME%20DEVELOPMENT/02_PUZZLE/01_TETORIS/index.html">Open trial</a>
+            </div>
+          </article>
+          <article class="card">
+            <div class="card-art art-2" aria-hidden="true"><span class="blob b1"></span><span class="blob b2"></span></div>
+            <div class="card-body">
+              <div class="card-meta"><p class="genre">Rhythm</p><span class="card-no">02</span></div>
+              <h3>RYTHOM</h3>
+              <p>A rhythm trial with four lanes.</p>
+              <a class="card-link" href="../../01_GAME%20DEVELOPMENT/03_RHYTHM/01_RYTHOM/index.html">Open trial</a>
+            </div>
+          </article>
+          <article class="card">
+            <div class="card-art art-3" aria-hidden="true"><span class="blob b1"></span><span class="blob b2"></span></div>
+            <div class="card-body">
+              <div class="card-meta"><p class="genre">Card</p><span class="card-no">03</span></div>
+              <h3>MUSUKING</h3>
+              <p>A card-battle trial.</p>
+              <a class="card-link" href="../../01_GAME%20DEVELOPMENT/06_CARD/001_MUSUKING/index.html">Open trial</a>
+            </div>
+          </article>
+          <article class="card">
+            <div class="card-art art-2" aria-hidden="true"><span class="blob b1"></span><span class="blob b2"></span></div>
+            <div class="card-body">
+              <div class="card-meta"><p class="genre">Party</p><span class="card-no">04</span></div>
+              <h3>Moonlit Werewolf</h3>
+              <p>A social deduction trial.</p>
+              <a class="card-link" href="../../01_GAME%20DEVELOPMENT/05_PARTY/02_JINRO/index.html">Open trial</a>
+            </div>
+          </article>
+          <article class="card">
+            <div class="card-art art-1" aria-hidden="true"><span class="blob b1"></span><span class="blob b2"></span></div>
+            <div class="card-body">
+              <div class="card-meta"><p class="genre">Party</p><span class="card-no">05</span></div>
+              <h3>Word Wolf</h3>
+              <p>A word-based party trial.</p>
+              <a class="card-link" href="../../01_GAME%20DEVELOPMENT/05_PARTY/03_WORD%20WOLF/index.html">Open trial</a>
+            </div>
+          </article>
+          <article class="card">
+            <div class="card-art art-3" aria-hidden="true"><span class="blob b1"></span><span class="blob b2"></span></div>
+            <div class="card-body">
+              <div class="card-meta"><p class="genre">Party</p><span class="card-no">06</span></div>
+              <h3>Ha no Ondo</h3>
+              <p>A one-phone party trial.</p>
+              <a class="card-link" href="../../01_GAME%20DEVELOPMENT/05_PARTY/01_BOARD%20GAME/index.html">Open trial</a>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-play" id="play" aria-labelledby="play-title">
+      <div class="section-inner">
+        <div class="section-head">
+          <div>
+            <p class="kicker">Play Games</p>
+            <h2 id="play-title">Play a trial</h2>
+          </div>
+          <span class="section-no" aria-hidden="true">02</span>
+        </div>
+        <div class="play-deck">
+        <p class="section-lead">These open the trials already on this computer. RELIXIA: FROZEN ETERNITY stays the main project beside them.</p>
+        <div class="play-links">
+          <a class="btn btn-primary" href="../../01_GAME%20DEVELOPMENT/02_PUZZLE/01_TETORIS/index.html">Triangle Tetris</a>
+          <a class="btn btn-ghost" href="../../01_GAME%20DEVELOPMENT/03_RHYTHM/01_RYTHOM/index.html">RYTHOM</a>
+          <a class="btn btn-ghost" href="../../01_GAME%20DEVELOPMENT/06_CARD/001_MUSUKING/index.html">MUSUKING</a>
+          <a class="btn btn-ghost" href="../../01_GAME%20DEVELOPMENT/05_PARTY/02_JINRO/index.html">Moonlit Werewolf</a>
+          <a class="btn btn-ghost" href="../../01_GAME%20DEVELOPMENT/05_PARTY/03_WORD%20WOLF/index.html">Word Wolf</a>
+          <a class="btn btn-ghost" href="../../01_GAME%20DEVELOPMENT/05_PARTY/01_BOARD%20GAME/index.html">Ha no Ondo</a>
+        </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="about" aria-labelledby="about-title">
+      <div class="section-inner split">
+        <div>
+          <div class="section-head">
+            <div>
+              <p class="kicker">About Us</p>
+              <h2 id="about-title">A studio built for the next round</h2>
+            </div>
+            <span class="section-no" aria-hidden="true">03</span>
+          </div>
+          <p class="section-lead">VELQUIA makes casual games that feel clear in seconds and surprising for months. We care about the mechanic, the light, and the reason someone opens the game again tomorrow.</p>
+          <p class="body-copy">We design in small teams: one idea, a tight loop, and art that belongs to that loop. When a game ships, we stay with it — new seasons, cleaner feel, and updates that respect the people already playing.</p>
+        </div>
+        <div class="principles">
+          <article class="principle">
+            <span class="principle-no">01</span>
+            <h3>Clear in seconds</h3>
+            <p>The first tap teaches the game. No manual required.</p>
+          </article>
+          <article class="principle">
+            <span class="principle-no">02</span>
+            <h3>Surprising for months</h3>
+            <p>Systems that keep offering a better run, not a longer tutorial.</p>
+          </article>
+          <article class="principle">
+            <span class="principle-no">03</span>
+            <h3>Alive after launch</h3>
+            <p>Seasons and balance passes that give players a reason to return.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-services" id="services" aria-labelledby="services-title">
+      <div class="section-inner">
+        <div class="section-head">
+          <div>
+            <p class="kicker">Business</p>
+            <h2 id="services-title">Business</h2>
+          </div>
+          <span class="section-no" aria-hidden="true">04</span>
+        </div>
+        <p class="section-lead">Games, digital talent and music, and publishing and media. Three businesses that connect our works with people.</p>
+        <div class="biz-grid">
+          <article class="biz">
+            <p class="biz-index">01 — Game Development</p>
+            <h3>Games</h3>
+            <p>VELQUIA's core business. We plan and develop games, then distribute and sell them digitally.</p>
+            <ul>
+              <li>Puzzle, PC, and smartphone games</li>
+              <li>Original game planning and development</li>
+              <li>Worlds and characters inside our games</li>
+            </ul>
+          </article>
+          <article class="biz">
+            <p class="biz-index">02 — Digital Talent &amp; Music</p>
+            <h3>Digital Talent &amp; Music</h3>
+            <p>We connect characters and fans through VTubers and music creators.</p>
+            <ul>
+              <li>VTuber planning, operations, and management</li>
+              <li>Vocaloid tracks and original songs</li>
+              <li>Streams, videos, background music, and other music content</li>
+            </ul>
+          </article>
+          <article class="biz">
+            <p class="biz-index">03 — Digital Publishing &amp; Media</p>
+            <h3>Publishing &amp; Media</h3>
+            <p>We carry our stories and worlds further through fiction, video, and the web.</p>
+            <ul>
+              <li>Light novels and web novels, from planning to digital publishing</li>
+              <li>Character art, illustration, and video</li>
+              <li>Web media, news, and promotion for our works</li>
+            </ul>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="contact" aria-labelledby="contact-title">
+      <div class="section-inner">
+        <div class="section-head">
+          <div>
+            <p class="kicker">Contact</p>
+            <h2 id="contact-title">Tell us what you want to play next</h2>
+          </div>
+          <span class="section-no" aria-hidden="true">05</span>
+        </div>
+        <p class="section-lead">A new game, a partnership, or a note when the next season opens.</p>
+        <a class="mail" href="mailto:velquia.official@gmail.com">velquia.official@gmail.com</a>
+        <div class="contact-grid">
+          <div class="panel">
+            <h3>Get updates</h3>
+            <p class="panel-copy">New games, playtests, and season notes. Only when we actually have something to show.</p>
+            <form id="update-form" class="stack">
+              <div class="field">
+                <label for="update-email">Email</label>
+                <input id="update-email" name="email" type="email" required autocomplete="email" maxlength="120" placeholder="you@email.com">
+              </div>
+              <button class="btn btn-primary" type="submit">Join</button>
+            </form>
+            <p id="update-success" class="form-success" hidden>Your email app should open a note to velquia.official@gmail.com.</p>
+          </div>
+          <div class="panel">
+            <h3>Send a message</h3>
+            <form id="contact-form" class="stack">
+              <div class="field">
+                <label for="name">Name</label>
+                <input id="name" name="name" type="text" required autocomplete="name" maxlength="80">
+              </div>
+              <div class="field">
+                <label for="email">Email</label>
+                <input id="email" name="email" type="email" required autocomplete="email" maxlength="120">
+              </div>
+              <div class="field">
+                <label for="message">Message</label>
+                <textarea id="message" name="message" rows="5" required maxlength="1000"></textarea>
+              </div>
+              <button class="btn btn-primary" type="submit">Send message</button>
+            </form>
+            <p id="contact-success" class="form-success" hidden>Your email app should open a message to velquia.official@gmail.com.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <p>© 2026 VELQUIA. <a class="mail mail-quiet" href="mailto:velquia.official@gmail.com">velquia.official@gmail.com</a></p>
+      <nav class="footer-nav" aria-label="Footer">
+        <a href="#games">Our Games</a>
+        <a href="#about">About Us</a>
+        <a href="#services">Business</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

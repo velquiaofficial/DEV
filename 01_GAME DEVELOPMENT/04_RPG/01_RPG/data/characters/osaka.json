@@ -1,0 +1,101 @@
+{
+  "id": "osaka",
+  "uid": "osaka_001",
+  "name": "大坂",
+  "name_ja": "大坂",
+  "name_en": "OSAKA",
+  "origin": "LEGACY",
+  "era": "EARLY MODERN",
+  "civ": "japan",
+  "civilization": "YAMATO",
+  "civilization_id": "yamato",
+  "relic": "yata_mirror",
+  "reconstruction": "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。",
+  "seed": false,
+  "class": "LEGACY",
+  "role": "ATTACKER",
+  "role_ui": "Attacker",
+  "element": "RIVER",
+  "weapon": "CASTLE_SPEAR",
+  "height": 164,
+  "appearance": {
+    "hair": "yamato_hair",
+    "eyes": "osaka_eyes",
+    "costume": "yamato_legacy"
+  },
+  "stats": {
+    "hp": 909,
+    "attack": 78,
+    "defense": 68,
+    "speed": 74
+  },
+  "hp": 128,
+  "speed": 8.2,
+  "damage": 15,
+  "skills": [
+    "osaka_skill1",
+    "osaka_skill2",
+    "osaka_skill3"
+  ],
+  "normal_attack": {
+    "id": "osaka_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "osaka_skill1",
+    "name_ja": "大城",
+    "name_en": "大城"
+  },
+  "skill_2": {
+    "id": "osaka_skill2",
+    "name_ja": "商い",
+    "name_en": "商い"
+  },
+  "ultimate": {
+    "id": "osaka_skill3",
+    "name_ja": "大河",
+    "name_en": "大河"
+  },
+  "passive": {
+    "id": "osaka_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "味方が近いと攻撃が上がる"
+  },
+  "civilization_tags": [
+    "japan",
+    "YAMATO",
+    "EARLY_MODERN",
+    "LEGACY",
+    "RIVER"
+  ],
+  "relationships": [],
+  "voice_type": "fierce",
+  "music_theme": "城・商い・大河",
+  "civilization_shift_effect": "廃墟→光→桜→鳥居→神社→神木→YAMATO DOMAIN",
+  "theme": "城・商い・大河",
+  "passive_text": "味方が近いと攻撃が上がる",
+  "story": "商いの都は、刀より残る。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "yamato",
+  "land": "yamato",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/yamato/osaka.png",
+  "colors": {
+    "body": [
+      1.0,
+      0.972,
+      0.852
+    ],
+    "emit": [
+      1.0,
+      0.862,
+      0.322
+    ]
+  }
+}

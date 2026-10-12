@@ -1,0 +1,107 @@
+{
+  "id": "tokyo",
+  "uid": "tokyo_001",
+  "name": "東京",
+  "name_ja": "東京",
+  "name_en": "TOKYO",
+  "origin": "NEXUS",
+  "era": "CONTEMPORARY",
+  "civ": "japan",
+  "civilization": "TOKYO",
+  "civilization_id": "tokyo",
+  "relic": "yata_mirror",
+  "reconstruction": "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。",
+  "seed": false,
+  "class": "NEXUS",
+  "role": "TACTICIAN",
+  "role_ui": "Tactician",
+  "element": "NETWORK",
+  "weapon": "TRANSIT_CORE",
+  "height": 163,
+  "appearance": {
+    "hair": "tokyo_hair",
+    "eyes": "tokyo_eyes",
+    "costume": "tokyo_nexus"
+  },
+  "stats": {
+    "hp": 816,
+    "attack": 68,
+    "defense": 65,
+    "speed": 77
+  },
+  "hp": 115,
+  "speed": 8.6,
+  "damage": 13,
+  "skills": [
+    "tokyo_skill1",
+    "tokyo_skill2",
+    "tokyo_skill3"
+  ],
+  "normal_attack": {
+    "id": "tokyo_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "tokyo_skill1",
+    "name_ja": "回路",
+    "name_en": "回路"
+  },
+  "skill_2": {
+    "id": "tokyo_skill2",
+    "name_ja": "急行",
+    "name_en": "急行"
+  },
+  "ultimate": {
+    "id": "tokyo_skill3",
+    "name_ja": "首都覚醒",
+    "name_en": "首都覚醒"
+  },
+  "passive": {
+    "id": "tokyo_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "味方と距離が近いと捕獲加速"
+  },
+  "civilization_tags": [
+    "japan",
+    "TOKYO",
+    "CONTEMPORARY",
+    "NEXUS",
+    "NETWORK"
+  ],
+  "relationships": [
+    "amaterasu",
+    "edo",
+    "future_tokyo",
+    "yokohama",
+    "meiji"
+  ],
+  "voice_type": "measured",
+  "music_theme": "情報・鉄道・ネオン",
+  "civilization_shift_effect": "灰色の線路→ネオン→駅→回路都市→TOKYO DOMAIN",
+  "theme": "情報・鉄道・ネオン",
+  "passive_text": "味方と距離が近いと捕獲加速",
+  "story": "未来が先に消えているなら、私は線路を繋ぎ直す。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "tokyo",
+  "land": "tokyo",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/tokyo/tokyo.png",
+  "colors": {
+    "body": [
+      0.04,
+      0.052,
+      0.192
+    ],
+    "emit": [
+      0.12,
+      0.802,
+      0.982
+    ]
+  }
+}

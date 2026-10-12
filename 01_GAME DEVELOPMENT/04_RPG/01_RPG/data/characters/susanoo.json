@@ -1,0 +1,101 @@
+{
+  "id": "susanoo",
+  "uid": "susanoo_001",
+  "name": "須佐之男",
+  "name_ja": "須佐之男",
+  "name_en": "SUSANOO",
+  "origin": "DIVINE",
+  "era": "MYTH",
+  "civ": "japan",
+  "civilization": "YAMATO",
+  "civilization_id": "yamato",
+  "relic": "yata_mirror",
+  "reconstruction": "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。",
+  "seed": false,
+  "class": "DIVINE",
+  "role": "ATTACKER",
+  "role_ui": "Attacker",
+  "element": "STORM",
+  "weapon": "KUSANAGI",
+  "height": 172,
+  "appearance": {
+    "hair": "yamato_hair",
+    "eyes": "susanoo_eyes",
+    "costume": "yamato_divine"
+  },
+  "stats": {
+    "hp": 937,
+    "attack": 88,
+    "defense": 69,
+    "speed": 76
+  },
+  "hp": 132,
+  "speed": 8.4,
+  "damage": 17,
+  "skills": [
+    "susanoo_skill1",
+    "susanoo_skill2",
+    "susanoo_skill3"
+  ],
+  "normal_attack": {
+    "id": "susanoo_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "susanoo_skill1",
+    "name_ja": "八雲",
+    "name_en": "八雲"
+  },
+  "skill_2": {
+    "id": "susanoo_skill2",
+    "name_ja": "暴雨",
+    "name_en": "暴雨"
+  },
+  "ultimate": {
+    "id": "susanoo_skill3",
+    "name_ja": "草薙",
+    "name_en": "草薙"
+  },
+  "passive": {
+    "id": "susanoo_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "攻撃が続くと与ダメージが上がる"
+  },
+  "civilization_tags": [
+    "japan",
+    "YAMATO",
+    "MYTH",
+    "DIVINE",
+    "STORM"
+  ],
+  "relationships": [],
+  "voice_type": "fierce",
+  "music_theme": "嵐・剣・荒ぶる海",
+  "civilization_shift_effect": "廃墟→光→桜→鳥居→神社→神木→YAMATO DOMAIN",
+  "theme": "嵐・剣・荒ぶる海",
+  "passive_text": "攻撃が続くと与ダメージが上がる",
+  "story": "荒れることは、忘れないための叫びだ。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "yamato",
+  "land": "yamato",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/yamato/susanoo.png",
+  "colors": {
+    "body": [
+      0.89,
+      0.9,
+      0.9
+    ],
+    "emit": [
+      0.95,
+      0.79,
+      0.37
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "character": "amaterasu",
+    "relationship": 0,
+    "location": "tokyo_ruins",
+    "story_state": 0,
+    "line": "先生。この鏡は、まだ世界を覚えている。"
+  },
+  {
+    "character": "amaterasu",
+    "relationship": 20,
+    "location": "tokyo_ruins",
+    "story_state": 0,
+    "line": "灰色の東京でも、名前を呼べば光は残る。"
+  },
+  {
+    "character": "amaterasu",
+    "relationship": 45,
+    "location": "tokyo_shrine",
+    "story_state": 3,
+    "line": "桜が戻った。先生の声が、鳥居を立てた。"
+  },
+  {
+    "character": "athena",
+    "relationship": 0,
+    "location": "tokyo_ruins",
+    "story_state": 0,
+    "line": "……先生。盾は、折れた歴史の音を聞いている。"
+  },
+  {
+    "character": "athena",
+    "relationship": 10,
+    "location": "tokyo_ruins",
+    "story_state": 4,
+    "line": "盾は、歴史が折れる音を聞く。先生は、どちらを残す。"
+  },
+  {
+    "character": "anubis",
+    "relationship": 0,
+    "location": "tokyo_ruins",
+    "story_state": 0,
+    "line": "死者の名は、まだ砂の下だ。先生、掘れ。"
+  },
+  {
+    "character": "ishtar",
+    "relationship": 0,
+    "location": "tokyo_ruins",
+    "story_state": 0,
+    "line": "星が落ちた街ね。先生、私の名を先に呼べばいい。"
+  },
+  {
+    "character": "scathach",
+    "relationship": 0,
+    "location": "tokyo_ruins",
+    "story_state": 0,
+    "line": "影の国は閉じた。先生、剣を持て。"
+  }
+]

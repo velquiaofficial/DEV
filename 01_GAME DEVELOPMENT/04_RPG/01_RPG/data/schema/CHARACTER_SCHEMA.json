@@ -1,0 +1,91 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PROJECT AETERNA Character",
+  "type": "object",
+  "required": [
+    "id",
+    "name_ja",
+    "name_en",
+    "era",
+    "civilization",
+    "class",
+    "role",
+    "element",
+    "weapon",
+    "height",
+    "appearance",
+    "stats",
+    "skills",
+    "normal_attack",
+    "skill_1",
+    "skill_2",
+    "ultimate",
+    "passive",
+    "civilization_tags",
+    "relationships",
+    "voice_type",
+    "music_theme",
+    "civilization_shift_effect"
+  ],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9_]+$" },
+    "name_ja": { "type": "string", "minLength": 1 },
+    "name_en": { "type": "string", "minLength": 1 },
+    "origin": { "type": "string" },
+    "era": {
+      "type": "string",
+      "enum": ["MYTH", "ANCIENT", "MEDIEVAL", "EARLY MODERN", "MODERN", "CONTEMPORARY", "FUTURE", "VOID"]
+    },
+    "civilization": { "type": "string" },
+    "class": {
+      "type": "string",
+      "enum": ["DIVINE", "MYTH", "LEGEND", "LEGACY", "NEXUS", "ANTAGONIST"]
+    },
+    "role": {
+      "type": "string",
+      "enum": ["ATTACKER", "DEFENDER", "SUPPORT", "CONTROLLER", "TACTICIAN", "ASSASSIN", "SUPPORT_ATTACKER"]
+    },
+    "element": { "type": "string" },
+    "weapon": { "type": "string" },
+    "height": { "type": "number", "minimum": 140, "maximum": 200 },
+    "appearance": {
+      "type": "object",
+      "required": ["hair", "eyes", "costume"],
+      "properties": {
+        "hair": { "type": "string" },
+        "eyes": { "type": "string" },
+        "costume": { "type": "string" }
+      }
+    },
+    "stats": {
+      "type": "object",
+      "required": ["hp", "attack", "defense", "speed"],
+      "properties": {
+        "hp": { "type": "number", "minimum": 400, "maximum": 2000 },
+        "attack": { "type": "number", "minimum": 20, "maximum": 200 },
+        "defense": { "type": "number", "minimum": 20, "maximum": 200 },
+        "speed": { "type": "number", "minimum": 20, "maximum": 200 }
+      }
+    },
+    "skills": {
+      "type": "array",
+      "minItems": 3,
+      "items": { "type": "string" }
+    },
+    "normal_attack": { "type": "object" },
+    "skill_1": { "type": "object" },
+    "skill_2": { "type": "object" },
+    "ultimate": { "type": "object" },
+    "passive": { "type": "object" },
+    "civilization_tags": { "type": "array", "items": { "type": "string" } },
+    "relationships": { "type": "array", "items": { "type": "string" } },
+    "voice_type": { "type": "string" },
+    "music_theme": { "type": "string" },
+    "civilization_shift_effect": { "type": "string" },
+    "implementation": {
+      "type": "string",
+      "enum": ["PLAYABLE", "ARCHIVED_MEMORY"]
+    },
+    "founder": { "type": "boolean" }
+  }
+}

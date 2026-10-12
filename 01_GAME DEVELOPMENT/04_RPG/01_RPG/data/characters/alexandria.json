@@ -1,0 +1,101 @@
+{
+  "id": "alexandria",
+  "uid": "alexandria_001",
+  "name": "アレクサンドリア",
+  "name_ja": "アレクサンドリア",
+  "name_en": "ALEXANDRIA",
+  "origin": "LEGACY",
+  "era": "ANCIENT",
+  "civ": "egypt",
+  "civilization": "KEMET",
+  "civilization_id": "kemet",
+  "relic": "judgment_scale",
+  "reconstruction": "ナイルと蓮が灰色の街を潤す。",
+  "seed": false,
+  "class": "LEGACY",
+  "role": "TACTICIAN",
+  "role_ui": "Tactician",
+  "element": "ARCHIVE",
+  "weapon": "PHAROS",
+  "height": 166,
+  "appearance": {
+    "hair": "kemet_hair",
+    "eyes": "alexandria_eyes",
+    "costume": "kemet_legacy"
+  },
+  "stats": {
+    "hp": 838,
+    "attack": 68,
+    "defense": 66,
+    "speed": 69
+  },
+  "hp": 118,
+  "speed": 7.7,
+  "damage": 13,
+  "skills": [
+    "alexandria_skill1",
+    "alexandria_skill2",
+    "alexandria_skill3"
+  ],
+  "normal_attack": {
+    "id": "alexandria_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "alexandria_skill1",
+    "name_ja": "灯台",
+    "name_en": "灯台"
+  },
+  "skill_2": {
+    "id": "alexandria_skill2",
+    "name_ja": "焼ける書",
+    "name_en": "焼ける書"
+  },
+  "ultimate": {
+    "id": "alexandria_skill3",
+    "name_ja": "大図書館",
+    "name_en": "大図書館"
+  },
+  "passive": {
+    "id": "alexandria_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "視界内のRELIC情報が見える"
+  },
+  "civilization_tags": [
+    "egypt",
+    "KEMET",
+    "ANCIENT",
+    "LEGACY",
+    "ARCHIVE"
+  ],
+  "relationships": [],
+  "voice_type": "measured",
+  "music_theme": "灯台・書庫・海",
+  "civilization_shift_effect": "砂→ナイル→蓮→神殿→KEMET DOMAIN",
+  "theme": "灯台・書庫・海",
+  "passive_text": "視界内のRELIC情報が見える",
+  "story": "燃えても、読まれた行は消えない。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "kemet",
+  "land": "kemet",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/kemet/alexandria.png",
+  "colors": {
+    "body": [
+      0.164,
+      0.158,
+      0.154
+    ],
+    "emit": [
+      0.964,
+      0.738,
+      0.194
+    ]
+  }
+}

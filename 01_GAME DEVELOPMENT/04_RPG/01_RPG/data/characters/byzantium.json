@@ -1,0 +1,101 @@
+{
+  "id": "byzantium",
+  "uid": "byzantium_001",
+  "name": "ビザンツ",
+  "name_ja": "ビザンツ",
+  "name_en": "BYZANTIUM",
+  "origin": "LEGACY",
+  "era": "MEDIEVAL",
+  "civ": "rome",
+  "civilization": "ROME",
+  "civilization_id": "rome",
+  "relic": "rome_relic",
+  "reconstruction": "瓦礫→石畳→凱旋門→街道→ROME DOMAIN",
+  "seed": false,
+  "class": "LEGACY",
+  "role": "DEFENDER",
+  "role_ui": "Defender",
+  "element": "WALL",
+  "weapon": "GOLDEN_WALL",
+  "height": 167,
+  "appearance": {
+    "hair": "rome_hair",
+    "eyes": "byzantium_eyes",
+    "costume": "rome_legacy"
+  },
+  "stats": {
+    "hp": 1122,
+    "attack": 62,
+    "defense": 75,
+    "speed": 58
+  },
+  "hp": 158,
+  "speed": 6.5,
+  "damage": 12,
+  "skills": [
+    "byzantium_skill1",
+    "byzantium_skill2",
+    "byzantium_skill3"
+  ],
+  "normal_attack": {
+    "id": "byzantium_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "byzantium_skill1",
+    "name_ja": "三重壁",
+    "name_en": "三重壁"
+  },
+  "skill_2": {
+    "id": "byzantium_skill2",
+    "name_ja": "金角",
+    "name_en": "金角"
+  },
+  "ultimate": {
+    "id": "byzantium_skill3",
+    "name_ja": "両洋の都",
+    "name_en": "両洋の都"
+  },
+  "passive": {
+    "id": "byzantium_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "味方全体の防御がわずかに上がる"
+  },
+  "civilization_tags": [
+    "rome",
+    "ROME",
+    "MEDIEVAL",
+    "LEGACY",
+    "WALL"
+  ],
+  "relationships": [],
+  "voice_type": "steadfast",
+  "music_theme": "金角・城壁・東西",
+  "civilization_shift_effect": "瓦礫→石畳→凱旋門→街道→ROME DOMAIN",
+  "theme": "金角・城壁・東西",
+  "passive_text": "味方全体の防御がわずかに上がる",
+  "story": "東と西が折れる場所で、私は壁になる。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "rome",
+  "land": "rome",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/rome/byzantium.png",
+  "colors": {
+    "body": [
+      0.648,
+      0.137,
+      0.129
+    ],
+    "emit": [
+      0.928,
+      0.737,
+      0.269
+    ]
+  }
+}

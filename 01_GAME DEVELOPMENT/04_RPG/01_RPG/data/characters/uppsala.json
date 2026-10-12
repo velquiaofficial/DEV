@@ -1,0 +1,101 @@
+{
+  "id": "uppsala",
+  "uid": "uppsala_001",
+  "name": "ウプサラ",
+  "name_ja": "ウプサラ",
+  "name_en": "UPPSALA",
+  "origin": "LEGACY",
+  "era": "MEDIEVAL",
+  "civ": "norse",
+  "civilization": "NORSE",
+  "civilization_id": "norse",
+  "relic": "world_tree_shard",
+  "reconstruction": "霧の森とルーンが東京を覆う。",
+  "seed": false,
+  "class": "LEGACY",
+  "role": "SUPPORT",
+  "role_ui": "Support",
+  "element": "GROVE",
+  "weapon": "GROVE_STAFF",
+  "height": 162,
+  "appearance": {
+    "hair": "norse_hair",
+    "eyes": "uppsala_eyes",
+    "costume": "norse_legacy"
+  },
+  "stats": {
+    "hp": 880,
+    "attack": 57,
+    "defense": 67,
+    "speed": 67
+  },
+  "hp": 124,
+  "speed": 7.4,
+  "damage": 11,
+  "skills": [
+    "uppsala_skill1",
+    "uppsala_skill2",
+    "uppsala_skill3"
+  ],
+  "normal_attack": {
+    "id": "uppsala_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "uppsala_skill1",
+    "name_ja": "神木",
+    "name_en": "神木"
+  },
+  "skill_2": {
+    "id": "uppsala_skill2",
+    "name_ja": "生贄の金",
+    "name_en": "生贄の金"
+  },
+  "ultimate": {
+    "id": "uppsala_skill3",
+    "name_ja": "北社",
+    "name_en": "北社"
+  },
+  "passive": {
+    "id": "uppsala_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "確保RELIC付近で回復"
+  },
+  "civilization_tags": [
+    "norse",
+    "NORSE",
+    "MEDIEVAL",
+    "LEGACY",
+    "GROVE"
+  ],
+  "relationships": [],
+  "voice_type": "warm",
+  "music_theme": "神木・祭祀・北の社",
+  "civilization_shift_effect": "霧→ルーン→神木→虹橋→NORSE DOMAIN",
+  "theme": "神木・祭祀・北の社",
+  "passive_text": "確保RELIC付近で回復",
+  "story": "木が倒れるまで、北は神を忘れない。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "norse",
+  "land": "norse",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/norse/uppsala.png",
+  "colors": {
+    "body": [
+      0.244,
+      0.198,
+      0.174
+    ],
+    "emit": [
+      1.0,
+      0.588,
+      0.674
+    ]
+  }
+}

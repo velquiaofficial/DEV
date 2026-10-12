@@ -1,0 +1,68 @@
+{
+  "note": "ここに書いた章は、同じ id の本文を差し替える。結末を直すときは chapters の最後の章を編集する。アーカイブと、未来の最終戦の会話が、このファイルを優先する。",
+  "chapters": [
+    {
+      "id": "ch25",
+      "title": "終章  永結",
+      "body": "十二の文明が戻り、忘却は名を消せなくなる。戦いは続くが、物語は結ばれる。",
+      "bg": "res://assets/opening/001.png",
+      "pages": [
+        {
+          "speaker": "",
+          "text": "十二の核が、同時に熱を持った。東京、ヤマト、ヘラス、ケメト、ローマ、華夏、ノース、メソポタミア、中世、近代、現代、未来。",
+          "bg": "res://assets/opening/001.png"
+        },
+        {
+          "speaker": "忘却",
+          "text": "復元しても、また灰色に戻す。それが私だ。",
+          "bg": "res://assets/opening/002.png"
+        },
+        {
+          "speaker": "天照",
+          "text": "戻しても、名はもう口に出た。口に出たものは、あなたの手の外だ。",
+          "bg": "res://assets/opening/003.png"
+        },
+        {
+          "speaker": "アテナ",
+          "text": "歴史は一度では終わらない。それでも、今日の返還は記録された。",
+          "bg": "res://assets/opening/004.png"
+        },
+        {
+          "speaker": "アヌビス",
+          "text": "百の名は、秤に乗っている。シルエットではない。",
+          "bg": "res://assets/opening/005.png"
+        },
+        {
+          "speaker": "イシュタル",
+          "text": "星は落ちてこない。上に戻したまま、置いておく。",
+          "bg": "res://assets/opening/006.png"
+        },
+        {
+          "speaker": "スカアハ",
+          "text": "落ちたら起こせ。物語が結ばれても、その仕事は残る。",
+          "bg": "res://assets/opening/007.png"
+        },
+        {
+          "speaker": "",
+          "text": "忘却は鏡の光の中で形を保っていた。消える資格が、自分にもない。",
+          "bg": "res://assets/opening/008.png"
+        },
+        {
+          "speaker": "天照",
+          "text": "先生。人類の記憶は、少女となって、永遠を戦う。",
+          "bg": "res://assets/opening/009.png"
+        },
+        {
+          "speaker": "天照",
+          "text": "絵はあとからでいい。名前と、返した層と、この結びは、もう完結している。",
+          "bg": "res://assets/opening/010.png"
+        },
+        {
+          "speaker": "",
+          "text": "永結。一度結んだものを、ほどけても結び直す。そのための戦いが、ここから先も続く。",
+          "bg": "res://assets/opening/011.png"
+        }
+      ]
+    }
+  ]
+}

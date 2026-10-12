@@ -1,0 +1,101 @@
+{
+  "id": "london",
+  "uid": "london_001",
+  "name": "ロンドン",
+  "name_ja": "ロンドン",
+  "name_en": "LONDON",
+  "origin": "NEXUS",
+  "era": "CONTEMPORARY",
+  "civ": "contemporary",
+  "civilization": "CONTEMPORARY",
+  "civilization_id": "contemporary",
+  "relic": "contemporary_relic",
+  "reconstruction": "空白→街灯→交差点→現代都市→CONTEMPORARY DOMAIN",
+  "seed": false,
+  "class": "NEXUS",
+  "role": "TACTICIAN",
+  "role_ui": "Tactician",
+  "element": "FOG",
+  "weapon": "BIG_CLOCK",
+  "height": 166,
+  "appearance": {
+    "hair": "contemporary_hair",
+    "eyes": "london_eyes",
+    "costume": "contemporary_nexus"
+  },
+  "stats": {
+    "hp": 909,
+    "attack": 68,
+    "defense": 68,
+    "speed": 68
+  },
+  "hp": 128,
+  "speed": 7.5,
+  "damage": 13,
+  "skills": [
+    "london_skill1",
+    "london_skill2",
+    "london_skill3"
+  ],
+  "normal_attack": {
+    "id": "london_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "london_skill1",
+    "name_ja": "霧都",
+    "name_en": "霧都"
+  },
+  "skill_2": {
+    "id": "london_skill2",
+    "name_ja": "書庫",
+    "name_en": "書庫"
+  },
+  "ultimate": {
+    "id": "london_skill3",
+    "name_ja": "大時計",
+    "name_en": "大時計"
+  },
+  "passive": {
+    "id": "london_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "ERA SHIFTの効果時間が延びる"
+  },
+  "civilization_tags": [
+    "contemporary",
+    "CONTEMPORARY",
+    "CONTEMPORARY",
+    "NEXUS",
+    "FOG"
+  ],
+  "relationships": [],
+  "voice_type": "measured",
+  "music_theme": "霧・知識・計画",
+  "civilization_shift_effect": "空白→街灯→交差点→現代都市→CONTEMPORARY DOMAIN",
+  "theme": "霧・知識・計画",
+  "passive_text": "ERA SHIFTの効果時間が延びる",
+  "story": "霧の中でも、図書館は道を知っている。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "contemporary",
+  "land": "contemporary",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/contemporary/london.png",
+  "colors": {
+    "body": [
+      0.08,
+      0.098,
+      0.168
+    ],
+    "emit": [
+      0.53,
+      0.688,
+      0.958
+    ]
+  }
+}

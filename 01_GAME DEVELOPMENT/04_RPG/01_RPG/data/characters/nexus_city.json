@@ -1,0 +1,101 @@
+{
+  "id": "nexus_city",
+  "uid": "nexus_city_001",
+  "name": "ネクサス",
+  "name_ja": "ネクサス",
+  "name_en": "NEXUS",
+  "origin": "NEXUS",
+  "era": "FUTURE",
+  "civ": "future",
+  "civilization": "FUTURE",
+  "civilization_id": "future",
+  "relic": "memory_core",
+  "reconstruction": "失われたネットワークが回路として蘇る。",
+  "seed": false,
+  "class": "NEXUS",
+  "role": "TACTICIAN",
+  "role_ui": "Tactician",
+  "element": "LINK",
+  "weapon": "NEXUS_LINK",
+  "height": 165,
+  "appearance": {
+    "hair": "future_hair",
+    "eyes": "nexus_city_eyes",
+    "costume": "future_nexus"
+  },
+  "stats": {
+    "hp": 852,
+    "attack": 68,
+    "defense": 66,
+    "speed": 76
+  },
+  "hp": 120,
+  "speed": 8.4,
+  "damage": 13,
+  "skills": [
+    "nexus_city_skill1",
+    "nexus_city_skill2",
+    "nexus_city_skill3"
+  ],
+  "normal_attack": {
+    "id": "nexus_city_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "nexus_city_skill1",
+    "name_ja": "結節",
+    "name_en": "結節"
+  },
+  "skill_2": {
+    "id": "nexus_city_skill2",
+    "name_ja": "接続",
+    "name_en": "接続"
+  },
+  "ultimate": {
+    "id": "nexus_city_skill3",
+    "name_ja": "全史回線",
+    "name_en": "全史回線"
+  },
+  "passive": {
+    "id": "nexus_city_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "異なる土地の味方が揃うと強化"
+  },
+  "civilization_tags": [
+    "future",
+    "FUTURE",
+    "FUTURE",
+    "NEXUS",
+    "LINK"
+  ],
+  "relationships": [],
+  "voice_type": "measured",
+  "music_theme": "接続都市・全文明の結節",
+  "civilization_shift_effect": "沈黙→軌道→記憶核→FUTURE DOMAIN",
+  "theme": "接続都市・全文明の結節",
+  "passive_text": "異なる土地の味方が揃うと強化",
+  "story": "すべての文明が、ここで握手する。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "future",
+  "land": "future",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/future/nexus_city.png",
+  "colors": {
+    "body": [
+      0.16,
+      0.13,
+      0.06
+    ],
+    "emit": [
+      0.88,
+      0.88,
+      0.91
+    ]
+  }
+}

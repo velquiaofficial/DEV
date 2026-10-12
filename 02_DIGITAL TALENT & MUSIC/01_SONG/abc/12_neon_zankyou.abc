@@ -1,0 +1,37 @@
+X:1
+T:ネオン残響
+C:オリジナル
+M:4/4
+L:1/8
+Q:1/4=128
+K:Dm
+P:Aメロ
+"Dm" z F G F2 G F G | "Bb" z A B B2 G G A | "F" z A B A2 A G B | "C" z F G G2 F F G |
+w: * ま ち の ね い ろ | * きょ う め い す る | * く ち び る か ら | * こ え が も れ る
+"Dm" z G A A2 G F G | "Gm" z A B B2 G G A | "Bb" z A B B2 A G B | "A" z G A A2 G F G |
+w: * ガ ラ ス ご し に | * ひ か り が ふ る | * い き を す っ て | * う た に か え る
+P:Aメロ2
+"Dm" z c d d2 c B c | "Bb" z d e d2 d c d | "F" z e f f2 d d e | "C" z c d c2 c B c |
+w: * ね お ん が ゆ れ | * か げ が ふ た つ | * な ま え う つ る | * び る に う つ る
+"Dm" z d e d2 c c d | "Gm" z d e d2 d c d | "Bb" z e f f2 d d e | "A" z c d _d2 c c d |
+w: * ざ ん きょ う だ よ | * み み に の こ る | * も う い ち ど ね | * う た を だ そ う
+P:Bメロ
+"Bb" z c d d2 c B c | "F" z B c c2 B A B | "C" z c d c2 d c d | "Dm" z B c d2 B B c |
+w: * あ し ぶ み し て | * し ん ご う ま ち | * あ お に な る よ | * む ね が は や る
+"Gm" z c d d2 c B c | "Bb" z d e d2 c c d | "F" z B c c2 B B c | "A" z d e e2 d c d |
+w: * か ぞ え て く よ | * ひ か り の ほ う | * て を ふ っ て く | * う た い だ す よ
+P:サビ
+"Dm" z g a a2 g f g | "Bb" z d f f2 d d e | "F" z f g f2 f e f | "C" z c d c2 d c d |
+w: * こ え を の せ て | * ま ち の こ ど う | * こ こ に い る よ | * い き を す う よ
+"Dm" z f g f2 f e f | "Gm" z d f d2 e d e | "Bb" z f g f2 g f g | "A" z e f e2 e d f |
+w: * こ わ れ て も ね | * う た は の こ る | * よ る を こ え て | * う た い だ そ う
+P:ブリッジ
+"Gm" z F G G2 F E F | "Bb" z G B B2 G G A | "F" z A B A2 A G B | "A" z F G A2 F F G |
+w: * も し も こ え が | * と ぎ れ て も ね | * ね お ん の し た | * う た は の こ る
+"Dm" z F G F2 G F G | "Gm" z A B B2 A G B | "C" z G A G2 G F G | "A" z B c A2 B A B |
+w: * ざ ん きょ う だ け | * き み に と ど く | * よ る を こ え て | * も う い ち ど ね
+P:アウトロ
+"Dm" z g a a2 g f g | "Bb" z d f f2 d d e | "F" z f g f2 f e f | "C" z c d c2 d c d |
+w: * * * * * * * | * * * * * * * | * * * * * * * | * * * * * * *
+"Dm" z f g f2 f e f | "Gm" z d f d2 e d e | "Bb" z f g f2 g f g | "Dm" D8 |
+w: * * * * * * * | * * * * * * * | * * * * * * * | *

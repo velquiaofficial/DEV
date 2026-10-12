@@ -1,0 +1,103 @@
+{
+  "id": "artemis",
+  "parts": [
+    {
+      "name": "hair",
+      "file": "hair.png",
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "box": [
+        33,
+        0,
+        386,
+        212
+      ]
+    },
+    {
+      "name": "face",
+      "file": "face.png",
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "box": [
+        117,
+        56,
+        302,
+        235
+      ]
+    },
+    {
+      "name": "eyes",
+      "file": "eyes.png",
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "box": [
+        126,
+        89,
+        294,
+        156
+      ]
+    },
+    {
+      "name": "mouth",
+      "file": "mouth.png",
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "box": [
+        168,
+        156,
+        252,
+        212
+      ]
+    },
+    {
+      "name": "body",
+      "file": "body.png",
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "box": [
+        75,
+        201,
+        344,
+        548
+      ]
+    },
+    {
+      "name": "arm_l",
+      "file": "arm_l.png",
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "box": [
+        0,
+        212,
+        134,
+        492
+      ]
+    },
+    {
+      "name": "arm_r",
+      "file": "arm_r.png",
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "box": [
+        285,
+        212,
+        420,
+        492
+      ]
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "id": "yamato",
+  "uid": "yamato_001",
+  "name": "ヤマト",
+  "name_ja": "ヤマト",
+  "name_en": "YAMATO",
+  "origin": "NEXUS",
+  "era": "FUTURE",
+  "civ": "japan",
+  "civilization": "TOKYO",
+  "civilization_id": "tokyo",
+  "relic": "yata_mirror",
+  "reconstruction": "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。",
+  "seed": false,
+  "class": "NEXUS",
+  "role": "DEFENDER",
+  "role_ui": "Defender",
+  "element": "STAR",
+  "weapon": "STAR_CHART",
+  "height": 171,
+  "appearance": {
+    "hair": "tokyo_hair",
+    "eyes": "yamato_eyes",
+    "costume": "tokyo_nexus"
+  },
+  "stats": {
+    "hp": 1065,
+    "attack": 62,
+    "defense": 73,
+    "speed": 63
+  },
+  "hp": 150,
+  "speed": 7.0,
+  "damage": 12,
+  "skills": [
+    "yamato_skill1",
+    "yamato_skill2",
+    "yamato_skill3"
+  ],
+  "normal_attack": {
+    "id": "yamato_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "yamato_skill1",
+    "name_ja": "艦影",
+    "name_en": "艦影"
+  },
+  "skill_2": {
+    "id": "yamato_skill2",
+    "name_ja": "星図",
+    "name_en": "星図"
+  },
+  "ultimate": {
+    "id": "yamato_skill3",
+    "name_ja": "永遠の列島",
+    "name_en": "永遠の列島"
+  },
+  "passive": {
+    "id": "yamato_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "味方の被弾を一度分散する"
+  },
+  "civilization_tags": [
+    "japan",
+    "TOKYO",
+    "FUTURE",
+    "NEXUS",
+    "STAR"
+  ],
+  "relationships": [],
+  "voice_type": "steadfast",
+  "music_theme": "艦・星図・継承",
+  "civilization_shift_effect": "灰色の線路→ネオン→駅→回路都市→TOKYO DOMAIN",
+  "theme": "艦・星図・継承",
+  "passive_text": "味方の被弾を一度分散する",
+  "story": "島は沈んでも、名前は航路になる。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "tokyo",
+  "land": "tokyo",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/tokyo/yamato.png",
+  "colors": {
+    "body": [
+      0.18,
+      0.16,
+      0.12
+    ],
+    "emit": [
+      0.3,
+      0.91,
+      0.91
+    ]
+  }
+}

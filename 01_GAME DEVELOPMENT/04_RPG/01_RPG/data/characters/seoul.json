@@ -1,0 +1,101 @@
+{
+  "id": "seoul",
+  "uid": "seoul_001",
+  "name": "ソウル",
+  "name_ja": "ソウル",
+  "name_en": "SEOUL",
+  "origin": "NEXUS",
+  "era": "CONTEMPORARY",
+  "civ": "contemporary",
+  "civilization": "CONTEMPORARY",
+  "civilization_id": "contemporary",
+  "relic": "contemporary_relic",
+  "reconstruction": "空白→街灯→交差点→現代都市→CONTEMPORARY DOMAIN",
+  "seed": false,
+  "class": "NEXUS",
+  "role": "DEFENDER",
+  "role_ui": "Defender",
+  "element": "BASIN",
+  "weapon": "FOUR_GATES",
+  "height": 163,
+  "appearance": {
+    "hair": "contemporary_hair",
+    "eyes": "seoul_eyes",
+    "costume": "contemporary_nexus"
+  },
+  "stats": {
+    "hp": 994,
+    "attack": 68,
+    "defense": 71,
+    "speed": 67
+  },
+  "hp": 140,
+  "speed": 7.4,
+  "damage": 13,
+  "skills": [
+    "seoul_skill1",
+    "seoul_skill2",
+    "seoul_skill3"
+  ],
+  "normal_attack": {
+    "id": "seoul_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "seoul_skill1",
+    "name_ja": "四門",
+    "name_en": "四門"
+  },
+  "skill_2": {
+    "id": "seoul_skill2",
+    "name_ja": "盆地",
+    "name_en": "盆地"
+  },
+  "ultimate": {
+    "id": "seoul_skill3",
+    "name_ja": "漢陽残光",
+    "name_en": "漢陽残光"
+  },
+  "passive": {
+    "id": "seoul_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "端にいる味方の防御が上がる"
+  },
+  "civilization_tags": [
+    "contemporary",
+    "CONTEMPORARY",
+    "CONTEMPORARY",
+    "NEXUS",
+    "BASIN"
+  ],
+  "relationships": [],
+  "voice_type": "steadfast",
+  "music_theme": "盆地・門・現代",
+  "civilization_shift_effect": "空白→街灯→交差点→現代都市→CONTEMPORARY DOMAIN",
+  "theme": "盆地・門・現代",
+  "passive_text": "端にいる味方の防御が上がる",
+  "story": "山に囲まれた都は、名を守る。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "contemporary",
+  "land": "contemporary",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/contemporary/seoul.png",
+  "colors": {
+    "body": [
+      0.14,
+      0.134,
+      0.144
+    ],
+    "emit": [
+      0.59,
+      0.724,
+      0.934
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "bar": "hp",
+  "defense": "def",
+  "defenseScale": 2000,
+  "variance": 0.12,
+  "stats": {
+    "hp": { "name": "体力" },
+    "atk": { "name": "攻撃" },
+    "def": { "name": "防御" },
+    "heal": { "name": "回復" }
+  },
+  "sub": { "type": "aoe", "stat": "atk", "rate": 3.4 }
+}

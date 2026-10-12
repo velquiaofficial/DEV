@@ -1,0 +1,101 @@
+{
+  "id": "frigg",
+  "uid": "frigg_001",
+  "name": "フリッグ",
+  "name_ja": "フリッグ",
+  "name_en": "FRIGG",
+  "origin": "DIVINE",
+  "era": "MYTH",
+  "civ": "norse",
+  "civilization": "NORSE",
+  "civilization_id": "norse",
+  "relic": "world_tree_shard",
+  "reconstruction": "霧の森とルーンが東京を覆う。",
+  "seed": false,
+  "class": "DIVINE",
+  "role": "SUPPORT",
+  "role_ui": "Support",
+  "element": "FATE",
+  "weapon": "FATE_THREAD",
+  "height": 167,
+  "appearance": {
+    "hair": "norse_hair",
+    "eyes": "frigg_eyes",
+    "costume": "norse_divine"
+  },
+  "stats": {
+    "hp": 866,
+    "attack": 57,
+    "defense": 67,
+    "speed": 68
+  },
+  "hp": 122,
+  "speed": 7.5,
+  "damage": 11,
+  "skills": [
+    "frigg_skill1",
+    "frigg_skill2",
+    "frigg_skill3"
+  ],
+  "normal_attack": {
+    "id": "frigg_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "frigg_skill1",
+    "name_ja": "糸紡ぎ",
+    "name_en": "糸紡ぎ"
+  },
+  "skill_2": {
+    "id": "frigg_skill2",
+    "name_ja": "予見",
+    "name_en": "予見"
+  },
+  "ultimate": {
+    "id": "frigg_skill3",
+    "name_ja": "守護衣",
+    "name_en": "守護衣"
+  },
+  "passive": {
+    "id": "frigg_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "味方の被弾を予測して軽減する"
+  },
+  "civilization_tags": [
+    "norse",
+    "NORSE",
+    "MYTH",
+    "DIVINE",
+    "FATE"
+  ],
+  "relationships": [],
+  "voice_type": "warm",
+  "music_theme": "予見・糸・守護",
+  "civilization_shift_effect": "霧→ルーン→神木→虹橋→NORSE DOMAIN",
+  "theme": "予見・糸・守護",
+  "passive_text": "味方の被弾を予測して軽減する",
+  "story": "見えても、言わない糸がある。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "norse",
+  "land": "norse",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/norse/frigg.png",
+  "colors": {
+    "body": [
+      0.19,
+      0.166,
+      0.196
+    ],
+    "emit": [
+      0.96,
+      0.556,
+      0.696
+    ]
+  }
+}

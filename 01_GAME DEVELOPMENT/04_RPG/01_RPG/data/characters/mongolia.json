@@ -1,0 +1,101 @@
+{
+  "id": "mongolia",
+  "uid": "mongolia_001",
+  "name": "モンゴル",
+  "name_ja": "モンゴル",
+  "name_en": "MONGOL",
+  "origin": "LEGEND",
+  "era": "MEDIEVAL",
+  "civ": "medieval",
+  "civilization": "MEDIEVAL",
+  "civilization_id": "medieval",
+  "relic": "medieval_relic",
+  "reconstruction": "荒野→城壁→旗→城塞→MEDIEVAL DOMAIN",
+  "seed": false,
+  "class": "LEGEND",
+  "role": "ATTACKER",
+  "role_ui": "Attacker",
+  "element": "HORSE",
+  "weapon": "STEPPE_BOW",
+  "height": 166,
+  "appearance": {
+    "hair": "medieval_hair",
+    "eyes": "mongolia_eyes",
+    "costume": "medieval_legend"
+  },
+  "stats": {
+    "hp": 966,
+    "attack": 83,
+    "defense": 70,
+    "speed": 77
+  },
+  "hp": 136,
+  "speed": 8.6,
+  "damage": 16,
+  "skills": [
+    "mongolia_skill1",
+    "mongolia_skill2",
+    "mongolia_skill3"
+  ],
+  "normal_attack": {
+    "id": "mongolia_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "mongolia_skill1",
+    "name_ja": "騎馬",
+    "name_en": "騎馬"
+  },
+  "skill_2": {
+    "id": "mongolia_skill2",
+    "name_ja": "草原",
+    "name_en": "草原"
+  },
+  "ultimate": {
+    "id": "mongolia_skill3",
+    "name_ja": "大帝国",
+    "name_en": "大帝国"
+  },
+  "passive": {
+    "id": "mongolia_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "移動距離に応じて攻撃が伸びる"
+  },
+  "civilization_tags": [
+    "medieval",
+    "MEDIEVAL",
+    "MEDIEVAL",
+    "LEGEND",
+    "HORSE"
+  ],
+  "relationships": [],
+  "voice_type": "fierce",
+  "music_theme": "騎馬・草原・帝国",
+  "civilization_shift_effect": "荒野→城壁→旗→城塞→MEDIEVAL DOMAIN",
+  "theme": "騎馬・草原・帝国",
+  "passive_text": "移動距離に応じて攻撃が伸びる",
+  "story": "馬が届く限り、地図は開く。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "medieval",
+  "land": "medieval",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/medieval/mongolia.png",
+  "colors": {
+    "body": [
+      0.06,
+      0.072,
+      0.172
+    ],
+    "emit": [
+      0.64,
+      0.532,
+      0.352
+    ]
+  }
+}

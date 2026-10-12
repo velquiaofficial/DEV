@@ -1,0 +1,37 @@
+X:1
+T:星図のバグ
+C:オリジナル
+M:4/4
+L:1/8
+Q:1/4=144
+K:Am
+P:Aメロ
+"Am" A G A G A F G G | "F" F G A G F F G F | "C" G A B A G G A G | "G" B A B A G A B A |
+w: ほ し ず を ひ ら く よ | て ん の ず が ゆ れ る | な ま え の な い ほ し | そ れ で も ひ か る よ
+"Am" E G A G E F G F | "Dm" A G A G F G A G | "F" A A B A A G A G | "E" ^G A B A ^G G A A |
+w: バ グ が ひ と つ あ る | け し て も も ど る よ | よ る ぞ ら は ひ ろ い | う た で う め て く よ
+P:Aメロ2
+"Am" c d e d c c d c | "F" c d d c c B c c | "C" e d e d c d e d | "G" d e f e d d e d |
+w: せ い ざ が ず れ て る | て で お い か け る よ | ひ か り の か け ら が | ゆ び さ き ひ か る よ
+"Am" c d d c c B c c | "Dm" d d e d d c d c | "F" c d e d c d e d | "E" e e f e e d e d |
+w: な ま え を か き こ む | ほ し ず の よ は し に | こ え を そ え て み る | あ し た が く る ま え
+P:Bメロ
+"F" c d e d c d e d | "C" c d d c c B c c | "G" B B c B B A B A | "Am" c d e d c c d c |
+w: て ん の ず を め く る | ひ か り が こ ぼ れ る | バ グ は き え な い よ | そ れ で も う た う よ
+"Dm" A c d c A B c B | "F" c d d c c B c c | "C" c d e d c c d c | "E" B c d c B A c B |
+w: ペ ー ジ が ま ぶ し い | よ る を て ら し て る | な ま え を よ ぶ か ら | ま ち が っ て も い い
+P:サビ
+"Am" e f g f e d f e | "F" f g a g f g a g | "C" e e f e e d e d | "G" g f g f g e f f |
+w: ほ し ず を ひ ら く よ | バ グ が ひ と つ あ る | け し て も も ど る よ | う た で う め て く よ
+"Am" c d e d c c d c | "Dm" f g g f f e f f | "F" f e f e f d e d | "E" e g a g e f g f |
+w: な ま え を か き こ む | ゆ び さ き ひ か る よ | よ る ぞ ら は ひ ろ い | そ れ で も ひ か る よ
+P:ブリッジ
+"Dm" A B c B A A B A | "F" F G G F F E F F | "C" G A B A G G A G | "E" ^G A B A ^G G A A |
+w: け せ ば い い だ け さ | ほ し が ひ と つ へ る | う た は と ま ら な い | す こ し だ け ま っ て
+"Am" E G A G E F G F | "Dm" F G A G F F G F | "G" G A B A G A B A | "E" ^G G A G ^G F G G |
+w: じ か ん よ と ま っ て | よ る の しょ う め い だ | こ こ ろ が お い つ く | ひ か り を つ か ん で
+P:アウトロ
+"Am" e f g f e d f e | "F" f g a g f g a g | "C" e e f e e d e d | "G" g f g f g e f f |
+w: * * * * * * * * | * * * * * * * * | * * * * * * * * | * * * * * * * *
+"Am" c d e d c c d c | "Dm" f g g f f e f f | "F" f e f e f d e d | "Am" A8 |
+w: * * * * * * * * | * * * * * * * * | * * * * * * * * | *

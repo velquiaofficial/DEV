@@ -1,0 +1,101 @@
+{
+  "id": "thebes",
+  "uid": "thebes_001",
+  "name": "テーベ",
+  "name_ja": "テーベ",
+  "name_en": "THEBES",
+  "origin": "LEGACY",
+  "era": "ANCIENT",
+  "civ": "egypt",
+  "civilization": "KEMET",
+  "civilization_id": "kemet",
+  "relic": "judgment_scale",
+  "reconstruction": "ナイルと蓮が灰色の街を潤す。",
+  "seed": false,
+  "class": "LEGACY",
+  "role": "CONTROLLER",
+  "role_ui": "Controller",
+  "element": "TEMPLE",
+  "weapon": "HUNDRED_GATES",
+  "height": 165,
+  "appearance": {
+    "hair": "kemet_hair",
+    "eyes": "thebes_eyes",
+    "costume": "kemet_legacy"
+  },
+  "stats": {
+    "hp": 966,
+    "attack": 68,
+    "defense": 70,
+    "speed": 64
+  },
+  "hp": 136,
+  "speed": 7.1,
+  "damage": 13,
+  "skills": [
+    "thebes_skill1",
+    "thebes_skill2",
+    "thebes_skill3"
+  ],
+  "normal_attack": {
+    "id": "thebes_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "thebes_skill1",
+    "name_ja": "百門",
+    "name_en": "百門"
+  },
+  "skill_2": {
+    "id": "thebes_skill2",
+    "name_ja": "神官",
+    "name_en": "神官"
+  },
+  "ultimate": {
+    "id": "thebes_skill3",
+    "name_ja": "王都",
+    "name_en": "王都"
+  },
+  "passive": {
+    "id": "thebes_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "中心RELICの確保が速い"
+  },
+  "civilization_tags": [
+    "egypt",
+    "KEMET",
+    "ANCIENT",
+    "LEGACY",
+    "TEMPLE"
+  ],
+  "relationships": [],
+  "voice_type": "low",
+  "music_theme": "百門・神官・王都",
+  "civilization_shift_effect": "砂→ナイル→蓮→神殿→KEMET DOMAIN",
+  "theme": "百門・神官・王都",
+  "passive_text": "中心RELICの確保が速い",
+  "story": "門が多ければ、名は消えない。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "kemet",
+  "land": "kemet",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/kemet/thebes.png",
+  "colors": {
+    "body": [
+      0.182,
+      0.169,
+      0.147
+    ],
+    "emit": [
+      0.982,
+      0.749,
+      0.187
+    ]
+  }
+}

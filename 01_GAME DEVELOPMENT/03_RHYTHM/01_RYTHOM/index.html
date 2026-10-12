@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#14241c" />
+  <title>RYTHOM</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect rx='8' width='32' height='32' fill='%23141a17'/%3E%3Ccircle cx='16' cy='16' r='6' fill='%23ffb703'/%3E%3C/svg%3E" />
+  <link rel="stylesheet" href="style.css?v=4" />
+</head>
+<body>
+  <div class="game" id="game" data-stage="1">
+    <section class="scene" aria-hidden="true">
+      <div class="sky"></div>
+      <div class="stars decor"></div>
+      <div class="celestial"></div>
+      <div class="hill hill-back" data-depth="40"></div>
+      <div class="hill hill-front" data-depth="90"></div>
+
+      <div class="forest decor" data-depth="120">
+        <div class="tree" style="--x:4%"><i></i><i></i><b></b></div>
+        <div class="tree" style="--x:18%"><i></i><i></i><b></b></div>
+        <div class="tree tall" style="--x:33%"><i></i><i></i><b></b></div>
+        <div class="tree" style="--x:52%"><i></i><i></i><b></b></div>
+        <div class="tree tall" style="--x:68%"><i></i><i></i><b></b></div>
+        <div class="tree" style="--x:84%"><i></i><i></i><b></b></div>
+      </div>
+
+      <div class="city decor" data-depth="80">
+        <span class="bldg h1"></span>
+        <span class="bldg h3"></span>
+        <span class="bldg h2"></span>
+        <span class="bldg h5"></span>
+        <span class="bldg h4"></span>
+        <span class="bldg h2"></span>
+        <span class="bldg h3"></span>
+        <span class="bldg h1"></span>
+      </div>
+
+      <div class="sea decor" data-depth="30">
+        <svg class="waves back" viewBox="0 0 1200 120" preserveAspectRatio="none">
+          <path d="M0 64 Q150 28 300 64 T600 64 T900 64 T1200 64 V120 H0 Z"></path>
+        </svg>
+        <svg class="waves front" viewBox="0 0 1200 120" preserveAspectRatio="none">
+          <path d="M0 78 Q150 48 300 78 T600 78 T900 78 T1200 78 V120 H0 Z"></path>
+        </svg>
+      </div>
+
+      <div class="ground"></div>
+
+      <div class="title-copy" id="title-copy">
+        <p class="eyebrow">リズムであしぶみ</p>
+        <h1 class="logo">RYTHOM</h1>
+        <p class="tagline">リズムにあわせて、ステージをすすもう</p>
+      </div>
+
+      <div class="sign" id="sign">
+        <span id="sign-no">STAGE 1</span>
+        <strong id="sign-name">もりのあさ</strong>
+      </div>
+
+      <div class="trail" id="trail"></div>
+
+      <div class="runner" id="runner">
+        <div class="bob" id="runner-bob">
+          <svg viewBox="0 0 64 80" aria-hidden="true">
+            <ellipse cx="32" cy="74" rx="14" ry="4" fill="rgba(0,0,0,.28)" />
+            <path class="leg l" d="M28 56 l-7 16" />
+            <path class="leg r" d="M38 56 l7 16" />
+            <rect class="pack" x="16" y="40" width="11" height="14" rx="2" />
+            <path class="torso" d="M22 38h22c1 8-2 16-11 18S20 48 22 38z" />
+            <path class="scarf" d="M18 40h28l3 7-8 3H22l-7-3z" />
+            <circle class="head" cx="33" cy="26" r="13" />
+            <path d="M22 24c2-9 18-11 24-2-6-3-16-3-24 2z" fill="#3a2a22" />
+            <circle cx="29" cy="26" r="1.7" fill="#2b2118" />
+            <circle cx="38" cy="26" r="1.7" fill="#2b2118" />
+            <path d="M29 32q4 3 8 0" stroke="#2b2118" stroke-width="1.4" fill="none" stroke-linecap="round" />
+          </svg>
+        </div>
+      </div>
+
+      <div class="banner" id="banner"></div>
+      <div class="countdown" id="countdown"></div>
+      <div class="toast" id="toast"></div>
+
+      <div class="hud" id="hud">
+        <div class="hud-left">
+          <p id="hud-stage">ステージ 1 / 3</p>
+          <p id="hud-level">もりのあさ</p>
+        </div>
+        <div class="hud-mid">
+          <div class="hp" aria-label="たいりょく">
+            <div class="hp-fill" id="hp-fill"></div>
+          </div>
+          <div class="progress" aria-label="すすみ">
+            <div class="progress-fill" id="progress-fill"></div>
+          </div>
+        </div>
+        <div class="hud-right">
+          <p class="score-label">スコア</p>
+          <p id="score">0</p>
+          <p class="combo-label">コンボ <span id="combo">0</span></p>
+        </div>
+      </div>
+
+      <button class="mute" id="btn-mute" type="button" aria-pressed="false">おと オン</button>
+    </section>
+
+    <section class="dock">
+      <div class="panel active" id="panel-title">
+        <p class="how">
+          ノーツが光るラインに重なったら、同じキーを押す。<br />
+          合うたびに旅人が次の足場へ進み、ステージをこえていく。
+        </p>
+        <div class="legend" id="key-legend"></div>
+        <button class="start-btn" id="btn-start" type="button">はじめる</button>
+        <p class="best" id="best">ベスト 0</p>
+      </div>
+
+      <div class="panel play-panel" id="panel-play">
+        <div class="highway" id="highway">
+          <div class="lane-guides"></div>
+          <div class="hit-line" id="hit-line"></div>
+          <div class="receptor-row" id="receptor-row"></div>
+          <div class="note-layer" id="note-layer"></div>
+          <p class="judge" id="judge"></p>
+        </div>
+        <div class="pads" id="pads"></div>
+      </div>
+
+      <div class="panel result-panel" id="panel-result">
+        <p class="kicker" id="result-kicker"></p>
+        <h2 id="result-title"></h2>
+        <p class="rank" id="result-rank"></p>
+        <p class="rank-name" id="result-rank-name"></p>
+        <ul class="stats" id="result-stats"></ul>
+        <div class="result-actions">
+          <button class="ghost-btn" id="btn-retry" type="button">もういちど</button>
+          <button class="start-btn" id="btn-next" type="button">つぎのステージへ</button>
+          <button class="ghost-btn" id="btn-title" type="button">タイトルへ</button>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script src="game.js?v=4"></script>
+</body>
+</html>

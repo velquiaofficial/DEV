@@ -1,0 +1,101 @@
+{
+  "id": "assyria",
+  "uid": "assyria_001",
+  "name": "アッシリア",
+  "name_ja": "アッシリア",
+  "name_en": "ASSYRIA",
+  "origin": "LEGEND",
+  "era": "ANCIENT",
+  "civ": "mesopotamia",
+  "civilization": "MESOPOTAMIA",
+  "civilization_id": "mesopotamia",
+  "relic": "venus_star",
+  "reconstruction": "古代都市の門と星の王権が地上へ戻る。",
+  "seed": false,
+  "class": "LEGEND",
+  "role": "ATTACKER",
+  "role_ui": "Attacker",
+  "element": "IRON",
+  "weapon": "IRON_RELIEF",
+  "height": 169,
+  "appearance": {
+    "hair": "mesopotamia_hair",
+    "eyes": "assyria_eyes",
+    "costume": "mesopotamia_legend"
+  },
+  "stats": {
+    "hp": 1022,
+    "attack": 88,
+    "defense": 72,
+    "speed": 67
+  },
+  "hp": 144,
+  "speed": 7.4,
+  "damage": 17,
+  "skills": [
+    "assyria_skill1",
+    "assyria_skill2",
+    "assyria_skill3"
+  ],
+  "normal_attack": {
+    "id": "assyria_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "assyria_skill1",
+    "name_ja": "鉄軍",
+    "name_en": "鉄軍"
+  },
+  "skill_2": {
+    "id": "assyria_skill2",
+    "name_ja": "浮彫",
+    "name_en": "浮彫"
+  },
+  "ultimate": {
+    "id": "assyria_skill3",
+    "name_ja": "征服",
+    "name_en": "征服"
+  },
+  "passive": {
+    "id": "assyria_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "連続攻撃で防御を削る"
+  },
+  "civilization_tags": [
+    "mesopotamia",
+    "MESOPOTAMIA",
+    "ANCIENT",
+    "LEGEND",
+    "IRON"
+  ],
+  "relationships": [],
+  "voice_type": "fierce",
+  "music_theme": "鉄・征服・浮彫",
+  "civilization_shift_effect": "砂塵→楔形→聖塔→両河→MESOPOTAMIA DOMAIN",
+  "theme": "鉄・征服・浮彫",
+  "passive_text": "連続攻撃で防御を削る",
+  "story": "浮彫に残るなら、征服も記憶だ。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "mesopotamia",
+  "land": "mesopotamia",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/mesopotamia/assyria.png",
+  "colors": {
+    "body": [
+      0.24,
+      0.136,
+      0.056
+    ],
+    "emit": [
+      0.98,
+      0.656,
+      0.176
+    ]
+  }
+}

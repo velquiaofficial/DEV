@@ -1,0 +1,101 @@
+{
+  "id": "ark",
+  "uid": "ark_001",
+  "name": "方舟",
+  "name_ja": "方舟",
+  "name_en": "ARK",
+  "origin": "NEXUS",
+  "era": "FUTURE",
+  "civ": "future",
+  "civilization": "FUTURE",
+  "civilization_id": "future",
+  "relic": "memory_core",
+  "reconstruction": "失われたネットワークが回路として蘇る。",
+  "seed": false,
+  "class": "NEXUS",
+  "role": "SUPPORT",
+  "role_ui": "Support",
+  "element": "SEED",
+  "weapon": "SEED_ARK",
+  "height": 163,
+  "appearance": {
+    "hair": "future_hair",
+    "eyes": "ark_eyes",
+    "costume": "future_nexus"
+  },
+  "stats": {
+    "hp": 909,
+    "attack": 57,
+    "defense": 68,
+    "speed": 68
+  },
+  "hp": 128,
+  "speed": 7.6,
+  "damage": 11,
+  "skills": [
+    "ark_skill1",
+    "ark_skill2",
+    "ark_skill3"
+  ],
+  "normal_attack": {
+    "id": "ark_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "ark_skill1",
+    "name_ja": "方舟",
+    "name_en": "方舟"
+  },
+  "skill_2": {
+    "id": "ark_skill2",
+    "name_ja": "種火",
+    "name_en": "種火"
+  },
+  "ultimate": {
+    "id": "ark_skill3",
+    "name_ja": "再出発",
+    "name_en": "再出発"
+  },
+  "passive": {
+    "id": "ark_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "倒れた味方を蘇生しやすくする"
+  },
+  "civilization_tags": [
+    "future",
+    "FUTURE",
+    "FUTURE",
+    "NEXUS",
+    "SEED"
+  ],
+  "relationships": [],
+  "voice_type": "warm",
+  "music_theme": "避難文明・種・再出発",
+  "civilization_shift_effect": "沈黙→軌道→記憶核→FUTURE DOMAIN",
+  "theme": "避難文明・種・再出発",
+  "passive_text": "倒れた味方を蘇生しやすくする",
+  "story": "残すものを選ぶ都。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "future",
+  "land": "future",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/future/ark.png",
+  "colors": {
+    "body": [
+      0.124,
+      0.108,
+      0.074
+    ],
+    "emit": [
+      0.844,
+      0.858,
+      0.924
+    ]
+  }
+}

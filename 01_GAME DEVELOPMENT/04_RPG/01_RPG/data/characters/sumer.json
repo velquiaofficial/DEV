@@ -1,0 +1,101 @@
+{
+  "id": "sumer",
+  "uid": "sumer_001",
+  "name": "シュメール",
+  "name_ja": "シュメール",
+  "name_en": "SUMER",
+  "origin": "LEGACY",
+  "era": "ANCIENT",
+  "civ": "mesopotamia",
+  "civilization": "MESOPOTAMIA",
+  "civilization_id": "mesopotamia",
+  "relic": "venus_star",
+  "reconstruction": "古代都市の門と星の王権が地上へ戻る。",
+  "seed": false,
+  "class": "LEGACY",
+  "role": "TACTICIAN",
+  "role_ui": "Tactician",
+  "element": "FIRST",
+  "weapon": "CUNEIFORM_TABLET",
+  "height": 158,
+  "appearance": {
+    "hair": "mesopotamia_hair",
+    "eyes": "sumer_eyes",
+    "costume": "mesopotamia_legacy"
+  },
+  "stats": {
+    "hp": 880,
+    "attack": 68,
+    "defense": 67,
+    "speed": 67
+  },
+  "hp": 124,
+  "speed": 7.4,
+  "damage": 13,
+  "skills": [
+    "sumer_skill1",
+    "sumer_skill2",
+    "sumer_skill3"
+  ],
+  "normal_attack": {
+    "id": "sumer_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "sumer_skill1",
+    "name_ja": "楔形",
+    "name_en": "楔形"
+  },
+  "skill_2": {
+    "id": "sumer_skill2",
+    "name_ja": "最初の市",
+    "name_en": "最初の市"
+  },
+  "ultimate": {
+    "id": "sumer_skill3",
+    "name_ja": "聖なる土",
+    "name_en": "聖なる土"
+  },
+  "passive": {
+    "id": "sumer_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "試合開始直後の計画が速い"
+  },
+  "civilization_tags": [
+    "mesopotamia",
+    "MESOPOTAMIA",
+    "ANCIENT",
+    "LEGACY",
+    "FIRST"
+  ],
+  "relationships": [],
+  "voice_type": "measured",
+  "music_theme": "楔形・最初の都市",
+  "civilization_shift_effect": "砂塵→楔形→聖塔→両河→MESOPOTAMIA DOMAIN",
+  "theme": "楔形・最初の都市",
+  "passive_text": "試合開始直後の計画が速い",
+  "story": "最初に書かれた名は、最後に消える。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "mesopotamia",
+  "land": "mesopotamia",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/mesopotamia/sumer.png",
+  "colors": {
+    "body": [
+      0.12,
+      0.064,
+      0.104
+    ],
+    "emit": [
+      0.86,
+      0.584,
+      0.224
+    ]
+  }
+}

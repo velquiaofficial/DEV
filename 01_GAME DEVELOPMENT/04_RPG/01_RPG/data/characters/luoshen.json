@@ -1,0 +1,101 @@
+{
+  "id": "luoshen",
+  "uid": "luoshen_001",
+  "name": "洛神",
+  "name_ja": "洛神",
+  "name_en": "LUOSHEN",
+  "origin": "MYTH",
+  "era": "MYTH",
+  "civ": "china",
+  "civilization": "HUAXIA",
+  "civilization_id": "huaxia",
+  "relic": "china_relic",
+  "reconstruction": "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN",
+  "seed": false,
+  "class": "MYTH",
+  "role": "CONTROLLER",
+  "role_ui": "Controller",
+  "element": "RIVER",
+  "weapon": "LUO_SASH",
+  "height": 164,
+  "appearance": {
+    "hair": "huaxia_hair",
+    "eyes": "luoshen_eyes",
+    "costume": "huaxia_myth"
+  },
+  "stats": {
+    "hp": 838,
+    "attack": 62,
+    "defense": 66,
+    "speed": 73
+  },
+  "hp": 118,
+  "speed": 8.1,
+  "damage": 12,
+  "skills": [
+    "luoshen_skill1",
+    "luoshen_skill2",
+    "luoshen_skill3"
+  ],
+  "normal_attack": {
+    "id": "luoshen_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "luoshen_skill1",
+    "name_ja": "洛水",
+    "name_en": "洛水"
+  },
+  "skill_2": {
+    "id": "luoshen_skill2",
+    "name_ja": "賦",
+    "name_en": "賦"
+  },
+  "ultimate": {
+    "id": "luoshen_skill3",
+    "name_ja": "水神",
+    "name_en": "水神"
+  },
+  "passive": {
+    "id": "luoshen_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "水際の敵を遅くする"
+  },
+  "civilization_tags": [
+    "china",
+    "HUAXIA",
+    "MYTH",
+    "MYTH",
+    "RIVER"
+  ],
+  "relationships": [],
+  "voice_type": "low",
+  "music_theme": "洛水・賦・幻",
+  "civilization_shift_effect": "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN",
+  "theme": "洛水・賦・幻",
+  "passive_text": "水際の敵を遅くする",
+  "story": "川が詩を覚えているなら、私も残る。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "huaxia",
+  "land": "huaxia",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/huaxia/luoshen.png",
+  "colors": {
+    "body": [
+      0.38,
+      0.056,
+      0.116
+    ],
+    "emit": [
+      0.88,
+      0.696,
+      0.296
+    ]
+  }
+}

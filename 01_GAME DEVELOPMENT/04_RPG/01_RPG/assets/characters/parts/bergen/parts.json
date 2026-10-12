@@ -1,0 +1,103 @@
+{
+  "id": "bergen",
+  "parts": [
+    {
+      "name": "hair",
+      "file": "hair.png",
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "box": [
+        28,
+        0,
+        331,
+        182
+      ]
+    },
+    {
+      "name": "face",
+      "file": "face.png",
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "box": [
+        100,
+        48,
+        259,
+        201
+      ]
+    },
+    {
+      "name": "eyes",
+      "file": "eyes.png",
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "box": [
+        108,
+        76,
+        251,
+        134
+      ]
+    },
+    {
+      "name": "mouth",
+      "file": "mouth.png",
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "box": [
+        144,
+        134,
+        216,
+        182
+      ]
+    },
+    {
+      "name": "body",
+      "file": "body.png",
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "box": [
+        64,
+        172,
+        295,
+        470
+      ]
+    },
+    {
+      "name": "arm_l",
+      "file": "arm_l.png",
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "box": [
+        0,
+        182,
+        115,
+        422
+      ]
+    },
+    {
+      "name": "arm_r",
+      "file": "arm_r.png",
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "box": [
+        244,
+        182,
+        360,
+        422
+      ]
+    }
+  ]
+}

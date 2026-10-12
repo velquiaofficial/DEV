@@ -1,0 +1,6705 @@
+{
+  "note": "select / dock / battle の三枚を置けば、そのキャラクターの絵は完結する。",
+  "characters": [
+    {
+      "id": "amaterasu",
+      "name": "天照",
+      "name_en": "AMATERASU",
+      "civilization": "YAMATO",
+      "role": "Support",
+      "element": "SUN",
+      "relic": "八咫鏡",
+      "paragraphs": [
+        "天照（AMATERASU）。YAMATOのレリクシア。役割はSupport、属性はSUN。",
+        "武器の系譜はYATA_MIRROR。核となるRELICは八咫鏡。",
+        "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。",
+        "戦闘では通常で間合いを作り、日輪斬で流れを変える。桜域は次の一手、常世の太陽は記憶を大きく返す技だ。",
+        "確保したRELICの近くで緩やかに回復する",
+        "レベルは記憶片で上がる。上がるほど天照の体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなった天照は、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "天照の個人記憶。YAMATOの層が、まだ薄い。"
+        },
+        {
+          "speaker": "天照",
+          "text": "先生。私は天照。SUNとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。"
+        },
+        {
+          "speaker": "天照",
+          "text": "日輪斬は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Supportとして並ぶとき、天照は前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "天照",
+          "text": "常世の太陽を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "確保したRELICの近くで緩やかに回復する"
+        },
+        {
+          "speaker": "天照",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、天照の外見は完結する。"
+        },
+        {
+          "speaker": "天照",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/amaterasu.jpg",
+        "dock": "res://assets/characters/dock/amaterasu.png",
+        "battle": "res://assets/characters/battle/amaterasu.png",
+        "card": "res://assets/characters/cards/amaterasu.jpg"
+      }
+    },
+    {
+      "id": "tsukuyomi",
+      "name": "月読",
+      "name_en": "TSUKUYOMI",
+      "civilization": "YAMATO",
+      "role": "Controller",
+      "element": "MOON",
+      "relic": "八咫鏡",
+      "paragraphs": [
+        "月読（TSUKUYOMI）。YAMATOのレリクシア。役割はController、属性はMOON。",
+        "武器の系譜はMOON_DISK。核となるRELICは八咫鏡。",
+        "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。",
+        "戦闘では通常で間合いを作り、月蝕で流れを変える。静夜は次の一手、満潮は記憶を大きく返す技だ。",
+        "夜（ERA SHIFT後）に捕獲が速くなる",
+        "レベルは記憶片で上がる。上がるほど月読の体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなった月読は、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "月読の個人記憶。YAMATOの層が、まだ薄い。"
+        },
+        {
+          "speaker": "月読",
+          "text": "先生。私は月読。MOONとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。"
+        },
+        {
+          "speaker": "月読",
+          "text": "月蝕は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Controllerとして並ぶとき、月読は前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "月読",
+          "text": "満潮を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "夜（ERA SHIFT後）に捕獲が速くなる"
+        },
+        {
+          "speaker": "月読",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、月読の外見は完結する。"
+        },
+        {
+          "speaker": "月読",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/tsukuyomi.jpg",
+        "dock": "res://assets/characters/dock/tsukuyomi.png",
+        "battle": "res://assets/characters/battle/tsukuyomi.png",
+        "card": "res://assets/characters/cards/tsukuyomi.jpg"
+      }
+    },
+    {
+      "id": "susanoo",
+      "name": "須佐之男",
+      "name_en": "SUSANOO",
+      "civilization": "YAMATO",
+      "role": "Attacker",
+      "element": "STORM",
+      "relic": "八咫鏡",
+      "paragraphs": [
+        "須佐之男（SUSANOO）。YAMATOのレリクシア。役割はAttacker、属性はSTORM。",
+        "武器の系譜はKUSANAGI。核となるRELICは八咫鏡。",
+        "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。",
+        "戦闘では通常で間合いを作り、八雲で流れを変える。暴雨は次の一手、草薙は記憶を大きく返す技だ。",
+        "攻撃が続くと与ダメージが上がる",
+        "レベルは記憶片で上がる。上がるほど須佐之男の体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなった須佐之男は、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "須佐之男の個人記憶。YAMATOの層が、まだ薄い。"
+        },
+        {
+          "speaker": "須佐之男",
+          "text": "先生。私は須佐之男。STORMとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。"
+        },
+        {
+          "speaker": "須佐之男",
+          "text": "八雲は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Attackerとして並ぶとき、須佐之男は前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "須佐之男",
+          "text": "草薙を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "攻撃が続くと与ダメージが上がる"
+        },
+        {
+          "speaker": "須佐之男",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、須佐之男の外見は完結する。"
+        },
+        {
+          "speaker": "須佐之男",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/susanoo.jpg",
+        "dock": "res://assets/characters/dock/susanoo.png",
+        "battle": "res://assets/characters/battle/susanoo.png",
+        "card": "res://assets/characters/cards/susanoo.jpg"
+      }
+    },
+    {
+      "id": "inari",
+      "name": "稲荷",
+      "name_en": "INARI",
+      "civilization": "YAMATO",
+      "role": "Support",
+      "element": "HARVEST",
+      "relic": "八咫鏡",
+      "paragraphs": [
+        "稲荷（INARI）。YAMATOのレリクシア。役割はSupport、属性はHARVEST。",
+        "武器の系譜はRICE_STAFF。核となるRELICは八咫鏡。",
+        "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。",
+        "戦闘では通常で間合いを作り、白狐で流れを変える。稲穂は次の一手、千成は記憶を大きく返す技だ。",
+        "味方の回復量がわずかに増える",
+        "レベルは記憶片で上がる。上がるほど稲荷の体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなった稲荷は、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "稲荷の個人記憶。YAMATOの層が、まだ薄い。"
+        },
+        {
+          "speaker": "稲荷",
+          "text": "先生。私は稲荷。HARVESTとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。"
+        },
+        {
+          "speaker": "稲荷",
+          "text": "白狐は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Supportとして並ぶとき、稲荷は前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "稲荷",
+          "text": "千成を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "味方の回復量がわずかに増える"
+        },
+        {
+          "speaker": "稲荷",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、稲荷の外見は完結する。"
+        },
+        {
+          "speaker": "稲荷",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/inari.jpg",
+        "dock": "res://assets/characters/dock/inari.png",
+        "battle": "res://assets/characters/battle/inari.png",
+        "card": "res://assets/characters/cards/inari.jpg"
+      }
+    },
+    {
+      "id": "izanami",
+      "name": "伊邪那美",
+      "name_en": "IZANAMI",
+      "civilization": "YAMATO",
+      "role": "Controller",
+      "element": "UNDERWORLD",
+      "relic": "八咫鏡",
+      "paragraphs": [
+        "伊邪那美（IZANAMI）。YAMATOのレリクシア。役割はController、属性はUNDERWORLD。",
+        "武器の系譜はYOMI_MIRROR。核となるRELICは八咫鏡。",
+        "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。",
+        "戦闘では通常で間合いを作り、黄泉で流れを変える。創世は次の一手、回帰は記憶を大きく返す技だ。",
+        "倒れた敵の復活を遅らせる",
+        "レベルは記憶片で上がる。上がるほど伊邪那美の体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなった伊邪那美は、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "伊邪那美の個人記憶。YAMATOの層が、まだ薄い。"
+        },
+        {
+          "speaker": "伊邪那美",
+          "text": "先生。私は伊邪那美。UNDERWORLDとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。"
+        },
+        {
+          "speaker": "伊邪那美",
+          "text": "黄泉は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Controllerとして並ぶとき、伊邪那美は前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "伊邪那美",
+          "text": "回帰を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "倒れた敵の復活を遅らせる"
+        },
+        {
+          "speaker": "伊邪那美",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、伊邪那美の外見は完結する。"
+        },
+        {
+          "speaker": "伊邪那美",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/izanami.jpg",
+        "dock": "res://assets/characters/dock/izanami.png",
+        "battle": "res://assets/characters/battle/izanami.png",
+        "card": "res://assets/characters/cards/izanami.jpg"
+      }
+    },
+    {
+      "id": "takemikazuchi",
+      "name": "建御雷",
+      "name_en": "TAKEMIKAZUCHI",
+      "civilization": "YAMATO",
+      "role": "Attacker",
+      "element": "THUNDER",
+      "relic": "八咫鏡",
+      "paragraphs": [
+        "建御雷（TAKEMIKAZUCHI）。YAMATOのレリクシア。役割はAttacker、属性はTHUNDER。",
+        "武器の系譜はTHUNDER_SWORD。核となるRELICは八咫鏡。",
+        "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。",
+        "戦闘では通常で間合いを作り、雷剣で流れを変える。建御は次の一手、鳴神は記憶を大きく返す技だ。",
+        "攻撃が命中すると周囲にも割れる",
+        "レベルは記憶片で上がる。上がるほど建御雷の体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなった建御雷は、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "建御雷の個人記憶。YAMATOの層が、まだ薄い。"
+        },
+        {
+          "speaker": "建御雷",
+          "text": "先生。私は建御雷。THUNDERとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。"
+        },
+        {
+          "speaker": "建御雷",
+          "text": "雷剣は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Attackerとして並ぶとき、建御雷は前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "建御雷",
+          "text": "鳴神を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "攻撃が命中すると周囲にも割れる"
+        },
+        {
+          "speaker": "建御雷",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、建御雷の外見は完結する。"
+        },
+        {
+          "speaker": "建御雷",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/takemikazuchi.jpg",
+        "dock": "res://assets/characters/dock/takemikazuchi.png",
+        "battle": "res://assets/characters/battle/takemikazuchi.png",
+        "card": "res://assets/characters/cards/takemikazuchi.jpg"
+      }
+    },
+    {
+      "id": "hachiman",
+      "name": "八幡",
+      "name_en": "HACHIMAN",
+      "civilization": "YAMATO",
+      "role": "Defender",
+      "element": "WARD",
+      "relic": "八咫鏡",
+      "paragraphs": [
+        "八幡（HACHIMAN）。YAMATOのレリクシア。役割はDefender、属性はWARD。",
+        "武器の系譜はWAR_BOW。核となるRELICは八咫鏡。",
+        "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。",
+        "戦闘では通常で間合いを作り、八幡弓で流れを変える。守護は次の一手、旗神は記憶を大きく返す技だ。",
+        "味方の被弾を一度分散する",
+        "レベルは記憶片で上がる。上がるほど八幡の体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなった八幡は、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "八幡の個人記憶。YAMATOの層が、まだ薄い。"
+        },
+        {
+          "speaker": "八幡",
+          "text": "先生。私は八幡。WARDとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。"
+        },
+        {
+          "speaker": "八幡",
+          "text": "八幡弓は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Defenderとして並ぶとき、八幡は前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "八幡",
+          "text": "旗神を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "味方の被弾を一度分散する"
+        },
+        {
+          "speaker": "八幡",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、八幡の外見は完結する。"
+        },
+        {
+          "speaker": "八幡",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/hachiman.jpg",
+        "dock": "res://assets/characters/dock/hachiman.png",
+        "battle": "res://assets/characters/battle/hachiman.png",
+        "card": "res://assets/characters/cards/hachiman.jpg"
+      }
+    },
+    {
+      "id": "benzaiten",
+      "name": "弁財天",
+      "name_en": "BENZAITEN",
+      "civilization": "YAMATO",
+      "role": "Support",
+      "element": "WATER",
+      "relic": "八咫鏡",
+      "paragraphs": [
+        "弁財天（BENZAITEN）。YAMATOのレリクシア。役割はSupport、属性はWATER。",
+        "武器の系譜はBIWA。核となるRELICは八咫鏡。",
+        "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。",
+        "戦闘では通常で間合いを作り、弁才で流れを変える。水音は次の一手、妙音は記憶を大きく返す技だ。",
+        "味方が技能を使うと回復",
+        "レベルは記憶片で上がる。上がるほど弁財天の体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなった弁財天は、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "弁財天の個人記憶。YAMATOの層が、まだ薄い。"
+        },
+        {
+          "speaker": "弁財天",
+          "text": "先生。私は弁財天。WATERとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。"
+        },
+        {
+          "speaker": "弁財天",
+          "text": "弁才は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Supportとして並ぶとき、弁財天は前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "弁財天",
+          "text": "妙音を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "味方が技能を使うと回復"
+        },
+        {
+          "speaker": "弁財天",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、弁財天の外見は完結する。"
+        },
+        {
+          "speaker": "弁財天",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/benzaiten.jpg",
+        "dock": "res://assets/characters/dock/benzaiten.png",
+        "battle": "res://assets/characters/battle/benzaiten.png",
+        "card": "res://assets/characters/cards/benzaiten.jpg"
+      }
+    },
+    {
+      "id": "ryugu",
+      "name": "龍宮",
+      "name_en": "RYUGU",
+      "civilization": "YAMATO",
+      "role": "Controller",
+      "element": "TIDE",
+      "relic": "八咫鏡",
+      "paragraphs": [
+        "龍宮（RYUGU）。YAMATOのレリクシア。役割はController、属性はTIDE。",
+        "武器の系譜はTIDE_ORB。核となるRELICは八咫鏡。",
+        "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。",
+        "戦闘では通常で間合いを作り、潮宮で流れを変える。乙姫は次の一手、龍宮城は記憶を大きく返す技だ。",
+        "水際のRELICに強く干渉する",
+        "レベルは記憶片で上がる。上がるほど龍宮の体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなった龍宮は、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "龍宮の個人記憶。YAMATOの層が、まだ薄い。"
+        },
+        {
+          "speaker": "龍宮",
+          "text": "先生。私は龍宮。TIDEとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。"
+        },
+        {
+          "speaker": "龍宮",
+          "text": "潮宮は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Controllerとして並ぶとき、龍宮は前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "龍宮",
+          "text": "龍宮城を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "水際のRELICに強く干渉する"
+        },
+        {
+          "speaker": "龍宮",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、龍宮の外見は完結する。"
+        },
+        {
+          "speaker": "龍宮",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/ryugu.jpg",
+        "dock": "res://assets/characters/dock/ryugu.png",
+        "battle": "res://assets/characters/battle/ryugu.png",
+        "card": "res://assets/characters/cards/ryugu.jpg"
+      }
+    },
+    {
+      "id": "edo",
+      "name": "江戸",
+      "name_en": "EDO",
+      "civilization": "YAMATO",
+      "role": "Assassin",
+      "element": "BLADE",
+      "relic": "八咫鏡",
+      "paragraphs": [
+        "江戸（EDO）。YAMATOのレリクシア。役割はAssassin、属性はBLADE。",
+        "武器の系譜はIAITO。核となるRELICは八咫鏡。",
+        "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。",
+        "戦闘では通常で間合いを作り、夜駆けで流れを変える。居合は次の一手、千斬は記憶を大きく返す技だ。",
+        "回避直後の攻撃が強化される",
+        "レベルは記憶片で上がる。上がるほど江戸の体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなった江戸は、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "江戸の個人記憶。YAMATOの層が、まだ薄い。"
+        },
+        {
+          "speaker": "江戸",
+          "text": "先生。私は江戸。BLADEとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。"
+        },
+        {
+          "speaker": "江戸",
+          "text": "夜駆けは、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Assassinとして並ぶとき、江戸は前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "江戸",
+          "text": "千斬を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "回避直後の攻撃が強化される"
+        },
+        {
+          "speaker": "江戸",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、江戸の外見は完結する。"
+        },
+        {
+          "speaker": "江戸",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/edo.jpg",
+        "dock": "res://assets/characters/dock/edo.png",
+        "battle": "res://assets/characters/battle/edo.png",
+        "card": "res://assets/characters/cards/edo.jpg"
+      }
+    },
+    {
+      "id": "osaka",
+      "name": "大坂",
+      "name_en": "OSAKA",
+      "civilization": "YAMATO",
+      "role": "Attacker",
+      "element": "RIVER",
+      "relic": "八咫鏡",
+      "paragraphs": [
+        "大坂（OSAKA）。YAMATOのレリクシア。役割はAttacker、属性はRIVER。",
+        "武器の系譜はCASTLE_SPEAR。核となるRELICは八咫鏡。",
+        "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。",
+        "戦闘では通常で間合いを作り、大城で流れを変える。商いは次の一手、大河は記憶を大きく返す技だ。",
+        "味方が近いと攻撃が上がる",
+        "レベルは記憶片で上がる。上がるほど大坂の体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなった大坂は、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "大坂の個人記憶。YAMATOの層が、まだ薄い。"
+        },
+        {
+          "speaker": "大坂",
+          "text": "先生。私は大坂。RIVERとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。"
+        },
+        {
+          "speaker": "大坂",
+          "text": "大城は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Attackerとして並ぶとき、大坂は前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "大坂",
+          "text": "大河を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "味方が近いと攻撃が上がる"
+        },
+        {
+          "speaker": "大坂",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、大坂の外見は完結する。"
+        },
+        {
+          "speaker": "大坂",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/osaka.jpg",
+        "dock": "res://assets/characters/dock/osaka.png",
+        "battle": "res://assets/characters/battle/osaka.png",
+        "card": "res://assets/characters/cards/osaka.jpg"
+      }
+    },
+    {
+      "id": "nagasaki",
+      "name": "長崎",
+      "name_en": "NAGASAKI",
+      "civilization": "YAMATO",
+      "role": "Tactician",
+      "element": "WINDOW",
+      "relic": "八咫鏡",
+      "paragraphs": [
+        "長崎（NAGASAKI）。YAMATOのレリクシア。役割はTactician、属性はWINDOW。",
+        "武器の系譜はHARBOR_FAN。核となるRELICは八咫鏡。",
+        "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。",
+        "戦闘では通常で間合いを作り、出島で流れを変える。窓は次の一手、交流は記憶を大きく返す技だ。",
+        "異なる土地の味方がいると計画が速い",
+        "レベルは記憶片で上がる。上がるほど長崎の体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなった長崎は、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "長崎の個人記憶。YAMATOの層が、まだ薄い。"
+        },
+        {
+          "speaker": "長崎",
+          "text": "先生。私は長崎。WINDOWとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。"
+        },
+        {
+          "speaker": "長崎",
+          "text": "出島は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Tacticianとして並ぶとき、長崎は前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "長崎",
+          "text": "交流を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "異なる土地の味方がいると計画が速い"
+        },
+        {
+          "speaker": "長崎",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、長崎の外見は完結する。"
+        },
+        {
+          "speaker": "長崎",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/nagasaki.jpg",
+        "dock": "res://assets/characters/dock/nagasaki.png",
+        "battle": "res://assets/characters/battle/nagasaki.png",
+        "card": "res://assets/characters/cards/nagasaki.jpg"
+      }
+    },
+    {
+      "id": "kamakura",
+      "name": "鎌倉",
+      "name_en": "KAMAKURA",
+      "civilization": "YAMATO",
+      "role": "Attacker",
+      "element": "DUTY",
+      "relic": "八咫鏡",
+      "paragraphs": [
+        "鎌倉（KAMAKURA）。YAMATOのレリクシア。役割はAttacker、属性はDUTY。",
+        "武器の系譜はTACHI。核となるRELICは八咫鏡。",
+        "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。",
+        "戦闘では通常で間合いを作り、切岸で流れを変える。鶴岡は次の一手、旗指は記憶を大きく返す技だ。",
+        "防御を破ったあと追撃する",
+        "レベルは記憶片で上がる。上がるほど鎌倉の体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなった鎌倉は、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "鎌倉の個人記憶。YAMATOの層が、まだ薄い。"
+        },
+        {
+          "speaker": "鎌倉",
+          "text": "先生。私は鎌倉。DUTYとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。"
+        },
+        {
+          "speaker": "鎌倉",
+          "text": "切岸は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Attackerとして並ぶとき、鎌倉は前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "鎌倉",
+          "text": "旗指を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "防御を破ったあと追撃する"
+        },
+        {
+          "speaker": "鎌倉",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、鎌倉の外見は完結する。"
+        },
+        {
+          "speaker": "鎌倉",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/kamakura.jpg",
+        "dock": "res://assets/characters/dock/kamakura.png",
+        "battle": "res://assets/characters/battle/kamakura.png",
+        "card": "res://assets/characters/cards/kamakura.jpg"
+      }
+    },
+    {
+      "id": "tokyo",
+      "name": "東京",
+      "name_en": "TOKYO",
+      "civilization": "TOKYO",
+      "role": "Tactician",
+      "element": "NETWORK",
+      "relic": "八咫鏡",
+      "paragraphs": [
+        "東京（TOKYO）。TOKYOのレリクシア。役割はTactician、属性はNETWORK。",
+        "武器の系譜はTRANSIT_CORE。核となるRELICは八咫鏡。",
+        "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。",
+        "戦闘では通常で間合いを作り、回路で流れを変える。急行は次の一手、首都覚醒は記憶を大きく返す技だ。",
+        "味方と距離が近いと捕獲加速",
+        "レベルは記憶片で上がる。上がるほど東京の体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなった東京は、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "東京の個人記憶。TOKYOの層が、まだ薄い。"
+        },
+        {
+          "speaker": "東京",
+          "text": "先生。私は東京。NETWORKとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。"
+        },
+        {
+          "speaker": "東京",
+          "text": "回路は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Tacticianとして並ぶとき、東京は前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "東京",
+          "text": "首都覚醒を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "味方と距離が近いと捕獲加速"
+        },
+        {
+          "speaker": "東京",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、東京の外見は完結する。"
+        },
+        {
+          "speaker": "東京",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/tokyo.jpg",
+        "dock": "res://assets/characters/dock/tokyo.png",
+        "battle": "res://assets/characters/battle/tokyo.png",
+        "card": "res://assets/characters/cards/tokyo.jpg"
+      }
+    },
+    {
+      "id": "meiji",
+      "name": "明治",
+      "name_en": "MEIJI",
+      "civilization": "TOKYO",
+      "role": "Tactician",
+      "element": "STEAM",
+      "relic": "八咫鏡",
+      "paragraphs": [
+        "明治（MEIJI）。TOKYOのレリクシア。役割はTactician、属性はSTEAM。",
+        "武器の系譜はTREATY_SABER。核となるRELICは八咫鏡。",
+        "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。",
+        "戦闘では通常で間合いを作り、汽笛で流れを変える。条約は次の一手、文明開化は記憶を大きく返す技だ。",
+        "ERA SHIFT直後に味方を加速する",
+        "レベルは記憶片で上がる。上がるほど明治の体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなった明治は、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "明治の個人記憶。TOKYOの層が、まだ薄い。"
+        },
+        {
+          "speaker": "明治",
+          "text": "先生。私は明治。STEAMとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。"
+        },
+        {
+          "speaker": "明治",
+          "text": "汽笛は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Tacticianとして並ぶとき、明治は前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "明治",
+          "text": "文明開化を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "ERA SHIFT直後に味方を加速する"
+        },
+        {
+          "speaker": "明治",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、明治の外見は完結する。"
+        },
+        {
+          "speaker": "明治",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/meiji.jpg",
+        "dock": "res://assets/characters/dock/meiji.png",
+        "battle": "res://assets/characters/battle/meiji.png",
+        "card": "res://assets/characters/cards/meiji.jpg"
+      }
+    },
+    {
+      "id": "yokohama",
+      "name": "横浜",
+      "name_en": "YOKOHAMA",
+      "civilization": "TOKYO",
+      "role": "Tactician",
+      "element": "PORT",
+      "relic": "八咫鏡",
+      "paragraphs": [
+        "横浜（YOKOHAMA）。TOKYOのレリクシア。役割はTactician、属性はPORT。",
+        "武器の系譜はLIGHTHOUSE_KEY。核となるRELICは八咫鏡。",
+        "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。",
+        "戦闘では通常で間合いを作り、開港で流れを変える。鉄路は次の一手、灯台は記憶を大きく返す技だ。",
+        "味方が整列すると捕獲加速",
+        "レベルは記憶片で上がる。上がるほど横浜の体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなった横浜は、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "横浜の個人記憶。TOKYOの層が、まだ薄い。"
+        },
+        {
+          "speaker": "横浜",
+          "text": "先生。私は横浜。PORTとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。"
+        },
+        {
+          "speaker": "横浜",
+          "text": "開港は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Tacticianとして並ぶとき、横浜は前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "横浜",
+          "text": "灯台を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "味方が整列すると捕獲加速"
+        },
+        {
+          "speaker": "横浜",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、横浜の外見は完結する。"
+        },
+        {
+          "speaker": "横浜",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/yokohama.jpg",
+        "dock": "res://assets/characters/dock/yokohama.png",
+        "battle": "res://assets/characters/battle/yokohama.png",
+        "card": "res://assets/characters/cards/yokohama.jpg"
+      }
+    },
+    {
+      "id": "future_tokyo",
+      "name": "未来東京",
+      "name_en": "FUTURE TOKYO",
+      "civilization": "TOKYO",
+      "role": "Tactician",
+      "element": "CIRCUIT",
+      "relic": "八咫鏡",
+      "paragraphs": [
+        "未来東京（FUTURE TOKYO）。TOKYOのレリクシア。役割はTactician、属性はCIRCUIT。",
+        "武器の系譜はFUTURE_RAIL。核となるRELICは八咫鏡。",
+        "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。",
+        "戦闘では通常で間合いを作り、未来回路で流れを変える。再首都は次の一手、永遠東京は記憶を大きく返す技だ。",
+        "全味方の捕獲をわずかに加速する",
+        "レベルは記憶片で上がる。上がるほど未来東京の体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなった未来東京は、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "未来東京の個人記憶。TOKYOの層が、まだ薄い。"
+        },
+        {
+          "speaker": "未来東京",
+          "text": "先生。私は未来東京。CIRCUITとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。"
+        },
+        {
+          "speaker": "未来東京",
+          "text": "未来回路は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Tacticianとして並ぶとき、未来東京は前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "未来東京",
+          "text": "永遠東京を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "全味方の捕獲をわずかに加速する"
+        },
+        {
+          "speaker": "未来東京",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、未来東京の外見は完結する。"
+        },
+        {
+          "speaker": "未来東京",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/future_tokyo.jpg",
+        "dock": "res://assets/characters/dock/future_tokyo.png",
+        "battle": "res://assets/characters/battle/future_tokyo.png",
+        "card": "res://assets/characters/cards/future_tokyo.jpg"
+      }
+    },
+    {
+      "id": "yamato",
+      "name": "ヤマト",
+      "name_en": "YAMATO",
+      "civilization": "TOKYO",
+      "role": "Defender",
+      "element": "STAR",
+      "relic": "八咫鏡",
+      "paragraphs": [
+        "ヤマト（YAMATO）。TOKYOのレリクシア。役割はDefender、属性はSTAR。",
+        "武器の系譜はSTAR_CHART。核となるRELICは八咫鏡。",
+        "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。",
+        "戦闘では通常で間合いを作り、艦影で流れを変える。星図は次の一手、永遠の列島は記憶を大きく返す技だ。",
+        "味方の被弾を一度分散する",
+        "レベルは記憶片で上がる。上がるほどヤマトの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったヤマトは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "ヤマトの個人記憶。TOKYOの層が、まだ薄い。"
+        },
+        {
+          "speaker": "ヤマト",
+          "text": "先生。私はヤマト。STARとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。"
+        },
+        {
+          "speaker": "ヤマト",
+          "text": "艦影は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Defenderとして並ぶとき、ヤマトは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "ヤマト",
+          "text": "永遠の列島を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "味方の被弾を一度分散する"
+        },
+        {
+          "speaker": "ヤマト",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、ヤマトの外見は完結する。"
+        },
+        {
+          "speaker": "ヤマト",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/yamato.jpg",
+        "dock": "res://assets/characters/dock/yamato.png",
+        "battle": "res://assets/characters/battle/yamato.png",
+        "card": "res://assets/characters/cards/yamato.jpg"
+      }
+    },
+    {
+      "id": "athena",
+      "name": "アテナ",
+      "name_en": "ATHENA",
+      "civilization": "HELLAS",
+      "role": "Defender",
+      "element": "AEGIS",
+      "relic": "失われた都市の盾",
+      "paragraphs": [
+        "アテナ（ATHENA）。HELLASのレリクシア。役割はDefender、属性はAEGIS。",
+        "武器の系譜はAEGIS。核となるRELICは失われた都市の盾。",
+        "都市が白い大理石の神殿都市へ変化する。",
+        "戦闘では通常で間合いを作り、アエギスで流れを変える。予兆は次の一手、戦女神は記憶を大きく返す技だ。",
+        "被弾後、短時間防御が上がる",
+        "レベルは記憶片で上がる。上がるほどアテナの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったアテナは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "アテナの個人記憶。HELLASの層が、まだ薄い。"
+        },
+        {
+          "speaker": "アテナ",
+          "text": "先生。私はアテナ。AEGISとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "都市が白い大理石の神殿都市へ変化する。"
+        },
+        {
+          "speaker": "アテナ",
+          "text": "アエギスは、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Defenderとして並ぶとき、アテナは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "アテナ",
+          "text": "戦女神を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "被弾後、短時間防御が上がる"
+        },
+        {
+          "speaker": "アテナ",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、アテナの外見は完結する。"
+        },
+        {
+          "speaker": "アテナ",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/athena.jpg",
+        "dock": "res://assets/characters/dock/athena.png",
+        "battle": "res://assets/characters/battle/athena.png",
+        "card": "res://assets/characters/cards/athena.jpg"
+      }
+    },
+    {
+      "id": "poseidon",
+      "name": "ポセイドン",
+      "name_en": "POSEIDON",
+      "civilization": "HELLAS",
+      "role": "Controller",
+      "element": "SEA",
+      "relic": "失われた都市の盾",
+      "paragraphs": [
+        "ポセイドン（POSEIDON）。HELLASのレリクシア。役割はController、属性はSEA。",
+        "武器の系譜はTRIDENT。核となるRELICは失われた都市の盾。",
+        "都市が白い大理石の神殿都市へ変化する。",
+        "戦闘では通常で間合いを作り、三叉で流れを変える。海震は次の一手、潮主は記憶を大きく返す技だ。",
+        "水際全体の捕獲を干渉する",
+        "レベルは記憶片で上がる。上がるほどポセイドンの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったポセイドンは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "ポセイドンの個人記憶。HELLASの層が、まだ薄い。"
+        },
+        {
+          "speaker": "ポセイドン",
+          "text": "先生。私はポセイドン。SEAとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "都市が白い大理石の神殿都市へ変化する。"
+        },
+        {
+          "speaker": "ポセイドン",
+          "text": "三叉は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Controllerとして並ぶとき、ポセイドンは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "ポセイドン",
+          "text": "潮主を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "水際全体の捕獲を干渉する"
+        },
+        {
+          "speaker": "ポセイドン",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、ポセイドンの外見は完結する。"
+        },
+        {
+          "speaker": "ポセイドン",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/poseidon.jpg",
+        "dock": "res://assets/characters/dock/poseidon.png",
+        "battle": "res://assets/characters/battle/poseidon.png",
+        "card": "res://assets/characters/cards/poseidon.jpg"
+      }
+    },
+    {
+      "id": "apollo",
+      "name": "アポロン",
+      "name_en": "APOLLO",
+      "civilization": "HELLAS",
+      "role": "Attacker",
+      "element": "LIGHT",
+      "relic": "失われた都市の盾",
+      "paragraphs": [
+        "アポロン（APOLLO）。HELLASのレリクシア。役割はAttacker、属性はLIGHT。",
+        "武器の系譜はGOLDEN_BOW。核となるRELICは失われた都市の盾。",
+        "都市が白い大理石の神殿都市へ変化する。",
+        "戦闘では通常で間合いを作り、光矢で流れを変える。神託は次の一手、デルポイは記憶を大きく返す技だ。",
+        "遠距離ほどダメージが伸びる",
+        "レベルは記憶片で上がる。上がるほどアポロンの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったアポロンは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "アポロンの個人記憶。HELLASの層が、まだ薄い。"
+        },
+        {
+          "speaker": "アポロン",
+          "text": "先生。私はアポロン。LIGHTとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "都市が白い大理石の神殿都市へ変化する。"
+        },
+        {
+          "speaker": "アポロン",
+          "text": "光矢は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Attackerとして並ぶとき、アポロンは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "アポロン",
+          "text": "デルポイを使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "遠距離ほどダメージが伸びる"
+        },
+        {
+          "speaker": "アポロン",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、アポロンの外見は完結する。"
+        },
+        {
+          "speaker": "アポロン",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/apollo.jpg",
+        "dock": "res://assets/characters/dock/apollo.png",
+        "battle": "res://assets/characters/battle/apollo.png",
+        "card": "res://assets/characters/cards/apollo.jpg"
+      }
+    },
+    {
+      "id": "artemis",
+      "name": "アルテミス",
+      "name_en": "ARTEMIS",
+      "civilization": "HELLAS",
+      "role": "Assassin",
+      "element": "HUNT",
+      "relic": "失われた都市の盾",
+      "paragraphs": [
+        "アルテミス（ARTEMIS）。HELLASのレリクシア。役割はAssassin、属性はHUNT。",
+        "武器の系譜はSILVER_BOW。核となるRELICは失われた都市の盾。",
+        "都市が白い大理石の神殿都市へ変化する。",
+        "戦闘では通常で間合いを作り、銀弓で流れを変える。野駆けは次の一手、処女の夜は記憶を大きく返す技だ。",
+        "端からの攻撃が致命になりやすい",
+        "レベルは記憶片で上がる。上がるほどアルテミスの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったアルテミスは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "アルテミスの個人記憶。HELLASの層が、まだ薄い。"
+        },
+        {
+          "speaker": "アルテミス",
+          "text": "先生。私はアルテミス。HUNTとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "都市が白い大理石の神殿都市へ変化する。"
+        },
+        {
+          "speaker": "アルテミス",
+          "text": "銀弓は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Assassinとして並ぶとき、アルテミスは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "アルテミス",
+          "text": "処女の夜を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "端からの攻撃が致命になりやすい"
+        },
+        {
+          "speaker": "アルテミス",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、アルテミスの外見は完結する。"
+        },
+        {
+          "speaker": "アルテミス",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/artemis.jpg",
+        "dock": "res://assets/characters/dock/artemis.png",
+        "battle": "res://assets/characters/battle/artemis.png",
+        "card": "res://assets/characters/cards/artemis.jpg"
+      }
+    },
+    {
+      "id": "minos",
+      "name": "ミノス",
+      "name_en": "MINOS",
+      "civilization": "HELLAS",
+      "role": "Defender",
+      "element": "LAW",
+      "relic": "失われた都市の盾",
+      "paragraphs": [
+        "ミノス（MINOS）。HELLASのレリクシア。役割はDefender、属性はLAW。",
+        "武器の系譜はLABYRINTH_AXE。核となるRELICは失われた都市の盾。",
+        "都市が白い大理石の神殿都市へ変化する。",
+        "戦闘では通常で間合いを作り、迷宮で流れを変える。牛頭は次の一手、海の法は記憶を大きく返す技だ。",
+        "敵の直線移動を妨げる",
+        "レベルは記憶片で上がる。上がるほどミノスの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったミノスは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "ミノスの個人記憶。HELLASの層が、まだ薄い。"
+        },
+        {
+          "speaker": "ミノス",
+          "text": "先生。私はミノス。LAWとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "都市が白い大理石の神殿都市へ変化する。"
+        },
+        {
+          "speaker": "ミノス",
+          "text": "迷宮は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Defenderとして並ぶとき、ミノスは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "ミノス",
+          "text": "海の法を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "敵の直線移動を妨げる"
+        },
+        {
+          "speaker": "ミノス",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、ミノスの外見は完結する。"
+        },
+        {
+          "speaker": "ミノス",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/minos.jpg",
+        "dock": "res://assets/characters/dock/minos.png",
+        "battle": "res://assets/characters/battle/minos.png",
+        "card": "res://assets/characters/cards/minos.jpg"
+      }
+    },
+    {
+      "id": "sparta",
+      "name": "スパルタ",
+      "name_en": "SPARTA",
+      "civilization": "HELLAS",
+      "role": "Attacker",
+      "element": "DISCIPLINE",
+      "relic": "失われた都市の盾",
+      "paragraphs": [
+        "スパルタ（SPARTA）。HELLASのレリクシア。役割はAttacker、属性はDISCIPLINE。",
+        "武器の系譜はHOPLITE_SPEAR。核となるRELICは失われた都市の盾。",
+        "都市が白い大理石の神殿都市へ変化する。",
+        "戦闘では通常で間合いを作り、盾壁で流れを変える。戦列は次の一手、ラコニアは記憶を大きく返す技だ。",
+        "味方が近いと攻撃が上がる",
+        "レベルは記憶片で上がる。上がるほどスパルタの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったスパルタは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "スパルタの個人記憶。HELLASの層が、まだ薄い。"
+        },
+        {
+          "speaker": "スパルタ",
+          "text": "先生。私はスパルタ。DISCIPLINEとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "都市が白い大理石の神殿都市へ変化する。"
+        },
+        {
+          "speaker": "スパルタ",
+          "text": "盾壁は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Attackerとして並ぶとき、スパルタは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "スパルタ",
+          "text": "ラコニアを使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "味方が近いと攻撃が上がる"
+        },
+        {
+          "speaker": "スパルタ",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、スパルタの外見は完結する。"
+        },
+        {
+          "speaker": "スパルタ",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/sparta.jpg",
+        "dock": "res://assets/characters/dock/sparta.png",
+        "battle": "res://assets/characters/battle/sparta.png",
+        "card": "res://assets/characters/cards/sparta.jpg"
+      }
+    },
+    {
+      "id": "roma",
+      "name": "ローマ",
+      "name_en": "ROMA",
+      "civilization": "ROME",
+      "role": "Controller",
+      "element": "EMPIRE",
+      "relic": "rome_relic",
+      "paragraphs": [
+        "ローマ（ROMA）。ROMEのレリクシア。役割はController、属性はEMPIRE。",
+        "武器の系譜はEAGLE_STANDARD。核となるRELICはrome_relic。",
+        "瓦礫→石畳→凱旋門→街道→ROME DOMAIN",
+        "戦闘では通常で間合いを作り、軍団で流れを変える。帝都は次の一手、凱旋は記憶を大きく返す技だ。",
+        "領域内のRELIC捕獲が速い",
+        "レベルは記憶片で上がる。上がるほどローマの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったローマは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "ローマの個人記憶。ROMEの層が、まだ薄い。"
+        },
+        {
+          "speaker": "ローマ",
+          "text": "先生。私はローマ。EMPIREとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "瓦礫→石畳→凱旋門→街道→ROME DOMAIN"
+        },
+        {
+          "speaker": "ローマ",
+          "text": "軍団は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Controllerとして並ぶとき、ローマは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "ローマ",
+          "text": "凱旋を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "領域内のRELIC捕獲が速い"
+        },
+        {
+          "speaker": "ローマ",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、ローマの外見は完結する。"
+        },
+        {
+          "speaker": "ローマ",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/roma.jpg",
+        "dock": "res://assets/characters/dock/roma.png",
+        "battle": "res://assets/characters/battle/roma.png",
+        "card": "res://assets/characters/cards/roma.jpg"
+      }
+    },
+    {
+      "id": "venice",
+      "name": "ヴェネツィア",
+      "name_en": "VENICE",
+      "civilization": "ROME",
+      "role": "Controller",
+      "element": "LAGOON",
+      "relic": "rome_relic",
+      "paragraphs": [
+        "ヴェネツィア（VENICE）。ROMEのレリクシア。役割はController、属性はLAGOON。",
+        "武器の系譜はMASK_FAN。核となるRELICはrome_relic。",
+        "瓦礫→石畳→凱旋門→街道→ROME DOMAIN",
+        "戦闘では通常で間合いを作り、満潮路で流れを変える。仮面は次の一手、潟の支配は記憶を大きく返す技だ。",
+        "水際（マップ端）で移動が速い",
+        "レベルは記憶片で上がる。上がるほどヴェネツィアの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったヴェネツィアは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "ヴェネツィアの個人記憶。ROMEの層が、まだ薄い。"
+        },
+        {
+          "speaker": "ヴェネツィア",
+          "text": "先生。私はヴェネツィア。LAGOONとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "瓦礫→石畳→凱旋門→街道→ROME DOMAIN"
+        },
+        {
+          "speaker": "ヴェネツィア",
+          "text": "満潮路は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Controllerとして並ぶとき、ヴェネツィアは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "ヴェネツィア",
+          "text": "潟の支配を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "水際（マップ端）で移動が速い"
+        },
+        {
+          "speaker": "ヴェネツィア",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、ヴェネツィアの外見は完結する。"
+        },
+        {
+          "speaker": "ヴェネツィア",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/venice.jpg",
+        "dock": "res://assets/characters/dock/venice.png",
+        "battle": "res://assets/characters/battle/venice.png",
+        "card": "res://assets/characters/cards/venice.jpg"
+      }
+    },
+    {
+      "id": "carthage",
+      "name": "カルタゴ",
+      "name_en": "CARTHAGE",
+      "civilization": "ROME",
+      "role": "Attacker",
+      "element": "SALT",
+      "relic": "rome_relic",
+      "paragraphs": [
+        "カルタゴ（CARTHAGE）。ROMEのレリクシア。役割はAttacker、属性はSALT。",
+        "武器の系譜はSALT_BLADE。核となるRELICはrome_relic。",
+        "瓦礫→石畳→凱旋門→街道→ROME DOMAIN",
+        "戦闘では通常で間合いを作り、塩土で流れを変える。港湾は次の一手、再起の火は記憶を大きく返す技だ。",
+        "敗北寸前で攻撃が跳ねる",
+        "レベルは記憶片で上がる。上がるほどカルタゴの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったカルタゴは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "カルタゴの個人記憶。ROMEの層が、まだ薄い。"
+        },
+        {
+          "speaker": "カルタゴ",
+          "text": "先生。私はカルタゴ。SALTとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "瓦礫→石畳→凱旋門→街道→ROME DOMAIN"
+        },
+        {
+          "speaker": "カルタゴ",
+          "text": "塩土は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Attackerとして並ぶとき、カルタゴは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "カルタゴ",
+          "text": "再起の火を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "敗北寸前で攻撃が跳ねる"
+        },
+        {
+          "speaker": "カルタゴ",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、カルタゴの外見は完結する。"
+        },
+        {
+          "speaker": "カルタゴ",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/carthage.jpg",
+        "dock": "res://assets/characters/dock/carthage.png",
+        "battle": "res://assets/characters/battle/carthage.png",
+        "card": "res://assets/characters/cards/carthage.jpg"
+      }
+    },
+    {
+      "id": "byzantium",
+      "name": "ビザンツ",
+      "name_en": "BYZANTIUM",
+      "civilization": "ROME",
+      "role": "Defender",
+      "element": "WALL",
+      "relic": "rome_relic",
+      "paragraphs": [
+        "ビザンツ（BYZANTIUM）。ROMEのレリクシア。役割はDefender、属性はWALL。",
+        "武器の系譜はGOLDEN_WALL。核となるRELICはrome_relic。",
+        "瓦礫→石畳→凱旋門→街道→ROME DOMAIN",
+        "戦闘では通常で間合いを作り、三重壁で流れを変える。金角は次の一手、両洋の都は記憶を大きく返す技だ。",
+        "味方全体の防御がわずかに上がる",
+        "レベルは記憶片で上がる。上がるほどビザンツの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったビザンツは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "ビザンツの個人記憶。ROMEの層が、まだ薄い。"
+        },
+        {
+          "speaker": "ビザンツ",
+          "text": "先生。私はビザンツ。WALLとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "瓦礫→石畳→凱旋門→街道→ROME DOMAIN"
+        },
+        {
+          "speaker": "ビザンツ",
+          "text": "三重壁は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Defenderとして並ぶとき、ビザンツは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "ビザンツ",
+          "text": "両洋の都を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "味方全体の防御がわずかに上がる"
+        },
+        {
+          "speaker": "ビザンツ",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、ビザンツの外見は完結する。"
+        },
+        {
+          "speaker": "ビザンツ",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/byzantium.jpg",
+        "dock": "res://assets/characters/dock/byzantium.png",
+        "battle": "res://assets/characters/battle/byzantium.png",
+        "card": "res://assets/characters/cards/byzantium.jpg"
+      }
+    },
+    {
+      "id": "ottoman",
+      "name": "オスマン",
+      "name_en": "OTTOMAN",
+      "civilization": "ROME",
+      "role": "Controller",
+      "element": "CRESCENT",
+      "relic": "rome_relic",
+      "paragraphs": [
+        "オスマン（OTTOMAN）。ROMEのレリクシア。役割はController、属性はCRESCENT。",
+        "武器の系譜はCRESCENT_GUN。核となるRELICはrome_relic。",
+        "瓦礫→石畳→凱旋門→街道→ROME DOMAIN",
+        "戦闘では通常で間合いを作り、半月で流れを変える。帝都は次の一手、砲門は記憶を大きく返す技だ。",
+        "確保したRELICの喪失が遅い",
+        "レベルは記憶片で上がる。上がるほどオスマンの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったオスマンは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "オスマンの個人記憶。ROMEの層が、まだ薄い。"
+        },
+        {
+          "speaker": "オスマン",
+          "text": "先生。私はオスマン。CRESCENTとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "瓦礫→石畳→凱旋門→街道→ROME DOMAIN"
+        },
+        {
+          "speaker": "オスマン",
+          "text": "半月は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Controllerとして並ぶとき、オスマンは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "オスマン",
+          "text": "砲門を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "確保したRELICの喪失が遅い"
+        },
+        {
+          "speaker": "オスマン",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、オスマンの外見は完結する。"
+        },
+        {
+          "speaker": "オスマン",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/ottoman.jpg",
+        "dock": "res://assets/characters/dock/ottoman.png",
+        "battle": "res://assets/characters/battle/ottoman.png",
+        "card": "res://assets/characters/cards/ottoman.jpg"
+      }
+    },
+    {
+      "id": "istanbul",
+      "name": "イスタンブール",
+      "name_en": "ISTANBUL",
+      "civilization": "ROME",
+      "role": "Controller",
+      "element": "STRAIT",
+      "relic": "rome_relic",
+      "paragraphs": [
+        "イスタンブール（ISTANBUL）。ROMEのレリクシア。役割はController、属性はSTRAIT。",
+        "武器の系譜はSTRAIT_KEY。核となるRELICはrome_relic。",
+        "瓦礫→石畳→凱旋門→街道→ROME DOMAIN",
+        "戦闘では通常で間合いを作り、両岸で流れを変える。層名は次の一手、海峡は記憶を大きく返す技だ。",
+        "中心と水際の両方に強い",
+        "レベルは記憶片で上がる。上がるほどイスタンブールの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったイスタンブールは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "イスタンブールの個人記憶。ROMEの層が、まだ薄い。"
+        },
+        {
+          "speaker": "イスタンブール",
+          "text": "先生。私はイスタンブール。STRAITとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "瓦礫→石畳→凱旋門→街道→ROME DOMAIN"
+        },
+        {
+          "speaker": "イスタンブール",
+          "text": "両岸は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Controllerとして並ぶとき、イスタンブールは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "イスタンブール",
+          "text": "海峡を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "中心と水際の両方に強い"
+        },
+        {
+          "speaker": "イスタンブール",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、イスタンブールの外見は完結する。"
+        },
+        {
+          "speaker": "イスタンブール",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/istanbul.jpg",
+        "dock": "res://assets/characters/dock/istanbul.png",
+        "battle": "res://assets/characters/battle/istanbul.png",
+        "card": "res://assets/characters/cards/istanbul.jpg"
+      }
+    },
+    {
+      "id": "isis",
+      "name": "イシス",
+      "name_en": "ISIS",
+      "civilization": "KEMET",
+      "role": "Support",
+      "element": "LIFE",
+      "relic": "生命のアンク",
+      "paragraphs": [
+        "イシス（ISIS）。KEMETのレリクシア。役割はSupport、属性はLIFE。",
+        "武器の系譜はANKH_WINGS。核となるRELICは生命のアンク。",
+        "ナイルと蓮が灰色の街を潤す。",
+        "戦闘では通常で間合いを作り、生命の翼で流れを変える。星の呪は次の一手、再生は記憶を大きく返す技だ。",
+        "味方の戦闘不能を一度だけ遅らせる",
+        "レベルは記憶片で上がる。上がるほどイシスの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったイシスは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "イシスの個人記憶。KEMETの層が、まだ薄い。"
+        },
+        {
+          "speaker": "イシス",
+          "text": "先生。私はイシス。LIFEとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "ナイルと蓮が灰色の街を潤す。"
+        },
+        {
+          "speaker": "イシス",
+          "text": "生命の翼は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Supportとして並ぶとき、イシスは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "イシス",
+          "text": "再生を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "味方の戦闘不能を一度だけ遅らせる"
+        },
+        {
+          "speaker": "イシス",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、イシスの外見は完結する。"
+        },
+        {
+          "speaker": "イシス",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/isis.jpg",
+        "dock": "res://assets/characters/dock/isis.png",
+        "battle": "res://assets/characters/battle/isis.png",
+        "card": "res://assets/characters/cards/isis.jpg"
+      }
+    },
+    {
+      "id": "anubis",
+      "name": "アヌビス",
+      "name_en": "ANUBIS",
+      "civilization": "KEMET",
+      "role": "Controller",
+      "element": "JUDGMENT",
+      "relic": "審判の秤",
+      "paragraphs": [
+        "アヌビス（ANUBIS）。KEMETのレリクシア。役割はController、属性はJUDGMENT。",
+        "武器の系譜はJUDGMENT_SCALE。核となるRELICは審判の秤。",
+        "ナイルと蓮が灰色の街を潤す。",
+        "戦闘では通常で間合いを作り、秤で流れを変える。導霊は次の一手、裁決は記憶を大きく返す技だ。",
+        "低体力の敵に追加ダメージ",
+        "レベルは記憶片で上がる。上がるほどアヌビスの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったアヌビスは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "アヌビスの個人記憶。KEMETの層が、まだ薄い。"
+        },
+        {
+          "speaker": "アヌビス",
+          "text": "先生。私はアヌビス。JUDGMENTとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "ナイルと蓮が灰色の街を潤す。"
+        },
+        {
+          "speaker": "アヌビス",
+          "text": "秤は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Controllerとして並ぶとき、アヌビスは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "アヌビス",
+          "text": "裁決を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "低体力の敵に追加ダメージ"
+        },
+        {
+          "speaker": "アヌビス",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、アヌビスの外見は完結する。"
+        },
+        {
+          "speaker": "アヌビス",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/anubis.jpg",
+        "dock": "res://assets/characters/dock/anubis.png",
+        "battle": "res://assets/characters/battle/anubis.png",
+        "card": "res://assets/characters/cards/anubis.jpg"
+      }
+    },
+    {
+      "id": "ra",
+      "name": "ラー",
+      "name_en": "RA",
+      "civilization": "KEMET",
+      "role": "Attacker",
+      "element": "SUN",
+      "relic": "審判の秤",
+      "paragraphs": [
+        "ラー（RA）。KEMETのレリクシア。役割はAttacker、属性はSUN。",
+        "武器の系譜はSOLAR_BARQUE。核となるRELICは審判の秤。",
+        "ナイルと蓮が灰色の街を潤す。",
+        "戦闘では通常で間合いを作り、日輪で流れを変える。太陽船は次の一手、真昼は記憶を大きく返す技だ。",
+        "HPが高いほど攻撃が強い",
+        "レベルは記憶片で上がる。上がるほどラーの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったラーは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "ラーの個人記憶。KEMETの層が、まだ薄い。"
+        },
+        {
+          "speaker": "ラー",
+          "text": "先生。私はラー。SUNとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "ナイルと蓮が灰色の街を潤す。"
+        },
+        {
+          "speaker": "ラー",
+          "text": "日輪は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Attackerとして並ぶとき、ラーは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "ラー",
+          "text": "真昼を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "HPが高いほど攻撃が強い"
+        },
+        {
+          "speaker": "ラー",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、ラーの外見は完結する。"
+        },
+        {
+          "speaker": "ラー",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/ra.jpg",
+        "dock": "res://assets/characters/dock/ra.png",
+        "battle": "res://assets/characters/battle/ra.png",
+        "card": "res://assets/characters/cards/ra.jpg"
+      }
+    },
+    {
+      "id": "hathor",
+      "name": "ハトホル",
+      "name_en": "HATHOR",
+      "civilization": "KEMET",
+      "role": "Support",
+      "element": "JOY",
+      "relic": "審判の秤",
+      "paragraphs": [
+        "ハトホル（HATHOR）。KEMETのレリクシア。役割はSupport、属性はJOY。",
+        "武器の系譜はSKY_LYRE。核となるRELICは審判の秤。",
+        "ナイルと蓮が灰色の街を潤す。",
+        "戦闘では通常で間合いを作り、琴で流れを変える。歓楽は次の一手、天空の牛は記憶を大きく返す技だ。",
+        "付近の味方のUlt蓄積が速い",
+        "レベルは記憶片で上がる。上がるほどハトホルの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったハトホルは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "ハトホルの個人記憶。KEMETの層が、まだ薄い。"
+        },
+        {
+          "speaker": "ハトホル",
+          "text": "先生。私はハトホル。JOYとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "ナイルと蓮が灰色の街を潤す。"
+        },
+        {
+          "speaker": "ハトホル",
+          "text": "琴は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Supportとして並ぶとき、ハトホルは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "ハトホル",
+          "text": "天空の牛を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "付近の味方のUlt蓄積が速い"
+        },
+        {
+          "speaker": "ハトホル",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、ハトホルの外見は完結する。"
+        },
+        {
+          "speaker": "ハトホル",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/hathor.jpg",
+        "dock": "res://assets/characters/dock/hathor.png",
+        "battle": "res://assets/characters/battle/hathor.png",
+        "card": "res://assets/characters/cards/hathor.jpg"
+      }
+    },
+    {
+      "id": "thoth",
+      "name": "トト",
+      "name_en": "THOTH",
+      "civilization": "KEMET",
+      "role": "Tactician",
+      "element": "INK",
+      "relic": "審判の秤",
+      "paragraphs": [
+        "トト（THOTH）。KEMETのレリクシア。役割はTactician、属性はINK。",
+        "武器の系譜はIBIS_STYLUS。核となるRELICは審判の秤。",
+        "ナイルと蓮が灰色の街を潤す。",
+        "戦闘では通常で間合いを作り、聖刻で流れを変える。月のインクは次の一手、記録は記憶を大きく返す技だ。",
+        "技能情報が敵に長く残る",
+        "レベルは記憶片で上がる。上がるほどトトの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったトトは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "トトの個人記憶。KEMETの層が、まだ薄い。"
+        },
+        {
+          "speaker": "トト",
+          "text": "先生。私はトト。INKとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "ナイルと蓮が灰色の街を潤す。"
+        },
+        {
+          "speaker": "トト",
+          "text": "聖刻は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Tacticianとして並ぶとき、トトは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "トト",
+          "text": "記録を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "技能情報が敵に長く残る"
+        },
+        {
+          "speaker": "トト",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、トトの外見は完結する。"
+        },
+        {
+          "speaker": "トト",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/thoth.jpg",
+        "dock": "res://assets/characters/dock/thoth.png",
+        "battle": "res://assets/characters/battle/thoth.png",
+        "card": "res://assets/characters/cards/thoth.jpg"
+      }
+    },
+    {
+      "id": "set",
+      "name": "セト",
+      "name_en": "SET",
+      "civilization": "KEMET",
+      "role": "Attacker",
+      "element": "SAND",
+      "relic": "審判の秤",
+      "paragraphs": [
+        "セト（SET）。KEMETのレリクシア。役割はAttacker、属性はSAND。",
+        "武器の系譜はCHAOS_WAS。核となるRELICは審判の秤。",
+        "ナイルと蓮が灰色の街を潤す。",
+        "戦闘では通常で間合いを作り、砂嵐で流れを変える。赤土は次の一手、混沌は記憶を大きく返す技だ。",
+        "捕獲争い中の攻撃が強い",
+        "レベルは記憶片で上がる。上がるほどセトの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったセトは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "セトの個人記憶。KEMETの層が、まだ薄い。"
+        },
+        {
+          "speaker": "セト",
+          "text": "先生。私はセト。SANDとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "ナイルと蓮が灰色の街を潤す。"
+        },
+        {
+          "speaker": "セト",
+          "text": "砂嵐は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Attackerとして並ぶとき、セトは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "セト",
+          "text": "混沌を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "捕獲争い中の攻撃が強い"
+        },
+        {
+          "speaker": "セト",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、セトの外見は完結する。"
+        },
+        {
+          "speaker": "セト",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/set.jpg",
+        "dock": "res://assets/characters/dock/set.png",
+        "battle": "res://assets/characters/battle/set.png",
+        "card": "res://assets/characters/cards/set.jpg"
+      }
+    },
+    {
+      "id": "bastet",
+      "name": "バステト",
+      "name_en": "BASTET",
+      "civilization": "KEMET",
+      "role": "Assassin",
+      "element": "NIGHT",
+      "relic": "審判の秤",
+      "paragraphs": [
+        "バステト（BASTET）。KEMETのレリクシア。役割はAssassin、属性はNIGHT。",
+        "武器の系譜はCAT_CLAWS。核となるRELICは審判の秤。",
+        "ナイルと蓮が灰色の街を潤す。",
+        "戦闘では通常で間合いを作り、猫歩で流れを変える。守護鈴は次の一手、夜眼は記憶を大きく返す技だ。",
+        "回避直後の攻撃が強化される",
+        "レベルは記憶片で上がる。上がるほどバステトの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったバステトは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "バステトの個人記憶。KEMETの層が、まだ薄い。"
+        },
+        {
+          "speaker": "バステト",
+          "text": "先生。私はバステト。NIGHTとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "ナイルと蓮が灰色の街を潤す。"
+        },
+        {
+          "speaker": "バステト",
+          "text": "猫歩は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Assassinとして並ぶとき、バステトは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "バステト",
+          "text": "夜眼を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "回避直後の攻撃が強化される"
+        },
+        {
+          "speaker": "バステト",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、バステトの外見は完結する。"
+        },
+        {
+          "speaker": "バステト",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/bastet.jpg",
+        "dock": "res://assets/characters/dock/bastet.png",
+        "battle": "res://assets/characters/battle/bastet.png",
+        "card": "res://assets/characters/cards/bastet.jpg"
+      }
+    },
+    {
+      "id": "memphis",
+      "name": "メンフィス",
+      "name_en": "MEMPHIS",
+      "civilization": "KEMET",
+      "role": "Defender",
+      "element": "STONE",
+      "relic": "審判の秤",
+      "paragraphs": [
+        "メンフィス（MEMPHIS）。KEMETのレリクシア。役割はDefender、属性はSTONE。",
+        "武器の系譜はWHITE_WALL。核となるRELICは審判の秤。",
+        "ナイルと蓮が灰色の街を潤す。",
+        "戦闘では通常で間合いを作り、白壁で流れを変える。工匠は次の一手、古都は記憶を大きく返す技だ。",
+        "領域内で防御が上がる",
+        "レベルは記憶片で上がる。上がるほどメンフィスの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったメンフィスは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "メンフィスの個人記憶。KEMETの層が、まだ薄い。"
+        },
+        {
+          "speaker": "メンフィス",
+          "text": "先生。私はメンフィス。STONEとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "ナイルと蓮が灰色の街を潤す。"
+        },
+        {
+          "speaker": "メンフィス",
+          "text": "白壁は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Defenderとして並ぶとき、メンフィスは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "メンフィス",
+          "text": "古都を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "領域内で防御が上がる"
+        },
+        {
+          "speaker": "メンフィス",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、メンフィスの外見は完結する。"
+        },
+        {
+          "speaker": "メンフィス",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/memphis.jpg",
+        "dock": "res://assets/characters/dock/memphis.png",
+        "battle": "res://assets/characters/battle/memphis.png",
+        "card": "res://assets/characters/cards/memphis.jpg"
+      }
+    },
+    {
+      "id": "alexandria",
+      "name": "アレクサンドリア",
+      "name_en": "ALEXANDRIA",
+      "civilization": "KEMET",
+      "role": "Tactician",
+      "element": "ARCHIVE",
+      "relic": "審判の秤",
+      "paragraphs": [
+        "アレクサンドリア（ALEXANDRIA）。KEMETのレリクシア。役割はTactician、属性はARCHIVE。",
+        "武器の系譜はPHAROS。核となるRELICは審判の秤。",
+        "ナイルと蓮が灰色の街を潤す。",
+        "戦闘では通常で間合いを作り、灯台で流れを変える。焼ける書は次の一手、大図書館は記憶を大きく返す技だ。",
+        "視界内のRELIC情報が見える",
+        "レベルは記憶片で上がる。上がるほどアレクサンドリアの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったアレクサンドリアは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "アレクサンドリアの個人記憶。KEMETの層が、まだ薄い。"
+        },
+        {
+          "speaker": "アレクサンドリア",
+          "text": "先生。私はアレクサンドリア。ARCHIVEとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "ナイルと蓮が灰色の街を潤す。"
+        },
+        {
+          "speaker": "アレクサンドリア",
+          "text": "灯台は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Tacticianとして並ぶとき、アレクサンドリアは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "アレクサンドリア",
+          "text": "大図書館を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "視界内のRELIC情報が見える"
+        },
+        {
+          "speaker": "アレクサンドリア",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、アレクサンドリアの外見は完結する。"
+        },
+        {
+          "speaker": "アレクサンドリア",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/alexandria.jpg",
+        "dock": "res://assets/characters/dock/alexandria.png",
+        "battle": "res://assets/characters/battle/alexandria.png",
+        "card": "res://assets/characters/cards/alexandria.jpg"
+      }
+    },
+    {
+      "id": "thebes",
+      "name": "テーベ",
+      "name_en": "THEBES",
+      "civilization": "KEMET",
+      "role": "Controller",
+      "element": "TEMPLE",
+      "relic": "審判の秤",
+      "paragraphs": [
+        "テーベ（THEBES）。KEMETのレリクシア。役割はController、属性はTEMPLE。",
+        "武器の系譜はHUNDRED_GATES。核となるRELICは審判の秤。",
+        "ナイルと蓮が灰色の街を潤す。",
+        "戦闘では通常で間合いを作り、百門で流れを変える。神官は次の一手、王都は記憶を大きく返す技だ。",
+        "中心RELICの確保が速い",
+        "レベルは記憶片で上がる。上がるほどテーベの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったテーベは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "テーベの個人記憶。KEMETの層が、まだ薄い。"
+        },
+        {
+          "speaker": "テーベ",
+          "text": "先生。私はテーベ。TEMPLEとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "ナイルと蓮が灰色の街を潤す。"
+        },
+        {
+          "speaker": "テーベ",
+          "text": "百門は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Controllerとして並ぶとき、テーベは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "テーベ",
+          "text": "王都を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "中心RELICの確保が速い"
+        },
+        {
+          "speaker": "テーベ",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、テーベの外見は完結する。"
+        },
+        {
+          "speaker": "テーベ",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/thebes.jpg",
+        "dock": "res://assets/characters/dock/thebes.png",
+        "battle": "res://assets/characters/battle/thebes.png",
+        "card": "res://assets/characters/cards/thebes.jpg"
+      }
+    },
+    {
+      "id": "cairo",
+      "name": "カイロ",
+      "name_en": "CAIRO",
+      "civilization": "KEMET",
+      "role": "Tactician",
+      "element": "LAYER",
+      "relic": "審判の秤",
+      "paragraphs": [
+        "カイロ（CAIRO）。KEMETのレリクシア。役割はTactician、属性はLAYER。",
+        "武器の系譜はMARKET_MAP。核となるRELICは審判の秤。",
+        "ナイルと蓮が灰色の街を潤す。",
+        "戦闘では通常で間合いを作り、市場で流れを変える。層都は次の一手、ナイル回路は記憶を大きく返す技だ。",
+        "捕獲中に味方が近づくと加速",
+        "レベルは記憶片で上がる。上がるほどカイロの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったカイロは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "カイロの個人記憶。KEMETの層が、まだ薄い。"
+        },
+        {
+          "speaker": "カイロ",
+          "text": "先生。私はカイロ。LAYERとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "ナイルと蓮が灰色の街を潤す。"
+        },
+        {
+          "speaker": "カイロ",
+          "text": "市場は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Tacticianとして並ぶとき、カイロは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "カイロ",
+          "text": "ナイル回路を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "捕獲中に味方が近づくと加速"
+        },
+        {
+          "speaker": "カイロ",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、カイロの外見は完結する。"
+        },
+        {
+          "speaker": "カイロ",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/cairo.jpg",
+        "dock": "res://assets/characters/dock/cairo.png",
+        "battle": "res://assets/characters/battle/cairo.png",
+        "card": "res://assets/characters/cards/cairo.jpg"
+      }
+    },
+    {
+      "id": "xishi",
+      "name": "西施",
+      "name_en": "XISHI",
+      "civilization": "HUAXIA",
+      "role": "Support",
+      "element": "SILK",
+      "relic": "china_relic",
+      "paragraphs": [
+        "西施（XISHI）。HUAXIAのレリクシア。役割はSupport、属性はSILK。",
+        "武器の系譜はWEST_LAKE_SILK。核となるRELICはchina_relic。",
+        "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN",
+        "戦闘では通常で間合いを作り、湖光で流れを変える。絹舞は次の一手、傾国は記憶を大きく返す技だ。",
+        "味方が技能を使うと回復し、領域が華夏へ寄る",
+        "レベルは記憶片で上がる。上がるほど西施の体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなった西施は、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "西施の個人記憶。HUAXIAの層が、まだ薄い。"
+        },
+        {
+          "speaker": "西施",
+          "text": "先生。私は西施。SILKとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN"
+        },
+        {
+          "speaker": "西施",
+          "text": "湖光は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Supportとして並ぶとき、西施は前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "西施",
+          "text": "傾国を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "味方が技能を使うと回復し、領域が華夏へ寄る"
+        },
+        {
+          "speaker": "西施",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、西施の外見は完結する。"
+        },
+        {
+          "speaker": "西施",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/xishi.jpg",
+        "dock": "res://assets/characters/dock/xishi.png",
+        "battle": "res://assets/characters/battle/xishi.png",
+        "card": "res://assets/characters/cards/xishi.jpg"
+      }
+    },
+    {
+      "id": "nuwa",
+      "name": "女媧",
+      "name_en": "NUWA",
+      "civilization": "HUAXIA",
+      "role": "Support",
+      "element": "CREATION",
+      "relic": "china_relic",
+      "paragraphs": [
+        "女媧（NUWA）。HUAXIAのレリクシア。役割はSupport、属性はCREATION。",
+        "武器の系譜はFIVE_COLOR_STONE。核となるRELICはchina_relic。",
+        "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN",
+        "戦闘では通常で間合いを作り、補天で流れを変える。造人は次の一手、五色石は記憶を大きく返す技だ。",
+        "倒れた味方を蘇生しやすくする",
+        "レベルは記憶片で上がる。上がるほど女媧の体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなった女媧は、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "女媧の個人記憶。HUAXIAの層が、まだ薄い。"
+        },
+        {
+          "speaker": "女媧",
+          "text": "先生。私は女媧。CREATIONとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN"
+        },
+        {
+          "speaker": "女媧",
+          "text": "補天は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Supportとして並ぶとき、女媧は前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "女媧",
+          "text": "五色石を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "倒れた味方を蘇生しやすくする"
+        },
+        {
+          "speaker": "女媧",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、女媧の外見は完結する。"
+        },
+        {
+          "speaker": "女媧",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/nuwa.jpg",
+        "dock": "res://assets/characters/dock/nuwa.png",
+        "battle": "res://assets/characters/battle/nuwa.png",
+        "card": "res://assets/characters/cards/nuwa.jpg"
+      }
+    },
+    {
+      "id": "luoshen",
+      "name": "洛神",
+      "name_en": "LUOSHEN",
+      "civilization": "HUAXIA",
+      "role": "Controller",
+      "element": "RIVER",
+      "relic": "china_relic",
+      "paragraphs": [
+        "洛神（LUOSHEN）。HUAXIAのレリクシア。役割はController、属性はRIVER。",
+        "武器の系譜はLUO_SASH。核となるRELICはchina_relic。",
+        "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN",
+        "戦闘では通常で間合いを作り、洛水で流れを変える。賦は次の一手、水神は記憶を大きく返す技だ。",
+        "水際の敵を遅くする",
+        "レベルは記憶片で上がる。上がるほど洛神の体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなった洛神は、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "洛神の個人記憶。HUAXIAの層が、まだ薄い。"
+        },
+        {
+          "speaker": "洛神",
+          "text": "先生。私は洛神。RIVERとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN"
+        },
+        {
+          "speaker": "洛神",
+          "text": "洛水は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Controllerとして並ぶとき、洛神は前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "洛神",
+          "text": "水神を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "水際の敵を遅くする"
+        },
+        {
+          "speaker": "洛神",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、洛神の外見は完結する。"
+        },
+        {
+          "speaker": "洛神",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/luoshen.jpg",
+        "dock": "res://assets/characters/dock/luoshen.png",
+        "battle": "res://assets/characters/battle/luoshen.png",
+        "card": "res://assets/characters/cards/luoshen.jpg"
+      }
+    },
+    {
+      "id": "changan",
+      "name": "長安",
+      "name_en": "CHANGAN",
+      "civilization": "HUAXIA",
+      "role": "Tactician",
+      "element": "CAPITAL",
+      "relic": "china_relic",
+      "paragraphs": [
+        "長安（CHANGAN）。HUAXIAのレリクシア。役割はTactician、属性はCAPITAL。",
+        "武器の系譜はWARD_SEAL。核となるRELICはchina_relic。",
+        "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN",
+        "戦闘では通常で間合いを作り、都城で流れを変える。条坊は次の一手、万国朝は記憶を大きく返す技だ。",
+        "異なる文明の味方がいると計画が速い",
+        "レベルは記憶片で上がる。上がるほど長安の体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなった長安は、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "長安の個人記憶。HUAXIAの層が、まだ薄い。"
+        },
+        {
+          "speaker": "長安",
+          "text": "先生。私は長安。CAPITALとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN"
+        },
+        {
+          "speaker": "長安",
+          "text": "都城は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Tacticianとして並ぶとき、長安は前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "長安",
+          "text": "万国朝を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "異なる文明の味方がいると計画が速い"
+        },
+        {
+          "speaker": "長安",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、長安の外見は完結する。"
+        },
+        {
+          "speaker": "長安",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/changan.jpg",
+        "dock": "res://assets/characters/dock/changan.png",
+        "battle": "res://assets/characters/battle/changan.png",
+        "card": "res://assets/characters/cards/changan.jpg"
+      }
+    },
+    {
+      "id": "luoyang",
+      "name": "洛陽",
+      "name_en": "LUOYANG",
+      "civilization": "HUAXIA",
+      "role": "Controller",
+      "element": "CENTER",
+      "relic": "china_relic",
+      "paragraphs": [
+        "洛陽（LUOYANG）。HUAXIAのレリクシア。役割はController、属性はCENTER。",
+        "武器の系譜はPEONY_FAN。核となるRELICはchina_relic。",
+        "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN",
+        "戦闘では通常で間合いを作り、牡丹で流れを変える。中原は次の一手、帝都は記憶を大きく返す技だ。",
+        "中心RELICの確保が速い",
+        "レベルは記憶片で上がる。上がるほど洛陽の体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなった洛陽は、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "洛陽の個人記憶。HUAXIAの層が、まだ薄い。"
+        },
+        {
+          "speaker": "洛陽",
+          "text": "先生。私は洛陽。CENTERとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN"
+        },
+        {
+          "speaker": "洛陽",
+          "text": "牡丹は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Controllerとして並ぶとき、洛陽は前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "洛陽",
+          "text": "帝都を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "中心RELICの確保が速い"
+        },
+        {
+          "speaker": "洛陽",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、洛陽の外見は完結する。"
+        },
+        {
+          "speaker": "洛陽",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/luoyang.jpg",
+        "dock": "res://assets/characters/dock/luoyang.png",
+        "battle": "res://assets/characters/battle/luoyang.png",
+        "card": "res://assets/characters/cards/luoyang.jpg"
+      }
+    },
+    {
+      "id": "tang",
+      "name": "唐",
+      "name_en": "TANG",
+      "civilization": "HUAXIA",
+      "role": "Attacker",
+      "element": "VERSE",
+      "relic": "china_relic",
+      "paragraphs": [
+        "唐（TANG）。HUAXIAのレリクシア。役割はAttacker、属性はVERSE。",
+        "武器の系譜はTANG_SABER。核となるRELICはchina_relic。",
+        "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN",
+        "戦闘では通常で間合いを作り、唐騎で流れを変える。長安詩は次の一手、開放は記憶を大きく返す技だ。",
+        "移動したあと攻撃が伸びる",
+        "レベルは記憶片で上がる。上がるほど唐の体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなった唐は、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "唐の個人記憶。HUAXIAの層が、まだ薄い。"
+        },
+        {
+          "speaker": "唐",
+          "text": "先生。私は唐。VERSEとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN"
+        },
+        {
+          "speaker": "唐",
+          "text": "唐騎は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Attackerとして並ぶとき、唐は前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "唐",
+          "text": "開放を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "移動したあと攻撃が伸びる"
+        },
+        {
+          "speaker": "唐",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、唐の外見は完結する。"
+        },
+        {
+          "speaker": "唐",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/tang.jpg",
+        "dock": "res://assets/characters/dock/tang.png",
+        "battle": "res://assets/characters/battle/tang.png",
+        "card": "res://assets/characters/cards/tang.jpg"
+      }
+    },
+    {
+      "id": "hangzhou",
+      "name": "杭州",
+      "name_en": "HANGZHOU",
+      "civilization": "HUAXIA",
+      "role": "Support",
+      "element": "LAKE",
+      "relic": "china_relic",
+      "paragraphs": [
+        "杭州（HANGZHOU）。HUAXIAのレリクシア。役割はSupport、属性はLAKE。",
+        "武器の系譜はLAKE_MIRROR。核となるRELICはchina_relic。",
+        "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN",
+        "戦闘では通常で間合いを作り、西湖で流れを変える。絹市は次の一手、臨安は記憶を大きく返す技だ。",
+        "華夏の味方がいると回復が強い",
+        "レベルは記憶片で上がる。上がるほど杭州の体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなった杭州は、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "杭州の個人記憶。HUAXIAの層が、まだ薄い。"
+        },
+        {
+          "speaker": "杭州",
+          "text": "先生。私は杭州。LAKEとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN"
+        },
+        {
+          "speaker": "杭州",
+          "text": "西湖は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Supportとして並ぶとき、杭州は前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "杭州",
+          "text": "臨安を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "華夏の味方がいると回復が強い"
+        },
+        {
+          "speaker": "杭州",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、杭州の外見は完結する。"
+        },
+        {
+          "speaker": "杭州",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/hangzhou.jpg",
+        "dock": "res://assets/characters/dock/hangzhou.png",
+        "battle": "res://assets/characters/battle/hangzhou.png",
+        "card": "res://assets/characters/cards/hangzhou.jpg"
+      }
+    },
+    {
+      "id": "beijing",
+      "name": "北京",
+      "name_en": "BEIJING",
+      "civilization": "HUAXIA",
+      "role": "Tactician",
+      "element": "AXIS",
+      "relic": "china_relic",
+      "paragraphs": [
+        "北京（BEIJING）。HUAXIAのレリクシア。役割はTactician、属性はAXIS。",
+        "武器の系譜はAXIS_SEAL。核となるRELICはchina_relic。",
+        "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN",
+        "戦闘では通常で間合いを作り、軸線で流れを変える。宮門は次の一手、層都は記憶を大きく返す技だ。",
+        "確保文明が多いほど計画が速い",
+        "レベルは記憶片で上がる。上がるほど北京の体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなった北京は、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "北京の個人記憶。HUAXIAの層が、まだ薄い。"
+        },
+        {
+          "speaker": "北京",
+          "text": "先生。私は北京。AXISとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN"
+        },
+        {
+          "speaker": "北京",
+          "text": "軸線は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Tacticianとして並ぶとき、北京は前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "北京",
+          "text": "層都を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "確保文明が多いほど計画が速い"
+        },
+        {
+          "speaker": "北京",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、北京の外見は完結する。"
+        },
+        {
+          "speaker": "北京",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/beijing.jpg",
+        "dock": "res://assets/characters/dock/beijing.png",
+        "battle": "res://assets/characters/battle/beijing.png",
+        "card": "res://assets/characters/cards/beijing.jpg"
+      }
+    },
+    {
+      "id": "shanghai",
+      "name": "上海",
+      "name_en": "SHANGHAI",
+      "civilization": "HUAXIA",
+      "role": "Attacker",
+      "element": "PORT",
+      "relic": "china_relic",
+      "paragraphs": [
+        "上海（SHANGHAI）。HUAXIAのレリクシア。役割はAttacker、属性はPORT。",
+        "武器の系譜はBUND_LIGHT。核となるRELICはchina_relic。",
+        "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN",
+        "戦闘では通常で間合いを作り、外灘で流れを変える。層港は次の一手、東方の灯は記憶を大きく返す技だ。",
+        "攻撃速度が時間とともに上がる",
+        "レベルは記憶片で上がる。上がるほど上海の体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなった上海は、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "上海の個人記憶。HUAXIAの層が、まだ薄い。"
+        },
+        {
+          "speaker": "上海",
+          "text": "先生。私は上海。PORTとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN"
+        },
+        {
+          "speaker": "上海",
+          "text": "外灘は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Attackerとして並ぶとき、上海は前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "上海",
+          "text": "東方の灯を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "攻撃速度が時間とともに上がる"
+        },
+        {
+          "speaker": "上海",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、上海の外見は完結する。"
+        },
+        {
+          "speaker": "上海",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/shanghai.jpg",
+        "dock": "res://assets/characters/dock/shanghai.png",
+        "battle": "res://assets/characters/battle/shanghai.png",
+        "card": "res://assets/characters/cards/shanghai.jpg"
+      }
+    },
+    {
+      "id": "hongkong",
+      "name": "ホンコン",
+      "name_en": "HONG KONG",
+      "civilization": "HUAXIA",
+      "role": "Tactician",
+      "element": "GATE",
+      "relic": "china_relic",
+      "paragraphs": [
+        "ホンコン（HONG KONG）。HUAXIAのレリクシア。役割はTactician、属性はGATE。",
+        "武器の系譜はHARBOUR_KEY。核となるRELICはchina_relic。",
+        "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN",
+        "戦闘では通常で間合いを作り、維港で流れを変える。層島は次の一手、東の門は記憶を大きく返す技だ。",
+        "狭い範囲の捕獲が非常に速い",
+        "レベルは記憶片で上がる。上がるほどホンコンの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったホンコンは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "ホンコンの個人記憶。HUAXIAの層が、まだ薄い。"
+        },
+        {
+          "speaker": "ホンコン",
+          "text": "先生。私はホンコン。GATEとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN"
+        },
+        {
+          "speaker": "ホンコン",
+          "text": "維港は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Tacticianとして並ぶとき、ホンコンは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "ホンコン",
+          "text": "東の門を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "狭い範囲の捕獲が非常に速い"
+        },
+        {
+          "speaker": "ホンコン",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、ホンコンの外見は完結する。"
+        },
+        {
+          "speaker": "ホンコン",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/hongkong.jpg",
+        "dock": "res://assets/characters/dock/hongkong.png",
+        "battle": "res://assets/characters/battle/hongkong.png",
+        "card": "res://assets/characters/cards/hongkong.jpg"
+      }
+    },
+    {
+      "id": "freya",
+      "name": "フレイヤ",
+      "name_en": "FREYJA",
+      "civilization": "NORSE",
+      "role": "Support",
+      "element": "SEID",
+      "relic": "世界樹の欠片",
+      "paragraphs": [
+        "フレイヤ（FREYJA）。NORSEのレリクシア。役割はSupport、属性はSEID。",
+        "武器の系譜はBRISINGAMEN。核となるRELICは世界樹の欠片。",
+        "霧の森とルーンが東京を覆う。",
+        "戦闘では通常で間合いを作り、猫の行進で流れを変える。琥珀は次の一手、戦乙女は記憶を大きく返す技だ。",
+        "味方のUltimate蓄積が速い",
+        "レベルは記憶片で上がる。上がるほどフレイヤの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったフレイヤは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "フレイヤの個人記憶。NORSEの層が、まだ薄い。"
+        },
+        {
+          "speaker": "フレイヤ",
+          "text": "先生。私はフレイヤ。SEIDとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "霧の森とルーンが東京を覆う。"
+        },
+        {
+          "speaker": "フレイヤ",
+          "text": "猫の行進は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Supportとして並ぶとき、フレイヤは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "フレイヤ",
+          "text": "戦乙女を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "味方のUltimate蓄積が速い"
+        },
+        {
+          "speaker": "フレイヤ",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、フレイヤの外見は完結する。"
+        },
+        {
+          "speaker": "フレイヤ",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/freya.jpg",
+        "dock": "res://assets/characters/dock/freya.png",
+        "battle": "res://assets/characters/battle/freya.png",
+        "card": "res://assets/characters/cards/freya.jpg"
+      }
+    },
+    {
+      "id": "odin",
+      "name": "オーディン",
+      "name_en": "ODIN",
+      "civilization": "NORSE",
+      "role": "Tactician",
+      "element": "WISDOM",
+      "relic": "世界樹の欠片",
+      "paragraphs": [
+        "オーディン（ODIN）。NORSEのレリクシア。役割はTactician、属性はWISDOM。",
+        "武器の系譜はGUNGNIR。核となるRELICは世界樹の欠片。",
+        "霧の森とルーンが東京を覆う。",
+        "戦闘では通常で間合いを作り、槍で流れを変える。一隻眼は次の一手、ラグナロク知は記憶を大きく返す技だ。",
+        "味方が倒れるとUltが貯まる",
+        "レベルは記憶片で上がる。上がるほどオーディンの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったオーディンは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "オーディンの個人記憶。NORSEの層が、まだ薄い。"
+        },
+        {
+          "speaker": "オーディン",
+          "text": "先生。私はオーディン。WISDOMとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "霧の森とルーンが東京を覆う。"
+        },
+        {
+          "speaker": "オーディン",
+          "text": "槍は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Tacticianとして並ぶとき、オーディンは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "オーディン",
+          "text": "ラグナロク知を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "味方が倒れるとUltが貯まる"
+        },
+        {
+          "speaker": "オーディン",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、オーディンの外見は完結する。"
+        },
+        {
+          "speaker": "オーディン",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/odin.jpg",
+        "dock": "res://assets/characters/dock/odin.png",
+        "battle": "res://assets/characters/battle/odin.png",
+        "card": "res://assets/characters/cards/odin.jpg"
+      }
+    },
+    {
+      "id": "thor",
+      "name": "トール",
+      "name_en": "THOR",
+      "civilization": "NORSE",
+      "role": "Attacker",
+      "element": "THUNDER",
+      "relic": "世界樹の欠片",
+      "paragraphs": [
+        "トール（THOR）。NORSEのレリクシア。役割はAttacker、属性はTHUNDER。",
+        "武器の系譜はMJOLNIR。核となるRELICは世界樹の欠片。",
+        "霧の森とルーンが東京を覆う。",
+        "戦闘では通常で間合いを作り、雷槌で流れを変える。嵐輪は次の一手、ミョルニルは記憶を大きく返す技だ。",
+        "攻撃が命中すると周囲にも割れる",
+        "レベルは記憶片で上がる。上がるほどトールの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったトールは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "トールの個人記憶。NORSEの層が、まだ薄い。"
+        },
+        {
+          "speaker": "トール",
+          "text": "先生。私はトール。THUNDERとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "霧の森とルーンが東京を覆う。"
+        },
+        {
+          "speaker": "トール",
+          "text": "雷槌は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Attackerとして並ぶとき、トールは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "トール",
+          "text": "ミョルニルを使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "攻撃が命中すると周囲にも割れる"
+        },
+        {
+          "speaker": "トール",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、トールの外見は完結する。"
+        },
+        {
+          "speaker": "トール",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/thor.jpg",
+        "dock": "res://assets/characters/dock/thor.png",
+        "battle": "res://assets/characters/battle/thor.png",
+        "card": "res://assets/characters/cards/thor.jpg"
+      }
+    },
+    {
+      "id": "hel",
+      "name": "ヘル",
+      "name_en": "HEL",
+      "civilization": "NORSE",
+      "role": "Controller",
+      "element": "DEATH",
+      "relic": "世界樹の欠片",
+      "paragraphs": [
+        "ヘル（HEL）。NORSEのレリクシア。役割はController、属性はDEATH。",
+        "武器の系譜はHALF_CROWN。核となるRELICは世界樹の欠片。",
+        "霧の森とルーンが東京を覆う。",
+        "戦闘では通常で間合いを作り、半身で流れを変える。冷門は次の一手、死者の国は記憶を大きく返す技だ。",
+        "倒れた敵の復活を遅らせる",
+        "レベルは記憶片で上がる。上がるほどヘルの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったヘルは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "ヘルの個人記憶。NORSEの層が、まだ薄い。"
+        },
+        {
+          "speaker": "ヘル",
+          "text": "先生。私はヘル。DEATHとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "霧の森とルーンが東京を覆う。"
+        },
+        {
+          "speaker": "ヘル",
+          "text": "半身は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Controllerとして並ぶとき、ヘルは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "ヘル",
+          "text": "死者の国を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "倒れた敵の復活を遅らせる"
+        },
+        {
+          "speaker": "ヘル",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、ヘルの外見は完結する。"
+        },
+        {
+          "speaker": "ヘル",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/hel.jpg",
+        "dock": "res://assets/characters/dock/hel.png",
+        "battle": "res://assets/characters/battle/hel.png",
+        "card": "res://assets/characters/cards/hel.jpg"
+      }
+    },
+    {
+      "id": "loki",
+      "name": "ロキ",
+      "name_en": "LOKI",
+      "civilization": "NORSE",
+      "role": "Assassin",
+      "element": "FIRE",
+      "relic": "世界樹の欠片",
+      "paragraphs": [
+        "ロキ（LOKI）。NORSEのレリクシア。役割はAssassin、属性はFIRE。",
+        "武器の系譜はTRICK_DAGGER。核となるRELICは世界樹の欠片。",
+        "霧の森とルーンが東京を覆う。",
+        "戦闘では通常で間合いを作り、偽名で流れを変える。変化は次の一手、終火は記憶を大きく返す技だ。",
+        "技能後に移動が速くなる",
+        "レベルは記憶片で上がる。上がるほどロキの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったロキは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "ロキの個人記憶。NORSEの層が、まだ薄い。"
+        },
+        {
+          "speaker": "ロキ",
+          "text": "先生。私はロキ。FIREとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "霧の森とルーンが東京を覆う。"
+        },
+        {
+          "speaker": "ロキ",
+          "text": "偽名は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Assassinとして並ぶとき、ロキは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "ロキ",
+          "text": "終火を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "技能後に移動が速くなる"
+        },
+        {
+          "speaker": "ロキ",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、ロキの外見は完結する。"
+        },
+        {
+          "speaker": "ロキ",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/loki.jpg",
+        "dock": "res://assets/characters/dock/loki.png",
+        "battle": "res://assets/characters/battle/loki.png",
+        "card": "res://assets/characters/cards/loki.jpg"
+      }
+    },
+    {
+      "id": "frigg",
+      "name": "フリッグ",
+      "name_en": "FRIGG",
+      "civilization": "NORSE",
+      "role": "Support",
+      "element": "FATE",
+      "relic": "世界樹の欠片",
+      "paragraphs": [
+        "フリッグ（FRIGG）。NORSEのレリクシア。役割はSupport、属性はFATE。",
+        "武器の系譜はFATE_THREAD。核となるRELICは世界樹の欠片。",
+        "霧の森とルーンが東京を覆う。",
+        "戦闘では通常で間合いを作り、糸紡ぎで流れを変える。予見は次の一手、守護衣は記憶を大きく返す技だ。",
+        "味方の被弾を予測して軽減する",
+        "レベルは記憶片で上がる。上がるほどフリッグの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったフリッグは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "フリッグの個人記憶。NORSEの層が、まだ薄い。"
+        },
+        {
+          "speaker": "フリッグ",
+          "text": "先生。私はフリッグ。FATEとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "霧の森とルーンが東京を覆う。"
+        },
+        {
+          "speaker": "フリッグ",
+          "text": "糸紡ぎは、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Supportとして並ぶとき、フリッグは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "フリッグ",
+          "text": "守護衣を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "味方の被弾を予測して軽減する"
+        },
+        {
+          "speaker": "フリッグ",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、フリッグの外見は完結する。"
+        },
+        {
+          "speaker": "フリッグ",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/frigg.jpg",
+        "dock": "res://assets/characters/dock/frigg.png",
+        "battle": "res://assets/characters/battle/frigg.png",
+        "card": "res://assets/characters/cards/frigg.jpg"
+      }
+    },
+    {
+      "id": "valkyrie",
+      "name": "ヴァルキリー",
+      "name_en": "VALKYRIE",
+      "civilization": "NORSE",
+      "role": "Assassin",
+      "element": "WING",
+      "relic": "世界樹の欠片",
+      "paragraphs": [
+        "ヴァルキリー（VALKYRIE）。NORSEのレリクシア。役割はAssassin、属性はWING。",
+        "武器の系譜はCHOOSER_SPEAR。核となるRELICは世界樹の欠片。",
+        "霧の森とルーンが東京を覆う。",
+        "戦闘では通常で間合いを作り、選定で流れを変える。翼撃は次の一手、英霊送りは記憶を大きく返す技だ。",
+        "低HPの敵を優先して追う",
+        "レベルは記憶片で上がる。上がるほどヴァルキリーの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったヴァルキリーは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "ヴァルキリーの個人記憶。NORSEの層が、まだ薄い。"
+        },
+        {
+          "speaker": "ヴァルキリー",
+          "text": "先生。私はヴァルキリー。WINGとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "霧の森とルーンが東京を覆う。"
+        },
+        {
+          "speaker": "ヴァルキリー",
+          "text": "選定は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Assassinとして並ぶとき、ヴァルキリーは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "ヴァルキリー",
+          "text": "英霊送りを使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "低HPの敵を優先して追う"
+        },
+        {
+          "speaker": "ヴァルキリー",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、ヴァルキリーの外見は完結する。"
+        },
+        {
+          "speaker": "ヴァルキリー",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/valkyrie.jpg",
+        "dock": "res://assets/characters/dock/valkyrie.png",
+        "battle": "res://assets/characters/battle/valkyrie.png",
+        "card": "res://assets/characters/cards/valkyrie.jpg"
+      }
+    },
+    {
+      "id": "asgard",
+      "name": "アスガルド",
+      "name_en": "ASGARD",
+      "civilization": "NORSE",
+      "role": "Defender",
+      "element": "REALM",
+      "relic": "世界樹の欠片",
+      "paragraphs": [
+        "アスガルド（ASGARD）。NORSEのレリクシア。役割はDefender、属性はREALM。",
+        "武器の系譜はBIFROST_SHIELD。核となるRELICは世界樹の欠片。",
+        "霧の森とルーンが東京を覆う。",
+        "戦闘では通常で間合いを作り、神壁で流れを変える。虹橋は次の一手、神域は記憶を大きく返す技だ。",
+        "中心にいると非常に硬い",
+        "レベルは記憶片で上がる。上がるほどアスガルドの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったアスガルドは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "アスガルドの個人記憶。NORSEの層が、まだ薄い。"
+        },
+        {
+          "speaker": "アスガルド",
+          "text": "先生。私はアスガルド。REALMとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "霧の森とルーンが東京を覆う。"
+        },
+        {
+          "speaker": "アスガルド",
+          "text": "神壁は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Defenderとして並ぶとき、アスガルドは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "アスガルド",
+          "text": "神域を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "中心にいると非常に硬い"
+        },
+        {
+          "speaker": "アスガルド",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、アスガルドの外見は完結する。"
+        },
+        {
+          "speaker": "アスガルド",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/asgard.jpg",
+        "dock": "res://assets/characters/dock/asgard.png",
+        "battle": "res://assets/characters/battle/asgard.png",
+        "card": "res://assets/characters/cards/asgard.jpg"
+      }
+    },
+    {
+      "id": "uppsala",
+      "name": "ウプサラ",
+      "name_en": "UPPSALA",
+      "civilization": "NORSE",
+      "role": "Support",
+      "element": "GROVE",
+      "relic": "世界樹の欠片",
+      "paragraphs": [
+        "ウプサラ（UPPSALA）。NORSEのレリクシア。役割はSupport、属性はGROVE。",
+        "武器の系譜はGROVE_STAFF。核となるRELICは世界樹の欠片。",
+        "霧の森とルーンが東京を覆う。",
+        "戦闘では通常で間合いを作り、神木で流れを変える。生贄の金は次の一手、北社は記憶を大きく返す技だ。",
+        "確保RELIC付近で回復",
+        "レベルは記憶片で上がる。上がるほどウプサラの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったウプサラは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "ウプサラの個人記憶。NORSEの層が、まだ薄い。"
+        },
+        {
+          "speaker": "ウプサラ",
+          "text": "先生。私はウプサラ。GROVEとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "霧の森とルーンが東京を覆う。"
+        },
+        {
+          "speaker": "ウプサラ",
+          "text": "神木は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Supportとして並ぶとき、ウプサラは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "ウプサラ",
+          "text": "北社を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "確保RELIC付近で回復"
+        },
+        {
+          "speaker": "ウプサラ",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、ウプサラの外見は完結する。"
+        },
+        {
+          "speaker": "ウプサラ",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/uppsala.jpg",
+        "dock": "res://assets/characters/dock/uppsala.png",
+        "battle": "res://assets/characters/battle/uppsala.png",
+        "card": "res://assets/characters/cards/uppsala.jpg"
+      }
+    },
+    {
+      "id": "vinland",
+      "name": "ヴィンランド",
+      "name_en": "VINLAND",
+      "civilization": "NORSE",
+      "role": "Attacker",
+      "element": "FRONTIER",
+      "relic": "世界樹の欠片",
+      "paragraphs": [
+        "ヴィンランド（VINLAND）。NORSEのレリクシア。役割はAttacker、属性はFRONTIER。",
+        "武器の系譜はLONGSHIP_AXE。核となるRELICは世界樹の欠片。",
+        "霧の森とルーンが東京を覆う。",
+        "戦闘では通常で間合いを作り、長船で流れを変える。葡萄は次の一手、西の岸は記憶を大きく返す技だ。",
+        "マップ端で攻撃が伸びる",
+        "レベルは記憶片で上がる。上がるほどヴィンランドの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったヴィンランドは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "ヴィンランドの個人記憶。NORSEの層が、まだ薄い。"
+        },
+        {
+          "speaker": "ヴィンランド",
+          "text": "先生。私はヴィンランド。FRONTIERとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "霧の森とルーンが東京を覆う。"
+        },
+        {
+          "speaker": "ヴィンランド",
+          "text": "長船は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Attackerとして並ぶとき、ヴィンランドは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "ヴィンランド",
+          "text": "西の岸を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "マップ端で攻撃が伸びる"
+        },
+        {
+          "speaker": "ヴィンランド",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、ヴィンランドの外見は完結する。"
+        },
+        {
+          "speaker": "ヴィンランド",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/vinland.jpg",
+        "dock": "res://assets/characters/dock/vinland.png",
+        "battle": "res://assets/characters/battle/vinland.png",
+        "card": "res://assets/characters/cards/vinland.jpg"
+      }
+    },
+    {
+      "id": "viking",
+      "name": "ヴァイキング",
+      "name_en": "VIKING",
+      "civilization": "NORSE",
+      "role": "Attacker",
+      "element": "WAVE",
+      "relic": "世界樹の欠片",
+      "paragraphs": [
+        "ヴァイキング（VIKING）。NORSEのレリクシア。役割はAttacker、属性はWAVE。",
+        "武器の系譜はNORTH_AXE。核となるRELICは世界樹の欠片。",
+        "霧の森とルーンが東京を覆う。",
+        "戦闘では通常で間合いを作り、長船で流れを変える。北浪は次の一手、開拓は記憶を大きく返す技だ。",
+        "水際で攻撃と捕獲が同時に上がる",
+        "レベルは記憶片で上がる。上がるほどヴァイキングの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったヴァイキングは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "ヴァイキングの個人記憶。NORSEの層が、まだ薄い。"
+        },
+        {
+          "speaker": "ヴァイキング",
+          "text": "先生。私はヴァイキング。WAVEとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "霧の森とルーンが東京を覆う。"
+        },
+        {
+          "speaker": "ヴァイキング",
+          "text": "長船は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Attackerとして並ぶとき、ヴァイキングは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "ヴァイキング",
+          "text": "開拓を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "水際で攻撃と捕獲が同時に上がる"
+        },
+        {
+          "speaker": "ヴァイキング",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、ヴァイキングの外見は完結する。"
+        },
+        {
+          "speaker": "ヴァイキング",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/viking.jpg",
+        "dock": "res://assets/characters/dock/viking.png",
+        "battle": "res://assets/characters/battle/viking.png",
+        "card": "res://assets/characters/cards/viking.jpg"
+      }
+    },
+    {
+      "id": "ishtar",
+      "name": "イシュタル",
+      "name_en": "ISHTAR",
+      "civilization": "MESOPOTAMIA",
+      "role": "Attacker",
+      "element": "VENUS",
+      "relic": "金星章",
+      "paragraphs": [
+        "イシュタル（ISHTAR）。MESOPOTAMIAのレリクシア。役割はAttacker、属性はVENUS。",
+        "武器の系譜はVENUS_LION。核となるRELICは金星章。",
+        "古代都市の門と星の王権が地上へ戻る。",
+        "戦闘では通常で間合いを作り、金星で流れを変える。愛戦は次の一手、門の獅子は記憶を大きく返す技だ。",
+        "攻撃するたびUltimateが貯まる",
+        "レベルは記憶片で上がる。上がるほどイシュタルの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったイシュタルは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "イシュタルの個人記憶。MESOPOTAMIAの層が、まだ薄い。"
+        },
+        {
+          "speaker": "イシュタル",
+          "text": "先生。私はイシュタル。VENUSとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "古代都市の門と星の王権が地上へ戻る。"
+        },
+        {
+          "speaker": "イシュタル",
+          "text": "金星は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Attackerとして並ぶとき、イシュタルは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "イシュタル",
+          "text": "門の獅子を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "攻撃するたびUltimateが貯まる"
+        },
+        {
+          "speaker": "イシュタル",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、イシュタルの外見は完結する。"
+        },
+        {
+          "speaker": "イシュタル",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/ishtar.jpg",
+        "dock": "res://assets/characters/dock/ishtar.png",
+        "battle": "res://assets/characters/battle/ishtar.png",
+        "card": "res://assets/characters/cards/ishtar.jpg"
+      }
+    },
+    {
+      "id": "sumer",
+      "name": "シュメール",
+      "name_en": "SUMER",
+      "civilization": "MESOPOTAMIA",
+      "role": "Tactician",
+      "element": "FIRST",
+      "relic": "金星章",
+      "paragraphs": [
+        "シュメール（SUMER）。MESOPOTAMIAのレリクシア。役割はTactician、属性はFIRST。",
+        "武器の系譜はCUNEIFORM_TABLET。核となるRELICは金星章。",
+        "古代都市の門と星の王権が地上へ戻る。",
+        "戦闘では通常で間合いを作り、楔形で流れを変える。最初の市は次の一手、聖なる土は記憶を大きく返す技だ。",
+        "試合開始直後の計画が速い",
+        "レベルは記憶片で上がる。上がるほどシュメールの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったシュメールは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "シュメールの個人記憶。MESOPOTAMIAの層が、まだ薄い。"
+        },
+        {
+          "speaker": "シュメール",
+          "text": "先生。私はシュメール。FIRSTとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "古代都市の門と星の王権が地上へ戻る。"
+        },
+        {
+          "speaker": "シュメール",
+          "text": "楔形は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Tacticianとして並ぶとき、シュメールは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "シュメール",
+          "text": "聖なる土を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "試合開始直後の計画が速い"
+        },
+        {
+          "speaker": "シュメール",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、シュメールの外見は完結する。"
+        },
+        {
+          "speaker": "シュメール",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/sumer.jpg",
+        "dock": "res://assets/characters/dock/sumer.png",
+        "battle": "res://assets/characters/battle/sumer.png",
+        "card": "res://assets/characters/cards/sumer.jpg"
+      }
+    },
+    {
+      "id": "babylon",
+      "name": "バビロン",
+      "name_en": "BABYLON",
+      "civilization": "MESOPOTAMIA",
+      "role": "Controller",
+      "element": "LAW",
+      "relic": "金星章",
+      "paragraphs": [
+        "バビロン（BABYLON）。MESOPOTAMIAのレリクシア。役割はController、属性はLAW。",
+        "武器の系譜はLAW_STELE。核となるRELICは金星章。",
+        "古代都市の門と星の王権が地上へ戻る。",
+        "戦闘では通常で間合いを作り、法碑で流れを変える。空中庭は次の一手、大塔は記憶を大きく返す技だ。",
+        "敵の技能を一度無効化しやすくする",
+        "レベルは記憶片で上がる。上がるほどバビロンの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったバビロンは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "バビロンの個人記憶。MESOPOTAMIAの層が、まだ薄い。"
+        },
+        {
+          "speaker": "バビロン",
+          "text": "先生。私はバビロン。LAWとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "古代都市の門と星の王権が地上へ戻る。"
+        },
+        {
+          "speaker": "バビロン",
+          "text": "法碑は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Controllerとして並ぶとき、バビロンは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "バビロン",
+          "text": "大塔を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "敵の技能を一度無効化しやすくする"
+        },
+        {
+          "speaker": "バビロン",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、バビロンの外見は完結する。"
+        },
+        {
+          "speaker": "バビロン",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/babylon.jpg",
+        "dock": "res://assets/characters/dock/babylon.png",
+        "battle": "res://assets/characters/battle/babylon.png",
+        "card": "res://assets/characters/cards/babylon.jpg"
+      }
+    },
+    {
+      "id": "persia",
+      "name": "ペルシア",
+      "name_en": "PERSIA",
+      "civilization": "MESOPOTAMIA",
+      "role": "Defender",
+      "element": "LIGHT",
+      "relic": "金星章",
+      "paragraphs": [
+        "ペルシア（PERSIA）。MESOPOTAMIAのレリクシア。役割はDefender、属性はLIGHT。",
+        "武器の系譜はROYAL_ROAD。核となるRELICは金星章。",
+        "古代都市の門と星の王権が地上へ戻る。",
+        "戦闘では通常で間合いを作り、王道で流れを変える。百柱は次の一手、光の帝国は記憶を大きく返す技だ。",
+        "領域内で味方が倒れにくい",
+        "レベルは記憶片で上がる。上がるほどペルシアの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったペルシアは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "ペルシアの個人記憶。MESOPOTAMIAの層が、まだ薄い。"
+        },
+        {
+          "speaker": "ペルシア",
+          "text": "先生。私はペルシア。LIGHTとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "古代都市の門と星の王権が地上へ戻る。"
+        },
+        {
+          "speaker": "ペルシア",
+          "text": "王道は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Defenderとして並ぶとき、ペルシアは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "ペルシア",
+          "text": "光の帝国を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "領域内で味方が倒れにくい"
+        },
+        {
+          "speaker": "ペルシア",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、ペルシアの外見は完結する。"
+        },
+        {
+          "speaker": "ペルシア",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/persia.jpg",
+        "dock": "res://assets/characters/dock/persia.png",
+        "battle": "res://assets/characters/battle/persia.png",
+        "card": "res://assets/characters/cards/persia.jpg"
+      }
+    },
+    {
+      "id": "uruk",
+      "name": "ウルク",
+      "name_en": "URUK",
+      "civilization": "MESOPOTAMIA",
+      "role": "Attacker",
+      "element": "WALL",
+      "relic": "金星章",
+      "paragraphs": [
+        "ウルク（URUK）。MESOPOTAMIAのレリクシア。役割はAttacker、属性はWALL。",
+        "武器の系譜はEPIC_AXE。核となるRELICは金星章。",
+        "古代都市の門と星の王権が地上へ戻る。",
+        "戦闘では通常で間合いを作り、城壁で流れを変える。英雄は次の一手、叙事詩は記憶を大きく返す技だ。",
+        "HPが高いほど突破が速い",
+        "レベルは記憶片で上がる。上がるほどウルクの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったウルクは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "ウルクの個人記憶。MESOPOTAMIAの層が、まだ薄い。"
+        },
+        {
+          "speaker": "ウルク",
+          "text": "先生。私はウルク。WALLとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "古代都市の門と星の王権が地上へ戻る。"
+        },
+        {
+          "speaker": "ウルク",
+          "text": "城壁は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Attackerとして並ぶとき、ウルクは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "ウルク",
+          "text": "叙事詩を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "HPが高いほど突破が速い"
+        },
+        {
+          "speaker": "ウルク",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、ウルクの外見は完結する。"
+        },
+        {
+          "speaker": "ウルク",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/uruk.jpg",
+        "dock": "res://assets/characters/dock/uruk.png",
+        "battle": "res://assets/characters/battle/uruk.png",
+        "card": "res://assets/characters/cards/uruk.jpg"
+      }
+    },
+    {
+      "id": "ur",
+      "name": "ウル",
+      "name_en": "UR",
+      "civilization": "MESOPOTAMIA",
+      "role": "Support",
+      "element": "MOON",
+      "relic": "金星章",
+      "paragraphs": [
+        "ウル（UR）。MESOPOTAMIAのレリクシア。役割はSupport、属性はMOON。",
+        "武器の系譜はMOON_ZIGGURAT。核となるRELICは金星章。",
+        "古代都市の門と星の王権が地上へ戻る。",
+        "戦闘では通常で間合いを作り、月壇で流れを変える。港市は次の一手、聖都は記憶を大きく返す技だ。",
+        "確保文明の回復が強い",
+        "レベルは記憶片で上がる。上がるほどウルの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったウルは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "ウルの個人記憶。MESOPOTAMIAの層が、まだ薄い。"
+        },
+        {
+          "speaker": "ウル",
+          "text": "先生。私はウル。MOONとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "古代都市の門と星の王権が地上へ戻る。"
+        },
+        {
+          "speaker": "ウル",
+          "text": "月壇は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Supportとして並ぶとき、ウルは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "ウル",
+          "text": "聖都を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "確保文明の回復が強い"
+        },
+        {
+          "speaker": "ウル",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、ウルの外見は完結する。"
+        },
+        {
+          "speaker": "ウル",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/ur.jpg",
+        "dock": "res://assets/characters/dock/ur.png",
+        "battle": "res://assets/characters/battle/ur.png",
+        "card": "res://assets/characters/cards/ur.jpg"
+      }
+    },
+    {
+      "id": "nineveh",
+      "name": "ニネヴェ",
+      "name_en": "NINEVEH",
+      "civilization": "MESOPOTAMIA",
+      "role": "Tactician",
+      "element": "ARCHIVE",
+      "relic": "金星章",
+      "paragraphs": [
+        "ニネヴェ（NINEVEH）。MESOPOTAMIAのレリクシア。役割はTactician、属性はARCHIVE。",
+        "武器の系譜はLION_LIBRARY。核となるRELICは金星章。",
+        "古代都市の門と星の王権が地上へ戻る。",
+        "戦闘では通常で間合いを作り、獅子で流れを変える。書庫は次の一手、帝国文書は記憶を大きく返す技だ。",
+        "ERA情報が味方に共有される",
+        "レベルは記憶片で上がる。上がるほどニネヴェの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったニネヴェは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "ニネヴェの個人記憶。MESOPOTAMIAの層が、まだ薄い。"
+        },
+        {
+          "speaker": "ニネヴェ",
+          "text": "先生。私はニネヴェ。ARCHIVEとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "古代都市の門と星の王権が地上へ戻る。"
+        },
+        {
+          "speaker": "ニネヴェ",
+          "text": "獅子は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Tacticianとして並ぶとき、ニネヴェは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "ニネヴェ",
+          "text": "帝国文書を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "ERA情報が味方に共有される"
+        },
+        {
+          "speaker": "ニネヴェ",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、ニネヴェの外見は完結する。"
+        },
+        {
+          "speaker": "ニネヴェ",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/nineveh.jpg",
+        "dock": "res://assets/characters/dock/nineveh.png",
+        "battle": "res://assets/characters/battle/nineveh.png",
+        "card": "res://assets/characters/cards/nineveh.jpg"
+      }
+    },
+    {
+      "id": "assyria",
+      "name": "アッシリア",
+      "name_en": "ASSYRIA",
+      "civilization": "MESOPOTAMIA",
+      "role": "Attacker",
+      "element": "IRON",
+      "relic": "金星章",
+      "paragraphs": [
+        "アッシリア（ASSYRIA）。MESOPOTAMIAのレリクシア。役割はAttacker、属性はIRON。",
+        "武器の系譜はIRON_RELIEF。核となるRELICは金星章。",
+        "古代都市の門と星の王権が地上へ戻る。",
+        "戦闘では通常で間合いを作り、鉄軍で流れを変える。浮彫は次の一手、征服は記憶を大きく返す技だ。",
+        "連続攻撃で防御を削る",
+        "レベルは記憶片で上がる。上がるほどアッシリアの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったアッシリアは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "アッシリアの個人記憶。MESOPOTAMIAの層が、まだ薄い。"
+        },
+        {
+          "speaker": "アッシリア",
+          "text": "先生。私はアッシリア。IRONとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "古代都市の門と星の王権が地上へ戻る。"
+        },
+        {
+          "speaker": "アッシリア",
+          "text": "鉄軍は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Attackerとして並ぶとき、アッシリアは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "アッシリア",
+          "text": "征服を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "連続攻撃で防御を削る"
+        },
+        {
+          "speaker": "アッシリア",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、アッシリアの外見は完結する。"
+        },
+        {
+          "speaker": "アッシリア",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/assyria.jpg",
+        "dock": "res://assets/characters/dock/assyria.png",
+        "battle": "res://assets/characters/battle/assyria.png",
+        "card": "res://assets/characters/cards/assyria.jpg"
+      }
+    },
+    {
+      "id": "palmyra",
+      "name": "パルミラ",
+      "name_en": "PALMYRA",
+      "civilization": "MESOPOTAMIA",
+      "role": "Assassin",
+      "element": "OASIS",
+      "relic": "金星章",
+      "paragraphs": [
+        "パルミラ（PALMYRA）。MESOPOTAMIAのレリクシア。役割はAssassin、属性はOASIS。",
+        "武器の系譜はCOLONNADE_KNIFE。核となるRELICは金星章。",
+        "古代都市の門と星の王権が地上へ戻る。",
+        "戦闘では通常で間合いを作り、列柱街で流れを変える。砂漠駆けは次の一手、オアシスは記憶を大きく返す技だ。",
+        "長い移動のあと攻撃が強化される",
+        "レベルは記憶片で上がる。上がるほどパルミラの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったパルミラは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "パルミラの個人記憶。MESOPOTAMIAの層が、まだ薄い。"
+        },
+        {
+          "speaker": "パルミラ",
+          "text": "先生。私はパルミラ。OASISとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "古代都市の門と星の王権が地上へ戻る。"
+        },
+        {
+          "speaker": "パルミラ",
+          "text": "列柱街は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Assassinとして並ぶとき、パルミラは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "パルミラ",
+          "text": "オアシスを使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "長い移動のあと攻撃が強化される"
+        },
+        {
+          "speaker": "パルミラ",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、パルミラの外見は完結する。"
+        },
+        {
+          "speaker": "パルミラ",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/palmyra.jpg",
+        "dock": "res://assets/characters/dock/palmyra.png",
+        "battle": "res://assets/characters/battle/palmyra.png",
+        "card": "res://assets/characters/cards/palmyra.jpg"
+      }
+    },
+    {
+      "id": "ctesiphon",
+      "name": "クテシフォン",
+      "name_en": "CTESIPHON",
+      "civilization": "MESOPOTAMIA",
+      "role": "Controller",
+      "element": "ARCH",
+      "relic": "金星章",
+      "paragraphs": [
+        "クテシフォン（CTESIPHON）。MESOPOTAMIAのレリクシア。役割はController、属性はARCH。",
+        "武器の系譜はGREAT_ARCH。核となるRELICは金星章。",
+        "古代都市の門と星の王権が地上へ戻る。",
+        "戦闘では通常で間合いを作り、大アーチで流れを変える。再帝は次の一手、両河は記憶を大きく返す技だ。",
+        "ERA SHIFTで領域が広がる",
+        "レベルは記憶片で上がる。上がるほどクテシフォンの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったクテシフォンは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "クテシフォンの個人記憶。MESOPOTAMIAの層が、まだ薄い。"
+        },
+        {
+          "speaker": "クテシフォン",
+          "text": "先生。私はクテシフォン。ARCHとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "古代都市の門と星の王権が地上へ戻る。"
+        },
+        {
+          "speaker": "クテシフォン",
+          "text": "大アーチは、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Controllerとして並ぶとき、クテシフォンは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "クテシフォン",
+          "text": "両河を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "ERA SHIFTで領域が広がる"
+        },
+        {
+          "speaker": "クテシフォン",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、クテシフォンの外見は完結する。"
+        },
+        {
+          "speaker": "クテシフォン",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/ctesiphon.jpg",
+        "dock": "res://assets/characters/dock/ctesiphon.png",
+        "battle": "res://assets/characters/battle/ctesiphon.png",
+        "card": "res://assets/characters/cards/ctesiphon.jpg"
+      }
+    },
+    {
+      "id": "scathach",
+      "name": "スカアハ",
+      "name_en": "SCATHACH",
+      "civilization": "CELTIC",
+      "role": "Attacker",
+      "element": "SHADOW",
+      "relic": "影の槍",
+      "paragraphs": [
+        "スカアハ（SCATHACH）。CELTICのレリクシア。役割はAttacker、属性はSHADOW。",
+        "武器の系譜はSHADOW_SPEAR。核となるRELICは影の槍。",
+        "霧と異界の戦士領域が重なる。",
+        "戦闘では通常で間合いを作り、影槍で流れを変える。異界門は次の一手、師の試練は記憶を大きく返す技だ。",
+        "回避直後の攻撃が強化される",
+        "レベルは記憶片で上がる。上がるほどスカアハの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったスカアハは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "スカアハの個人記憶。CELTICの層が、まだ薄い。"
+        },
+        {
+          "speaker": "スカアハ",
+          "text": "先生。私はスカアハ。SHADOWとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "霧と異界の戦士領域が重なる。"
+        },
+        {
+          "speaker": "スカアハ",
+          "text": "影槍は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Attackerとして並ぶとき、スカアハは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "スカアハ",
+          "text": "師の試練を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "回避直後の攻撃が強化される"
+        },
+        {
+          "speaker": "スカアハ",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、スカアハの外見は完結する。"
+        },
+        {
+          "speaker": "スカアハ",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/scathach.jpg",
+        "dock": "res://assets/characters/dock/scathach.png",
+        "battle": "res://assets/characters/battle/scathach.png",
+        "card": "res://assets/characters/cards/scathach.jpg"
+      }
+    },
+    {
+      "id": "mongolia",
+      "name": "モンゴル",
+      "name_en": "MONGOL",
+      "civilization": "MEDIEVAL",
+      "role": "Attacker",
+      "element": "HORSE",
+      "relic": "medieval_relic",
+      "paragraphs": [
+        "モンゴル（MONGOL）。MEDIEVALのレリクシア。役割はAttacker、属性はHORSE。",
+        "武器の系譜はSTEPPE_BOW。核となるRELICはmedieval_relic。",
+        "荒野→城壁→旗→城塞→MEDIEVAL DOMAIN",
+        "戦闘では通常で間合いを作り、騎馬で流れを変える。草原は次の一手、大帝国は記憶を大きく返す技だ。",
+        "移動距離に応じて攻撃が伸びる",
+        "レベルは記憶片で上がる。上がるほどモンゴルの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったモンゴルは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "モンゴルの個人記憶。MEDIEVALの層が、まだ薄い。"
+        },
+        {
+          "speaker": "モンゴル",
+          "text": "先生。私はモンゴル。HORSEとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "荒野→城壁→旗→城塞→MEDIEVAL DOMAIN"
+        },
+        {
+          "speaker": "モンゴル",
+          "text": "騎馬は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Attackerとして並ぶとき、モンゴルは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "モンゴル",
+          "text": "大帝国を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "移動距離に応じて攻撃が伸びる"
+        },
+        {
+          "speaker": "モンゴル",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、モンゴルの外見は完結する。"
+        },
+        {
+          "speaker": "モンゴル",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/mongolia.jpg",
+        "dock": "res://assets/characters/dock/mongolia.png",
+        "battle": "res://assets/characters/battle/mongolia.png",
+        "card": "res://assets/characters/cards/mongolia.jpg"
+      }
+    },
+    {
+      "id": "goryeo",
+      "name": "高麗",
+      "name_en": "GORYEO",
+      "civilization": "MEDIEVAL",
+      "role": "Defender",
+      "element": "CELADON",
+      "relic": "medieval_relic",
+      "paragraphs": [
+        "高麗（GORYEO）。MEDIEVALのレリクシア。役割はDefender、属性はCELADON。",
+        "武器の系譜はCELADON_SHIELD。核となるRELICはmedieval_relic。",
+        "荒野→城壁→旗→城塞→MEDIEVAL DOMAIN",
+        "戦闘では通常で間合いを作り、青磁で流れを変える。王京は次の一手、半島は記憶を大きく返す技だ。",
+        "端にいる味方の防御が上がる",
+        "レベルは記憶片で上がる。上がるほど高麗の体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなった高麗は、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "高麗の個人記憶。MEDIEVALの層が、まだ薄い。"
+        },
+        {
+          "speaker": "高麗",
+          "text": "先生。私は高麗。CELADONとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "荒野→城壁→旗→城塞→MEDIEVAL DOMAIN"
+        },
+        {
+          "speaker": "高麗",
+          "text": "青磁は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Defenderとして並ぶとき、高麗は前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "高麗",
+          "text": "半島を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "端にいる味方の防御が上がる"
+        },
+        {
+          "speaker": "高麗",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、高麗の外見は完結する。"
+        },
+        {
+          "speaker": "高麗",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/goryeo.jpg",
+        "dock": "res://assets/characters/dock/goryeo.png",
+        "battle": "res://assets/characters/battle/goryeo.png",
+        "card": "res://assets/characters/cards/goryeo.jpg"
+      }
+    },
+    {
+      "id": "frank",
+      "name": "フランク",
+      "name_en": "FRANK",
+      "civilization": "MEDIEVAL",
+      "role": "Defender",
+      "element": "CROWN",
+      "relic": "medieval_relic",
+      "paragraphs": [
+        "フランク（FRANK）。MEDIEVALのレリクシア。役割はDefender、属性はCROWN。",
+        "武器の系譜はCROWN_SWORD。核となるRELICはmedieval_relic。",
+        "荒野→城壁→旗→城塞→MEDIEVAL DOMAIN",
+        "戦闘では通常で間合いを作り、王剣で流れを変える。戴冠は次の一手、西欧は記憶を大きく返す技だ。",
+        "味方が3体で領域防御",
+        "レベルは記憶片で上がる。上がるほどフランクの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったフランクは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "フランクの個人記憶。MEDIEVALの層が、まだ薄い。"
+        },
+        {
+          "speaker": "フランク",
+          "text": "先生。私はフランク。CROWNとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "荒野→城壁→旗→城塞→MEDIEVAL DOMAIN"
+        },
+        {
+          "speaker": "フランク",
+          "text": "王剣は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Defenderとして並ぶとき、フランクは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "フランク",
+          "text": "西欧を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "味方が3体で領域防御"
+        },
+        {
+          "speaker": "フランク",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、フランクの外見は完結する。"
+        },
+        {
+          "speaker": "フランク",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/frank.jpg",
+        "dock": "res://assets/characters/dock/frank.png",
+        "battle": "res://assets/characters/battle/frank.png",
+        "card": "res://assets/characters/cards/frank.jpg"
+      }
+    },
+    {
+      "id": "andalus",
+      "name": "アンダルス",
+      "name_en": "ANDALUS",
+      "civilization": "MEDIEVAL",
+      "role": "Support",
+      "element": "STAR",
+      "relic": "medieval_relic",
+      "paragraphs": [
+        "アンダルス（ANDALUS）。MEDIEVALのレリクシア。役割はSupport、属性はSTAR。",
+        "武器の系譜はGARDEN_ASTROLABE。核となるRELICはmedieval_relic。",
+        "荒野→城壁→旗→城塞→MEDIEVAL DOMAIN",
+        "戦闘では通常で間合いを作り、庭園で流れを変える。星学は次の一手、共存は記憶を大きく返す技だ。",
+        "異なる土地の味方がいると回復",
+        "レベルは記憶片で上がる。上がるほどアンダルスの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったアンダルスは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "アンダルスの個人記憶。MEDIEVALの層が、まだ薄い。"
+        },
+        {
+          "speaker": "アンダルス",
+          "text": "先生。私はアンダルス。STARとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "荒野→城壁→旗→城塞→MEDIEVAL DOMAIN"
+        },
+        {
+          "speaker": "アンダルス",
+          "text": "庭園は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Supportとして並ぶとき、アンダルスは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "アンダルス",
+          "text": "共存を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "異なる土地の味方がいると回復"
+        },
+        {
+          "speaker": "アンダルス",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、アンダルスの外見は完結する。"
+        },
+        {
+          "speaker": "アンダルス",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/andalus.jpg",
+        "dock": "res://assets/characters/dock/andalus.png",
+        "battle": "res://assets/characters/battle/andalus.png",
+        "card": "res://assets/characters/cards/andalus.jpg"
+      }
+    },
+    {
+      "id": "mali",
+      "name": "マリ",
+      "name_en": "MALI",
+      "civilization": "MEDIEVAL",
+      "role": "Support",
+      "element": "GOLD",
+      "relic": "medieval_relic",
+      "paragraphs": [
+        "マリ（MALI）。MEDIEVALのレリクシア。役割はSupport、属性はGOLD。",
+        "武器の系譜はGOLDEN_STAFF。核となるRELICはmedieval_relic。",
+        "荒野→城壁→旗→城塞→MEDIEVAL DOMAIN",
+        "戦闘では通常で間合いを作り、黄金で流れを変える。学都は次の一手、砂漠の王は記憶を大きく返す技だ。",
+        "確保RELICが味方を癒す",
+        "レベルは記憶片で上がる。上がるほどマリの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったマリは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "マリの個人記憶。MEDIEVALの層が、まだ薄い。"
+        },
+        {
+          "speaker": "マリ",
+          "text": "先生。私はマリ。GOLDとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "荒野→城壁→旗→城塞→MEDIEVAL DOMAIN"
+        },
+        {
+          "speaker": "マリ",
+          "text": "黄金は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Supportとして並ぶとき、マリは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "マリ",
+          "text": "砂漠の王を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "確保RELICが味方を癒す"
+        },
+        {
+          "speaker": "マリ",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、マリの外見は完結する。"
+        },
+        {
+          "speaker": "マリ",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/mali.jpg",
+        "dock": "res://assets/characters/dock/mali.png",
+        "battle": "res://assets/characters/battle/mali.png",
+        "card": "res://assets/characters/cards/mali.jpg"
+      }
+    },
+    {
+      "id": "manchester",
+      "name": "マンチェスター",
+      "name_en": "MANCHESTER",
+      "civilization": "MODERN",
+      "role": "Attacker",
+      "element": "STEAM",
+      "relic": "modern_relic",
+      "paragraphs": [
+        "マンチェスター（MANCHESTER）。MODERNのレリクシア。役割はAttacker、属性はSTEAM。",
+        "武器の系譜はSTEAM_HAMMER。核となるRELICはmodern_relic。",
+        "煤煙→汽笛→並木→近代都市→MODERN DOMAIN",
+        "戦闘では通常で間合いを作り、蒸気で流れを変える。工場は次の一手、産業は記憶を大きく返す技だ。",
+        "時間が経つほど攻撃が上がる",
+        "レベルは記憶片で上がる。上がるほどマンチェスターの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったマンチェスターは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "マンチェスターの個人記憶。MODERNの層が、まだ薄い。"
+        },
+        {
+          "speaker": "マンチェスター",
+          "text": "先生。私はマンチェスター。STEAMとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "煤煙→汽笛→並木→近代都市→MODERN DOMAIN"
+        },
+        {
+          "speaker": "マンチェスター",
+          "text": "蒸気は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Attackerとして並ぶとき、マンチェスターは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "マンチェスター",
+          "text": "産業を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "時間が経つほど攻撃が上がる"
+        },
+        {
+          "speaker": "マンチェスター",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、マンチェスターの外見は完結する。"
+        },
+        {
+          "speaker": "マンチェスター",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/manchester.jpg",
+        "dock": "res://assets/characters/dock/manchester.png",
+        "battle": "res://assets/characters/battle/manchester.png",
+        "card": "res://assets/characters/cards/manchester.jpg"
+      }
+    },
+    {
+      "id": "vienna",
+      "name": "ウィーン",
+      "name_en": "VIENNA",
+      "civilization": "MODERN",
+      "role": "Support",
+      "element": "MUSIC",
+      "relic": "modern_relic",
+      "paragraphs": [
+        "ウィーン（VIENNA）。MODERNのレリクシア。役割はSupport、属性はMUSIC。",
+        "武器の系譜はWALTZ_BATON。核となるRELICはmodern_relic。",
+        "煤煙→汽笛→並木→近代都市→MODERN DOMAIN",
+        "戦闘では通常で間合いを作り、円舞で流れを変える。会議は次の一手、帝都楽は記憶を大きく返す技だ。",
+        "味方が技能を使うと回復",
+        "レベルは記憶片で上がる。上がるほどウィーンの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったウィーンは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "ウィーンの個人記憶。MODERNの層が、まだ薄い。"
+        },
+        {
+          "speaker": "ウィーン",
+          "text": "先生。私はウィーン。MUSICとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "煤煙→汽笛→並木→近代都市→MODERN DOMAIN"
+        },
+        {
+          "speaker": "ウィーン",
+          "text": "円舞は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Supportとして並ぶとき、ウィーンは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "ウィーン",
+          "text": "帝都楽を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "味方が技能を使うと回復"
+        },
+        {
+          "speaker": "ウィーン",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、ウィーンの外見は完結する。"
+        },
+        {
+          "speaker": "ウィーン",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/vienna.jpg",
+        "dock": "res://assets/characters/dock/vienna.png",
+        "battle": "res://assets/characters/battle/vienna.png",
+        "card": "res://assets/characters/cards/vienna.jpg"
+      }
+    },
+    {
+      "id": "berlin",
+      "name": "ベルリン",
+      "name_en": "BERLIN",
+      "civilization": "MODERN",
+      "role": "Controller",
+      "element": "LINE",
+      "relic": "modern_relic",
+      "paragraphs": [
+        "ベルリン（BERLIN）。MODERNのレリクシア。役割はController、属性はLINE。",
+        "武器の系譜はPLAN_COMPASS。核となるRELICはmodern_relic。",
+        "煤煙→汽笛→並木→近代都市→MODERN DOMAIN",
+        "戦闘では通常で間合いを作り、線都で流れを変える。設計は次の一手、近代は記憶を大きく返す技だ。",
+        "確保したRELICの喪失が遅い",
+        "レベルは記憶片で上がる。上がるほどベルリンの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったベルリンは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "ベルリンの個人記憶。MODERNの層が、まだ薄い。"
+        },
+        {
+          "speaker": "ベルリン",
+          "text": "先生。私はベルリン。LINEとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "煤煙→汽笛→並木→近代都市→MODERN DOMAIN"
+        },
+        {
+          "speaker": "ベルリン",
+          "text": "線都は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Controllerとして並ぶとき、ベルリンは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "ベルリン",
+          "text": "近代を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "確保したRELICの喪失が遅い"
+        },
+        {
+          "speaker": "ベルリン",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、ベルリンの外見は完結する。"
+        },
+        {
+          "speaker": "ベルリン",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/berlin.jpg",
+        "dock": "res://assets/characters/dock/berlin.png",
+        "battle": "res://assets/characters/battle/berlin.png",
+        "card": "res://assets/characters/cards/berlin.jpg"
+      }
+    },
+    {
+      "id": "petersburg",
+      "name": "ペテルブルク",
+      "name_en": "PETERSBURG",
+      "civilization": "MODERN",
+      "role": "Tactician",
+      "element": "WINDOW",
+      "relic": "modern_relic",
+      "paragraphs": [
+        "ペテルブルク（PETERSBURG）。MODERNのレリクシア。役割はTactician、属性はWINDOW。",
+        "武器の系譜はWHITE_NIGHT。核となるRELICはmodern_relic。",
+        "煤煙→汽笛→並木→近代都市→MODERN DOMAIN",
+        "戦闘では通常で間合いを作り、白夜で流れを変える。運河は次の一手、窓都は記憶を大きく返す技だ。",
+        "ERA SHIFTの効果時間が延びる",
+        "レベルは記憶片で上がる。上がるほどペテルブルクの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったペテルブルクは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "ペテルブルクの個人記憶。MODERNの層が、まだ薄い。"
+        },
+        {
+          "speaker": "ペテルブルク",
+          "text": "先生。私はペテルブルク。WINDOWとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "煤煙→汽笛→並木→近代都市→MODERN DOMAIN"
+        },
+        {
+          "speaker": "ペテルブルク",
+          "text": "白夜は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Tacticianとして並ぶとき、ペテルブルクは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "ペテルブルク",
+          "text": "窓都を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "ERA SHIFTの効果時間が延びる"
+        },
+        {
+          "speaker": "ペテルブルク",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、ペテルブルクの外見は完結する。"
+        },
+        {
+          "speaker": "ペテルブルク",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/petersburg.jpg",
+        "dock": "res://assets/characters/dock/petersburg.png",
+        "battle": "res://assets/characters/battle/petersburg.png",
+        "card": "res://assets/characters/cards/petersburg.jpg"
+      }
+    },
+    {
+      "id": "chicago",
+      "name": "シカゴ",
+      "name_en": "CHICAGO",
+      "civilization": "MODERN",
+      "role": "Attacker",
+      "element": "FIRE",
+      "relic": "modern_relic",
+      "paragraphs": [
+        "シカゴ（CHICAGO）。MODERNのレリクシア。役割はAttacker、属性はFIRE。",
+        "武器の系譜はTOWER_CRANE。核となるRELICはmodern_relic。",
+        "煤煙→汽笛→並木→近代都市→MODERN DOMAIN",
+        "戦闘では通常で間合いを作り、塔市で流れを変える。大火は次の一手、再興は記憶を大きく返す技だ。",
+        "被弾後に攻撃が跳ねる",
+        "レベルは記憶片で上がる。上がるほどシカゴの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったシカゴは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "シカゴの個人記憶。MODERNの層が、まだ薄い。"
+        },
+        {
+          "speaker": "シカゴ",
+          "text": "先生。私はシカゴ。FIREとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "煤煙→汽笛→並木→近代都市→MODERN DOMAIN"
+        },
+        {
+          "speaker": "シカゴ",
+          "text": "塔市は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Attackerとして並ぶとき、シカゴは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "シカゴ",
+          "text": "再興を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "被弾後に攻撃が跳ねる"
+        },
+        {
+          "speaker": "シカゴ",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、シカゴの外見は完結する。"
+        },
+        {
+          "speaker": "シカゴ",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/chicago.jpg",
+        "dock": "res://assets/characters/dock/chicago.png",
+        "battle": "res://assets/characters/battle/chicago.png",
+        "card": "res://assets/characters/cards/chicago.jpg"
+      }
+    },
+    {
+      "id": "boston",
+      "name": "ボストン",
+      "name_en": "BOSTON",
+      "civilization": "MODERN",
+      "role": "Defender",
+      "element": "LIBERTY",
+      "relic": "modern_relic",
+      "paragraphs": [
+        "ボストン（BOSTON）。MODERNのレリクシア。役割はDefender、属性はLIBERTY。",
+        "武器の系譜はHARBOR_LANTERN。核となるRELICはmodern_relic。",
+        "煤煙→汽笛→並木→近代都市→MODERN DOMAIN",
+        "戦闘では通常で間合いを作り、茶会で流れを変える。独立は次の一手、港の灯は記憶を大きく返す技だ。",
+        "味方が倒れると防御が上がる",
+        "レベルは記憶片で上がる。上がるほどボストンの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったボストンは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "ボストンの個人記憶。MODERNの層が、まだ薄い。"
+        },
+        {
+          "speaker": "ボストン",
+          "text": "先生。私はボストン。LIBERTYとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "煤煙→汽笛→並木→近代都市→MODERN DOMAIN"
+        },
+        {
+          "speaker": "ボストン",
+          "text": "茶会は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Defenderとして並ぶとき、ボストンは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "ボストン",
+          "text": "港の灯を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "味方が倒れると防御が上がる"
+        },
+        {
+          "speaker": "ボストン",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、ボストンの外見は完結する。"
+        },
+        {
+          "speaker": "ボストン",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/boston.jpg",
+        "dock": "res://assets/characters/dock/boston.png",
+        "battle": "res://assets/characters/battle/boston.png",
+        "card": "res://assets/characters/cards/boston.jpg"
+      }
+    },
+    {
+      "id": "lisbon",
+      "name": "リスボン",
+      "name_en": "LISBON",
+      "civilization": "MODERN",
+      "role": "Tactician",
+      "element": "VOYAGE",
+      "relic": "modern_relic",
+      "paragraphs": [
+        "リスボン（LISBON）。MODERNのレリクシア。役割はTactician、属性はVOYAGE。",
+        "武器の系譜はCOMPASS_ROSE。核となるRELICはmodern_relic。",
+        "煤煙→汽笛→並木→近代都市→MODERN DOMAIN",
+        "戦闘では通常で間合いを作り、出航で流れを変える。大地震は次の一手、再興の丘は記憶を大きく返す技だ。",
+        "試合開始直後の捕獲が速い",
+        "レベルは記憶片で上がる。上がるほどリスボンの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったリスボンは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "リスボンの個人記憶。MODERNの層が、まだ薄い。"
+        },
+        {
+          "speaker": "リスボン",
+          "text": "先生。私はリスボン。VOYAGEとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "煤煙→汽笛→並木→近代都市→MODERN DOMAIN"
+        },
+        {
+          "speaker": "リスボン",
+          "text": "出航は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Tacticianとして並ぶとき、リスボンは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "リスボン",
+          "text": "再興の丘を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "試合開始直後の捕獲が速い"
+        },
+        {
+          "speaker": "リスボン",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、リスボンの外見は完結する。"
+        },
+        {
+          "speaker": "リスボン",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/lisbon.jpg",
+        "dock": "res://assets/characters/dock/lisbon.png",
+        "battle": "res://assets/characters/battle/lisbon.png",
+        "card": "res://assets/characters/cards/lisbon.jpg"
+      }
+    },
+    {
+      "id": "amsterdam",
+      "name": "アムステルダム",
+      "name_en": "AMSTERDAM",
+      "civilization": "MODERN",
+      "role": "Tactician",
+      "element": "CANAL",
+      "relic": "modern_relic",
+      "paragraphs": [
+        "アムステルダム（AMSTERDAM）。MODERNのレリクシア。役割はTactician、属性はCANAL。",
+        "武器の系譜はCANAL_LEDGER。核となるRELICはmodern_relic。",
+        "煤煙→汽笛→並木→近代都市→MODERN DOMAIN",
+        "戦闘では通常で間合いを作り、運河で流れを変える。市場は次の一手、造船は記憶を大きく返す技だ。",
+        "水際の捕獲が速い",
+        "レベルは記憶片で上がる。上がるほどアムステルダムの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったアムステルダムは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "アムステルダムの個人記憶。MODERNの層が、まだ薄い。"
+        },
+        {
+          "speaker": "アムステルダム",
+          "text": "先生。私はアムステルダム。CANALとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "煤煙→汽笛→並木→近代都市→MODERN DOMAIN"
+        },
+        {
+          "speaker": "アムステルダム",
+          "text": "運河は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Tacticianとして並ぶとき、アムステルダムは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "アムステルダム",
+          "text": "造船を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "水際の捕獲が速い"
+        },
+        {
+          "speaker": "アムステルダム",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、アムステルダムの外見は完結する。"
+        },
+        {
+          "speaker": "アムステルダム",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/amsterdam.jpg",
+        "dock": "res://assets/characters/dock/amsterdam.png",
+        "battle": "res://assets/characters/battle/amsterdam.png",
+        "card": "res://assets/characters/cards/amsterdam.jpg"
+      }
+    },
+    {
+      "id": "genoa",
+      "name": "ジェノヴァ",
+      "name_en": "GENOA",
+      "civilization": "MODERN",
+      "role": "Assassin",
+      "element": "MAP",
+      "relic": "modern_relic",
+      "paragraphs": [
+        "ジェノヴァ（GENOA）。MODERNのレリクシア。役割はAssassin、属性はMAP。",
+        "武器の系譜はCHART_DAGGER。核となるRELICはmodern_relic。",
+        "煤煙→汽笛→並木→近代都市→MODERN DOMAIN",
+        "戦闘では通常で間合いを作り、海商で流れを変える。地図は次の一手、競争は記憶を大きく返す技だ。",
+        "長い移動のあと致命打",
+        "レベルは記憶片で上がる。上がるほどジェノヴァの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったジェノヴァは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "ジェノヴァの個人記憶。MODERNの層が、まだ薄い。"
+        },
+        {
+          "speaker": "ジェノヴァ",
+          "text": "先生。私はジェノヴァ。MAPとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "煤煙→汽笛→並木→近代都市→MODERN DOMAIN"
+        },
+        {
+          "speaker": "ジェノヴァ",
+          "text": "海商は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Assassinとして並ぶとき、ジェノヴァは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "ジェノヴァ",
+          "text": "競争を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "長い移動のあと致命打"
+        },
+        {
+          "speaker": "ジェノヴァ",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、ジェノヴァの外見は完結する。"
+        },
+        {
+          "speaker": "ジェノヴァ",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/genoa.jpg",
+        "dock": "res://assets/characters/dock/genoa.png",
+        "battle": "res://assets/characters/battle/genoa.png",
+        "card": "res://assets/characters/cards/genoa.jpg"
+      }
+    },
+    {
+      "id": "newyork",
+      "name": "ニューヨーク",
+      "name_en": "NEW YORK",
+      "civilization": "CONTEMPORARY",
+      "role": "Attacker",
+      "element": "AMBITION",
+      "relic": "contemporary_relic",
+      "paragraphs": [
+        "ニューヨーク（NEW YORK）。CONTEMPORARYのレリクシア。役割はAttacker、属性はAMBITION。",
+        "武器の系譜はSKYLINE_EDGE。核となるRELICはcontemporary_relic。",
+        "空白→街灯→交差点→現代都市→CONTEMPORARY DOMAIN",
+        "戦闘では通常で間合いを作り、塔で流れを変える。交差は次の一手、フロンティアは記憶を大きく返す技だ。",
+        "攻撃するたびUltimateが貯まる",
+        "レベルは記憶片で上がる。上がるほどニューヨークの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったニューヨークは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "ニューヨークの個人記憶。CONTEMPORARYの層が、まだ薄い。"
+        },
+        {
+          "speaker": "ニューヨーク",
+          "text": "先生。私はニューヨーク。AMBITIONとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "空白→街灯→交差点→現代都市→CONTEMPORARY DOMAIN"
+        },
+        {
+          "speaker": "ニューヨーク",
+          "text": "塔は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Attackerとして並ぶとき、ニューヨークは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "ニューヨーク",
+          "text": "フロンティアを使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "攻撃するたびUltimateが貯まる"
+        },
+        {
+          "speaker": "ニューヨーク",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、ニューヨークの外見は完結する。"
+        },
+        {
+          "speaker": "ニューヨーク",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/newyork.jpg",
+        "dock": "res://assets/characters/dock/newyork.png",
+        "battle": "res://assets/characters/battle/newyork.png",
+        "card": "res://assets/characters/cards/newyork.jpg"
+      }
+    },
+    {
+      "id": "paris",
+      "name": "パリ",
+      "name_en": "PARIS",
+      "civilization": "CONTEMPORARY",
+      "role": "Support",
+      "element": "LIGHT",
+      "relic": "contemporary_relic",
+      "paragraphs": [
+        "パリ（PARIS）。CONTEMPORARYのレリクシア。役割はSupport、属性はLIGHT。",
+        "武器の系譜はLANTERN_ROSE。核となるRELICはcontemporary_relic。",
+        "空白→街灯→交差点→現代都市→CONTEMPORARY DOMAIN",
+        "戦闘では通常で間合いを作り、灯火で流れを変える。革命は次の一手、花都は記憶を大きく返す技だ。",
+        "味方が技能を使うと回復",
+        "レベルは記憶片で上がる。上がるほどパリの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったパリは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "パリの個人記憶。CONTEMPORARYの層が、まだ薄い。"
+        },
+        {
+          "speaker": "パリ",
+          "text": "先生。私はパリ。LIGHTとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "空白→街灯→交差点→現代都市→CONTEMPORARY DOMAIN"
+        },
+        {
+          "speaker": "パリ",
+          "text": "灯火は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Supportとして並ぶとき、パリは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "パリ",
+          "text": "花都を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "味方が技能を使うと回復"
+        },
+        {
+          "speaker": "パリ",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、パリの外見は完結する。"
+        },
+        {
+          "speaker": "パリ",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/paris.jpg",
+        "dock": "res://assets/characters/dock/paris.png",
+        "battle": "res://assets/characters/battle/paris.png",
+        "card": "res://assets/characters/cards/paris.jpg"
+      }
+    },
+    {
+      "id": "london",
+      "name": "ロンドン",
+      "name_en": "LONDON",
+      "civilization": "CONTEMPORARY",
+      "role": "Tactician",
+      "element": "FOG",
+      "relic": "contemporary_relic",
+      "paragraphs": [
+        "ロンドン（LONDON）。CONTEMPORARYのレリクシア。役割はTactician、属性はFOG。",
+        "武器の系譜はBIG_CLOCK。核となるRELICはcontemporary_relic。",
+        "空白→街灯→交差点→現代都市→CONTEMPORARY DOMAIN",
+        "戦闘では通常で間合いを作り、霧都で流れを変える。書庫は次の一手、大時計は記憶を大きく返す技だ。",
+        "ERA SHIFTの効果時間が延びる",
+        "レベルは記憶片で上がる。上がるほどロンドンの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったロンドンは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "ロンドンの個人記憶。CONTEMPORARYの層が、まだ薄い。"
+        },
+        {
+          "speaker": "ロンドン",
+          "text": "先生。私はロンドン。FOGとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "空白→街灯→交差点→現代都市→CONTEMPORARY DOMAIN"
+        },
+        {
+          "speaker": "ロンドン",
+          "text": "霧都は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Tacticianとして並ぶとき、ロンドンは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "ロンドン",
+          "text": "大時計を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "ERA SHIFTの効果時間が延びる"
+        },
+        {
+          "speaker": "ロンドン",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、ロンドンの外見は完結する。"
+        },
+        {
+          "speaker": "ロンドン",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/london.jpg",
+        "dock": "res://assets/characters/dock/london.png",
+        "battle": "res://assets/characters/battle/london.png",
+        "card": "res://assets/characters/cards/london.jpg"
+      }
+    },
+    {
+      "id": "singapore",
+      "name": "シンガポール",
+      "name_en": "SINGAPORE",
+      "civilization": "CONTEMPORARY",
+      "role": "Tactician",
+      "element": "NODE",
+      "relic": "contemporary_relic",
+      "paragraphs": [
+        "シンガポール（SINGAPORE）。CONTEMPORARYのレリクシア。役割はTactician、属性はNODE。",
+        "武器の系譜はPORT_GARDEN。核となるRELICはcontemporary_relic。",
+        "空白→街灯→交差点→現代都市→CONTEMPORARY DOMAIN",
+        "戦闘では通常で間合いを作り、港湾国家で流れを変える。庭園は次の一手、結節点は記憶を大きく返す技だ。",
+        "味方が散らばっても計画が切れない",
+        "レベルは記憶片で上がる。上がるほどシンガポールの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったシンガポールは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "シンガポールの個人記憶。CONTEMPORARYの層が、まだ薄い。"
+        },
+        {
+          "speaker": "シンガポール",
+          "text": "先生。私はシンガポール。NODEとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "空白→街灯→交差点→現代都市→CONTEMPORARY DOMAIN"
+        },
+        {
+          "speaker": "シンガポール",
+          "text": "港湾国家は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Tacticianとして並ぶとき、シンガポールは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "シンガポール",
+          "text": "結節点を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "味方が散らばっても計画が切れない"
+        },
+        {
+          "speaker": "シンガポール",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、シンガポールの外見は完結する。"
+        },
+        {
+          "speaker": "シンガポール",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/singapore.jpg",
+        "dock": "res://assets/characters/dock/singapore.png",
+        "battle": "res://assets/characters/battle/singapore.png",
+        "card": "res://assets/characters/cards/singapore.jpg"
+      }
+    },
+    {
+      "id": "seoul",
+      "name": "ソウル",
+      "name_en": "SEOUL",
+      "civilization": "CONTEMPORARY",
+      "role": "Defender",
+      "element": "BASIN",
+      "relic": "contemporary_relic",
+      "paragraphs": [
+        "ソウル（SEOUL）。CONTEMPORARYのレリクシア。役割はDefender、属性はBASIN。",
+        "武器の系譜はFOUR_GATES。核となるRELICはcontemporary_relic。",
+        "空白→街灯→交差点→現代都市→CONTEMPORARY DOMAIN",
+        "戦闘では通常で間合いを作り、四門で流れを変える。盆地は次の一手、漢陽残光は記憶を大きく返す技だ。",
+        "端にいる味方の防御が上がる",
+        "レベルは記憶片で上がる。上がるほどソウルの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったソウルは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "ソウルの個人記憶。CONTEMPORARYの層が、まだ薄い。"
+        },
+        {
+          "speaker": "ソウル",
+          "text": "先生。私はソウル。BASINとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "空白→街灯→交差点→現代都市→CONTEMPORARY DOMAIN"
+        },
+        {
+          "speaker": "ソウル",
+          "text": "四門は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Defenderとして並ぶとき、ソウルは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "ソウル",
+          "text": "漢陽残光を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "端にいる味方の防御が上がる"
+        },
+        {
+          "speaker": "ソウル",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、ソウルの外見は完結する。"
+        },
+        {
+          "speaker": "ソウル",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/seoul.jpg",
+        "dock": "res://assets/characters/dock/seoul.png",
+        "battle": "res://assets/characters/battle/seoul.png",
+        "card": "res://assets/characters/cards/seoul.jpg"
+      }
+    },
+    {
+      "id": "mexico",
+      "name": "メキシコ",
+      "name_en": "MEXICO",
+      "civilization": "CONTEMPORARY",
+      "role": "Tactician",
+      "element": "LAYER",
+      "relic": "contemporary_relic",
+      "paragraphs": [
+        "メキシコ（MEXICO）。CONTEMPORARYのレリクシア。役割はTactician、属性はLAYER。",
+        "武器の系譜はMURAL_SEAL。核となるRELICはcontemporary_relic。",
+        "空白→街灯→交差点→現代都市→CONTEMPORARY DOMAIN",
+        "戦闘では通常で間合いを作り、壁画で流れを変える。層都は次の一手、高原は記憶を大きく返す技だ。",
+        "確保文明が多いほど計画が速い",
+        "レベルは記憶片で上がる。上がるほどメキシコの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったメキシコは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "メキシコの個人記憶。CONTEMPORARYの層が、まだ薄い。"
+        },
+        {
+          "speaker": "メキシコ",
+          "text": "先生。私はメキシコ。LAYERとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "空白→街灯→交差点→現代都市→CONTEMPORARY DOMAIN"
+        },
+        {
+          "speaker": "メキシコ",
+          "text": "壁画は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Tacticianとして並ぶとき、メキシコは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "メキシコ",
+          "text": "高原を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "確保文明が多いほど計画が速い"
+        },
+        {
+          "speaker": "メキシコ",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、メキシコの外見は完結する。"
+        },
+        {
+          "speaker": "メキシコ",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/mexico.jpg",
+        "dock": "res://assets/characters/dock/mexico.png",
+        "battle": "res://assets/characters/battle/mexico.png",
+        "card": "res://assets/characters/cards/mexico.jpg"
+      }
+    },
+    {
+      "id": "dubai",
+      "name": "ドバイ",
+      "name_en": "DUBAI",
+      "civilization": "CONTEMPORARY",
+      "role": "Attacker",
+      "element": "SAND",
+      "relic": "contemporary_relic",
+      "paragraphs": [
+        "ドバイ（DUBAI）。CONTEMPORARYのレリクシア。役割はAttacker、属性はSAND。",
+        "武器の系譜はSUPERTOWER。核となるRELICはcontemporary_relic。",
+        "空白→街灯→交差点→現代都市→CONTEMPORARY DOMAIN",
+        "戦闘では通常で間合いを作り、超塔で流れを変える。人工島は次の一手、砂の未来は記憶を大きく返す技だ。",
+        "捕獲と攻撃を同時に伸ばす",
+        "レベルは記憶片で上がる。上がるほどドバイの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったドバイは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "ドバイの個人記憶。CONTEMPORARYの層が、まだ薄い。"
+        },
+        {
+          "speaker": "ドバイ",
+          "text": "先生。私はドバイ。SANDとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "空白→街灯→交差点→現代都市→CONTEMPORARY DOMAIN"
+        },
+        {
+          "speaker": "ドバイ",
+          "text": "超塔は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Attackerとして並ぶとき、ドバイは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "ドバイ",
+          "text": "砂の未来を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "捕獲と攻撃を同時に伸ばす"
+        },
+        {
+          "speaker": "ドバイ",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、ドバイの外見は完結する。"
+        },
+        {
+          "speaker": "ドバイ",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/dubai.jpg",
+        "dock": "res://assets/characters/dock/dubai.png",
+        "battle": "res://assets/characters/battle/dubai.png",
+        "card": "res://assets/characters/cards/dubai.jpg"
+      }
+    },
+    {
+      "id": "orbital",
+      "name": "オービタル",
+      "name_en": "ORBITAL",
+      "civilization": "FUTURE",
+      "role": "Tactician",
+      "element": "ORBIT",
+      "relic": "量子記憶核",
+      "paragraphs": [
+        "オービタル（ORBITAL）。FUTUREのレリクシア。役割はTactician、属性はORBIT。",
+        "武器の系譜はORBIT_LENS。核となるRELICは量子記憶核。",
+        "失われたネットワークが回路として蘇る。",
+        "戦闘では通常で間合いを作り、軌道で流れを変える。観測は次の一手、星図庫は記憶を大きく返す技だ。",
+        "全域のRELIC状況が見える",
+        "レベルは記憶片で上がる。上がるほどオービタルの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったオービタルは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "オービタルの個人記憶。FUTUREの層が、まだ薄い。"
+        },
+        {
+          "speaker": "オービタル",
+          "text": "先生。私はオービタル。ORBITとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "失われたネットワークが回路として蘇る。"
+        },
+        {
+          "speaker": "オービタル",
+          "text": "軌道は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Tacticianとして並ぶとき、オービタルは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "オービタル",
+          "text": "星図庫を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "全域のRELIC状況が見える"
+        },
+        {
+          "speaker": "オービタル",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、オービタルの外見は完結する。"
+        },
+        {
+          "speaker": "オービタル",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/orbital.jpg",
+        "dock": "res://assets/characters/dock/orbital.png",
+        "battle": "res://assets/characters/battle/orbital.png",
+        "card": "res://assets/characters/cards/orbital.jpg"
+      }
+    },
+    {
+      "id": "machine",
+      "name": "機関",
+      "name_en": "MACHINE",
+      "civilization": "FUTURE",
+      "role": "Controller",
+      "element": "MACHINE",
+      "relic": "量子記憶核",
+      "paragraphs": [
+        "機関（MACHINE）。FUTUREのレリクシア。役割はController、属性はMACHINE。",
+        "武器の系譜はCOOLING_RING。核となるRELICは量子記憶核。",
+        "失われたネットワークが回路として蘇る。",
+        "戦闘では通常で間合いを作り、機関で流れを変える。冷却は次の一手、規律環は記憶を大きく返す技だ。",
+        "RELICの喪失速度を落とす",
+        "レベルは記憶片で上がる。上がるほど機関の体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなった機関は、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "機関の個人記憶。FUTUREの層が、まだ薄い。"
+        },
+        {
+          "speaker": "機関",
+          "text": "先生。私は機関。MACHINEとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "失われたネットワークが回路として蘇る。"
+        },
+        {
+          "speaker": "機関",
+          "text": "機関は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Controllerとして並ぶとき、機関は前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "機関",
+          "text": "規律環を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "RELICの喪失速度を落とす"
+        },
+        {
+          "speaker": "機関",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、機関の外見は完結する。"
+        },
+        {
+          "speaker": "機関",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/machine.jpg",
+        "dock": "res://assets/characters/dock/machine.png",
+        "battle": "res://assets/characters/battle/machine.png",
+        "card": "res://assets/characters/cards/machine.jpg"
+      }
+    },
+    {
+      "id": "aeterna",
+      "name": "アエテルナ",
+      "name_en": "AETERNA",
+      "civilization": "FUTURE",
+      "role": "Support",
+      "element": "AETERNA",
+      "relic": "量子記憶核",
+      "paragraphs": [
+        "アエテルナ（AETERNA）。FUTUREのレリクシア。役割はSupport、属性はAETERNA。",
+        "武器の系譜はMEMORY_CORE。核となるRELICは量子記憶核。",
+        "失われたネットワークが回路として蘇る。",
+        "戦闘では通常で間合いを作り、記憶核で流れを変える。永遠契約は次の一手、世界再結は記憶を大きく返す技だ。",
+        "全連鎖の効果をわずかに底上げする",
+        "レベルは記憶片で上がる。上がるほどアエテルナの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったアエテルナは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "アエテルナの個人記憶。FUTUREの層が、まだ薄い。"
+        },
+        {
+          "speaker": "アエテルナ",
+          "text": "先生。私はアエテルナ。AETERNAとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "失われたネットワークが回路として蘇る。"
+        },
+        {
+          "speaker": "アエテルナ",
+          "text": "記憶核は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Supportとして並ぶとき、アエテルナは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "アエテルナ",
+          "text": "世界再結を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "全連鎖の効果をわずかに底上げする"
+        },
+        {
+          "speaker": "アエテルナ",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、アエテルナの外見は完結する。"
+        },
+        {
+          "speaker": "アエテルナ",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/aeterna.jpg",
+        "dock": "res://assets/characters/dock/aeterna.png",
+        "battle": "res://assets/characters/battle/aeterna.png",
+        "card": "res://assets/characters/cards/aeterna.jpg"
+      }
+    },
+    {
+      "id": "lunar",
+      "name": "月面",
+      "name_en": "LUNAR",
+      "civilization": "FUTURE",
+      "role": "Defender",
+      "element": "MOON",
+      "relic": "量子記憶核",
+      "paragraphs": [
+        "月面（LUNAR）。FUTUREのレリクシア。役割はDefender、属性はMOON。",
+        "武器の系譜はSILENT_DOME。核となるRELICは量子記憶核。",
+        "失われたネットワークが回路として蘇る。",
+        "戦闘では通常で間合いを作り、月面で流れを変える。静都は次の一手、観測塔は記憶を大きく返す技だ。",
+        "上側にいると非常に硬い",
+        "レベルは記憶片で上がる。上がるほど月面の体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなった月面は、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "月面の個人記憶。FUTUREの層が、まだ薄い。"
+        },
+        {
+          "speaker": "月面",
+          "text": "先生。私は月面。MOONとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "失われたネットワークが回路として蘇る。"
+        },
+        {
+          "speaker": "月面",
+          "text": "月面は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Defenderとして並ぶとき、月面は前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "月面",
+          "text": "観測塔を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "上側にいると非常に硬い"
+        },
+        {
+          "speaker": "月面",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、月面の外見は完結する。"
+        },
+        {
+          "speaker": "月面",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/lunar.jpg",
+        "dock": "res://assets/characters/dock/lunar.png",
+        "battle": "res://assets/characters/battle/lunar.png",
+        "card": "res://assets/characters/cards/lunar.jpg"
+      }
+    },
+    {
+      "id": "ark",
+      "name": "方舟",
+      "name_en": "ARK",
+      "civilization": "FUTURE",
+      "role": "Support",
+      "element": "SEED",
+      "relic": "量子記憶核",
+      "paragraphs": [
+        "方舟（ARK）。FUTUREのレリクシア。役割はSupport、属性はSEED。",
+        "武器の系譜はSEED_ARK。核となるRELICは量子記憶核。",
+        "失われたネットワークが回路として蘇る。",
+        "戦闘では通常で間合いを作り、方舟で流れを変える。種火は次の一手、再出発は記憶を大きく返す技だ。",
+        "倒れた味方を蘇生しやすくする",
+        "レベルは記憶片で上がる。上がるほど方舟の体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなった方舟は、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "方舟の個人記憶。FUTUREの層が、まだ薄い。"
+        },
+        {
+          "speaker": "方舟",
+          "text": "先生。私は方舟。SEEDとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "失われたネットワークが回路として蘇る。"
+        },
+        {
+          "speaker": "方舟",
+          "text": "方舟は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Supportとして並ぶとき、方舟は前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "方舟",
+          "text": "再出発を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "倒れた味方を蘇生しやすくする"
+        },
+        {
+          "speaker": "方舟",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、方舟の外見は完結する。"
+        },
+        {
+          "speaker": "方舟",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/ark.jpg",
+        "dock": "res://assets/characters/dock/ark.png",
+        "battle": "res://assets/characters/battle/ark.png",
+        "card": "res://assets/characters/cards/ark.jpg"
+      }
+    },
+    {
+      "id": "nexus_city",
+      "name": "ネクサス",
+      "name_en": "NEXUS",
+      "civilization": "FUTURE",
+      "role": "Tactician",
+      "element": "LINK",
+      "relic": "量子記憶核",
+      "paragraphs": [
+        "ネクサス（NEXUS）。FUTUREのレリクシア。役割はTactician、属性はLINK。",
+        "武器の系譜はNEXUS_LINK。核となるRELICは量子記憶核。",
+        "失われたネットワークが回路として蘇る。",
+        "戦闘では通常で間合いを作り、結節で流れを変える。接続は次の一手、全史回線は記憶を大きく返す技だ。",
+        "異なる土地の味方が揃うと強化",
+        "レベルは記憶片で上がる。上がるほどネクサスの体力と攻撃が、出撃のたびに太くなる。上限は80。",
+        "絆は記憶片20で深まる。深くなったネクサスは、アーカイブの個人記憶を最後まで開く。",
+        "イラストを差し込めば、この人物は完成する。立ち位置は次のとおり。"
+      ],
+      "episode": [
+        {
+          "speaker": "",
+          "text": "ネクサスの個人記憶。FUTUREの層が、まだ薄い。"
+        },
+        {
+          "speaker": "ネクサス",
+          "text": "先生。私はネクサス。LINKとして、ここにいる。"
+        },
+        {
+          "speaker": "",
+          "text": "失われたネットワークが回路として蘇る。"
+        },
+        {
+          "speaker": "ネクサス",
+          "text": "結節は、忘れかけた道を切るための技よ。"
+        },
+        {
+          "speaker": "",
+          "text": "Tacticianとして並ぶとき、ネクサスは前に出すぎない。必要な場所にいる。"
+        },
+        {
+          "speaker": "ネクサス",
+          "text": "全史回線を使うなら、この層を本当に返すときだけ。"
+        },
+        {
+          "speaker": "",
+          "text": "異なる土地の味方が揃うと強化"
+        },
+        {
+          "speaker": "ネクサス",
+          "text": "イラストが無くても、私は戦える。絵は、あとからでいい。"
+        },
+        {
+          "speaker": "",
+          "text": "選択絵、戦闘下の顔、戦場のドット。三枚が揃えば、ネクサスの外見は完結する。"
+        },
+        {
+          "speaker": "ネクサス",
+          "text": "それまで、名前と記憶で立っている。"
+        }
+      ],
+      "art": {
+        "select": "res://assets/characters/select/nexus_city.jpg",
+        "dock": "res://assets/characters/dock/nexus_city.png",
+        "battle": "res://assets/characters/battle/nexus_city.png",
+        "card": "res://assets/characters/cards/nexus_city.jpg"
+      }
+    }
+  ]
+}

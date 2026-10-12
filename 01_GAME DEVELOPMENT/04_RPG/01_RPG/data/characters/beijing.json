@@ -1,0 +1,101 @@
+{
+  "id": "beijing",
+  "uid": "beijing_001",
+  "name": "北京",
+  "name_ja": "北京",
+  "name_en": "BEIJING",
+  "origin": "NEXUS",
+  "era": "CONTEMPORARY",
+  "civ": "china",
+  "civilization": "HUAXIA",
+  "civilization_id": "huaxia",
+  "relic": "china_relic",
+  "reconstruction": "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN",
+  "seed": false,
+  "class": "NEXUS",
+  "role": "TACTICIAN",
+  "role_ui": "Tactician",
+  "element": "AXIS",
+  "weapon": "AXIS_SEAL",
+  "height": 164,
+  "appearance": {
+    "hair": "huaxia_hair",
+    "eyes": "beijing_eyes",
+    "costume": "huaxia_nexus"
+  },
+  "stats": {
+    "hp": 909,
+    "attack": 68,
+    "defense": 68,
+    "speed": 69
+  },
+  "hp": 128,
+  "speed": 7.7,
+  "damage": 13,
+  "skills": [
+    "beijing_skill1",
+    "beijing_skill2",
+    "beijing_skill3"
+  ],
+  "normal_attack": {
+    "id": "beijing_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "beijing_skill1",
+    "name_ja": "軸線",
+    "name_en": "軸線"
+  },
+  "skill_2": {
+    "id": "beijing_skill2",
+    "name_ja": "宮門",
+    "name_en": "宮門"
+  },
+  "ultimate": {
+    "id": "beijing_skill3",
+    "name_ja": "層都",
+    "name_en": "層都"
+  },
+  "passive": {
+    "id": "beijing_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "確保文明が多いほど計画が速い"
+  },
+  "civilization_tags": [
+    "china",
+    "HUAXIA",
+    "CONTEMPORARY",
+    "NEXUS",
+    "AXIS"
+  ],
+  "relationships": [],
+  "voice_type": "measured",
+  "music_theme": "軸・門・層都",
+  "civilization_shift_effect": "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN",
+  "theme": "軸・門・層都",
+  "passive_text": "確保文明が多いほど計画が速い",
+  "story": "軸が残れば、名前は北へ立つ。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "huaxia",
+  "land": "huaxia",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/huaxia/beijing.png",
+  "colors": {
+    "body": [
+      0.48,
+      0.116,
+      0.076
+    ],
+    "emit": [
+      0.98,
+      0.756,
+      0.256
+    ]
+  }
+}

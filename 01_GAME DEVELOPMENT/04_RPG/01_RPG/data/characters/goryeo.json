@@ -1,0 +1,101 @@
+{
+  "id": "goryeo",
+  "uid": "goryeo_001",
+  "name": "高麗",
+  "name_ja": "高麗",
+  "name_en": "GORYEO",
+  "origin": "LEGACY",
+  "era": "MEDIEVAL",
+  "civ": "medieval",
+  "civilization": "MEDIEVAL",
+  "civilization_id": "medieval",
+  "relic": "medieval_relic",
+  "reconstruction": "荒野→城壁→旗→城塞→MEDIEVAL DOMAIN",
+  "seed": false,
+  "class": "LEGACY",
+  "role": "DEFENDER",
+  "role_ui": "Defender",
+  "element": "CELADON",
+  "weapon": "CELADON_SHIELD",
+  "height": 163,
+  "appearance": {
+    "hair": "medieval_hair",
+    "eyes": "goryeo_eyes",
+    "costume": "medieval_legacy"
+  },
+  "stats": {
+    "hp": 1008,
+    "attack": 68,
+    "defense": 71,
+    "speed": 66
+  },
+  "hp": 142,
+  "speed": 7.3,
+  "damage": 13,
+  "skills": [
+    "goryeo_skill1",
+    "goryeo_skill2",
+    "goryeo_skill3"
+  ],
+  "normal_attack": {
+    "id": "goryeo_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "goryeo_skill1",
+    "name_ja": "青磁",
+    "name_en": "青磁"
+  },
+  "skill_2": {
+    "id": "goryeo_skill2",
+    "name_ja": "王京",
+    "name_en": "王京"
+  },
+  "ultimate": {
+    "id": "goryeo_skill3",
+    "name_ja": "半島",
+    "name_en": "半島"
+  },
+  "passive": {
+    "id": "goryeo_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "端にいる味方の防御が上がる"
+  },
+  "civilization_tags": [
+    "medieval",
+    "MEDIEVAL",
+    "MEDIEVAL",
+    "LEGACY",
+    "CELADON"
+  ],
+  "relationships": [],
+  "voice_type": "steadfast",
+  "music_theme": "青磁・半島・王京",
+  "civilization_shift_effect": "荒野→城壁→旗→城塞→MEDIEVAL DOMAIN",
+  "theme": "青磁・半島・王京",
+  "passive_text": "端にいる味方の防御が上がる",
+  "story": "青が残れば、半島は折れない。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "medieval",
+  "land": "medieval",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/medieval/goryeo.png",
+  "colors": {
+    "body": [
+      0.105,
+      0.099,
+      0.154
+    ],
+    "emit": [
+      0.685,
+      0.559,
+      0.334
+    ]
+  }
+}

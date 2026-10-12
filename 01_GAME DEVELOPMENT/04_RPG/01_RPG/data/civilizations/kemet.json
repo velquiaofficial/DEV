@@ -1,0 +1,37 @@
+{
+  "id": "kemet",
+  "code": "KEMET",
+  "civ": "egypt",
+  "launch": true,
+  "name": "ケメト",
+  "name_en": "KEMET",
+  "members": [
+    "isis",
+    "anubis",
+    "ra",
+    "hathor",
+    "thoth",
+    "set",
+    "bastet",
+    "memphis",
+    "alexandria",
+    "thebes",
+    "cairo"
+  ],
+  "features": [
+    "Pyramid",
+    "Nile",
+    "Lotus",
+    "Obelisk",
+    "Temple",
+    "Papyrus",
+    "Star Ceiling"
+  ],
+  "civilization_shift": {
+    "healing": 15,
+    "revive_delay": 10
+  },
+  "shift_text": "砂→ナイル→蓮→神殿→KEMET DOMAIN",
+  "banner": "res://assets/characters/_keyart/kemet.png",
+  "sheet": "res://assets/characters/_sheets/kemet.png"
+}

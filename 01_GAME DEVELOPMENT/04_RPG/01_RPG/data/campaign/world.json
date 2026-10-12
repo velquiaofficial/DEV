@@ -1,0 +1,5946 @@
+{
+  "title": "永結のレリクシア",
+  "note": "各ステージの art に絵を置くと、出撃の背景になる。無ければオープニングの東京を出す。",
+  "chapters": [
+    {
+      "id": "1",
+      "name": "東京",
+      "civ": "TOKYO",
+      "civ_id": "tokyo",
+      "enemy": "ヘラス",
+      "enemy_civ": "HELLAS",
+      "blurb": "色を失った東京に、ヘラスの先遣が降りてくる。まず、この街の記憶を返す。",
+      "stages": [
+        {
+          "code": "1-1",
+          "chapter": "1",
+          "area": "東京",
+          "place": "渋谷・桜の廃駅",
+          "brief": "廃駅のホームに、桜だけが色を残している。",
+          "enemy": "ヘラス",
+          "enemy_civ": "HELLAS",
+          "civ": "TOKYO",
+          "civ_id": "tokyo",
+          "foes": [
+            "athena",
+            "poseidon",
+            "apollo"
+          ],
+          "recommend": 1,
+          "reward": 32,
+          "chapter_end": false,
+          "art": "res://assets/campaign/1_1.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "渋谷・桜の廃駅。廃駅のホームに、桜だけが色を残している。"
+            },
+            {
+              "speaker": "天照",
+              "text": "ここは東京の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "月読",
+              "text": "天照、急がないで。渋谷・桜の廃駅は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "アテナ",
+              "text": "ヘラスの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "天照",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。渋谷・桜の廃駅の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "1-2",
+          "chapter": "1",
+          "area": "東京",
+          "place": "原宿・記憶の通り",
+          "brief": "看板の文字が薄れ、通りは名前を忘れかけている。",
+          "enemy": "ヘラス",
+          "enemy_civ": "HELLAS",
+          "civ": "TOKYO",
+          "civ_id": "tokyo",
+          "foes": [
+            "poseidon",
+            "apollo",
+            "artemis",
+            "minos"
+          ],
+          "recommend": 2,
+          "reward": 34,
+          "chapter_end": false,
+          "art": "res://assets/campaign/1_2.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "原宿・記憶の通り。看板の文字が薄れ、通りは名前を忘れかけている。"
+            },
+            {
+              "speaker": "天照",
+              "text": "ここは東京の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "月読",
+              "text": "天照、急がないで。原宿・記憶の通りは、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "アテナ",
+              "text": "ヘラスの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "天照",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。原宿・記憶の通りの次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "1-3",
+          "chapter": "1",
+          "area": "東京",
+          "place": "新宿・常世の門",
+          "brief": "高層の影が門になり、文明がそこでぶつかる。",
+          "enemy": "ヘラス",
+          "enemy_civ": "HELLAS",
+          "civ": "TOKYO",
+          "civ_id": "tokyo",
+          "foes": [
+            "apollo",
+            "artemis",
+            "minos",
+            "sparta",
+            "athena"
+          ],
+          "recommend": 3,
+          "reward": 36,
+          "chapter_end": false,
+          "art": "res://assets/campaign/1_3.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "新宿・常世の門。高層の影が門になり、文明がそこでぶつかる。"
+            },
+            {
+              "speaker": "天照",
+              "text": "ここは東京の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "月読",
+              "text": "天照、急がないで。新宿・常世の門は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "アテナ",
+              "text": "ヘラスの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "天照",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。新宿・常世の門の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "1-4",
+          "chapter": "1",
+          "area": "東京",
+          "place": "上野・不忍の残照",
+          "brief": "池の水面に、昨日までの街が沈んでいる。",
+          "enemy": "ヘラス",
+          "enemy_civ": "HELLAS",
+          "civ": "TOKYO",
+          "civ_id": "tokyo",
+          "foes": [
+            "artemis",
+            "minos",
+            "sparta",
+            "athena",
+            "poseidon",
+            "apollo"
+          ],
+          "recommend": 4,
+          "reward": 38,
+          "chapter_end": false,
+          "art": "res://assets/campaign/1_4.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "上野・不忍の残照。池の水面に、昨日までの街が沈んでいる。"
+            },
+            {
+              "speaker": "天照",
+              "text": "ここは東京の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "月読",
+              "text": "天照、急がないで。上野・不忍の残照は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "アテナ",
+              "text": "ヘラスの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "天照",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。上野・不忍の残照の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "1-5",
+          "chapter": "1",
+          "area": "東京",
+          "place": "浅草・雷門",
+          "brief": "提灯は消えて、門だけが雷の名を覚えている。",
+          "enemy": "ヘラス",
+          "enemy_civ": "HELLAS",
+          "civ": "TOKYO",
+          "civ_id": "tokyo",
+          "foes": [
+            "minos",
+            "sparta",
+            "athena",
+            "poseidon",
+            "apollo",
+            "artemis"
+          ],
+          "recommend": 5,
+          "reward": 40,
+          "chapter_end": false,
+          "art": "res://assets/campaign/1_5.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "浅草・雷門。提灯は消えて、門だけが雷の名を覚えている。"
+            },
+            {
+              "speaker": "天照",
+              "text": "ここは東京の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "月読",
+              "text": "天照、急がないで。浅草・雷門は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "アテナ",
+              "text": "ヘラスの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "天照",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。浅草・雷門の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "1-6",
+          "chapter": "1",
+          "area": "東京",
+          "place": "東京駅・丸の内",
+          "brief": "煉瓦の層が、開かれた時間を閉じようとする。",
+          "enemy": "ヘラス",
+          "enemy_civ": "HELLAS",
+          "civ": "TOKYO",
+          "civ_id": "tokyo",
+          "foes": [
+            "sparta",
+            "athena",
+            "poseidon",
+            "apollo",
+            "artemis",
+            "minos"
+          ],
+          "recommend": 6,
+          "reward": 42,
+          "chapter_end": false,
+          "art": "res://assets/campaign/1_6.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "東京駅・丸の内。煉瓦の層が、開かれた時間を閉じようとする。"
+            },
+            {
+              "speaker": "天照",
+              "text": "ここは東京の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "月読",
+              "text": "天照、急がないで。東京駅・丸の内は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "アテナ",
+              "text": "ヘラスの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "天照",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。東京駅・丸の内の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "1-7",
+          "chapter": "1",
+          "area": "東京",
+          "place": "皇居・残された杜",
+          "brief": "杜の奥で、六つの名が揃うのを待っている。",
+          "enemy": "ヘラス",
+          "enemy_civ": "HELLAS",
+          "civ": "TOKYO",
+          "civ_id": "tokyo",
+          "foes": [
+            "athena",
+            "poseidon",
+            "apollo",
+            "artemis",
+            "minos",
+            "sparta"
+          ],
+          "recommend": 7,
+          "reward": 44,
+          "chapter_end": false,
+          "art": "res://assets/campaign/1_7.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "皇居・残された杜。杜の奥で、六つの名が揃うのを待っている。"
+            },
+            {
+              "speaker": "天照",
+              "text": "ここは東京の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "月読",
+              "text": "天照、急がないで。皇居・残された杜は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "アテナ",
+              "text": "ヘラスの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "天照",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。皇居・残された杜の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "1-8",
+          "chapter": "1",
+          "area": "東京",
+          "place": "お台場・沈んだ岸",
+          "brief": "沈んだ岸から、海の向こうの足が上がってくる。",
+          "enemy": "ヘラス",
+          "enemy_civ": "HELLAS",
+          "civ": "TOKYO",
+          "civ_id": "tokyo",
+          "foes": [
+            "poseidon",
+            "apollo",
+            "artemis",
+            "minos",
+            "sparta",
+            "athena"
+          ],
+          "recommend": 8,
+          "reward": 46,
+          "chapter_end": false,
+          "art": "res://assets/campaign/1_8.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "お台場・沈んだ岸。沈んだ岸から、海の向こうの足が上がってくる。"
+            },
+            {
+              "speaker": "天照",
+              "text": "ここは東京の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "月読",
+              "text": "天照、急がないで。お台場・沈んだ岸は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "アテナ",
+              "text": "ヘラスの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "天照",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。お台場・沈んだ岸の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "1-9",
+          "chapter": "1",
+          "area": "東京",
+          "place": "横浜・開港の層",
+          "brief": "開港の記憶が、戦場の地図に変わる。",
+          "enemy": "ヘラス",
+          "enemy_civ": "HELLAS",
+          "civ": "TOKYO",
+          "civ_id": "tokyo",
+          "foes": [
+            "apollo",
+            "artemis",
+            "minos",
+            "sparta",
+            "athena",
+            "poseidon"
+          ],
+          "recommend": 9,
+          "reward": 48,
+          "chapter_end": false,
+          "art": "res://assets/campaign/1_9.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "横浜・開港の層。開港の記憶が、戦場の地図に変わる。"
+            },
+            {
+              "speaker": "天照",
+              "text": "ここは東京の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "月読",
+              "text": "天照、急がないで。横浜・開港の層は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "アテナ",
+              "text": "ヘラスの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "天照",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。横浜・開港の層の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "1-10",
+          "chapter": "1",
+          "area": "東京",
+          "place": "東京・記憶核",
+          "brief": "この街の核を、渡してはならない。",
+          "enemy": "ヘラス",
+          "enemy_civ": "HELLAS",
+          "civ": "TOKYO",
+          "civ_id": "tokyo",
+          "foes": [
+            "artemis",
+            "minos",
+            "sparta",
+            "athena",
+            "poseidon",
+            "apollo"
+          ],
+          "recommend": 10,
+          "reward": 50,
+          "chapter_end": true,
+          "art": "res://assets/campaign/1_10.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "東京・記憶核。この街の核を、渡してはならない。"
+            },
+            {
+              "speaker": "天照",
+              "text": "ここは東京の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "月読",
+              "text": "天照、急がないで。東京・記憶核は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "アテナ",
+              "text": "ヘラスの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "天照",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "東京の核は、ここにある。ヘラスには渡さない。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "ヤマト",
+      "civ": "YAMATO",
+      "civ_id": "yamato",
+      "enemy": "ケメト",
+      "enemy_civ": "KEMET",
+      "blurb": "神社と神域が、砂漠の秤に覆われる。八咫鏡の熱を、社へ戻す。",
+      "stages": [
+        {
+          "code": "2-1",
+          "chapter": "2",
+          "area": "ヤマト",
+          "place": "伊勢・五十鈴の残照",
+          "brief": "川の音だけが、神の名をまだ運んでいる。",
+          "enemy": "ケメト",
+          "enemy_civ": "KEMET",
+          "civ": "YAMATO",
+          "civ_id": "yamato",
+          "foes": [
+            "isis",
+            "anubis",
+            "ra"
+          ],
+          "recommend": 7,
+          "reward": 38,
+          "chapter_end": false,
+          "art": "res://assets/campaign/2_1.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "伊勢・五十鈴の残照。川の音だけが、神の名をまだ運んでいる。"
+            },
+            {
+              "speaker": "天照",
+              "text": "ここはヤマトの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "須佐之男",
+              "text": "天照、急がないで。伊勢・五十鈴の残照は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "アヌビス",
+              "text": "ケメトの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "天照",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。伊勢・五十鈴の残照の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "2-2",
+          "chapter": "2",
+          "area": "ヤマト",
+          "place": "出雲・黄泉の坂",
+          "brief": "坂の下から、還らない名が呼ばれる。",
+          "enemy": "ケメト",
+          "enemy_civ": "KEMET",
+          "civ": "YAMATO",
+          "civ_id": "yamato",
+          "foes": [
+            "anubis",
+            "ra",
+            "hathor",
+            "thoth"
+          ],
+          "recommend": 8,
+          "reward": 40,
+          "chapter_end": false,
+          "art": "res://assets/campaign/2_2.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "出雲・黄泉の坂。坂の下から、還らない名が呼ばれる。"
+            },
+            {
+              "speaker": "天照",
+              "text": "ここはヤマトの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "須佐之男",
+              "text": "天照、急がないで。出雲・黄泉の坂は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "アヌビス",
+              "text": "ケメトの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "天照",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。出雲・黄泉の坂の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "2-3",
+          "chapter": "2",
+          "area": "ヤマト",
+          "place": "高千穂・天岩戸",
+          "brief": "岩戸の隙間に、細い光が残っている。",
+          "enemy": "ケメト",
+          "enemy_civ": "KEMET",
+          "civ": "YAMATO",
+          "civ_id": "yamato",
+          "foes": [
+            "ra",
+            "hathor",
+            "thoth",
+            "set",
+            "bastet"
+          ],
+          "recommend": 9,
+          "reward": 42,
+          "chapter_end": false,
+          "art": "res://assets/campaign/2_3.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "高千穂・天岩戸。岩戸の隙間に、細い光が残っている。"
+            },
+            {
+              "speaker": "天照",
+              "text": "ここはヤマトの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "須佐之男",
+              "text": "天照、急がないで。高千穂・天岩戸は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "アヌビス",
+              "text": "ケメトの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "天照",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。高千穂・天岩戸の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "2-4",
+          "chapter": "2",
+          "area": "ヤマト",
+          "place": "熊野・那智の滝",
+          "brief": "滝は落ち続け、祈りの言葉だけが欠ける。",
+          "enemy": "ケメト",
+          "enemy_civ": "KEMET",
+          "civ": "YAMATO",
+          "civ_id": "yamato",
+          "foes": [
+            "hathor",
+            "thoth",
+            "set",
+            "bastet",
+            "memphis",
+            "alexandria"
+          ],
+          "recommend": 10,
+          "reward": 44,
+          "chapter_end": false,
+          "art": "res://assets/campaign/2_4.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "熊野・那智の滝。滝は落ち続け、祈りの言葉だけが欠ける。"
+            },
+            {
+              "speaker": "天照",
+              "text": "ここはヤマトの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "須佐之男",
+              "text": "天照、急がないで。熊野・那智の滝は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "アヌビス",
+              "text": "ケメトの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "天照",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。熊野・那智の滝の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "2-5",
+          "chapter": "2",
+          "area": "ヤマト",
+          "place": "吉野・桜の奥",
+          "brief": "花は咲いているのに、見る人がいない。",
+          "enemy": "ケメト",
+          "enemy_civ": "KEMET",
+          "civ": "YAMATO",
+          "civ_id": "yamato",
+          "foes": [
+            "thoth",
+            "set",
+            "bastet",
+            "memphis",
+            "alexandria",
+            "thebes"
+          ],
+          "recommend": 11,
+          "reward": 46,
+          "chapter_end": false,
+          "art": "res://assets/campaign/2_5.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "吉野・桜の奥。花は咲いているのに、見る人がいない。"
+            },
+            {
+              "speaker": "天照",
+              "text": "ここはヤマトの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "須佐之男",
+              "text": "天照、急がないで。吉野・桜の奥は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "アヌビス",
+              "text": "ケメトの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "天照",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。吉野・桜の奥の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "2-6",
+          "chapter": "2",
+          "area": "ヤマト",
+          "place": "厳島・潮の回廊",
+          "brief": "潮が引くたび、回廊の柱が記憶を数える。",
+          "enemy": "ケメト",
+          "enemy_civ": "KEMET",
+          "civ": "YAMATO",
+          "civ_id": "yamato",
+          "foes": [
+            "set",
+            "bastet",
+            "memphis",
+            "alexandria",
+            "thebes",
+            "cairo"
+          ],
+          "recommend": 12,
+          "reward": 48,
+          "chapter_end": false,
+          "art": "res://assets/campaign/2_6.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "厳島・潮の回廊。潮が引くたび、回廊の柱が記憶を数える。"
+            },
+            {
+              "speaker": "天照",
+              "text": "ここはヤマトの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "須佐之男",
+              "text": "天照、急がないで。厳島・潮の回廊は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "アヌビス",
+              "text": "ケメトの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "天照",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。厳島・潮の回廊の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "2-7",
+          "chapter": "2",
+          "area": "ヤマト",
+          "place": "奈良・鹿の社",
+          "brief": "社の前で、異国の秤が光る。",
+          "enemy": "ケメト",
+          "enemy_civ": "KEMET",
+          "civ": "YAMATO",
+          "civ_id": "yamato",
+          "foes": [
+            "bastet",
+            "memphis",
+            "alexandria",
+            "thebes",
+            "cairo",
+            "isis"
+          ],
+          "recommend": 13,
+          "reward": 50,
+          "chapter_end": false,
+          "art": "res://assets/campaign/2_7.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "奈良・鹿の社。社の前で、異国の秤が光る。"
+            },
+            {
+              "speaker": "天照",
+              "text": "ここはヤマトの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "須佐之男",
+              "text": "天照、急がないで。奈良・鹿の社は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "アヌビス",
+              "text": "ケメトの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "天照",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。奈良・鹿の社の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "2-8",
+          "chapter": "2",
+          "area": "ヤマト",
+          "place": "京都・千年の門",
+          "brief": "門をくぐると、千年が一日に畳まれる。",
+          "enemy": "ケメト",
+          "enemy_civ": "KEMET",
+          "civ": "YAMATO",
+          "civ_id": "yamato",
+          "foes": [
+            "memphis",
+            "alexandria",
+            "thebes",
+            "cairo",
+            "isis",
+            "anubis"
+          ],
+          "recommend": 14,
+          "reward": 52,
+          "chapter_end": false,
+          "art": "res://assets/campaign/2_8.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "京都・千年の門。門をくぐると、千年が一日に畳まれる。"
+            },
+            {
+              "speaker": "天照",
+              "text": "ここはヤマトの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "須佐之男",
+              "text": "天照、急がないで。京都・千年の門は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "アヌビス",
+              "text": "ケメトの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "天照",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。京都・千年の門の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "2-9",
+          "chapter": "2",
+          "area": "ヤマト",
+          "place": "富士・火の裾",
+          "brief": "裾野の灰に、太陽の紋が埋もれている。",
+          "enemy": "ケメト",
+          "enemy_civ": "KEMET",
+          "civ": "YAMATO",
+          "civ_id": "yamato",
+          "foes": [
+            "alexandria",
+            "thebes",
+            "cairo",
+            "isis",
+            "anubis",
+            "ra"
+          ],
+          "recommend": 15,
+          "reward": 54,
+          "chapter_end": false,
+          "art": "res://assets/campaign/2_9.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "富士・火の裾。裾野の灰に、太陽の紋が埋もれている。"
+            },
+            {
+              "speaker": "天照",
+              "text": "ここはヤマトの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "須佐之男",
+              "text": "天照、急がないで。富士・火の裾は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "アヌビス",
+              "text": "ケメトの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "天照",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。富士・火の裾の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "2-10",
+          "chapter": "2",
+          "area": "ヤマト",
+          "place": "ヤマト・記憶核",
+          "brief": "鏡が熱を返すなら、この国はまだ終わっていない。",
+          "enemy": "ケメト",
+          "enemy_civ": "KEMET",
+          "civ": "YAMATO",
+          "civ_id": "yamato",
+          "foes": [
+            "thebes",
+            "cairo",
+            "isis",
+            "anubis",
+            "ra",
+            "hathor"
+          ],
+          "recommend": 16,
+          "reward": 56,
+          "chapter_end": true,
+          "art": "res://assets/campaign/2_10.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "ヤマト・記憶核。鏡が熱を返すなら、この国はまだ終わっていない。"
+            },
+            {
+              "speaker": "天照",
+              "text": "ここはヤマトの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "須佐之男",
+              "text": "天照、急がないで。ヤマト・記憶核は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "アヌビス",
+              "text": "ケメトの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "天照",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "ヤマトの核は、ここにある。ケメトには渡さない。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "ヘラス",
+      "civ": "HELLAS",
+      "civ_id": "hellas",
+      "enemy": "ローマ",
+      "enemy_civ": "ROME",
+      "blurb": "神殿の列柱を、帝国の壁が埋めようとする。知恵と盾を、広場に返す。",
+      "stages": [
+        {
+          "code": "3-1",
+          "chapter": "3",
+          "area": "ヘラス",
+          "place": "アテナイ・パルテノン",
+          "brief": "柱の影が、問いの形をしている。",
+          "enemy": "ローマ",
+          "enemy_civ": "ROME",
+          "civ": "HELLAS",
+          "civ_id": "hellas",
+          "foes": [
+            "roma",
+            "venice",
+            "carthage"
+          ],
+          "recommend": 13,
+          "reward": 44,
+          "chapter_end": false,
+          "art": "res://assets/campaign/3_1.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "アテナイ・パルテノン。柱の影が、問いの形をしている。"
+            },
+            {
+              "speaker": "アテナ",
+              "text": "ここはヘラスの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "月読",
+              "text": "アテナ、急がないで。アテナイ・パルテノンは、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "ローマ",
+              "text": "ローマの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "アテナ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。アテナイ・パルテノンの次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "3-2",
+          "chapter": "3",
+          "area": "ヘラス",
+          "place": "デルフォイ・神託",
+          "brief": "神託の煙は残るが、答えの言葉が欠けている。",
+          "enemy": "ローマ",
+          "enemy_civ": "ROME",
+          "civ": "HELLAS",
+          "civ_id": "hellas",
+          "foes": [
+            "venice",
+            "carthage",
+            "byzantium",
+            "ottoman"
+          ],
+          "recommend": 14,
+          "reward": 46,
+          "chapter_end": false,
+          "art": "res://assets/campaign/3_2.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "デルフォイ・神託。神託の煙は残るが、答えの言葉が欠けている。"
+            },
+            {
+              "speaker": "アテナ",
+              "text": "ここはヘラスの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "月読",
+              "text": "アテナ、急がないで。デルフォイ・神託は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "ローマ",
+              "text": "ローマの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "アテナ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。デルフォイ・神託の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "3-3",
+          "chapter": "3",
+          "area": "ヘラス",
+          "place": "オリンポス・雲の縁",
+          "brief": "雲の縁で、神々の席が空いている。",
+          "enemy": "ローマ",
+          "enemy_civ": "ROME",
+          "civ": "HELLAS",
+          "civ_id": "hellas",
+          "foes": [
+            "carthage",
+            "byzantium",
+            "ottoman",
+            "istanbul",
+            "roma"
+          ],
+          "recommend": 15,
+          "reward": 48,
+          "chapter_end": false,
+          "art": "res://assets/campaign/3_3.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "オリンポス・雲の縁。雲の縁で、神々の席が空いている。"
+            },
+            {
+              "speaker": "アテナ",
+              "text": "ここはヘラスの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "月読",
+              "text": "アテナ、急がないで。オリンポス・雲の縁は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "ローマ",
+              "text": "ローマの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "アテナ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。オリンポス・雲の縁の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "3-4",
+          "chapter": "3",
+          "area": "ヘラス",
+          "place": "スパルタ・兵舎",
+          "brief": "盾は並んでいる。持つ腕の記憶がない。",
+          "enemy": "ローマ",
+          "enemy_civ": "ROME",
+          "civ": "HELLAS",
+          "civ_id": "hellas",
+          "foes": [
+            "byzantium",
+            "ottoman",
+            "istanbul",
+            "roma",
+            "venice",
+            "carthage"
+          ],
+          "recommend": 16,
+          "reward": 50,
+          "chapter_end": false,
+          "art": "res://assets/campaign/3_4.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "スパルタ・兵舎。盾は並んでいる。持つ腕の記憶がない。"
+            },
+            {
+              "speaker": "アテナ",
+              "text": "ここはヘラスの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "月読",
+              "text": "アテナ、急がないで。スパルタ・兵舎は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "ローマ",
+              "text": "ローマの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "アテナ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。スパルタ・兵舎の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "3-5",
+          "chapter": "3",
+          "area": "ヘラス",
+          "place": "クレタ・迷宮",
+          "brief": "迷宮の奥で、法の名が反響する。",
+          "enemy": "ローマ",
+          "enemy_civ": "ROME",
+          "civ": "HELLAS",
+          "civ_id": "hellas",
+          "foes": [
+            "ottoman",
+            "istanbul",
+            "roma",
+            "venice",
+            "carthage",
+            "byzantium"
+          ],
+          "recommend": 17,
+          "reward": 52,
+          "chapter_end": false,
+          "art": "res://assets/campaign/3_5.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "クレタ・迷宮。迷宮の奥で、法の名が反響する。"
+            },
+            {
+              "speaker": "アテナ",
+              "text": "ここはヘラスの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "月読",
+              "text": "アテナ、急がないで。クレタ・迷宮は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "ローマ",
+              "text": "ローマの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "アテナ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。クレタ・迷宮の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "3-6",
+          "chapter": "3",
+          "area": "ヘラス",
+          "place": "エーゲ・沈んだ港",
+          "brief": "港の石段が、海の下でも続いている。",
+          "enemy": "ローマ",
+          "enemy_civ": "ROME",
+          "civ": "HELLAS",
+          "civ_id": "hellas",
+          "foes": [
+            "istanbul",
+            "roma",
+            "venice",
+            "carthage",
+            "byzantium",
+            "ottoman"
+          ],
+          "recommend": 18,
+          "reward": 54,
+          "chapter_end": false,
+          "art": "res://assets/campaign/3_6.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "エーゲ・沈んだ港。港の石段が、海の下でも続いている。"
+            },
+            {
+              "speaker": "アテナ",
+              "text": "ここはヘラスの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "月読",
+              "text": "アテナ、急がないで。エーゲ・沈んだ港は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "ローマ",
+              "text": "ローマの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "アテナ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。エーゲ・沈んだ港の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "3-7",
+          "chapter": "3",
+          "area": "ヘラス",
+          "place": "オリンピア・競技の砂",
+          "brief": "砂の上に、勝敗だけが残っている。",
+          "enemy": "ローマ",
+          "enemy_civ": "ROME",
+          "civ": "HELLAS",
+          "civ_id": "hellas",
+          "foes": [
+            "roma",
+            "venice",
+            "carthage",
+            "byzantium",
+            "ottoman",
+            "istanbul"
+          ],
+          "recommend": 19,
+          "reward": 56,
+          "chapter_end": false,
+          "art": "res://assets/campaign/3_7.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "オリンピア・競技の砂。砂の上に、勝敗だけが残っている。"
+            },
+            {
+              "speaker": "アテナ",
+              "text": "ここはヘラスの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "月読",
+              "text": "アテナ、急がないで。オリンピア・競技の砂は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "ローマ",
+              "text": "ローマの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "アテナ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。オリンピア・競技の砂の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "3-8",
+          "chapter": "3",
+          "area": "ヘラス",
+          "place": "トロイア・残壁",
+          "brief": "壁の外側で、別の帝国が陣を敷く。",
+          "enemy": "ローマ",
+          "enemy_civ": "ROME",
+          "civ": "HELLAS",
+          "civ_id": "hellas",
+          "foes": [
+            "venice",
+            "carthage",
+            "byzantium",
+            "ottoman",
+            "istanbul",
+            "roma"
+          ],
+          "recommend": 20,
+          "reward": 58,
+          "chapter_end": false,
+          "art": "res://assets/campaign/3_8.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "トロイア・残壁。壁の外側で、別の帝国が陣を敷く。"
+            },
+            {
+              "speaker": "アテナ",
+              "text": "ここはヘラスの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "月読",
+              "text": "アテナ、急がないで。トロイア・残壁は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "ローマ",
+              "text": "ローマの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "アテナ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。トロイア・残壁の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "3-9",
+          "chapter": "3",
+          "area": "ヘラス",
+          "place": "コリントス・地峡",
+          "brief": "二つの海のあいだで、道が一本に絞られる。",
+          "enemy": "ローマ",
+          "enemy_civ": "ROME",
+          "civ": "HELLAS",
+          "civ_id": "hellas",
+          "foes": [
+            "carthage",
+            "byzantium",
+            "ottoman",
+            "istanbul",
+            "roma",
+            "venice"
+          ],
+          "recommend": 21,
+          "reward": 60,
+          "chapter_end": false,
+          "art": "res://assets/campaign/3_9.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "コリントス・地峡。二つの海のあいだで、道が一本に絞られる。"
+            },
+            {
+              "speaker": "アテナ",
+              "text": "ここはヘラスの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "月読",
+              "text": "アテナ、急がないで。コリントス・地峡は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "ローマ",
+              "text": "ローマの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "アテナ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。コリントス・地峡の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "3-10",
+          "chapter": "3",
+          "area": "ヘラス",
+          "place": "ヘラス・記憶核",
+          "brief": "知恵の核を、城壁の中へ閉じ込めてはならない。",
+          "enemy": "ローマ",
+          "enemy_civ": "ROME",
+          "civ": "HELLAS",
+          "civ_id": "hellas",
+          "foes": [
+            "byzantium",
+            "ottoman",
+            "istanbul",
+            "roma",
+            "venice",
+            "carthage"
+          ],
+          "recommend": 22,
+          "reward": 62,
+          "chapter_end": true,
+          "art": "res://assets/campaign/3_10.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "ヘラス・記憶核。知恵の核を、城壁の中へ閉じ込めてはならない。"
+            },
+            {
+              "speaker": "アテナ",
+              "text": "ここはヘラスの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "月読",
+              "text": "アテナ、急がないで。ヘラス・記憶核は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "ローマ",
+              "text": "ローマの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "アテナ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "ヘラスの核は、ここにある。ローマには渡さない。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "ケメト",
+      "civ": "KEMET",
+      "civ_id": "kemet",
+      "enemy": "華夏",
+      "enemy_civ": "HUAXIA",
+      "blurb": "ナイルの層に、絹と都の名が重なる。秤と太陽を、墓廟から返す。",
+      "stages": [
+        {
+          "code": "4-1",
+          "chapter": "4",
+          "area": "ケメト",
+          "place": "メンフィス・白い壁",
+          "brief": "白い壁が、砂の色に沈みかけている。",
+          "enemy": "華夏",
+          "enemy_civ": "HUAXIA",
+          "civ": "KEMET",
+          "civ_id": "kemet",
+          "foes": [
+            "xishi",
+            "nuwa",
+            "luoshen"
+          ],
+          "recommend": 19,
+          "reward": 50,
+          "chapter_end": false,
+          "art": "res://assets/campaign/4_1.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "メンフィス・白い壁。白い壁が、砂の色に沈みかけている。"
+            },
+            {
+              "speaker": "アヌビス",
+              "text": "ここはケメトの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "イシス",
+              "text": "アヌビス、急がないで。メンフィス・白い壁は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "西施",
+              "text": "華夏の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "アヌビス",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。メンフィス・白い壁の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "4-2",
+          "chapter": "4",
+          "area": "ケメト",
+          "place": "ギザ・秤の影",
+          "brief": "大きな影が、昼の長さを測っている。",
+          "enemy": "華夏",
+          "enemy_civ": "HUAXIA",
+          "civ": "KEMET",
+          "civ_id": "kemet",
+          "foes": [
+            "nuwa",
+            "luoshen",
+            "changan",
+            "luoyang"
+          ],
+          "recommend": 20,
+          "reward": 52,
+          "chapter_end": false,
+          "art": "res://assets/campaign/4_2.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "ギザ・秤の影。大きな影が、昼の長さを測っている。"
+            },
+            {
+              "speaker": "アヌビス",
+              "text": "ここはケメトの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "イシス",
+              "text": "アヌビス、急がないで。ギザ・秤の影は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "西施",
+              "text": "華夏の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "アヌビス",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。ギザ・秤の影の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "4-3",
+          "chapter": "4",
+          "area": "ケメト",
+          "place": "ルクソール・柱廊",
+          "brief": "柱廊の奥で、川の神が黙っている。",
+          "enemy": "華夏",
+          "enemy_civ": "HUAXIA",
+          "civ": "KEMET",
+          "civ_id": "kemet",
+          "foes": [
+            "luoshen",
+            "changan",
+            "luoyang",
+            "tang",
+            "hangzhou"
+          ],
+          "recommend": 21,
+          "reward": 54,
+          "chapter_end": false,
+          "art": "res://assets/campaign/4_3.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "ルクソール・柱廊。柱廊の奥で、川の神が黙っている。"
+            },
+            {
+              "speaker": "アヌビス",
+              "text": "ここはケメトの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "イシス",
+              "text": "アヌビス、急がないで。ルクソール・柱廊は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "西施",
+              "text": "華夏の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "アヌビス",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。ルクソール・柱廊の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "4-4",
+          "chapter": "4",
+          "area": "ケメト",
+          "place": "テーベ・西岸",
+          "brief": "西岸は死者の地図で、道標が消えている。",
+          "enemy": "華夏",
+          "enemy_civ": "HUAXIA",
+          "civ": "KEMET",
+          "civ_id": "kemet",
+          "foes": [
+            "changan",
+            "luoyang",
+            "tang",
+            "hangzhou",
+            "beijing",
+            "shanghai"
+          ],
+          "recommend": 22,
+          "reward": 56,
+          "chapter_end": false,
+          "art": "res://assets/campaign/4_4.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "テーベ・西岸。西岸は死者の地図で、道標が消えている。"
+            },
+            {
+              "speaker": "アヌビス",
+              "text": "ここはケメトの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "イシス",
+              "text": "アヌビス、急がないで。テーベ・西岸は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "西施",
+              "text": "華夏の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "アヌビス",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。テーベ・西岸の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "4-5",
+          "chapter": "4",
+          "area": "ケメト",
+          "place": "ナイル・増水の段",
+          "brief": "増水の段差に、去年の目盛りがない。",
+          "enemy": "華夏",
+          "enemy_civ": "HUAXIA",
+          "civ": "KEMET",
+          "civ_id": "kemet",
+          "foes": [
+            "luoyang",
+            "tang",
+            "hangzhou",
+            "beijing",
+            "shanghai",
+            "hongkong"
+          ],
+          "recommend": 23,
+          "reward": 58,
+          "chapter_end": false,
+          "art": "res://assets/campaign/4_5.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "ナイル・増水の段。増水の段差に、去年の目盛りがない。"
+            },
+            {
+              "speaker": "アヌビス",
+              "text": "ここはケメトの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "イシス",
+              "text": "アヌビス、急がないで。ナイル・増水の段は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "西施",
+              "text": "華夏の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "アヌビス",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。ナイル・増水の段の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "4-6",
+          "chapter": "4",
+          "area": "ケメト",
+          "place": "アレクサンドリア・書庫",
+          "brief": "書庫の棚は残る。綴じられた中身がない。",
+          "enemy": "華夏",
+          "enemy_civ": "HUAXIA",
+          "civ": "KEMET",
+          "civ_id": "kemet",
+          "foes": [
+            "tang",
+            "hangzhou",
+            "beijing",
+            "shanghai",
+            "hongkong",
+            "xishi"
+          ],
+          "recommend": 24,
+          "reward": 60,
+          "chapter_end": false,
+          "art": "res://assets/campaign/4_6.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "アレクサンドリア・書庫。書庫の棚は残る。綴じられた中身がない。"
+            },
+            {
+              "speaker": "アヌビス",
+              "text": "ここはケメトの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "イシス",
+              "text": "アヌビス、急がないで。アレクサンドリア・書庫は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "西施",
+              "text": "華夏の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "アヌビス",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。アレクサンドリア・書庫の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "4-7",
+          "chapter": "4",
+          "area": "ケメト",
+          "place": "シワ・砂の神託",
+          "brief": "砂が神託を埋め、風だけが読む。",
+          "enemy": "華夏",
+          "enemy_civ": "HUAXIA",
+          "civ": "KEMET",
+          "civ_id": "kemet",
+          "foes": [
+            "hangzhou",
+            "beijing",
+            "shanghai",
+            "hongkong",
+            "xishi",
+            "nuwa"
+          ],
+          "recommend": 25,
+          "reward": 62,
+          "chapter_end": false,
+          "art": "res://assets/campaign/4_7.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "シワ・砂の神託。砂が神託を埋め、風だけが読む。"
+            },
+            {
+              "speaker": "アヌビス",
+              "text": "ここはケメトの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "イシス",
+              "text": "アヌビス、急がないで。シワ・砂の神託は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "西施",
+              "text": "華夏の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "アヌビス",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。シワ・砂の神託の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "4-8",
+          "chapter": "4",
+          "area": "ケメト",
+          "place": "アスワン・石の門",
+          "brief": "石門の向こうで、別の都の旗が見える。",
+          "enemy": "華夏",
+          "enemy_civ": "HUAXIA",
+          "civ": "KEMET",
+          "civ_id": "kemet",
+          "foes": [
+            "beijing",
+            "shanghai",
+            "hongkong",
+            "xishi",
+            "nuwa",
+            "luoshen"
+          ],
+          "recommend": 26,
+          "reward": 64,
+          "chapter_end": false,
+          "art": "res://assets/campaign/4_8.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "アスワン・石の門。石門の向こうで、別の都の旗が見える。"
+            },
+            {
+              "speaker": "アヌビス",
+              "text": "ここはケメトの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "イシス",
+              "text": "アヌビス、急がないで。アスワン・石の門は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "西施",
+              "text": "華夏の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "アヌビス",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。アスワン・石の門の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "4-9",
+          "chapter": "4",
+          "area": "ケメト",
+          "place": "カイロ・層の街",
+          "brief": "街は層になり、どの世紀が上か分からない。",
+          "enemy": "華夏",
+          "enemy_civ": "HUAXIA",
+          "civ": "KEMET",
+          "civ_id": "kemet",
+          "foes": [
+            "shanghai",
+            "hongkong",
+            "xishi",
+            "nuwa",
+            "luoshen",
+            "changan"
+          ],
+          "recommend": 27,
+          "reward": 66,
+          "chapter_end": false,
+          "art": "res://assets/campaign/4_9.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "カイロ・層の街。街は層になり、どの世紀が上か分からない。"
+            },
+            {
+              "speaker": "アヌビス",
+              "text": "ここはケメトの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "イシス",
+              "text": "アヌビス、急がないで。カイロ・層の街は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "西施",
+              "text": "華夏の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "アヌビス",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。カイロ・層の街の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "4-10",
+          "chapter": "4",
+          "area": "ケメト",
+          "place": "ケメト・記憶核",
+          "brief": "太陽の核を、絹の帳で覆わせない。",
+          "enemy": "華夏",
+          "enemy_civ": "HUAXIA",
+          "civ": "KEMET",
+          "civ_id": "kemet",
+          "foes": [
+            "hongkong",
+            "xishi",
+            "nuwa",
+            "luoshen",
+            "changan",
+            "luoyang"
+          ],
+          "recommend": 28,
+          "reward": 68,
+          "chapter_end": true,
+          "art": "res://assets/campaign/4_10.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "ケメト・記憶核。太陽の核を、絹の帳で覆わせない。"
+            },
+            {
+              "speaker": "アヌビス",
+              "text": "ここはケメトの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "イシス",
+              "text": "アヌビス、急がないで。ケメト・記憶核は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "西施",
+              "text": "華夏の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "アヌビス",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "ケメトの核は、ここにある。華夏には渡さない。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "ローマ",
+      "civ": "ROME",
+      "civ_id": "rome",
+      "enemy": "ノース",
+      "enemy_civ": "NORSE",
+      "blurb": "街道と城壁が、冬の船に割られる。法と門を、石の上に戻す。",
+      "stages": [
+        {
+          "code": "5-1",
+          "chapter": "5",
+          "area": "ローマ",
+          "place": "ローマ・フォロ",
+          "brief": "広場の演壇に、声だけが残っていない。",
+          "enemy": "ノース",
+          "enemy_civ": "NORSE",
+          "civ": "ROME",
+          "civ_id": "rome",
+          "foes": [
+            "freya",
+            "odin",
+            "thor"
+          ],
+          "recommend": 25,
+          "reward": 56,
+          "chapter_end": false,
+          "art": "res://assets/campaign/5_1.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "ローマ・フォロ。広場の演壇に、声だけが残っていない。"
+            },
+            {
+              "speaker": "ローマ",
+              "text": "ここはローマの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "ヴェネツィア",
+              "text": "ローマ、急がないで。ローマ・フォロは、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "フレイヤ",
+              "text": "ノースの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "ローマ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。ローマ・フォロの次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "5-2",
+          "chapter": "5",
+          "area": "ローマ",
+          "place": "オスティア・港湾",
+          "brief": "港の倉庫が、潮の名を忘れている。",
+          "enemy": "ノース",
+          "enemy_civ": "NORSE",
+          "civ": "ROME",
+          "civ_id": "rome",
+          "foes": [
+            "odin",
+            "thor",
+            "hel",
+            "loki"
+          ],
+          "recommend": 26,
+          "reward": 58,
+          "chapter_end": false,
+          "art": "res://assets/campaign/5_2.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "オスティア・港湾。港の倉庫が、潮の名を忘れている。"
+            },
+            {
+              "speaker": "ローマ",
+              "text": "ここはローマの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "ヴェネツィア",
+              "text": "ローマ、急がないで。オスティア・港湾は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "フレイヤ",
+              "text": "ノースの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "ローマ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。オスティア・港湾の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "5-3",
+          "chapter": "5",
+          "area": "ローマ",
+          "place": "ポンペイ・灰の路",
+          "brief": "灰の下で、日常が止まったままだ。",
+          "enemy": "ノース",
+          "enemy_civ": "NORSE",
+          "civ": "ROME",
+          "civ_id": "rome",
+          "foes": [
+            "thor",
+            "hel",
+            "loki",
+            "frigg",
+            "valkyrie"
+          ],
+          "recommend": 27,
+          "reward": 60,
+          "chapter_end": false,
+          "art": "res://assets/campaign/5_3.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "ポンペイ・灰の路。灰の下で、日常が止まったままだ。"
+            },
+            {
+              "speaker": "ローマ",
+              "text": "ここはローマの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "ヴェネツィア",
+              "text": "ローマ、急がないで。ポンペイ・灰の路は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "フレイヤ",
+              "text": "ノースの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "ローマ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。ポンペイ・灰の路の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "5-4",
+          "chapter": "5",
+          "area": "ローマ",
+          "place": "ヴェネツィア・潟",
+          "brief": "潟の杭が、帝国の端を支えている。",
+          "enemy": "ノース",
+          "enemy_civ": "NORSE",
+          "civ": "ROME",
+          "civ_id": "rome",
+          "foes": [
+            "hel",
+            "loki",
+            "frigg",
+            "valkyrie",
+            "asgard",
+            "uppsala"
+          ],
+          "recommend": 28,
+          "reward": 62,
+          "chapter_end": false,
+          "art": "res://assets/campaign/5_4.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "ヴェネツィア・潟。潟の杭が、帝国の端を支えている。"
+            },
+            {
+              "speaker": "ローマ",
+              "text": "ここはローマの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "ヴェネツィア",
+              "text": "ローマ、急がないで。ヴェネツィア・潟は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "フレイヤ",
+              "text": "ノースの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "ローマ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。ヴェネツィア・潟の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "5-5",
+          "chapter": "5",
+          "area": "ローマ",
+          "place": "ラヴェンナ・モザイク",
+          "brief": "モザイクの目が、別の空を見ている。",
+          "enemy": "ノース",
+          "enemy_civ": "NORSE",
+          "civ": "ROME",
+          "civ_id": "rome",
+          "foes": [
+            "loki",
+            "frigg",
+            "valkyrie",
+            "asgard",
+            "uppsala",
+            "vinland"
+          ],
+          "recommend": 29,
+          "reward": 64,
+          "chapter_end": false,
+          "art": "res://assets/campaign/5_5.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "ラヴェンナ・モザイク。モザイクの目が、別の空を見ている。"
+            },
+            {
+              "speaker": "ローマ",
+              "text": "ここはローマの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "ヴェネツィア",
+              "text": "ローマ、急がないで。ラヴェンナ・モザイクは、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "フレイヤ",
+              "text": "ノースの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "ローマ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。ラヴェンナ・モザイクの次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "5-6",
+          "chapter": "5",
+          "area": "ローマ",
+          "place": "ビザンツ・城壁",
+          "brief": "三重の壁が、なお内側の名を守れずにいる。",
+          "enemy": "ノース",
+          "enemy_civ": "NORSE",
+          "civ": "ROME",
+          "civ_id": "rome",
+          "foes": [
+            "frigg",
+            "valkyrie",
+            "asgard",
+            "uppsala",
+            "vinland",
+            "viking"
+          ],
+          "recommend": 30,
+          "reward": 66,
+          "chapter_end": false,
+          "art": "res://assets/campaign/5_6.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "ビザンツ・城壁。三重の壁が、なお内側の名を守れずにいる。"
+            },
+            {
+              "speaker": "ローマ",
+              "text": "ここはローマの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "ヴェネツィア",
+              "text": "ローマ、急がないで。ビザンツ・城壁は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "フレイヤ",
+              "text": "ノースの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "ローマ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。ビザンツ・城壁の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "5-7",
+          "chapter": "5",
+          "area": "ローマ",
+          "place": "カルタゴ・塩の浜",
+          "brief": "浜の塩が、敗れた記憶の味をしている。",
+          "enemy": "ノース",
+          "enemy_civ": "NORSE",
+          "civ": "ROME",
+          "civ_id": "rome",
+          "foes": [
+            "valkyrie",
+            "asgard",
+            "uppsala",
+            "vinland",
+            "viking",
+            "freya"
+          ],
+          "recommend": 31,
+          "reward": 68,
+          "chapter_end": false,
+          "art": "res://assets/campaign/5_7.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "カルタゴ・塩の浜。浜の塩が、敗れた記憶の味をしている。"
+            },
+            {
+              "speaker": "ローマ",
+              "text": "ここはローマの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "ヴェネツィア",
+              "text": "ローマ、急がないで。カルタゴ・塩の浜は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "フレイヤ",
+              "text": "ノースの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "ローマ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。カルタゴ・塩の浜の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "5-8",
+          "chapter": "5",
+          "area": "ローマ",
+          "place": "イスタンブール・海峡",
+          "brief": "海峡の両岸で、二つの法が同時に叫ぶ。",
+          "enemy": "ノース",
+          "enemy_civ": "NORSE",
+          "civ": "ROME",
+          "civ_id": "rome",
+          "foes": [
+            "asgard",
+            "uppsala",
+            "vinland",
+            "viking",
+            "freya",
+            "odin"
+          ],
+          "recommend": 32,
+          "reward": 70,
+          "chapter_end": false,
+          "art": "res://assets/campaign/5_8.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "イスタンブール・海峡。海峡の両岸で、二つの法が同時に叫ぶ。"
+            },
+            {
+              "speaker": "ローマ",
+              "text": "ここはローマの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "ヴェネツィア",
+              "text": "ローマ、急がないで。イスタンブール・海峡は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "フレイヤ",
+              "text": "ノースの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "ローマ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。イスタンブール・海峡の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "5-9",
+          "chapter": "5",
+          "area": "ローマ",
+          "place": "アクイレイア・街道",
+          "brief": "街道の里程標が、数字を失っている。",
+          "enemy": "ノース",
+          "enemy_civ": "NORSE",
+          "civ": "ROME",
+          "civ_id": "rome",
+          "foes": [
+            "uppsala",
+            "vinland",
+            "viking",
+            "freya",
+            "odin",
+            "thor"
+          ],
+          "recommend": 33,
+          "reward": 72,
+          "chapter_end": false,
+          "art": "res://assets/campaign/5_9.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "アクイレイア・街道。街道の里程標が、数字を失っている。"
+            },
+            {
+              "speaker": "ローマ",
+              "text": "ここはローマの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "ヴェネツィア",
+              "text": "ローマ、急がないで。アクイレイア・街道は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "フレイヤ",
+              "text": "ノースの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "ローマ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。アクイレイア・街道の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "5-10",
+          "chapter": "5",
+          "area": "ローマ",
+          "place": "ローマ・記憶核",
+          "brief": "法の核を、嵐の船へ渡さない。",
+          "enemy": "ノース",
+          "enemy_civ": "NORSE",
+          "civ": "ROME",
+          "civ_id": "rome",
+          "foes": [
+            "vinland",
+            "viking",
+            "freya",
+            "odin",
+            "thor",
+            "hel"
+          ],
+          "recommend": 34,
+          "reward": 74,
+          "chapter_end": true,
+          "art": "res://assets/campaign/5_10.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "ローマ・記憶核。法の核を、嵐の船へ渡さない。"
+            },
+            {
+              "speaker": "ローマ",
+              "text": "ここはローマの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "ヴェネツィア",
+              "text": "ローマ、急がないで。ローマ・記憶核は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "フレイヤ",
+              "text": "ノースの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "ローマ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "ローマの核は、ここにある。ノースには渡さない。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "華夏",
+      "civ": "HUAXIA",
+      "civ_id": "huaxia",
+      "enemy": "メソポタミア",
+      "enemy_civ": "MESOPOTAMIA",
+      "blurb": "都の軸線を、楔形の法が横切る。絹と詩と都を、川へ返す。",
+      "stages": [
+        {
+          "code": "6-1",
+          "chapter": "6",
+          "area": "華夏",
+          "place": "長安・朱雀の軸",
+          "brief": "軸の上で、門が南を忘れかけている。",
+          "enemy": "メソポタミア",
+          "enemy_civ": "MESOPOTAMIA",
+          "civ": "HUAXIA",
+          "civ_id": "huaxia",
+          "foes": [
+            "ishtar",
+            "sumer",
+            "babylon"
+          ],
+          "recommend": 31,
+          "reward": 62,
+          "chapter_end": false,
+          "art": "res://assets/campaign/6_1.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "長安・朱雀の軸。軸の上で、門が南を忘れかけている。"
+            },
+            {
+              "speaker": "西施",
+              "text": "ここは華夏の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "洛神",
+              "text": "西施、急がないで。長安・朱雀の軸は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "イシュタル",
+              "text": "メソポタミアの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "西施",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。長安・朱雀の軸の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "6-2",
+          "chapter": "6",
+          "area": "華夏",
+          "place": "洛陽・中心の橋",
+          "brief": "橋の真ん中が、世界の真ん中だった。",
+          "enemy": "メソポタミア",
+          "enemy_civ": "MESOPOTAMIA",
+          "civ": "HUAXIA",
+          "civ_id": "huaxia",
+          "foes": [
+            "sumer",
+            "babylon",
+            "persia",
+            "uruk"
+          ],
+          "recommend": 32,
+          "reward": 64,
+          "chapter_end": false,
+          "art": "res://assets/campaign/6_2.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "洛陽・中心の橋。橋の真ん中が、世界の真ん中だった。"
+            },
+            {
+              "speaker": "西施",
+              "text": "ここは華夏の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "洛神",
+              "text": "西施、急がないで。洛陽・中心の橋は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "イシュタル",
+              "text": "メソポタミアの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "西施",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。洛陽・中心の橋の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "6-3",
+          "chapter": "6",
+          "area": "華夏",
+          "place": "杭州・西湖の堤",
+          "brief": "堤の柳は残る。見る詩人がいない。",
+          "enemy": "メソポタミア",
+          "enemy_civ": "MESOPOTAMIA",
+          "civ": "HUAXIA",
+          "civ_id": "huaxia",
+          "foes": [
+            "babylon",
+            "persia",
+            "uruk",
+            "ur",
+            "nineveh"
+          ],
+          "recommend": 33,
+          "reward": 66,
+          "chapter_end": false,
+          "art": "res://assets/campaign/6_3.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "杭州・西湖の堤。堤の柳は残る。見る詩人がいない。"
+            },
+            {
+              "speaker": "西施",
+              "text": "ここは華夏の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "洛神",
+              "text": "西施、急がないで。杭州・西湖の堤は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "イシュタル",
+              "text": "メソポタミアの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "西施",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。杭州・西湖の堤の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "6-4",
+          "chapter": "6",
+          "area": "華夏",
+          "place": "北京・紫禁の層",
+          "brief": "層になった門が、奥の名を隠している。",
+          "enemy": "メソポタミア",
+          "enemy_civ": "MESOPOTAMIA",
+          "civ": "HUAXIA",
+          "civ_id": "huaxia",
+          "foes": [
+            "persia",
+            "uruk",
+            "ur",
+            "nineveh",
+            "assyria",
+            "palmyra"
+          ],
+          "recommend": 34,
+          "reward": 68,
+          "chapter_end": false,
+          "art": "res://assets/campaign/6_4.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "北京・紫禁の層。層になった門が、奥の名を隠している。"
+            },
+            {
+              "speaker": "西施",
+              "text": "ここは華夏の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "洛神",
+              "text": "西施、急がないで。北京・紫禁の層は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "イシュタル",
+              "text": "メソポタミアの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "西施",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。北京・紫禁の層の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "6-5",
+          "chapter": "6",
+          "area": "華夏",
+          "place": "上海・開かれた埠",
+          "brief": "埠頭の鐘が、別の暦で鳴る。",
+          "enemy": "メソポタミア",
+          "enemy_civ": "MESOPOTAMIA",
+          "civ": "HUAXIA",
+          "civ_id": "huaxia",
+          "foes": [
+            "uruk",
+            "ur",
+            "nineveh",
+            "assyria",
+            "palmyra",
+            "ctesiphon"
+          ],
+          "recommend": 35,
+          "reward": 70,
+          "chapter_end": false,
+          "art": "res://assets/campaign/6_5.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "上海・開かれた埠。埠頭の鐘が、別の暦で鳴る。"
+            },
+            {
+              "speaker": "西施",
+              "text": "ここは華夏の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "洛神",
+              "text": "西施、急がないで。上海・開かれた埠は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "イシュタル",
+              "text": "メソポタミアの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "西施",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。上海・開かれた埠の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "6-6",
+          "chapter": "6",
+          "area": "華夏",
+          "place": "ホンコン・門の灯",
+          "brief": "灯は点いている。どの旗の下か、揺れている。",
+          "enemy": "メソポタミア",
+          "enemy_civ": "MESOPOTAMIA",
+          "civ": "HUAXIA",
+          "civ_id": "huaxia",
+          "foes": [
+            "ur",
+            "nineveh",
+            "assyria",
+            "palmyra",
+            "ctesiphon",
+            "ishtar"
+          ],
+          "recommend": 36,
+          "reward": 72,
+          "chapter_end": false,
+          "art": "res://assets/campaign/6_6.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "ホンコン・門の灯。灯は点いている。どの旗の下か、揺れている。"
+            },
+            {
+              "speaker": "西施",
+              "text": "ここは華夏の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "洛神",
+              "text": "西施、急がないで。ホンコン・門の灯は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "イシュタル",
+              "text": "メソポタミアの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "西施",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。ホンコン・門の灯の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "6-7",
+          "chapter": "6",
+          "area": "華夏",
+          "place": "長江・三つの峡",
+          "brief": "峡の風が、上流の記憶を下流へ流す。",
+          "enemy": "メソポタミア",
+          "enemy_civ": "MESOPOTAMIA",
+          "civ": "HUAXIA",
+          "civ_id": "huaxia",
+          "foes": [
+            "nineveh",
+            "assyria",
+            "palmyra",
+            "ctesiphon",
+            "ishtar",
+            "sumer"
+          ],
+          "recommend": 37,
+          "reward": 74,
+          "chapter_end": false,
+          "art": "res://assets/campaign/6_7.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "長江・三つの峡。峡の風が、上流の記憶を下流へ流す。"
+            },
+            {
+              "speaker": "西施",
+              "text": "ここは華夏の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "洛神",
+              "text": "西施、急がないで。長江・三つの峡は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "イシュタル",
+              "text": "メソポタミアの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "西施",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。長江・三つの峡の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "6-8",
+          "chapter": "6",
+          "area": "華夏",
+          "place": "敦煌・砂の蔵",
+          "brief": "蔵の壁画が、砂に名前を返そうとしている。",
+          "enemy": "メソポタミア",
+          "enemy_civ": "MESOPOTAMIA",
+          "civ": "HUAXIA",
+          "civ_id": "huaxia",
+          "foes": [
+            "assyria",
+            "palmyra",
+            "ctesiphon",
+            "ishtar",
+            "sumer",
+            "babylon"
+          ],
+          "recommend": 38,
+          "reward": 76,
+          "chapter_end": false,
+          "art": "res://assets/campaign/6_8.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "敦煌・砂の蔵。蔵の壁画が、砂に名前を返そうとしている。"
+            },
+            {
+              "speaker": "西施",
+              "text": "ここは華夏の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "洛神",
+              "text": "西施、急がないで。敦煌・砂の蔵は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "イシュタル",
+              "text": "メソポタミアの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "西施",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。敦煌・砂の蔵の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "6-9",
+          "chapter": "6",
+          "area": "華夏",
+          "place": "蘇州・水路の園",
+          "brief": "園の石が、水音だけで時代を数える。",
+          "enemy": "メソポタミア",
+          "enemy_civ": "MESOPOTAMIA",
+          "civ": "HUAXIA",
+          "civ_id": "huaxia",
+          "foes": [
+            "palmyra",
+            "ctesiphon",
+            "ishtar",
+            "sumer",
+            "babylon",
+            "persia"
+          ],
+          "recommend": 39,
+          "reward": 78,
+          "chapter_end": false,
+          "art": "res://assets/campaign/6_9.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "蘇州・水路の園。園の石が、水音だけで時代を数える。"
+            },
+            {
+              "speaker": "西施",
+              "text": "ここは華夏の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "洛神",
+              "text": "西施、急がないで。蘇州・水路の園は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "イシュタル",
+              "text": "メソポタミアの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "西施",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。蘇州・水路の園の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "6-10",
+          "chapter": "6",
+          "area": "華夏",
+          "place": "華夏・記憶核",
+          "brief": "都の核を、最初の都市の法で上書きしない。",
+          "enemy": "メソポタミア",
+          "enemy_civ": "MESOPOTAMIA",
+          "civ": "HUAXIA",
+          "civ_id": "huaxia",
+          "foes": [
+            "ctesiphon",
+            "ishtar",
+            "sumer",
+            "babylon",
+            "persia",
+            "uruk"
+          ],
+          "recommend": 40,
+          "reward": 80,
+          "chapter_end": true,
+          "art": "res://assets/campaign/6_10.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "華夏・記憶核。都の核を、最初の都市の法で上書きしない。"
+            },
+            {
+              "speaker": "西施",
+              "text": "ここは華夏の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "洛神",
+              "text": "西施、急がないで。華夏・記憶核は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "イシュタル",
+              "text": "メソポタミアの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "西施",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "華夏の核は、ここにある。メソポタミアには渡さない。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "ノース",
+      "civ": "NORSE",
+      "civ_id": "norse",
+      "enemy": "中世王国",
+      "enemy_civ": "MEDIEVAL",
+      "blurb": "世界樹の根に、王冠と馬の記憶が絡む。冬と誓いを、森へ返す。",
+      "stages": [
+        {
+          "code": "7-1",
+          "chapter": "7",
+          "area": "ノース",
+          "place": "ウプサラ・聖なる木",
+          "brief": "木の根が、誓いの数だけ地面を持ち上げる。",
+          "enemy": "中世王国",
+          "enemy_civ": "MEDIEVAL",
+          "civ": "NORSE",
+          "civ_id": "norse",
+          "foes": [
+            "mongolia",
+            "goryeo",
+            "frank"
+          ],
+          "recommend": 37,
+          "reward": 68,
+          "chapter_end": false,
+          "art": "res://assets/campaign/7_1.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "ウプサラ・聖なる木。木の根が、誓いの数だけ地面を持ち上げる。"
+            },
+            {
+              "speaker": "フレイヤ",
+              "text": "ここはノースの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "トール",
+              "text": "フレイヤ、急がないで。ウプサラ・聖なる木は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "スカアハ",
+              "text": "中世王国の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "フレイヤ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。ウプサラ・聖なる木の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "7-2",
+          "chapter": "7",
+          "area": "ノース",
+          "place": "アスガルド・橋",
+          "brief": "橋のこちら側で、門番の名が薄い。",
+          "enemy": "中世王国",
+          "enemy_civ": "MEDIEVAL",
+          "civ": "NORSE",
+          "civ_id": "norse",
+          "foes": [
+            "goryeo",
+            "frank",
+            "andalus",
+            "mali"
+          ],
+          "recommend": 38,
+          "reward": 70,
+          "chapter_end": false,
+          "art": "res://assets/campaign/7_2.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "アスガルド・橋。橋のこちら側で、門番の名が薄い。"
+            },
+            {
+              "speaker": "フレイヤ",
+              "text": "ここはノースの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "トール",
+              "text": "フレイヤ、急がないで。アスガルド・橋は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "スカアハ",
+              "text": "中世王国の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "フレイヤ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。アスガルド・橋の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "7-3",
+          "chapter": "7",
+          "area": "ノース",
+          "place": "ミッドガルド・岸",
+          "brief": "岸に船は着いている。漕いだ腕の記憶がない。",
+          "enemy": "中世王国",
+          "enemy_civ": "MEDIEVAL",
+          "civ": "NORSE",
+          "civ_id": "norse",
+          "foes": [
+            "frank",
+            "andalus",
+            "mali",
+            "mongolia",
+            "goryeo"
+          ],
+          "recommend": 39,
+          "reward": 72,
+          "chapter_end": false,
+          "art": "res://assets/campaign/7_3.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "ミッドガルド・岸。岸に船は着いている。漕いだ腕の記憶がない。"
+            },
+            {
+              "speaker": "フレイヤ",
+              "text": "ここはノースの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "トール",
+              "text": "フレイヤ、急がないで。ミッドガルド・岸は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "スカアハ",
+              "text": "中世王国の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "フレイヤ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。ミッドガルド・岸の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "7-4",
+          "chapter": "7",
+          "area": "ノース",
+          "place": "ヨトゥンヘイム・氷壁",
+          "brief": "氷壁の中に、古い戦いが凍っている。",
+          "enemy": "中世王国",
+          "enemy_civ": "MEDIEVAL",
+          "civ": "NORSE",
+          "civ_id": "norse",
+          "foes": [
+            "andalus",
+            "mali",
+            "mongolia",
+            "goryeo",
+            "frank",
+            "andalus"
+          ],
+          "recommend": 40,
+          "reward": 74,
+          "chapter_end": false,
+          "art": "res://assets/campaign/7_4.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "ヨトゥンヘイム・氷壁。氷壁の中に、古い戦いが凍っている。"
+            },
+            {
+              "speaker": "フレイヤ",
+              "text": "ここはノースの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "トール",
+              "text": "フレイヤ、急がないで。ヨトゥンヘイム・氷壁は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "スカアハ",
+              "text": "中世王国の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "フレイヤ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。ヨトゥンヘイム・氷壁の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "7-5",
+          "chapter": "7",
+          "area": "ノース",
+          "place": "ヘルヘイム・下り坂",
+          "brief": "坂を下りる足音が、一つ多い。",
+          "enemy": "中世王国",
+          "enemy_civ": "MEDIEVAL",
+          "civ": "NORSE",
+          "civ_id": "norse",
+          "foes": [
+            "mali",
+            "mongolia",
+            "goryeo",
+            "frank",
+            "andalus",
+            "mali"
+          ],
+          "recommend": 41,
+          "reward": 76,
+          "chapter_end": false,
+          "art": "res://assets/campaign/7_5.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "ヘルヘイム・下り坂。坂を下りる足音が、一つ多い。"
+            },
+            {
+              "speaker": "フレイヤ",
+              "text": "ここはノースの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "トール",
+              "text": "フレイヤ、急がないで。ヘルヘイム・下り坂は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "スカアハ",
+              "text": "中世王国の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "フレイヤ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。ヘルヘイム・下り坂の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "7-6",
+          "chapter": "7",
+          "area": "ノース",
+          "place": "ヴィンランド・新しい岸",
+          "brief": "新しい岸なのに、すでに誰かの旗がある。",
+          "enemy": "中世王国",
+          "enemy_civ": "MEDIEVAL",
+          "civ": "NORSE",
+          "civ_id": "norse",
+          "foes": [
+            "mongolia",
+            "goryeo",
+            "frank",
+            "andalus",
+            "mali",
+            "mongolia"
+          ],
+          "recommend": 42,
+          "reward": 78,
+          "chapter_end": false,
+          "art": "res://assets/campaign/7_6.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "ヴィンランド・新しい岸。新しい岸なのに、すでに誰かの旗がある。"
+            },
+            {
+              "speaker": "フレイヤ",
+              "text": "ここはノースの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "トール",
+              "text": "フレイヤ、急がないで。ヴィンランド・新しい岸は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "スカアハ",
+              "text": "中世王国の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "フレイヤ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。ヴィンランド・新しい岸の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "7-7",
+          "chapter": "7",
+          "area": "ノース",
+          "place": "フィヨルド・狭い海",
+          "brief": "狭い海が、船団を一本の列にする。",
+          "enemy": "中世王国",
+          "enemy_civ": "MEDIEVAL",
+          "civ": "NORSE",
+          "civ_id": "norse",
+          "foes": [
+            "goryeo",
+            "frank",
+            "andalus",
+            "mali",
+            "mongolia",
+            "goryeo"
+          ],
+          "recommend": 43,
+          "reward": 80,
+          "chapter_end": false,
+          "art": "res://assets/campaign/7_7.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "フィヨルド・狭い海。狭い海が、船団を一本の列にする。"
+            },
+            {
+              "speaker": "フレイヤ",
+              "text": "ここはノースの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "トール",
+              "text": "フレイヤ、急がないで。フィヨルド・狭い海は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "スカアハ",
+              "text": "中世王国の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "フレイヤ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。フィヨルド・狭い海の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "7-8",
+          "chapter": "7",
+          "area": "ノース",
+          "place": "ルーン・石の列",
+          "brief": "石は立っている。刻まれた音が読めない。",
+          "enemy": "中世王国",
+          "enemy_civ": "MEDIEVAL",
+          "civ": "NORSE",
+          "civ_id": "norse",
+          "foes": [
+            "frank",
+            "andalus",
+            "mali",
+            "mongolia",
+            "goryeo",
+            "frank"
+          ],
+          "recommend": 44,
+          "reward": 82,
+          "chapter_end": false,
+          "art": "res://assets/campaign/7_8.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "ルーン・石の列。石は立っている。刻まれた音が読めない。"
+            },
+            {
+              "speaker": "フレイヤ",
+              "text": "ここはノースの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "トール",
+              "text": "フレイヤ、急がないで。ルーン・石の列は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "スカアハ",
+              "text": "中世王国の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "フレイヤ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。ルーン・石の列の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "7-9",
+          "chapter": "7",
+          "area": "ノース",
+          "place": "ヴァルハラ・空席",
+          "brief": "席は用意され、座る歌が欠けている。",
+          "enemy": "中世王国",
+          "enemy_civ": "MEDIEVAL",
+          "civ": "NORSE",
+          "civ_id": "norse",
+          "foes": [
+            "andalus",
+            "mali",
+            "mongolia",
+            "goryeo",
+            "frank",
+            "andalus"
+          ],
+          "recommend": 45,
+          "reward": 84,
+          "chapter_end": false,
+          "art": "res://assets/campaign/7_9.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "ヴァルハラ・空席。席は用意され、座る歌が欠けている。"
+            },
+            {
+              "speaker": "フレイヤ",
+              "text": "ここはノースの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "トール",
+              "text": "フレイヤ、急がないで。ヴァルハラ・空席は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "スカアハ",
+              "text": "中世王国の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "フレイヤ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。ヴァルハラ・空席の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "7-10",
+          "chapter": "7",
+          "area": "ノース",
+          "place": "ノース・記憶核",
+          "brief": "冬の核を、王冠の箱へしまわせない。",
+          "enemy": "中世王国",
+          "enemy_civ": "MEDIEVAL",
+          "civ": "NORSE",
+          "civ_id": "norse",
+          "foes": [
+            "mali",
+            "mongolia",
+            "goryeo",
+            "frank",
+            "andalus",
+            "mali"
+          ],
+          "recommend": 46,
+          "reward": 86,
+          "chapter_end": true,
+          "art": "res://assets/campaign/7_10.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "ノース・記憶核。冬の核を、王冠の箱へしまわせない。"
+            },
+            {
+              "speaker": "フレイヤ",
+              "text": "ここはノースの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "トール",
+              "text": "フレイヤ、急がないで。ノース・記憶核は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "スカアハ",
+              "text": "中世王国の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "フレイヤ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "ノースの核は、ここにある。中世王国には渡さない。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "メソポタミア",
+      "civ": "MESOPOTAMIA",
+      "civ_id": "mesopotamia",
+      "enemy": "近代文明",
+      "enemy_civ": "MODERN",
+      "blurb": "最初の都市が、蒸気と線路に敷き直される。楔形の法を、粘土へ返す。",
+      "stages": [
+        {
+          "code": "8-1",
+          "chapter": "8",
+          "area": "メソポタミア",
+          "place": "ウルク・最初の壁",
+          "brief": "壁が都市の始まりを、まだ覚えている。",
+          "enemy": "近代文明",
+          "enemy_civ": "MODERN",
+          "civ": "MESOPOTAMIA",
+          "civ_id": "mesopotamia",
+          "foes": [
+            "manchester",
+            "vienna",
+            "berlin"
+          ],
+          "recommend": 43,
+          "reward": 74,
+          "chapter_end": false,
+          "art": "res://assets/campaign/8_1.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "ウルク・最初の壁。壁が都市の始まりを、まだ覚えている。"
+            },
+            {
+              "speaker": "イシュタル",
+              "text": "ここはメソポタミアの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "シュメール",
+              "text": "イシュタル、急がないで。ウルク・最初の壁は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "ウィーン",
+              "text": "近代文明の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "イシュタル",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。ウルク・最初の壁の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "8-2",
+          "chapter": "8",
+          "area": "メソポタミア",
+          "place": "ウル・月のジッグラト",
+          "brief": "段々の塔が、月の高さを数えている。",
+          "enemy": "近代文明",
+          "enemy_civ": "MODERN",
+          "civ": "MESOPOTAMIA",
+          "civ_id": "mesopotamia",
+          "foes": [
+            "vienna",
+            "berlin",
+            "petersburg",
+            "chicago"
+          ],
+          "recommend": 44,
+          "reward": 76,
+          "chapter_end": false,
+          "art": "res://assets/campaign/8_2.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "ウル・月のジッグラト。段々の塔が、月の高さを数えている。"
+            },
+            {
+              "speaker": "イシュタル",
+              "text": "ここはメソポタミアの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "シュメール",
+              "text": "イシュタル、急がないで。ウル・月のジッグラトは、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "ウィーン",
+              "text": "近代文明の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "イシュタル",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。ウル・月のジッグラトの次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "8-3",
+          "chapter": "8",
+          "area": "メソポタミア",
+          "place": "バビロン・門",
+          "brief": "門の獣は残る。通る法の文言がない。",
+          "enemy": "近代文明",
+          "enemy_civ": "MODERN",
+          "civ": "MESOPOTAMIA",
+          "civ_id": "mesopotamia",
+          "foes": [
+            "berlin",
+            "petersburg",
+            "chicago",
+            "boston",
+            "lisbon"
+          ],
+          "recommend": 45,
+          "reward": 78,
+          "chapter_end": false,
+          "art": "res://assets/campaign/8_3.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "バビロン・門。門の獣は残る。通る法の文言がない。"
+            },
+            {
+              "speaker": "イシュタル",
+              "text": "ここはメソポタミアの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "シュメール",
+              "text": "イシュタル、急がないで。バビロン・門は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "ウィーン",
+              "text": "近代文明の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "イシュタル",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。バビロン・門の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "8-4",
+          "chapter": "8",
+          "area": "メソポタミア",
+          "place": "ニネヴェ・書庫",
+          "brief": "粘土板の山が、燃える前のページを待っている。",
+          "enemy": "近代文明",
+          "enemy_civ": "MODERN",
+          "civ": "MESOPOTAMIA",
+          "civ_id": "mesopotamia",
+          "foes": [
+            "petersburg",
+            "chicago",
+            "boston",
+            "lisbon",
+            "amsterdam",
+            "genoa"
+          ],
+          "recommend": 46,
+          "reward": 80,
+          "chapter_end": false,
+          "art": "res://assets/campaign/8_4.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "ニネヴェ・書庫。粘土板の山が、燃える前のページを待っている。"
+            },
+            {
+              "speaker": "イシュタル",
+              "text": "ここはメソポタミアの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "シュメール",
+              "text": "イシュタル、急がないで。ニネヴェ・書庫は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "ウィーン",
+              "text": "近代文明の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "イシュタル",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。ニネヴェ・書庫の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "8-5",
+          "chapter": "8",
+          "area": "メソポタミア",
+          "place": "アッシュル・鉄の道",
+          "brief": "鉄の道が、川より先にまっすぐ走る。",
+          "enemy": "近代文明",
+          "enemy_civ": "MODERN",
+          "civ": "MESOPOTAMIA",
+          "civ_id": "mesopotamia",
+          "foes": [
+            "chicago",
+            "boston",
+            "lisbon",
+            "amsterdam",
+            "genoa",
+            "manchester"
+          ],
+          "recommend": 47,
+          "reward": 82,
+          "chapter_end": false,
+          "art": "res://assets/campaign/8_5.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "アッシュル・鉄の道。鉄の道が、川より先にまっすぐ走る。"
+            },
+            {
+              "speaker": "イシュタル",
+              "text": "ここはメソポタミアの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "シュメール",
+              "text": "イシュタル、急がないで。アッシュル・鉄の道は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "ウィーン",
+              "text": "近代文明の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "イシュタル",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。アッシュル・鉄の道の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "8-6",
+          "chapter": "8",
+          "area": "メソポタミア",
+          "place": "ペルシア・光の列柱",
+          "brief": "列柱の光が、別の世紀の煙に濁る。",
+          "enemy": "近代文明",
+          "enemy_civ": "MODERN",
+          "civ": "MESOPOTAMIA",
+          "civ_id": "mesopotamia",
+          "foes": [
+            "boston",
+            "lisbon",
+            "amsterdam",
+            "genoa",
+            "manchester",
+            "vienna"
+          ],
+          "recommend": 48,
+          "reward": 84,
+          "chapter_end": false,
+          "art": "res://assets/campaign/8_6.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "ペルシア・光の列柱。列柱の光が、別の世紀の煙に濁る。"
+            },
+            {
+              "speaker": "イシュタル",
+              "text": "ここはメソポタミアの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "シュメール",
+              "text": "イシュタル、急がないで。ペルシア・光の列柱は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "ウィーン",
+              "text": "近代文明の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "イシュタル",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。ペルシア・光の列柱の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "8-7",
+          "chapter": "8",
+          "area": "メソポタミア",
+          "place": "パルミラ・泉",
+          "brief": "泉の周りで、隊商の名が途切れる。",
+          "enemy": "近代文明",
+          "enemy_civ": "MODERN",
+          "civ": "MESOPOTAMIA",
+          "civ_id": "mesopotamia",
+          "foes": [
+            "lisbon",
+            "amsterdam",
+            "genoa",
+            "manchester",
+            "vienna",
+            "berlin"
+          ],
+          "recommend": 49,
+          "reward": 86,
+          "chapter_end": false,
+          "art": "res://assets/campaign/8_7.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "パルミラ・泉。泉の周りで、隊商の名が途切れる。"
+            },
+            {
+              "speaker": "イシュタル",
+              "text": "ここはメソポタミアの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "シュメール",
+              "text": "イシュタル、急がないで。パルミラ・泉は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "ウィーン",
+              "text": "近代文明の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "イシュタル",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。パルミラ・泉の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "8-8",
+          "chapter": "8",
+          "area": "メソポタミア",
+          "place": "クテシフォン・大拱",
+          "brief": "大きな拱が、空いた王座を枠取っている。",
+          "enemy": "近代文明",
+          "enemy_civ": "MODERN",
+          "civ": "MESOPOTAMIA",
+          "civ_id": "mesopotamia",
+          "foes": [
+            "amsterdam",
+            "genoa",
+            "manchester",
+            "vienna",
+            "berlin",
+            "petersburg"
+          ],
+          "recommend": 50,
+          "reward": 88,
+          "chapter_end": false,
+          "art": "res://assets/campaign/8_8.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "クテシフォン・大拱。大きな拱が、空いた王座を枠取っている。"
+            },
+            {
+              "speaker": "イシュタル",
+              "text": "ここはメソポタミアの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "シュメール",
+              "text": "イシュタル、急がないで。クテシフォン・大拱は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "ウィーン",
+              "text": "近代文明の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "イシュタル",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。クテシフォン・大拱の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "8-9",
+          "chapter": "8",
+          "area": "メソポタミア",
+          "place": "シュメール・運河",
+          "brief": "運河の目盛りが、収穫の年を失っている。",
+          "enemy": "近代文明",
+          "enemy_civ": "MODERN",
+          "civ": "MESOPOTAMIA",
+          "civ_id": "mesopotamia",
+          "foes": [
+            "genoa",
+            "manchester",
+            "vienna",
+            "berlin",
+            "petersburg",
+            "chicago"
+          ],
+          "recommend": 51,
+          "reward": 90,
+          "chapter_end": false,
+          "art": "res://assets/campaign/8_9.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "シュメール・運河。運河の目盛りが、収穫の年を失っている。"
+            },
+            {
+              "speaker": "イシュタル",
+              "text": "ここはメソポタミアの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "シュメール",
+              "text": "イシュタル、急がないで。シュメール・運河は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "ウィーン",
+              "text": "近代文明の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "イシュタル",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。シュメール・運河の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "8-10",
+          "chapter": "8",
+          "area": "メソポタミア",
+          "place": "メソポタミア・記憶核",
+          "brief": "最初の文字を、蒸気の時刻表で塗りつぶさない。",
+          "enemy": "近代文明",
+          "enemy_civ": "MODERN",
+          "civ": "MESOPOTAMIA",
+          "civ_id": "mesopotamia",
+          "foes": [
+            "manchester",
+            "vienna",
+            "berlin",
+            "petersburg",
+            "chicago",
+            "boston"
+          ],
+          "recommend": 52,
+          "reward": 92,
+          "chapter_end": true,
+          "art": "res://assets/campaign/8_10.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "メソポタミア・記憶核。最初の文字を、蒸気の時刻表で塗りつぶさない。"
+            },
+            {
+              "speaker": "イシュタル",
+              "text": "ここはメソポタミアの層だ。名を、消させない。"
+            },
+            {
+              "speaker": "シュメール",
+              "text": "イシュタル、急がないで。メソポタミア・記憶核は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "ウィーン",
+              "text": "近代文明の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "イシュタル",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "メソポタミアの核は、ここにある。近代文明には渡さない。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "中世王国",
+      "civ": "MEDIEVAL",
+      "civ_id": "medieval",
+      "enemy": "現代都市",
+      "enemy_civ": "CONTEMPORARY",
+      "blurb": "王冠と街道が、現代の灯に上書きされる。誓いと城門を返す。",
+      "stages": [
+        {
+          "code": "9-1",
+          "chapter": "9",
+          "area": "中世王国",
+          "place": "モンゴル・草原の環",
+          "brief": "環になった陣が、風向きだけを覚えている。",
+          "enemy": "現代都市",
+          "enemy_civ": "CONTEMPORARY",
+          "civ": "MEDIEVAL",
+          "civ_id": "medieval",
+          "foes": [
+            "newyork",
+            "paris",
+            "london"
+          ],
+          "recommend": 49,
+          "reward": 80,
+          "chapter_end": false,
+          "art": "res://assets/campaign/9_1.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "モンゴル・草原の環。環になった陣が、風向きだけを覚えている。"
+            },
+            {
+              "speaker": "スカアハ",
+              "text": "ここは中世王国の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "アンダルス",
+              "text": "スカアハ、急がないで。モンゴル・草原の環は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "パリ",
+              "text": "現代都市の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "スカアハ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。モンゴル・草原の環の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "9-2",
+          "chapter": "9",
+          "area": "中世王国",
+          "place": "高麗・青磁の窯",
+          "brief": "窯の火は落ちて、色の調合だけが残る。",
+          "enemy": "現代都市",
+          "enemy_civ": "CONTEMPORARY",
+          "civ": "MEDIEVAL",
+          "civ_id": "medieval",
+          "foes": [
+            "paris",
+            "london",
+            "singapore",
+            "seoul"
+          ],
+          "recommend": 50,
+          "reward": 82,
+          "chapter_end": false,
+          "art": "res://assets/campaign/9_2.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "高麗・青磁の窯。窯の火は落ちて、色の調合だけが残る。"
+            },
+            {
+              "speaker": "スカアハ",
+              "text": "ここは中世王国の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "アンダルス",
+              "text": "スカアハ、急がないで。高麗・青磁の窯は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "パリ",
+              "text": "現代都市の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "スカアハ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。高麗・青磁の窯の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "9-3",
+          "chapter": "9",
+          "area": "中世王国",
+          "place": "フランク・戴冠の堂",
+          "brief": "堂の椅子が、誰の頭を待つか分からない。",
+          "enemy": "現代都市",
+          "enemy_civ": "CONTEMPORARY",
+          "civ": "MEDIEVAL",
+          "civ_id": "medieval",
+          "foes": [
+            "london",
+            "singapore",
+            "seoul",
+            "mexico",
+            "dubai"
+          ],
+          "recommend": 51,
+          "reward": 84,
+          "chapter_end": false,
+          "art": "res://assets/campaign/9_3.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "フランク・戴冠の堂。堂の椅子が、誰の頭を待つか分からない。"
+            },
+            {
+              "speaker": "スカアハ",
+              "text": "ここは中世王国の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "アンダルス",
+              "text": "スカアハ、急がないで。フランク・戴冠の堂は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "パリ",
+              "text": "現代都市の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "スカアハ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。フランク・戴冠の堂の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "9-4",
+          "chapter": "9",
+          "area": "中世王国",
+          "place": "アンダルス・星の中庭",
+          "brief": "中庭の水路が、星の名を運んでいる。",
+          "enemy": "現代都市",
+          "enemy_civ": "CONTEMPORARY",
+          "civ": "MEDIEVAL",
+          "civ_id": "medieval",
+          "foes": [
+            "singapore",
+            "seoul",
+            "mexico",
+            "dubai",
+            "newyork",
+            "paris"
+          ],
+          "recommend": 52,
+          "reward": 86,
+          "chapter_end": false,
+          "art": "res://assets/campaign/9_4.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "アンダルス・星の中庭。中庭の水路が、星の名を運んでいる。"
+            },
+            {
+              "speaker": "スカアハ",
+              "text": "ここは中世王国の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "アンダルス",
+              "text": "スカアハ、急がないで。アンダルス・星の中庭は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "パリ",
+              "text": "現代都市の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "スカアハ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。アンダルス・星の中庭の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "9-5",
+          "chapter": "9",
+          "area": "中世王国",
+          "place": "マリ・金の曲がり",
+          "brief": "川の曲がりに、金の記憶が沈んでいる。",
+          "enemy": "現代都市",
+          "enemy_civ": "CONTEMPORARY",
+          "civ": "MEDIEVAL",
+          "civ_id": "medieval",
+          "foes": [
+            "seoul",
+            "mexico",
+            "dubai",
+            "newyork",
+            "paris",
+            "london"
+          ],
+          "recommend": 53,
+          "reward": 88,
+          "chapter_end": false,
+          "art": "res://assets/campaign/9_5.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "マリ・金の曲がり。川の曲がりに、金の記憶が沈んでいる。"
+            },
+            {
+              "speaker": "スカアハ",
+              "text": "ここは中世王国の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "アンダルス",
+              "text": "スカアハ、急がないで。マリ・金の曲がりは、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "パリ",
+              "text": "現代都市の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "スカアハ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。マリ・金の曲がりの次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "9-6",
+          "chapter": "9",
+          "area": "中世王国",
+          "place": "城門・跳ね橋",
+          "brief": "橋は上がったまま、下の道が現代の幅になっている。",
+          "enemy": "現代都市",
+          "enemy_civ": "CONTEMPORARY",
+          "civ": "MEDIEVAL",
+          "civ_id": "medieval",
+          "foes": [
+            "mexico",
+            "dubai",
+            "newyork",
+            "paris",
+            "london",
+            "singapore"
+          ],
+          "recommend": 54,
+          "reward": 90,
+          "chapter_end": false,
+          "art": "res://assets/campaign/9_6.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "城門・跳ね橋。橋は上がったまま、下の道が現代の幅になっている。"
+            },
+            {
+              "speaker": "スカアハ",
+              "text": "ここは中世王国の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "アンダルス",
+              "text": "スカアハ、急がないで。城門・跳ね橋は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "パリ",
+              "text": "現代都市の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "スカアハ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。城門・跳ね橋の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "9-7",
+          "chapter": "9",
+          "area": "中世王国",
+          "place": "修道院・写本室",
+          "brief": "写本の行間に、後の世紀の注が割り込む。",
+          "enemy": "現代都市",
+          "enemy_civ": "CONTEMPORARY",
+          "civ": "MEDIEVAL",
+          "civ_id": "medieval",
+          "foes": [
+            "dubai",
+            "newyork",
+            "paris",
+            "london",
+            "singapore",
+            "seoul"
+          ],
+          "recommend": 55,
+          "reward": 92,
+          "chapter_end": false,
+          "art": "res://assets/campaign/9_7.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "修道院・写本室。写本の行間に、後の世紀の注が割り込む。"
+            },
+            {
+              "speaker": "スカアハ",
+              "text": "ここは中世王国の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "アンダルス",
+              "text": "スカアハ、急がないで。修道院・写本室は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "パリ",
+              "text": "現代都市の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "スカアハ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。修道院・写本室の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "9-8",
+          "chapter": "9",
+          "area": "中世王国",
+          "place": "市場・度量衡",
+          "brief": "秤の分銅が、別の都市の単位に替わっている。",
+          "enemy": "現代都市",
+          "enemy_civ": "CONTEMPORARY",
+          "civ": "MEDIEVAL",
+          "civ_id": "medieval",
+          "foes": [
+            "newyork",
+            "paris",
+            "london",
+            "singapore",
+            "seoul",
+            "mexico"
+          ],
+          "recommend": 56,
+          "reward": 94,
+          "chapter_end": false,
+          "art": "res://assets/campaign/9_8.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "市場・度量衡。秤の分銅が、別の都市の単位に替わっている。"
+            },
+            {
+              "speaker": "スカアハ",
+              "text": "ここは中世王国の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "アンダルス",
+              "text": "スカアハ、急がないで。市場・度量衡は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "パリ",
+              "text": "現代都市の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "スカアハ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。市場・度量衡の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "9-9",
+          "chapter": "9",
+          "area": "中世王国",
+          "place": "巡礼路・峠",
+          "brief": "峠の石塔が、次の宿の名を忘れている。",
+          "enemy": "現代都市",
+          "enemy_civ": "CONTEMPORARY",
+          "civ": "MEDIEVAL",
+          "civ_id": "medieval",
+          "foes": [
+            "paris",
+            "london",
+            "singapore",
+            "seoul",
+            "mexico",
+            "dubai"
+          ],
+          "recommend": 57,
+          "reward": 96,
+          "chapter_end": false,
+          "art": "res://assets/campaign/9_9.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "巡礼路・峠。峠の石塔が、次の宿の名を忘れている。"
+            },
+            {
+              "speaker": "スカアハ",
+              "text": "ここは中世王国の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "アンダルス",
+              "text": "スカアハ、急がないで。巡礼路・峠は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "パリ",
+              "text": "現代都市の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "スカアハ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。巡礼路・峠の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "9-10",
+          "chapter": "9",
+          "area": "中世王国",
+          "place": "中世・記憶核",
+          "brief": "誓いの核を、看板の光で消さない。",
+          "enemy": "現代都市",
+          "enemy_civ": "CONTEMPORARY",
+          "civ": "MEDIEVAL",
+          "civ_id": "medieval",
+          "foes": [
+            "london",
+            "singapore",
+            "seoul",
+            "mexico",
+            "dubai",
+            "newyork"
+          ],
+          "recommend": 58,
+          "reward": 98,
+          "chapter_end": true,
+          "art": "res://assets/campaign/9_10.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "中世・記憶核。誓いの核を、看板の光で消さない。"
+            },
+            {
+              "speaker": "スカアハ",
+              "text": "ここは中世王国の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "アンダルス",
+              "text": "スカアハ、急がないで。中世・記憶核は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "パリ",
+              "text": "現代都市の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "スカアハ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "中世王国の核は、ここにある。現代都市には渡さない。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "近代文明",
+      "civ": "MODERN",
+      "civ_id": "modern",
+      "enemy": "未来文明",
+      "enemy_civ": "FUTURE",
+      "blurb": "蒸気と楽譜と線路が、軌道の時刻に回収される。近代の手触りを返す。",
+      "stages": [
+        {
+          "code": "10-1",
+          "chapter": "10",
+          "area": "近代文明",
+          "place": "マンチェスター・煤の運河",
+          "brief": "運河の煤が、機械の誕生をまだ汚している。",
+          "enemy": "未来文明",
+          "enemy_civ": "FUTURE",
+          "civ": "MODERN",
+          "civ_id": "modern",
+          "foes": [
+            "orbital",
+            "machine",
+            "aeterna"
+          ],
+          "recommend": 55,
+          "reward": 86,
+          "chapter_end": false,
+          "art": "res://assets/campaign/10_1.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "マンチェスター・煤の運河。運河の煤が、機械の誕生をまだ汚している。"
+            },
+            {
+              "speaker": "ウィーン",
+              "text": "ここは近代文明の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "リスボン",
+              "text": "ウィーン、急がないで。マンチェスター・煤の運河は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "アエテルナ",
+              "text": "未来文明の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "ウィーン",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。マンチェスター・煤の運河の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "10-2",
+          "chapter": "10",
+          "area": "近代文明",
+          "place": "ウィーン・演奏の間",
+          "brief": "譜面台は開いたまま、次の小節がない。",
+          "enemy": "未来文明",
+          "enemy_civ": "FUTURE",
+          "civ": "MODERN",
+          "civ_id": "modern",
+          "foes": [
+            "machine",
+            "aeterna",
+            "lunar",
+            "ark"
+          ],
+          "recommend": 56,
+          "reward": 88,
+          "chapter_end": false,
+          "art": "res://assets/campaign/10_2.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "ウィーン・演奏の間。譜面台は開いたまま、次の小節がない。"
+            },
+            {
+              "speaker": "ウィーン",
+              "text": "ここは近代文明の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "リスボン",
+              "text": "ウィーン、急がないで。ウィーン・演奏の間は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "アエテルナ",
+              "text": "未来文明の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "ウィーン",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。ウィーン・演奏の間の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "10-3",
+          "chapter": "10",
+          "area": "近代文明",
+          "place": "ベルリン・分断の線",
+          "brief": "線のどちら側が現在か、地図が決められない。",
+          "enemy": "未来文明",
+          "enemy_civ": "FUTURE",
+          "civ": "MODERN",
+          "civ_id": "modern",
+          "foes": [
+            "aeterna",
+            "lunar",
+            "ark",
+            "nexus_city",
+            "orbital"
+          ],
+          "recommend": 57,
+          "reward": 90,
+          "chapter_end": false,
+          "art": "res://assets/campaign/10_3.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "ベルリン・分断の線。線のどちら側が現在か、地図が決められない。"
+            },
+            {
+              "speaker": "ウィーン",
+              "text": "ここは近代文明の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "リスボン",
+              "text": "ウィーン、急がないで。ベルリン・分断の線は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "アエテルナ",
+              "text": "未来文明の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "ウィーン",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。ベルリン・分断の線の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "10-4",
+          "chapter": "10",
+          "area": "近代文明",
+          "place": "ペテルブルク・白い窓",
+          "brief": "白い窓が、夜の長さを覚えている。",
+          "enemy": "未来文明",
+          "enemy_civ": "FUTURE",
+          "civ": "MODERN",
+          "civ_id": "modern",
+          "foes": [
+            "lunar",
+            "ark",
+            "nexus_city",
+            "orbital",
+            "machine",
+            "aeterna"
+          ],
+          "recommend": 58,
+          "reward": 92,
+          "chapter_end": false,
+          "art": "res://assets/campaign/10_4.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "ペテルブルク・白い窓。白い窓が、夜の長さを覚えている。"
+            },
+            {
+              "speaker": "ウィーン",
+              "text": "ここは近代文明の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "リスボン",
+              "text": "ウィーン、急がないで。ペテルブルク・白い窓は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "アエテルナ",
+              "text": "未来文明の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "ウィーン",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。ペテルブルク・白い窓の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "10-5",
+          "chapter": "10",
+          "area": "近代文明",
+          "place": "シカゴ・火の後",
+          "brief": "火の後の通りが、格子のまま伸びている。",
+          "enemy": "未来文明",
+          "enemy_civ": "FUTURE",
+          "civ": "MODERN",
+          "civ_id": "modern",
+          "foes": [
+            "ark",
+            "nexus_city",
+            "orbital",
+            "machine",
+            "aeterna",
+            "lunar"
+          ],
+          "recommend": 59,
+          "reward": 94,
+          "chapter_end": false,
+          "art": "res://assets/campaign/10_5.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "シカゴ・火の後。火の後の通りが、格子のまま伸びている。"
+            },
+            {
+              "speaker": "ウィーン",
+              "text": "ここは近代文明の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "リスボン",
+              "text": "ウィーン、急がないで。シカゴ・火の後は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "アエテルナ",
+              "text": "未来文明の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "ウィーン",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。シカゴ・火の後の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "10-6",
+          "chapter": "10",
+          "area": "近代文明",
+          "place": "ボストン・港の宣言",
+          "brief": "宣言の紙が、潮風で字を失う。",
+          "enemy": "未来文明",
+          "enemy_civ": "FUTURE",
+          "civ": "MODERN",
+          "civ_id": "modern",
+          "foes": [
+            "nexus_city",
+            "orbital",
+            "machine",
+            "aeterna",
+            "lunar",
+            "ark"
+          ],
+          "recommend": 60,
+          "reward": 96,
+          "chapter_end": false,
+          "art": "res://assets/campaign/10_6.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "ボストン・港の宣言。宣言の紙が、潮風で字を失う。"
+            },
+            {
+              "speaker": "ウィーン",
+              "text": "ここは近代文明の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "リスボン",
+              "text": "ウィーン、急がないで。ボストン・港の宣言は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "アエテルナ",
+              "text": "未来文明の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "ウィーン",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。ボストン・港の宣言の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "10-7",
+          "chapter": "10",
+          "area": "近代文明",
+          "place": "リスボン・出航の塔",
+          "brief": "塔の灯が、まだ大西洋を数えている。",
+          "enemy": "未来文明",
+          "enemy_civ": "FUTURE",
+          "civ": "MODERN",
+          "civ_id": "modern",
+          "foes": [
+            "orbital",
+            "machine",
+            "aeterna",
+            "lunar",
+            "ark",
+            "nexus_city"
+          ],
+          "recommend": 61,
+          "reward": 98,
+          "chapter_end": false,
+          "art": "res://assets/campaign/10_7.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "リスボン・出航の塔。塔の灯が、まだ大西洋を数えている。"
+            },
+            {
+              "speaker": "ウィーン",
+              "text": "ここは近代文明の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "リスボン",
+              "text": "ウィーン、急がないで。リスボン・出航の塔は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "アエテルナ",
+              "text": "未来文明の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "ウィーン",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。リスボン・出航の塔の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "10-8",
+          "chapter": "10",
+          "area": "近代文明",
+          "place": "アムステルダム・運河環",
+          "brief": "環の内側で、時計が二つ鳴る。",
+          "enemy": "未来文明",
+          "enemy_civ": "FUTURE",
+          "civ": "MODERN",
+          "civ_id": "modern",
+          "foes": [
+            "machine",
+            "aeterna",
+            "lunar",
+            "ark",
+            "nexus_city",
+            "orbital"
+          ],
+          "recommend": 62,
+          "reward": 100,
+          "chapter_end": false,
+          "art": "res://assets/campaign/10_8.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "アムステルダム・運河環。環の内側で、時計が二つ鳴る。"
+            },
+            {
+              "speaker": "ウィーン",
+              "text": "ここは近代文明の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "リスボン",
+              "text": "ウィーン、急がないで。アムステルダム・運河環は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "アエテルナ",
+              "text": "未来文明の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "ウィーン",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。アムステルダム・運河環の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "10-9",
+          "chapter": "10",
+          "area": "近代文明",
+          "place": "ジェノヴァ・海図室",
+          "brief": "海図の端が、軌道の線に書き換えられる。",
+          "enemy": "未来文明",
+          "enemy_civ": "FUTURE",
+          "civ": "MODERN",
+          "civ_id": "modern",
+          "foes": [
+            "aeterna",
+            "lunar",
+            "ark",
+            "nexus_city",
+            "orbital",
+            "machine"
+          ],
+          "recommend": 63,
+          "reward": 102,
+          "chapter_end": false,
+          "art": "res://assets/campaign/10_9.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "ジェノヴァ・海図室。海図の端が、軌道の線に書き換えられる。"
+            },
+            {
+              "speaker": "ウィーン",
+              "text": "ここは近代文明の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "リスボン",
+              "text": "ウィーン、急がないで。ジェノヴァ・海図室は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "アエテルナ",
+              "text": "未来文明の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "ウィーン",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。ジェノヴァ・海図室の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "10-10",
+          "chapter": "10",
+          "area": "近代文明",
+          "place": "近代・記憶核",
+          "brief": "この世紀の手触りを、未来の倉庫へ上げない。",
+          "enemy": "未来文明",
+          "enemy_civ": "FUTURE",
+          "civ": "MODERN",
+          "civ_id": "modern",
+          "foes": [
+            "lunar",
+            "ark",
+            "nexus_city",
+            "orbital",
+            "machine",
+            "aeterna"
+          ],
+          "recommend": 64,
+          "reward": 104,
+          "chapter_end": true,
+          "art": "res://assets/campaign/10_10.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "近代・記憶核。この世紀の手触りを、未来の倉庫へ上げない。"
+            },
+            {
+              "speaker": "ウィーン",
+              "text": "ここは近代文明の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "リスボン",
+              "text": "ウィーン、急がないで。近代・記憶核は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "アエテルナ",
+              "text": "未来文明の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "ウィーン",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "近代文明の核は、ここにある。未来文明には渡さない。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "現代都市",
+      "civ": "CONTEMPORARY",
+      "civ_id": "contemporary",
+      "enemy": "ヤマト",
+      "enemy_civ": "YAMATO",
+      "blurb": "いまの都市の灯が、神域の桜に覆われる。現代の名前を、看板へ返す。",
+      "stages": [
+        {
+          "code": "11-1",
+          "chapter": "11",
+          "area": "現代都市",
+          "place": "ニューヨーク・格子の夜",
+          "brief": "格子の夜に、一つの窓だけが古い光だ。",
+          "enemy": "ヤマト",
+          "enemy_civ": "YAMATO",
+          "civ": "CONTEMPORARY",
+          "civ_id": "contemporary",
+          "foes": [
+            "amaterasu",
+            "tsukuyomi",
+            "susanoo"
+          ],
+          "recommend": 61,
+          "reward": 92,
+          "chapter_end": false,
+          "art": "res://assets/campaign/11_1.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "ニューヨーク・格子の夜。格子の夜に、一つの窓だけが古い光だ。"
+            },
+            {
+              "speaker": "パリ",
+              "text": "ここは現代都市の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "ロンドン",
+              "text": "パリ、急がないで。ニューヨーク・格子の夜は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "天照",
+              "text": "ヤマトの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "パリ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。ニューヨーク・格子の夜の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "11-2",
+          "chapter": "11",
+          "area": "現代都市",
+          "place": "パリ・河岸の灯",
+          "brief": "河岸の灯が、川の記憶と数を合わせている。",
+          "enemy": "ヤマト",
+          "enemy_civ": "YAMATO",
+          "civ": "CONTEMPORARY",
+          "civ_id": "contemporary",
+          "foes": [
+            "tsukuyomi",
+            "susanoo",
+            "inari",
+            "izanami"
+          ],
+          "recommend": 62,
+          "reward": 94,
+          "chapter_end": false,
+          "art": "res://assets/campaign/11_2.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "パリ・河岸の灯。河岸の灯が、川の記憶と数を合わせている。"
+            },
+            {
+              "speaker": "パリ",
+              "text": "ここは現代都市の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "ロンドン",
+              "text": "パリ、急がないで。パリ・河岸の灯は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "天照",
+              "text": "ヤマトの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "パリ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。パリ・河岸の灯の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "11-3",
+          "chapter": "11",
+          "area": "現代都市",
+          "place": "ロンドン・霧の乗換",
+          "brief": "乗換の案内が、霧の中で別の駅を指す。",
+          "enemy": "ヤマト",
+          "enemy_civ": "YAMATO",
+          "civ": "CONTEMPORARY",
+          "civ_id": "contemporary",
+          "foes": [
+            "susanoo",
+            "inari",
+            "izanami",
+            "takemikazuchi",
+            "hachiman"
+          ],
+          "recommend": 63,
+          "reward": 96,
+          "chapter_end": false,
+          "art": "res://assets/campaign/11_3.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "ロンドン・霧の乗換。乗換の案内が、霧の中で別の駅を指す。"
+            },
+            {
+              "speaker": "パリ",
+              "text": "ここは現代都市の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "ロンドン",
+              "text": "パリ、急がないで。ロンドン・霧の乗換は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "天照",
+              "text": "ヤマトの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "パリ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。ロンドン・霧の乗換の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "11-4",
+          "chapter": "11",
+          "area": "現代都市",
+          "place": "シンガポール・結節",
+          "brief": "結節の港が、あまりに多くの世紀を同時に積む。",
+          "enemy": "ヤマト",
+          "enemy_civ": "YAMATO",
+          "civ": "CONTEMPORARY",
+          "civ_id": "contemporary",
+          "foes": [
+            "inari",
+            "izanami",
+            "takemikazuchi",
+            "hachiman",
+            "benzaiten",
+            "ryugu"
+          ],
+          "recommend": 64,
+          "reward": 98,
+          "chapter_end": false,
+          "art": "res://assets/campaign/11_4.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "シンガポール・結節。結節の港が、あまりに多くの世紀を同時に積む。"
+            },
+            {
+              "speaker": "パリ",
+              "text": "ここは現代都市の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "ロンドン",
+              "text": "パリ、急がないで。シンガポール・結節は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "天照",
+              "text": "ヤマトの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "パリ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。シンガポール・結節の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "11-5",
+          "chapter": "11",
+          "area": "現代都市",
+          "place": "ソウル・盆地の環",
+          "brief": "盆地の環状が、山の名を内側に閉じる。",
+          "enemy": "ヤマト",
+          "enemy_civ": "YAMATO",
+          "civ": "CONTEMPORARY",
+          "civ_id": "contemporary",
+          "foes": [
+            "izanami",
+            "takemikazuchi",
+            "hachiman",
+            "benzaiten",
+            "ryugu",
+            "edo"
+          ],
+          "recommend": 65,
+          "reward": 100,
+          "chapter_end": false,
+          "art": "res://assets/campaign/11_5.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "ソウル・盆地の環。盆地の環状が、山の名を内側に閉じる。"
+            },
+            {
+              "speaker": "パリ",
+              "text": "ここは現代都市の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "ロンドン",
+              "text": "パリ、急がないで。ソウル・盆地の環は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "天照",
+              "text": "ヤマトの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "パリ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。ソウル・盆地の環の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "11-6",
+          "chapter": "11",
+          "area": "現代都市",
+          "place": "メキシコ・層の広場",
+          "brief": "広場の下に、別の都市がまだ息をしている。",
+          "enemy": "ヤマト",
+          "enemy_civ": "YAMATO",
+          "civ": "CONTEMPORARY",
+          "civ_id": "contemporary",
+          "foes": [
+            "takemikazuchi",
+            "hachiman",
+            "benzaiten",
+            "ryugu",
+            "edo",
+            "osaka"
+          ],
+          "recommend": 66,
+          "reward": 102,
+          "chapter_end": false,
+          "art": "res://assets/campaign/11_6.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "メキシコ・層の広場。広場の下に、別の都市がまだ息をしている。"
+            },
+            {
+              "speaker": "パリ",
+              "text": "ここは現代都市の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "ロンドン",
+              "text": "パリ、急がないで。メキシコ・層の広場は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "天照",
+              "text": "ヤマトの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "パリ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。メキシコ・層の広場の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "11-7",
+          "chapter": "11",
+          "area": "現代都市",
+          "place": "ドバイ・垂直の砂",
+          "brief": "垂直に積んだ砂が、影の長さを競っている。",
+          "enemy": "ヤマト",
+          "enemy_civ": "YAMATO",
+          "civ": "CONTEMPORARY",
+          "civ_id": "contemporary",
+          "foes": [
+            "hachiman",
+            "benzaiten",
+            "ryugu",
+            "edo",
+            "osaka",
+            "nagasaki"
+          ],
+          "recommend": 67,
+          "reward": 104,
+          "chapter_end": false,
+          "art": "res://assets/campaign/11_7.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "ドバイ・垂直の砂。垂直に積んだ砂が、影の長さを競っている。"
+            },
+            {
+              "speaker": "パリ",
+              "text": "ここは現代都市の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "ロンドン",
+              "text": "パリ、急がないで。ドバイ・垂直の砂は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "天照",
+              "text": "ヤマトの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "パリ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。ドバイ・垂直の砂の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "11-8",
+          "chapter": "11",
+          "area": "現代都市",
+          "place": "空港・時差の廊",
+          "brief": "廊下を歩くたび、日付が一つずれる。",
+          "enemy": "ヤマト",
+          "enemy_civ": "YAMATO",
+          "civ": "CONTEMPORARY",
+          "civ_id": "contemporary",
+          "foes": [
+            "benzaiten",
+            "ryugu",
+            "edo",
+            "osaka",
+            "nagasaki",
+            "kamakura"
+          ],
+          "recommend": 68,
+          "reward": 106,
+          "chapter_end": false,
+          "art": "res://assets/campaign/11_8.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "空港・時差の廊。廊下を歩くたび、日付が一つずれる。"
+            },
+            {
+              "speaker": "パリ",
+              "text": "ここは現代都市の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "ロンドン",
+              "text": "パリ、急がないで。空港・時差の廊は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "天照",
+              "text": "ヤマトの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "パリ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。空港・時差の廊の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "11-9",
+          "chapter": "11",
+          "area": "現代都市",
+          "place": "地下・終電の層",
+          "brief": "終電のあと、駅名だけが点いている。",
+          "enemy": "ヤマト",
+          "enemy_civ": "YAMATO",
+          "civ": "CONTEMPORARY",
+          "civ_id": "contemporary",
+          "foes": [
+            "ryugu",
+            "edo",
+            "osaka",
+            "nagasaki",
+            "kamakura",
+            "amaterasu"
+          ],
+          "recommend": 69,
+          "reward": 108,
+          "chapter_end": false,
+          "art": "res://assets/campaign/11_9.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "地下・終電の層。終電のあと、駅名だけが点いている。"
+            },
+            {
+              "speaker": "パリ",
+              "text": "ここは現代都市の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "ロンドン",
+              "text": "パリ、急がないで。地下・終電の層は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "天照",
+              "text": "ヤマトの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "パリ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。地下・終電の層の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "11-10",
+          "chapter": "11",
+          "area": "現代都市",
+          "place": "現代・記憶核",
+          "brief": "いま生きている名前を、神話の側へ回収しない。",
+          "enemy": "ヤマト",
+          "enemy_civ": "YAMATO",
+          "civ": "CONTEMPORARY",
+          "civ_id": "contemporary",
+          "foes": [
+            "edo",
+            "osaka",
+            "nagasaki",
+            "kamakura",
+            "amaterasu",
+            "tsukuyomi"
+          ],
+          "recommend": 70,
+          "reward": 110,
+          "chapter_end": true,
+          "art": "res://assets/campaign/11_10.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "現代・記憶核。いま生きている名前を、神話の側へ回収しない。"
+            },
+            {
+              "speaker": "パリ",
+              "text": "ここは現代都市の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "ロンドン",
+              "text": "パリ、急がないで。現代・記憶核は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "天照",
+              "text": "ヤマトの側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "パリ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "現代都市の核は、ここにある。ヤマトには渡さない。"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "未来文明",
+      "civ": "FUTURE",
+      "civ_id": "future",
+      "enemy": "東京",
+      "enemy_civ": "TOKYO",
+      "blurb": "軌道と方舟が、荒廃した東京の核を保管しようとする。未来を、未来のまま返す。",
+      "stages": [
+        {
+          "code": "12-1",
+          "chapter": "12",
+          "area": "未来文明",
+          "place": "オービタル・環の港",
+          "brief": "環の港から、地球の夜が見下ろせる。",
+          "enemy": "東京",
+          "enemy_civ": "TOKYO",
+          "civ": "FUTURE",
+          "civ_id": "future",
+          "foes": [
+            "tokyo",
+            "meiji",
+            "yokohama"
+          ],
+          "recommend": 67,
+          "reward": 98,
+          "chapter_end": false,
+          "art": "res://assets/campaign/12_1.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "オービタル・環の港。環の港から、地球の夜が見下ろせる。"
+            },
+            {
+              "speaker": "アエテルナ",
+              "text": "ここは未来文明の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "方舟",
+              "text": "アエテルナ、急がないで。オービタル・環の港は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "東京",
+              "text": "東京の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "アエテルナ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。オービタル・環の港の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "12-2",
+          "chapter": "12",
+          "area": "未来文明",
+          "place": "機関・中枢廊",
+          "brief": "廊の壁が、自分の保守記録を朗読している。",
+          "enemy": "東京",
+          "enemy_civ": "TOKYO",
+          "civ": "FUTURE",
+          "civ_id": "future",
+          "foes": [
+            "meiji",
+            "yokohama",
+            "future_tokyo",
+            "yamato"
+          ],
+          "recommend": 68,
+          "reward": 100,
+          "chapter_end": false,
+          "art": "res://assets/campaign/12_2.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "機関・中枢廊。廊の壁が、自分の保守記録を朗読している。"
+            },
+            {
+              "speaker": "アエテルナ",
+              "text": "ここは未来文明の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "方舟",
+              "text": "アエテルナ、急がないで。機関・中枢廊は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "東京",
+              "text": "東京の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "アエテルナ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。機関・中枢廊の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "12-3",
+          "chapter": "12",
+          "area": "未来文明",
+          "place": "アエテルナ・静止軌道",
+          "brief": "静止した軌道で、時間だけが歩いている。",
+          "enemy": "東京",
+          "enemy_civ": "TOKYO",
+          "civ": "FUTURE",
+          "civ_id": "future",
+          "foes": [
+            "yokohama",
+            "future_tokyo",
+            "yamato",
+            "tokyo",
+            "meiji"
+          ],
+          "recommend": 69,
+          "reward": 102,
+          "chapter_end": false,
+          "art": "res://assets/campaign/12_3.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "アエテルナ・静止軌道。静止した軌道で、時間だけが歩いている。"
+            },
+            {
+              "speaker": "アエテルナ",
+              "text": "ここは未来文明の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "方舟",
+              "text": "アエテルナ、急がないで。アエテルナ・静止軌道は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "東京",
+              "text": "東京の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "アエテルナ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。アエテルナ・静止軌道の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "12-4",
+          "chapter": "12",
+          "area": "未来文明",
+          "place": "月面・黒い海",
+          "brief": "黒い海に、最初の足跡がまだ新しい。",
+          "enemy": "東京",
+          "enemy_civ": "TOKYO",
+          "civ": "FUTURE",
+          "civ_id": "future",
+          "foes": [
+            "future_tokyo",
+            "yamato",
+            "tokyo",
+            "meiji",
+            "yokohama",
+            "future_tokyo"
+          ],
+          "recommend": 70,
+          "reward": 104,
+          "chapter_end": false,
+          "art": "res://assets/campaign/12_4.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "月面・黒い海。黒い海に、最初の足跡がまだ新しい。"
+            },
+            {
+              "speaker": "アエテルナ",
+              "text": "ここは未来文明の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "方舟",
+              "text": "アエテルナ、急がないで。月面・黒い海は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "東京",
+              "text": "東京の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "アエテルナ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。月面・黒い海の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "12-5",
+          "chapter": "12",
+          "area": "未来文明",
+          "place": "方舟・種子庫",
+          "brief": "種子のラベルが、文明の略号だけで並ぶ。",
+          "enemy": "東京",
+          "enemy_civ": "TOKYO",
+          "civ": "FUTURE",
+          "civ_id": "future",
+          "foes": [
+            "yamato",
+            "tokyo",
+            "meiji",
+            "yokohama",
+            "future_tokyo",
+            "yamato"
+          ],
+          "recommend": 71,
+          "reward": 106,
+          "chapter_end": false,
+          "art": "res://assets/campaign/12_5.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "方舟・種子庫。種子のラベルが、文明の略号だけで並ぶ。"
+            },
+            {
+              "speaker": "アエテルナ",
+              "text": "ここは未来文明の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "方舟",
+              "text": "アエテルナ、急がないで。方舟・種子庫は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "東京",
+              "text": "東京の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "アエテルナ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。方舟・種子庫の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "12-6",
+          "chapter": "12",
+          "area": "未来文明",
+          "place": "ネクサス・結線",
+          "brief": "結線の光が、どの都市の記憶かラベルを失う。",
+          "enemy": "東京",
+          "enemy_civ": "TOKYO",
+          "civ": "FUTURE",
+          "civ_id": "future",
+          "foes": [
+            "tokyo",
+            "meiji",
+            "yokohama",
+            "future_tokyo",
+            "yamato",
+            "tokyo"
+          ],
+          "recommend": 72,
+          "reward": 108,
+          "chapter_end": false,
+          "art": "res://assets/campaign/12_6.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "ネクサス・結線。結線の光が、どの都市の記憶かラベルを失う。"
+            },
+            {
+              "speaker": "アエテルナ",
+              "text": "ここは未来文明の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "方舟",
+              "text": "アエテルナ、急がないで。ネクサス・結線は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "東京",
+              "text": "東京の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "アエテルナ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。ネクサス・結線の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "12-7",
+          "chapter": "12",
+          "area": "未来文明",
+          "place": "降下艇・大気の縁",
+          "brief": "大気の縁で、東京の灯が一点になる。",
+          "enemy": "東京",
+          "enemy_civ": "TOKYO",
+          "civ": "FUTURE",
+          "civ_id": "future",
+          "foes": [
+            "meiji",
+            "yokohama",
+            "future_tokyo",
+            "yamato",
+            "tokyo",
+            "meiji"
+          ],
+          "recommend": 73,
+          "reward": 110,
+          "chapter_end": false,
+          "art": "res://assets/campaign/12_7.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "降下艇・大気の縁。大気の縁で、東京の灯が一点になる。"
+            },
+            {
+              "speaker": "アエテルナ",
+              "text": "ここは未来文明の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "方舟",
+              "text": "アエテルナ、急がないで。降下艇・大気の縁は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "東京",
+              "text": "東京の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "アエテルナ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。降下艇・大気の縁の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "12-8",
+          "chapter": "12",
+          "area": "未来文明",
+          "place": "保管庫・無重力の棚",
+          "brief": "棚の遺物が、重さを忘れたまま浮かぶ。",
+          "enemy": "東京",
+          "enemy_civ": "TOKYO",
+          "civ": "FUTURE",
+          "civ_id": "future",
+          "foes": [
+            "yokohama",
+            "future_tokyo",
+            "yamato",
+            "tokyo",
+            "meiji",
+            "yokohama"
+          ],
+          "recommend": 74,
+          "reward": 112,
+          "chapter_end": false,
+          "art": "res://assets/campaign/12_8.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "保管庫・無重力の棚。棚の遺物が、重さを忘れたまま浮かぶ。"
+            },
+            {
+              "speaker": "アエテルナ",
+              "text": "ここは未来文明の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "方舟",
+              "text": "アエテルナ、急がないで。保管庫・無重力の棚は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "東京",
+              "text": "東京の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "アエテルナ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。保管庫・無重力の棚の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "12-9",
+          "chapter": "12",
+          "area": "未来文明",
+          "place": "観測甲板・地球照",
+          "brief": "地球照が、失われた街の形を縁取る。",
+          "enemy": "東京",
+          "enemy_civ": "TOKYO",
+          "civ": "FUTURE",
+          "civ_id": "future",
+          "foes": [
+            "future_tokyo",
+            "yamato",
+            "tokyo",
+            "meiji",
+            "yokohama",
+            "future_tokyo"
+          ],
+          "recommend": 75,
+          "reward": 114,
+          "chapter_end": false,
+          "art": "res://assets/campaign/12_9.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "観測甲板・地球照。地球照が、失われた街の形を縁取る。"
+            },
+            {
+              "speaker": "アエテルナ",
+              "text": "ここは未来文明の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "方舟",
+              "text": "アエテルナ、急がないで。観測甲板・地球照は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "東京",
+              "text": "東京の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "アエテルナ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "まだ奥がある。観測甲板・地球照の次へ進む。"
+            }
+          ]
+        },
+        {
+          "code": "12-10",
+          "chapter": "12",
+          "area": "未来文明",
+          "place": "未来・記憶核",
+          "brief": "これから先の核を、終わった東京の鏡へ渡さない。",
+          "enemy": "東京",
+          "enemy_civ": "TOKYO",
+          "civ": "FUTURE",
+          "civ_id": "future",
+          "foes": [
+            "yamato",
+            "tokyo",
+            "meiji",
+            "yokohama",
+            "future_tokyo",
+            "yamato"
+          ],
+          "recommend": 76,
+          "reward": 116,
+          "chapter_end": true,
+          "art": "res://assets/campaign/12_10.png",
+          "lines": [
+            {
+              "speaker": "",
+              "text": "未来・記憶核。これから先の核を、終わった東京の鏡へ渡さない。"
+            },
+            {
+              "speaker": "アエテルナ",
+              "text": "ここは未来文明の層だ。名を、消させない。"
+            },
+            {
+              "speaker": "方舟",
+              "text": "アエテルナ、急がないで。未来・記憶核は、まだどちらにも属していない。"
+            },
+            {
+              "speaker": "東京",
+              "text": "東京の側だ。この地は、もう私たちの地図に書いてある。"
+            },
+            {
+              "speaker": "アエテルナ",
+              "text": "書いてあっても、口に出した名前のほうが強い。"
+            },
+            {
+              "speaker": "",
+              "text": "未来文明の核は、ここにある。東京には渡さない。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

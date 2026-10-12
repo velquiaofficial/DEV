@@ -1,0 +1,1355 @@
+{
+  "help": "読み込む画像の一覧。path の場所にPNGを置くと、その枠に入る。ui の絵は、置いた時点でボタンやパネルの地になる。同じファイルは1回だけ書いてある。",
+  "images": [
+    {
+      "path": "assets/backgrounds/chapter-1.png",
+      "kind": "背景",
+      "name": "第1章 桜ノ廃都の戦闘"
+    },
+    {
+      "path": "assets/backgrounds/chapter-2.png",
+      "kind": "背景",
+      "name": "第2章 神々の残響の戦闘"
+    },
+    {
+      "path": "assets/backgrounds/chapter-3.png",
+      "kind": "背景",
+      "name": "第3章 永劫の門の戦闘"
+    },
+    {
+      "path": "assets/backgrounds/chapter-4.png",
+      "kind": "背景",
+      "name": "第4章 霜蝕の回廊の戦闘"
+    },
+    {
+      "path": "assets/backgrounds/chapter-5.png",
+      "kind": "背景",
+      "name": "第5章 月下の祭壇の戦闘"
+    },
+    {
+      "path": "assets/backgrounds/chapter-6.png",
+      "kind": "背景",
+      "name": "第6章 星哭の庭の戦闘"
+    },
+    {
+      "path": "assets/backgrounds/chapter-7.png",
+      "kind": "背景",
+      "name": "第7章 永結の核の戦闘"
+    },
+    {
+      "path": "assets/select/bg.png",
+      "kind": "背景",
+      "name": "編成"
+    },
+    {
+      "path": "assets/hub/title/bg.png",
+      "kind": "背景",
+      "name": "タイトル"
+    },
+    {
+      "path": "assets/hub/login/bg.png",
+      "kind": "背景",
+      "name": "ログイン"
+    },
+    {
+      "path": "assets/hub/home/bg.png",
+      "kind": "背景",
+      "name": "ホームの一番後ろ"
+    },
+    {
+      "path": "assets/hub/story/bg.png",
+      "kind": "背景",
+      "name": "物語"
+    },
+    {
+      "path": "assets/hub/gacha/bg.png",
+      "kind": "背景",
+      "name": "ガチャ"
+    },
+    {
+      "path": "assets/hub/shop/bg.png",
+      "kind": "背景",
+      "name": "ショップ"
+    },
+    {
+      "path": "assets/hub/extra/bg.png",
+      "kind": "背景",
+      "name": "ミッションなどの画面"
+    },
+    {
+      "path": "assets/hub/title/logo.png",
+      "kind": "タイトル",
+      "name": "紋"
+    },
+    {
+      "path": "assets/hub/title/hero.png",
+      "kind": "タイトル",
+      "name": "立ち絵"
+    },
+    {
+      "path": "assets/hub/login/hero.png",
+      "kind": "ログイン",
+      "name": "立ち絵"
+    },
+    {
+      "path": "assets/hub/login/石.png",
+      "kind": "ログイン",
+      "name": "石の報酬"
+    },
+    {
+      "path": "assets/hub/login/札.png",
+      "kind": "ログイン",
+      "name": "札の報酬"
+    },
+    {
+      "path": "assets/hub/login/武器.png",
+      "kind": "ログイン",
+      "name": "武器の報酬"
+    },
+    {
+      "path": "assets/hub/login/星.png",
+      "kind": "ログイン",
+      "name": "星の報酬"
+    },
+    {
+      "path": "assets/hub/home/player.png",
+      "kind": "ホーム",
+      "name": "プレイヤーの顔"
+    },
+    {
+      "path": "assets/hub/home/hero.png",
+      "kind": "ホーム",
+      "name": "ホームの立ち絵"
+    },
+    {
+      "path": "assets/hub/home/amaterasu.png",
+      "kind": "ホーム",
+      "name": "天照の立ち絵"
+    },
+    {
+      "path": "assets/hub/home/nav-party.png",
+      "kind": "ホーム",
+      "name": "編成"
+    },
+    {
+      "path": "assets/hub/home/nav-home.png",
+      "kind": "ホーム",
+      "name": "ホーム"
+    },
+    {
+      "path": "assets/hub/home/nav-shop.png",
+      "kind": "ホーム",
+      "name": "ショップ"
+    },
+    {
+      "path": "assets/hub/home/nav-gacha.png",
+      "kind": "ホーム",
+      "name": "ガチャ"
+    },
+    {
+      "path": "assets/hub/home/nav-battle.png",
+      "kind": "ホーム",
+      "name": "出撃"
+    },
+    {
+      "path": "assets/hub/home/side-news.png",
+      "kind": "ホーム",
+      "name": "お知らせ"
+    },
+    {
+      "path": "assets/hub/home/side-mission.png",
+      "kind": "ホーム",
+      "name": "ミッション"
+    },
+    {
+      "path": "assets/hub/home/side-gift.png",
+      "kind": "ホーム",
+      "name": "プレゼント"
+    },
+    {
+      "path": "assets/hub/home/side-story.png",
+      "kind": "ホーム",
+      "name": "ストーリー"
+    },
+    {
+      "path": "assets/hub/story/actor.png",
+      "kind": "物語",
+      "name": "語りの立ち絵"
+    },
+    {
+      "path": "assets/hub/gacha/pickup.png",
+      "kind": "ガチャ",
+      "name": "天照の曙光の立ち絵"
+    },
+    {
+      "path": "assets/hub/gacha/logo.png",
+      "kind": "ガチャ",
+      "name": "ガチャの紋"
+    },
+    {
+      "path": "assets/hub/gacha/ticket.png",
+      "kind": "ガチャ",
+      "name": "召喚札"
+    },
+    {
+      "path": "assets/hub/gacha/nav-home.png",
+      "kind": "ガチャ",
+      "name": "ホーム"
+    },
+    {
+      "path": "assets/hub/gacha/nav-news.png",
+      "kind": "ガチャ",
+      "name": "お知らせ"
+    },
+    {
+      "path": "assets/hub/gacha/nav-menu.png",
+      "kind": "ガチャ",
+      "name": "メニュー"
+    },
+    {
+      "path": "assets/hub/gacha/banners/dawn.png",
+      "kind": "ガチャ",
+      "name": "天照の曙光のバナー"
+    },
+    {
+      "path": "assets/hub/gacha/banners/moon.png",
+      "kind": "ガチャ",
+      "name": "月影の契りのバナー"
+    },
+    {
+      "path": "assets/hub/gacha/banners/sea.png",
+      "kind": "ガチャ",
+      "name": "海天の詩のバナー"
+    },
+    {
+      "path": "assets/hub/gacha/banners/standard.png",
+      "kind": "ガチャ",
+      "name": "恒常召喚のバナー"
+    },
+    {
+      "path": "assets/hub/gacha/banners/friend.png",
+      "kind": "ガチャ",
+      "name": "友情召喚のバナー"
+    },
+    {
+      "path": "assets/hub/gacha/heroes/moon.png",
+      "kind": "ガチャ",
+      "name": "月影の契りの立ち絵"
+    },
+    {
+      "path": "assets/hub/gacha/heroes/sea.png",
+      "kind": "ガチャ",
+      "name": "海天の詩の立ち絵"
+    },
+    {
+      "path": "assets/hub/gacha/heroes/standard.png",
+      "kind": "ガチャ",
+      "name": "恒常召喚の立ち絵"
+    },
+    {
+      "path": "assets/hub/gacha/heroes/friend.png",
+      "kind": "ガチャ",
+      "name": "友情召喚の立ち絵"
+    },
+    {
+      "path": "assets/hub/gacha/titles/dawn.png",
+      "kind": "ガチャ",
+      "name": "天照の曙光の題字"
+    },
+    {
+      "path": "assets/hub/gacha/titles/moon.png",
+      "kind": "ガチャ",
+      "name": "月影の契りの題字"
+    },
+    {
+      "path": "assets/hub/gacha/titles/sea.png",
+      "kind": "ガチャ",
+      "name": "海天の詩の題字"
+    },
+    {
+      "path": "assets/hub/gacha/titles/standard.png",
+      "kind": "ガチャ",
+      "name": "恒常召喚の題字"
+    },
+    {
+      "path": "assets/hub/gacha/titles/friend.png",
+      "kind": "ガチャ",
+      "name": "友情召喚の題字"
+    },
+    {
+      "path": "assets/hub/gacha/frame-ssr.png",
+      "kind": "ガチャ",
+      "name": "SSRの枠"
+    },
+    {
+      "path": "assets/hub/gacha/frame-sr.png",
+      "kind": "ガチャ",
+      "name": "SRの枠"
+    },
+    {
+      "path": "assets/hub/gacha/frame-r.png",
+      "kind": "ガチャ",
+      "name": "Rの枠"
+    },
+    {
+      "path": "assets/hub/gacha/pull-once.png",
+      "kind": "ガチャ",
+      "name": "1回召喚のボタン"
+    },
+    {
+      "path": "assets/hub/gacha/pull-ten.png",
+      "kind": "ガチャ",
+      "name": "10回召喚のボタン"
+    },
+    {
+      "path": "assets/hub/gacha/fx/orb.png",
+      "kind": "ガチャ",
+      "name": "召喚の光"
+    },
+    {
+      "path": "assets/hub/gacha/fx/back.png",
+      "kind": "ガチャ",
+      "name": "カードの裏面"
+    },
+    {
+      "path": "assets/hub/shop/pack-star.png",
+      "kind": "ショップ",
+      "name": "星晶パック"
+    },
+    {
+      "path": "assets/hub/shop/pack-growth.png",
+      "kind": "ショップ",
+      "name": "育成パック"
+    },
+    {
+      "path": "assets/hub/shop/pack-month.png",
+      "kind": "ショップ",
+      "name": "月間パス"
+    },
+    {
+      "path": "assets/hub/shop/potion.png",
+      "kind": "ショップ",
+      "name": "回復薬"
+    },
+    {
+      "path": "assets/hub/shop/ticket.png",
+      "kind": "ショップ",
+      "name": "召喚札"
+    },
+    {
+      "path": "assets/hub/shop/stone.png",
+      "kind": "ショップ",
+      "name": "強化石"
+    },
+    {
+      "path": "assets/hub/extra/mission.png",
+      "kind": "その他",
+      "name": "ミッション"
+    },
+    {
+      "path": "assets/hub/extra/codex.png",
+      "kind": "その他",
+      "name": "図鑑"
+    },
+    {
+      "path": "assets/hub/extra/friend.png",
+      "kind": "その他",
+      "name": "フレンド"
+    },
+    {
+      "path": "assets/hub/extra/config.png",
+      "kind": "その他",
+      "name": "設定"
+    },
+    {
+      "path": "assets/hub/extra/friends/guest.png",
+      "kind": "フレンド",
+      "name": "ゲスト"
+    },
+    {
+      "path": "assets/portraits/amaterasu.png",
+      "kind": "立ち絵",
+      "name": "天照"
+    },
+    {
+      "path": "assets/sprites/amaterasu.png",
+      "kind": "戦闘の立ち絵",
+      "name": "天照"
+    },
+    {
+      "path": "assets/skills/amaterasu/1.png",
+      "kind": "スキル",
+      "name": "天照のスキル1"
+    },
+    {
+      "path": "assets/skills/amaterasu/2.png",
+      "kind": "スキル",
+      "name": "天照のスキル2"
+    },
+    {
+      "path": "assets/skills/amaterasu/3.png",
+      "kind": "スキル",
+      "name": "天照のスキル3"
+    },
+    {
+      "path": "assets/skills/amaterasu/4.png",
+      "kind": "スキル",
+      "name": "天照のスキル4"
+    },
+    {
+      "path": "assets/skills/amaterasu/special.png",
+      "kind": "スキル",
+      "name": "天照の必殺"
+    },
+    {
+      "path": "assets/portraits/athena.png",
+      "kind": "立ち絵",
+      "name": "アテナ"
+    },
+    {
+      "path": "assets/sprites/athena.png",
+      "kind": "戦闘の立ち絵",
+      "name": "アテナ"
+    },
+    {
+      "path": "assets/skills/athena/1.png",
+      "kind": "スキル",
+      "name": "アテナのスキル1"
+    },
+    {
+      "path": "assets/skills/athena/2.png",
+      "kind": "スキル",
+      "name": "アテナのスキル2"
+    },
+    {
+      "path": "assets/skills/athena/3.png",
+      "kind": "スキル",
+      "name": "アテナのスキル3"
+    },
+    {
+      "path": "assets/skills/athena/4.png",
+      "kind": "スキル",
+      "name": "アテナのスキル4"
+    },
+    {
+      "path": "assets/skills/athena/special.png",
+      "kind": "スキル",
+      "name": "アテナの必殺"
+    },
+    {
+      "path": "assets/portraits/isis.png",
+      "kind": "立ち絵",
+      "name": "イシス"
+    },
+    {
+      "path": "assets/sprites/isis.png",
+      "kind": "戦闘の立ち絵",
+      "name": "イシス"
+    },
+    {
+      "path": "assets/skills/isis/1.png",
+      "kind": "スキル",
+      "name": "イシスのスキル1"
+    },
+    {
+      "path": "assets/skills/isis/2.png",
+      "kind": "スキル",
+      "name": "イシスのスキル2"
+    },
+    {
+      "path": "assets/skills/isis/3.png",
+      "kind": "スキル",
+      "name": "イシスのスキル3"
+    },
+    {
+      "path": "assets/skills/isis/4.png",
+      "kind": "スキル",
+      "name": "イシスのスキル4"
+    },
+    {
+      "path": "assets/skills/isis/special.png",
+      "kind": "スキル",
+      "name": "イシスの必殺"
+    },
+    {
+      "path": "assets/portraits/roma.png",
+      "kind": "立ち絵",
+      "name": "ローマ"
+    },
+    {
+      "path": "assets/sprites/roma.png",
+      "kind": "戦闘の立ち絵",
+      "name": "ローマ"
+    },
+    {
+      "path": "assets/skills/roma/1.png",
+      "kind": "スキル",
+      "name": "ローマのスキル1"
+    },
+    {
+      "path": "assets/skills/roma/2.png",
+      "kind": "スキル",
+      "name": "ローマのスキル2"
+    },
+    {
+      "path": "assets/skills/roma/3.png",
+      "kind": "スキル",
+      "name": "ローマのスキル3"
+    },
+    {
+      "path": "assets/skills/roma/4.png",
+      "kind": "スキル",
+      "name": "ローマのスキル4"
+    },
+    {
+      "path": "assets/skills/roma/special.png",
+      "kind": "スキル",
+      "name": "ローマの必殺"
+    },
+    {
+      "path": "assets/portraits/cleopatra.png",
+      "kind": "立ち絵",
+      "name": "クレオパトラ"
+    },
+    {
+      "path": "assets/sprites/cleopatra.png",
+      "kind": "戦闘の立ち絵",
+      "name": "クレオパトラ"
+    },
+    {
+      "path": "assets/skills/cleopatra/1.png",
+      "kind": "スキル",
+      "name": "クレオパトラのスキル1"
+    },
+    {
+      "path": "assets/skills/cleopatra/2.png",
+      "kind": "スキル",
+      "name": "クレオパトラのスキル2"
+    },
+    {
+      "path": "assets/skills/cleopatra/3.png",
+      "kind": "スキル",
+      "name": "クレオパトラのスキル3"
+    },
+    {
+      "path": "assets/skills/cleopatra/4.png",
+      "kind": "スキル",
+      "name": "クレオパトラのスキル4"
+    },
+    {
+      "path": "assets/skills/cleopatra/special.png",
+      "kind": "スキル",
+      "name": "クレオパトラの必殺"
+    },
+    {
+      "path": "assets/portraits/freyja.png",
+      "kind": "立ち絵",
+      "name": "フレイヤ"
+    },
+    {
+      "path": "assets/sprites/freyja.png",
+      "kind": "戦闘の立ち絵",
+      "name": "フレイヤ"
+    },
+    {
+      "path": "assets/skills/freyja/1.png",
+      "kind": "スキル",
+      "name": "フレイヤのスキル1"
+    },
+    {
+      "path": "assets/skills/freyja/2.png",
+      "kind": "スキル",
+      "name": "フレイヤのスキル2"
+    },
+    {
+      "path": "assets/skills/freyja/3.png",
+      "kind": "スキル",
+      "name": "フレイヤのスキル3"
+    },
+    {
+      "path": "assets/skills/freyja/4.png",
+      "kind": "スキル",
+      "name": "フレイヤのスキル4"
+    },
+    {
+      "path": "assets/skills/freyja/special.png",
+      "kind": "スキル",
+      "name": "フレイヤの必殺"
+    },
+    {
+      "path": "assets/portraits/artemis.png",
+      "kind": "立ち絵",
+      "name": "アルテミス"
+    },
+    {
+      "path": "assets/sprites/artemis.png",
+      "kind": "戦闘の立ち絵",
+      "name": "アルテミス"
+    },
+    {
+      "path": "assets/skills/artemis/1.png",
+      "kind": "スキル",
+      "name": "アルテミスのスキル1"
+    },
+    {
+      "path": "assets/skills/artemis/2.png",
+      "kind": "スキル",
+      "name": "アルテミスのスキル2"
+    },
+    {
+      "path": "assets/skills/artemis/3.png",
+      "kind": "スキル",
+      "name": "アルテミスのスキル3"
+    },
+    {
+      "path": "assets/skills/artemis/4.png",
+      "kind": "スキル",
+      "name": "アルテミスのスキル4"
+    },
+    {
+      "path": "assets/skills/artemis/special.png",
+      "kind": "スキル",
+      "name": "アルテミスの必殺"
+    },
+    {
+      "path": "assets/sprites/bone.png",
+      "kind": "敵",
+      "name": "骨兵"
+    },
+    {
+      "path": "assets/sprites/rot.png",
+      "kind": "敵",
+      "name": "朽ち兵"
+    },
+    {
+      "path": "assets/sprites/shade.png",
+      "kind": "敵",
+      "name": "桜ノ影"
+    },
+    {
+      "path": "assets/sprites/boss-1.png",
+      "kind": "首領",
+      "name": "門番"
+    },
+    {
+      "path": "assets/sprites/echo.png",
+      "kind": "敵",
+      "name": "残響"
+    },
+    {
+      "path": "assets/sprites/acolyte.png",
+      "kind": "敵",
+      "name": "神官"
+    },
+    {
+      "path": "assets/sprites/statue.png",
+      "kind": "敵",
+      "name": "石像"
+    },
+    {
+      "path": "assets/sprites/boss-2.png",
+      "kind": "首領",
+      "name": "神域の番"
+    },
+    {
+      "path": "assets/sprites/gate.png",
+      "kind": "敵",
+      "name": "門兵"
+    },
+    {
+      "path": "assets/sprites/hound.png",
+      "kind": "敵",
+      "name": "番犬"
+    },
+    {
+      "path": "assets/sprites/armor.png",
+      "kind": "敵",
+      "name": "鎧武者"
+    },
+    {
+      "path": "assets/sprites/boss-3.png",
+      "kind": "首領",
+      "name": "永劫の番"
+    },
+    {
+      "path": "assets/sprites/frost.png",
+      "kind": "敵",
+      "name": "霜兵"
+    },
+    {
+      "path": "assets/sprites/wolf.png",
+      "kind": "敵",
+      "name": "霜狼"
+    },
+    {
+      "path": "assets/sprites/iceblock.png",
+      "kind": "敵",
+      "name": "氷塊"
+    },
+    {
+      "path": "assets/sprites/boss-4.png",
+      "kind": "首領",
+      "name": "回廊の主"
+    },
+    {
+      "path": "assets/sprites/offering.png",
+      "kind": "敵",
+      "name": "供物の影"
+    },
+    {
+      "path": "assets/sprites/miko.png",
+      "kind": "敵",
+      "name": "月下の巫"
+    },
+    {
+      "path": "assets/sprites/beast.png",
+      "kind": "敵",
+      "name": "祭壇の獣"
+    },
+    {
+      "path": "assets/sprites/boss-5.png",
+      "kind": "首領",
+      "name": "月の祭司"
+    },
+    {
+      "path": "assets/sprites/stardust.png",
+      "kind": "敵",
+      "name": "星の屑"
+    },
+    {
+      "path": "assets/sprites/tree.png",
+      "kind": "敵",
+      "name": "哭く樹"
+    },
+    {
+      "path": "assets/sprites/keeper.png",
+      "kind": "敵",
+      "name": "庭の番人"
+    },
+    {
+      "path": "assets/sprites/boss-6.png",
+      "kind": "首領",
+      "name": "星の看守"
+    },
+    {
+      "path": "assets/sprites/shard.png",
+      "kind": "敵",
+      "name": "核の欠片"
+    },
+    {
+      "path": "assets/sprites/ward.png",
+      "kind": "敵",
+      "name": "結界の兵"
+    },
+    {
+      "path": "assets/sprites/guard.png",
+      "kind": "敵",
+      "name": "永結の衛"
+    },
+    {
+      "path": "assets/sprites/boss-7.png",
+      "kind": "首領",
+      "name": "永結の核"
+    },
+    {
+      "path": "assets/icons/elements/fire.png",
+      "kind": "属性",
+      "name": "火"
+    },
+    {
+      "path": "assets/icons/elements/ice.png",
+      "kind": "属性",
+      "name": "氷"
+    },
+    {
+      "path": "assets/icons/elements/light.png",
+      "kind": "属性",
+      "name": "光"
+    },
+    {
+      "path": "assets/icons/elements/dark.png",
+      "kind": "属性",
+      "name": "闇"
+    },
+    {
+      "path": "assets/icons/elements/moon.png",
+      "kind": "属性",
+      "name": "月"
+    },
+    {
+      "path": "assets/icons/currencies/stellar.png",
+      "kind": "通貨",
+      "name": "★"
+    },
+    {
+      "path": "assets/icons/currencies/coin.png",
+      "kind": "通貨",
+      "name": "●"
+    },
+    {
+      "path": "assets/icons/currencies/azure.png",
+      "kind": "通貨",
+      "name": "◆"
+    },
+    {
+      "path": "assets/select/ui/logo.png",
+      "kind": "編成",
+      "name": "紋"
+    },
+    {
+      "path": "assets/select/ui/mail.png",
+      "kind": "編成",
+      "name": "手紙"
+    },
+    {
+      "path": "assets/select/ui/gift.png",
+      "kind": "編成",
+      "name": "贈り物"
+    },
+    {
+      "path": "assets/select/ui/menu.png",
+      "kind": "編成",
+      "name": "メニュー"
+    },
+    {
+      "path": "assets/select/ui/edit.png",
+      "kind": "編成",
+      "name": "編成の印"
+    },
+    {
+      "path": "assets/select/ui/depart.png",
+      "kind": "編成",
+      "name": "出撃"
+    },
+    {
+      "path": "assets/ui/sub-mark.png",
+      "kind": "戦闘",
+      "name": "交代の印"
+    },
+    {
+      "path": "assets/select/chapters/chapter-1.png",
+      "kind": "章",
+      "name": "第1章 桜ノ廃都"
+    },
+    {
+      "path": "assets/select/stages/1-1.png",
+      "kind": "ステージ",
+      "name": "1-1 崩れた参道"
+    },
+    {
+      "path": "assets/select/drops/coin.png",
+      "kind": "報酬",
+      "name": "通貨"
+    },
+    {
+      "path": "assets/select/drops/petal.png",
+      "kind": "報酬",
+      "name": "花"
+    },
+    {
+      "path": "assets/select/stages/1-2.png",
+      "kind": "ステージ",
+      "name": "1-2 紅の灯火"
+    },
+    {
+      "path": "assets/select/stages/1-3.png",
+      "kind": "ステージ",
+      "name": "1-3 散る桜の下で"
+    },
+    {
+      "path": "assets/select/stages/1-4.png",
+      "kind": "ステージ",
+      "name": "1-4 鳥居の影"
+    },
+    {
+      "path": "assets/select/stages/1-5.png",
+      "kind": "ステージ",
+      "name": "1-5 廃駅のホーム"
+    },
+    {
+      "path": "assets/select/stages/1-6.png",
+      "kind": "ステージ",
+      "name": "1-6 桜吹雪の坂"
+    },
+    {
+      "path": "assets/select/stages/1-7.png",
+      "kind": "ステージ",
+      "name": "1-7 夜の茶屋"
+    },
+    {
+      "path": "assets/select/stages/1-8.png",
+      "kind": "ステージ",
+      "name": "1-8 門前の石段"
+    },
+    {
+      "path": "assets/select/stages/1-9.png",
+      "kind": "ステージ",
+      "name": "1-9 常世の橋"
+    },
+    {
+      "path": "assets/select/stages/1-10.png",
+      "kind": "ステージ",
+      "name": "1-10 常世の門"
+    },
+    {
+      "path": "assets/select/drops/gem.png",
+      "kind": "報酬",
+      "name": "宝玉"
+    },
+    {
+      "path": "assets/select/drops/bolt.png",
+      "kind": "報酬",
+      "name": "雷"
+    },
+    {
+      "path": "assets/select/chapters/chapter-2.png",
+      "kind": "章",
+      "name": "第2章 神々の残響"
+    },
+    {
+      "path": "assets/select/stages/2-1.png",
+      "kind": "ステージ",
+      "name": "2-1 目覚めの回廊"
+    },
+    {
+      "path": "assets/select/stages/2-2.png",
+      "kind": "ステージ",
+      "name": "2-2 神名の碑"
+    },
+    {
+      "path": "assets/select/stages/2-3.png",
+      "kind": "ステージ",
+      "name": "2-3 残響の間"
+    },
+    {
+      "path": "assets/select/stages/2-4.png",
+      "kind": "ステージ",
+      "name": "2-4 供物の壇"
+    },
+    {
+      "path": "assets/select/stages/2-5.png",
+      "kind": "ステージ",
+      "name": "2-5 沈黙の廊下"
+    },
+    {
+      "path": "assets/select/stages/2-6.png",
+      "kind": "ステージ",
+      "name": "2-6 古き社"
+    },
+    {
+      "path": "assets/select/stages/2-7.png",
+      "kind": "ステージ",
+      "name": "2-7 神域の階"
+    },
+    {
+      "path": "assets/select/stages/2-8.png",
+      "kind": "ステージ",
+      "name": "2-8 鈴の音"
+    },
+    {
+      "path": "assets/select/stages/2-9.png",
+      "kind": "ステージ",
+      "name": "2-9 最奥の帳"
+    },
+    {
+      "path": "assets/select/stages/2-10.png",
+      "kind": "ステージ",
+      "name": "2-10 神域の最奥"
+    },
+    {
+      "path": "assets/select/chapters/chapter-3.png",
+      "kind": "章",
+      "name": "第3章 永劫の門"
+    },
+    {
+      "path": "assets/select/stages/3-1.png",
+      "kind": "ステージ",
+      "name": "3-1 門の前"
+    },
+    {
+      "path": "assets/select/stages/3-2.png",
+      "kind": "ステージ",
+      "name": "3-2 交差する記憶"
+    },
+    {
+      "path": "assets/select/stages/3-3.png",
+      "kind": "ステージ",
+      "name": "3-3 紫の霧"
+    },
+    {
+      "path": "assets/select/stages/3-4.png",
+      "kind": "ステージ",
+      "name": "3-4 門柱"
+    },
+    {
+      "path": "assets/select/stages/3-5.png",
+      "kind": "ステージ",
+      "name": "3-5 忘却の池"
+    },
+    {
+      "path": "assets/select/stages/3-6.png",
+      "kind": "ステージ",
+      "name": "3-6 二度目の鳥居"
+    },
+    {
+      "path": "assets/select/stages/3-7.png",
+      "kind": "ステージ",
+      "name": "3-7 永劫の階段"
+    },
+    {
+      "path": "assets/select/stages/3-8.png",
+      "kind": "ステージ",
+      "name": "3-8 門の内側"
+    },
+    {
+      "path": "assets/select/stages/3-9.png",
+      "kind": "ステージ",
+      "name": "3-9 番の間"
+    },
+    {
+      "path": "assets/select/stages/3-10.png",
+      "kind": "ステージ",
+      "name": "3-10 永劫の核"
+    },
+    {
+      "path": "assets/select/chapters/chapter-4.png",
+      "kind": "章",
+      "name": "第4章 霜蝕の回廊"
+    },
+    {
+      "path": "assets/select/stages/4-1.png",
+      "kind": "ステージ",
+      "name": "4-1 霜の入口"
+    },
+    {
+      "path": "assets/select/stages/4-2.png",
+      "kind": "ステージ",
+      "name": "4-2 凍った灯"
+    },
+    {
+      "path": "assets/select/stages/4-3.png",
+      "kind": "ステージ",
+      "name": "4-3 氷の回廊"
+    },
+    {
+      "path": "assets/select/stages/4-4.png",
+      "kind": "ステージ",
+      "name": "4-4 雪の祭壇"
+    },
+    {
+      "path": "assets/select/stages/4-5.png",
+      "kind": "ステージ",
+      "name": "4-5 白く沈む庭"
+    },
+    {
+      "path": "assets/select/stages/4-6.png",
+      "kind": "ステージ",
+      "name": "4-6 霜柱"
+    },
+    {
+      "path": "assets/select/stages/4-7.png",
+      "kind": "ステージ",
+      "name": "4-7 氷室"
+    },
+    {
+      "path": "assets/select/stages/4-8.png",
+      "kind": "ステージ",
+      "name": "4-8 回廊の折れ"
+    },
+    {
+      "path": "assets/select/stages/4-9.png",
+      "kind": "ステージ",
+      "name": "4-9 主の間の前"
+    },
+    {
+      "path": "assets/select/stages/4-10.png",
+      "kind": "ステージ",
+      "name": "4-10 回廊の主"
+    },
+    {
+      "path": "assets/select/chapters/chapter-5.png",
+      "kind": "章",
+      "name": "第5章 月下の祭壇"
+    },
+    {
+      "path": "assets/select/stages/5-1.png",
+      "kind": "ステージ",
+      "name": "5-1 月の階段"
+    },
+    {
+      "path": "assets/select/stages/5-2.png",
+      "kind": "ステージ",
+      "name": "5-2 銀の灯"
+    },
+    {
+      "path": "assets/select/stages/5-3.png",
+      "kind": "ステージ",
+      "name": "5-3 夜の祭壇"
+    },
+    {
+      "path": "assets/select/stages/5-4.png",
+      "kind": "ステージ",
+      "name": "5-4 欠けた月"
+    },
+    {
+      "path": "assets/select/stages/5-5.png",
+      "kind": "ステージ",
+      "name": "5-5 月読の池"
+    },
+    {
+      "path": "assets/select/stages/5-6.png",
+      "kind": "ステージ",
+      "name": "5-6 白銀の回廊"
+    },
+    {
+      "path": "assets/select/stages/5-7.png",
+      "kind": "ステージ",
+      "name": "5-7 祭具の間"
+    },
+    {
+      "path": "assets/select/stages/5-8.png",
+      "kind": "ステージ",
+      "name": "5-8 月下の橋"
+    },
+    {
+      "path": "assets/select/stages/5-9.png",
+      "kind": "ステージ",
+      "name": "5-9 祭司の控え"
+    },
+    {
+      "path": "assets/select/stages/5-10.png",
+      "kind": "ステージ",
+      "name": "5-10 月の祭司"
+    },
+    {
+      "path": "assets/select/chapters/chapter-6.png",
+      "kind": "章",
+      "name": "第6章 星哭の庭"
+    },
+    {
+      "path": "assets/select/stages/6-1.png",
+      "kind": "ステージ",
+      "name": "6-1 落ちた星"
+    },
+    {
+      "path": "assets/select/stages/6-2.png",
+      "kind": "ステージ",
+      "name": "6-2 泣く庭"
+    },
+    {
+      "path": "assets/select/stages/6-3.png",
+      "kind": "ステージ",
+      "name": "6-3 星屑の道"
+    },
+    {
+      "path": "assets/select/stages/6-4.png",
+      "kind": "ステージ",
+      "name": "6-4 夜空の井戸"
+    },
+    {
+      "path": "assets/select/stages/6-5.png",
+      "kind": "ステージ",
+      "name": "6-5 星の墓標"
+    },
+    {
+      "path": "assets/select/stages/6-6.png",
+      "kind": "ステージ",
+      "name": "6-6 光の残骸"
+    },
+    {
+      "path": "assets/select/stages/6-7.png",
+      "kind": "ステージ",
+      "name": "6-7 庭の奥"
+    },
+    {
+      "path": "assets/select/stages/6-8.png",
+      "kind": "ステージ",
+      "name": "6-8 看守の影"
+    },
+    {
+      "path": "assets/select/stages/6-9.png",
+      "kind": "ステージ",
+      "name": "6-9 星門"
+    },
+    {
+      "path": "assets/select/stages/6-10.png",
+      "kind": "ステージ",
+      "name": "6-10 星の看守"
+    },
+    {
+      "path": "assets/select/chapters/chapter-7.png",
+      "kind": "章",
+      "name": "第7章 永結の核"
+    },
+    {
+      "path": "assets/select/stages/7-1.png",
+      "kind": "ステージ",
+      "name": "7-1 還る記憶"
+    },
+    {
+      "path": "assets/select/stages/7-2.png",
+      "kind": "ステージ",
+      "name": "7-2 核への道"
+    },
+    {
+      "path": "assets/select/stages/7-3.png",
+      "kind": "ステージ",
+      "name": "7-3 永霜の底"
+    },
+    {
+      "path": "assets/select/stages/7-4.png",
+      "kind": "ステージ",
+      "name": "7-4 結ばれた扉"
+    },
+    {
+      "path": "assets/select/stages/7-5.png",
+      "kind": "ステージ",
+      "name": "7-5 最後の回廊"
+    },
+    {
+      "path": "assets/select/stages/7-6.png",
+      "kind": "ステージ",
+      "name": "7-6 名を失う間"
+    },
+    {
+      "path": "assets/select/stages/7-7.png",
+      "kind": "ステージ",
+      "name": "7-7 核の前庭"
+    },
+    {
+      "path": "assets/select/stages/7-8.png",
+      "kind": "ステージ",
+      "name": "7-8 永結の階"
+    },
+    {
+      "path": "assets/select/stages/7-9.png",
+      "kind": "ステージ",
+      "name": "7-9 すべての終わりの前"
+    },
+    {
+      "path": "assets/select/stages/7-10.png",
+      "kind": "ステージ",
+      "name": "7-10 永結の核"
+    },
+    {
+      "path": "assets/hub/character/bg.png",
+      "kind": "背景",
+      "name": "キャラ詳細"
+    },
+    {
+      "path": "assets/hub/ui/panel.png",
+      "kind": "枠",
+      "name": "パネル"
+    },
+    {
+      "path": "assets/hub/ui/button.png",
+      "kind": "枠",
+      "name": "ボタン"
+    },
+    {
+      "path": "assets/hub/ui/button-gold.png",
+      "kind": "枠",
+      "name": "主要なボタン"
+    },
+    {
+      "path": "assets/hub/ui/card.png",
+      "kind": "枠",
+      "name": "カード"
+    },
+    {
+      "path": "assets/hub/ui/dialogue.png",
+      "kind": "枠",
+      "name": "会話"
+    },
+    {
+      "path": "assets/hub/ui/banner.png",
+      "kind": "枠",
+      "name": "見出し"
+    },
+    {
+      "path": "assets/hub/login/notice-1.png",
+      "kind": "お知らせ",
+      "name": "ログインボーナス"
+    },
+    {
+      "path": "assets/hub/login/notice-2.png",
+      "kind": "お知らせ",
+      "name": "イベント告知"
+    },
+    {
+      "path": "assets/hub/story/chapter-1.png",
+      "kind": "立ち絵",
+      "name": "第1章 物語"
+    },
+    {
+      "path": "assets/hub/story/chapter-2.png",
+      "kind": "立ち絵",
+      "name": "第2章 物語"
+    },
+    {
+      "path": "assets/hub/story/chapter-3.png",
+      "kind": "立ち絵",
+      "name": "第3章 物語"
+    },
+    {
+      "path": "assets/hub/story/chapter-4.png",
+      "kind": "立ち絵",
+      "name": "第4章 物語"
+    },
+    {
+      "path": "assets/hub/story/chapter-5.png",
+      "kind": "立ち絵",
+      "name": "第5章 物語"
+    },
+    {
+      "path": "assets/hub/story/chapter-6.png",
+      "kind": "立ち絵",
+      "name": "第6章 物語"
+    },
+    {
+      "path": "assets/hub/story/chapter-7.png",
+      "kind": "立ち絵",
+      "name": "第7章 物語"
+    },
+    {
+      "path": "assets/hub/charge/banner.png",
+      "kind": "購入",
+      "name": "購入の見出し"
+    },
+    {
+      "path": "assets/hub/charge/stellar-120.png",
+      "kind": "購入",
+      "name": "星晶 120"
+    },
+    {
+      "path": "assets/hub/charge/stellar-600.png",
+      "kind": "購入",
+      "name": "星晶 600"
+    },
+    {
+      "path": "assets/hub/charge/stellar-1200.png",
+      "kind": "購入",
+      "name": "星晶 1200"
+    },
+    {
+      "path": "assets/hub/charge/ticket-1.png",
+      "kind": "購入",
+      "name": "召喚札 1"
+    },
+    {
+      "path": "assets/hub/charge/ticket-10.png",
+      "kind": "購入",
+      "name": "召喚札 10"
+    },
+    {
+      "path": "assets/hub/charge/coin-pack.png",
+      "kind": "購入",
+      "name": "コインパック"
+    },
+    {
+      "path": "assets/hub/charge/month.png",
+      "kind": "購入",
+      "name": "月間パス"
+    }
+  ]
+}

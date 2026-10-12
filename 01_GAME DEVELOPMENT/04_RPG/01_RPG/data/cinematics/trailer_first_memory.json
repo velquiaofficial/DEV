@@ -1,0 +1,48 @@
+{
+  "id": "relixia_first_memory",
+  "title": "RELIXIA --- FIRST MEMORY",
+  "duration": 30,
+  "shots": [
+    {
+      "start": 0,
+      "end": 3,
+      "id": "ForgottenTokyo"
+    },
+    {
+      "start": 3,
+      "end": 6,
+      "id": "AmaterasuAwakening"
+    },
+    {
+      "start": 6,
+      "end": 10,
+      "id": "RelicActivation"
+    },
+    {
+      "start": 10,
+      "end": 15,
+      "id": "MemoryWave"
+    },
+    {
+      "start": 15,
+      "end": 20,
+      "id": "YamatoShift"
+    },
+    {
+      "start": 20,
+      "end": 24,
+      "id": "AthenaArrival"
+    },
+    {
+      "start": 24,
+      "end": 27,
+      "id": "CivilizationCollision"
+    },
+    {
+      "start": 27,
+      "end": 30,
+      "id": "TitleReveal"
+    }
+  ],
+  "tagline": "人類の記憶は、少女となって永遠を戦う。"
+}

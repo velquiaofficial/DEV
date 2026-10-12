@@ -1,0 +1,105 @@
+{
+  "id": "anubis",
+  "uid": "anubis_001",
+  "name": "アヌビス",
+  "name_ja": "アヌビス",
+  "name_en": "ANUBIS",
+  "origin": "MYTH",
+  "era": "ANCIENT",
+  "civ": "egypt",
+  "civilization": "KEMET",
+  "civilization_id": "kemet",
+  "relic": "judgment_scale",
+  "reconstruction": "ナイルと蓮が灰色の街を潤す。",
+  "seed": true,
+  "class": "MYTH",
+  "role": "CONTROLLER",
+  "role_ui": "Controller",
+  "element": "JUDGMENT",
+  "weapon": "JUDGMENT_SCALE",
+  "height": 171,
+  "appearance": {
+    "hair": "kemet_hair",
+    "eyes": "anubis_eyes",
+    "costume": "kemet_myth"
+  },
+  "stats": {
+    "hp": 888,
+    "attack": 78,
+    "defense": 68,
+    "speed": 67
+  },
+  "hp": 125,
+  "speed": 7.4,
+  "damage": 15,
+  "skills": [
+    "anubis_skill1",
+    "anubis_skill2",
+    "anubis_skill3"
+  ],
+  "normal_attack": {
+    "id": "anubis_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "anubis_skill1",
+    "name_ja": "秤",
+    "name_en": "秤"
+  },
+  "skill_2": {
+    "id": "anubis_skill2",
+    "name_ja": "導霊",
+    "name_en": "導霊"
+  },
+  "ultimate": {
+    "id": "anubis_skill3",
+    "name_ja": "裁決",
+    "name_en": "裁決"
+  },
+  "passive": {
+    "id": "anubis_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "低体力の敵に追加ダメージ"
+  },
+  "civilization_tags": [
+    "egypt",
+    "KEMET",
+    "ANCIENT",
+    "MYTH",
+    "JUDGMENT"
+  ],
+  "relationships": [
+    "isis",
+    "ra",
+    "amaterasu"
+  ],
+  "voice_type": "low",
+  "music_theme": "審判・重量・境界",
+  "civilization_shift_effect": "砂→ナイル→蓮→神殿→KEMET DOMAIN",
+  "theme": "審判・重量・境界",
+  "passive_text": "低体力の敵に追加ダメージ",
+  "story": "心を量る。忘却の心は、羽より軽い。",
+  "founder": false,
+  "implementation": "PLAYABLE",
+  "playable": true,
+  "belt": "kemet",
+  "land": "kemet",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/kemet/anubis.png",
+  "colors": {
+    "body": [
+      0.04,
+      0.083,
+      0.205
+    ],
+    "emit": [
+      0.838,
+      0.663,
+      0.245
+    ]
+  }
+}

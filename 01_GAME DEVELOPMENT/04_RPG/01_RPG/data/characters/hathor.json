@@ -1,0 +1,101 @@
+{
+  "id": "hathor",
+  "uid": "hathor_001",
+  "name": "ハトホル",
+  "name_ja": "ハトホル",
+  "name_en": "HATHOR",
+  "origin": "DIVINE",
+  "era": "MYTH",
+  "civ": "egypt",
+  "civilization": "KEMET",
+  "civilization_id": "kemet",
+  "relic": "judgment_scale",
+  "reconstruction": "ナイルと蓮が灰色の街を潤す。",
+  "seed": false,
+  "class": "DIVINE",
+  "role": "SUPPORT",
+  "role_ui": "Support",
+  "element": "JOY",
+  "weapon": "SKY_LYRE",
+  "height": 163,
+  "appearance": {
+    "hair": "kemet_hair",
+    "eyes": "hathor_eyes",
+    "costume": "kemet_divine"
+  },
+  "stats": {
+    "hp": 809,
+    "attack": 57,
+    "defense": 65,
+    "speed": 72
+  },
+  "hp": 114,
+  "speed": 8.0,
+  "damage": 11,
+  "skills": [
+    "hathor_skill1",
+    "hathor_skill2",
+    "hathor_skill3"
+  ],
+  "normal_attack": {
+    "id": "hathor_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "hathor_skill1",
+    "name_ja": "琴",
+    "name_en": "琴"
+  },
+  "skill_2": {
+    "id": "hathor_skill2",
+    "name_ja": "歓楽",
+    "name_en": "歓楽"
+  },
+  "ultimate": {
+    "id": "hathor_skill3",
+    "name_ja": "天空の牛",
+    "name_en": "天空の牛"
+  },
+  "passive": {
+    "id": "hathor_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "付近の味方のUlt蓄積が速い"
+  },
+  "civilization_tags": [
+    "egypt",
+    "KEMET",
+    "MYTH",
+    "DIVINE",
+    "JOY"
+  ],
+  "relationships": [],
+  "voice_type": "warm",
+  "music_theme": "音楽・愛・天空",
+  "civilization_shift_effect": "砂→ナイル→蓮→神殿→KEMET DOMAIN",
+  "theme": "音楽・愛・天空",
+  "passive_text": "付近の味方のUlt蓄積が速い",
+  "story": "笑いは、忘れられた神殿の最後の柱。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "kemet",
+  "land": "kemet",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/kemet/hathor.png",
+  "colors": {
+    "body": [
+      0.074,
+      0.104,
+      0.19
+    ],
+    "emit": [
+      0.874,
+      0.684,
+      0.23
+    ]
+  }
+}

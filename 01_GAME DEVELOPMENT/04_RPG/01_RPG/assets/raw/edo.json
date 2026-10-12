@@ -1,0 +1,11 @@
+{
+  "id": "edo",
+  "obj": "assets/raw/edo.obj",
+  "portrait": "assets/characters/tokyo/edo.png",
+  "rig": "auto_rig",
+  "lod": [
+    "lod0",
+    "lod1",
+    "lod2"
+  ]
+}

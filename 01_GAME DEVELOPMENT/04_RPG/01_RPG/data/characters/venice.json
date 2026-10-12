@@ -1,0 +1,101 @@
+{
+  "id": "venice",
+  "uid": "venice_001",
+  "name": "ヴェネツィア",
+  "name_ja": "ヴェネツィア",
+  "name_en": "VENICE",
+  "origin": "LEGACY",
+  "era": "EARLY MODERN",
+  "civ": "rome",
+  "civilization": "ROME",
+  "civilization_id": "rome",
+  "relic": "rome_relic",
+  "reconstruction": "瓦礫→石畳→凱旋門→街道→ROME DOMAIN",
+  "seed": false,
+  "class": "LEGACY",
+  "role": "CONTROLLER",
+  "role_ui": "Controller",
+  "element": "LAGOON",
+  "weapon": "MASK_FAN",
+  "height": 160,
+  "appearance": {
+    "hair": "rome_hair",
+    "eyes": "venice_eyes",
+    "costume": "rome_legacy"
+  },
+  "stats": {
+    "hp": 866,
+    "attack": 57,
+    "defense": 67,
+    "speed": 70
+  },
+  "hp": 122,
+  "speed": 7.8,
+  "damage": 11,
+  "skills": [
+    "venice_skill1",
+    "venice_skill2",
+    "venice_skill3"
+  ],
+  "normal_attack": {
+    "id": "venice_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "venice_skill1",
+    "name_ja": "満潮路",
+    "name_en": "満潮路"
+  },
+  "skill_2": {
+    "id": "venice_skill2",
+    "name_ja": "仮面",
+    "name_en": "仮面"
+  },
+  "ultimate": {
+    "id": "venice_skill3",
+    "name_ja": "潟の支配",
+    "name_en": "潟の支配"
+  },
+  "passive": {
+    "id": "venice_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "水際（マップ端）で移動が速い"
+  },
+  "civilization_tags": [
+    "rome",
+    "ROME",
+    "EARLY_MODERN",
+    "LEGACY",
+    "LAGOON"
+  ],
+  "relationships": [],
+  "voice_type": "low",
+  "music_theme": "水路・交易・束縛",
+  "civilization_shift_effect": "瓦礫→石畳→凱旋門→街道→ROME DOMAIN",
+  "theme": "水路・交易・束縛",
+  "passive_text": "水際（マップ端）で移動が速い",
+  "story": "運河は記憶を運ぶ。沈んでも、反射は残る。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "rome",
+  "land": "rome",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/rome/venice.png",
+  "colors": {
+    "body": [
+      0.576,
+      0.094,
+      0.158
+    ],
+    "emit": [
+      0.856,
+      0.694,
+      0.298
+    ]
+  }
+}

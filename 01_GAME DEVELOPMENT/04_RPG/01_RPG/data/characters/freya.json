@@ -1,0 +1,101 @@
+{
+  "id": "freya",
+  "uid": "freya_001",
+  "name": "フレイヤ",
+  "name_ja": "フレイヤ",
+  "name_en": "FREYJA",
+  "origin": "MYTH",
+  "era": "MEDIEVAL",
+  "civ": "norse",
+  "civilization": "NORSE",
+  "civilization_id": "norse",
+  "relic": "world_tree_shard",
+  "reconstruction": "霧の森とルーンが東京を覆う。",
+  "seed": false,
+  "class": "MYTH",
+  "role": "SUPPORT",
+  "role_ui": "Support",
+  "element": "SEID",
+  "weapon": "BRISINGAMEN",
+  "height": 163,
+  "appearance": {
+    "hair": "norse_hair",
+    "eyes": "freya_eyes",
+    "costume": "norse_myth"
+  },
+  "stats": {
+    "hp": 838,
+    "attack": 62,
+    "defense": 66,
+    "speed": 72
+  },
+  "hp": 118,
+  "speed": 8.0,
+  "damage": 12,
+  "skills": [
+    "freya_skill1",
+    "freya_skill2",
+    "freya_skill3"
+  ],
+  "normal_attack": {
+    "id": "freya_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "freya_skill1",
+    "name_ja": "猫の行進",
+    "name_en": "猫の行進"
+  },
+  "skill_2": {
+    "id": "freya_skill2",
+    "name_ja": "琥珀",
+    "name_en": "琥珀"
+  },
+  "ultimate": {
+    "id": "freya_skill3",
+    "name_ja": "戦乙女",
+    "name_en": "戦乙女"
+  },
+  "passive": {
+    "id": "freya_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "味方のUltimate蓄積が速い"
+  },
+  "civilization_tags": [
+    "norse",
+    "NORSE",
+    "MEDIEVAL",
+    "MYTH",
+    "SEID"
+  ],
+  "relationships": [],
+  "voice_type": "warm",
+  "music_theme": "愛・戦闘・魔力",
+  "civilization_shift_effect": "霧→ルーン→神木→虹橋→NORSE DOMAIN",
+  "theme": "愛・戦闘・魔力",
+  "passive_text": "味方のUltimate蓄積が速い",
+  "story": "美と戦いは同じ首飾りに繋がっている。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "norse",
+  "land": "norse",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/norse/freya.png",
+  "colors": {
+    "body": [
+      0.1,
+      0.112,
+      0.232
+    ],
+    "emit": [
+      0.87,
+      0.502,
+      0.732
+    ]
+  }
+}

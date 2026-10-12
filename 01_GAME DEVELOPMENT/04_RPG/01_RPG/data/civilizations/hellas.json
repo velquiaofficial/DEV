@@ -1,0 +1,32 @@
+{
+  "id": "hellas",
+  "code": "HELLAS",
+  "civ": "greece",
+  "launch": true,
+  "name": "ヘラス",
+  "name_en": "HELLAS",
+  "members": [
+    "athena",
+    "poseidon",
+    "apollo",
+    "artemis",
+    "minos",
+    "sparta"
+  ],
+  "features": [
+    "Temple",
+    "Column",
+    "Statue",
+    "Marble Road",
+    "Olive Tree",
+    "Agora",
+    "Sacred Flame"
+  ],
+  "civilization_shift": {
+    "guard": 15,
+    "defense": 10
+  },
+  "shift_text": "廃墟→大理石→神殿→オリーブ→HELLAS DOMAIN",
+  "banner": "res://assets/characters/_keyart/hellas.png",
+  "sheet": "res://assets/characters/_sheets/hellas.png"
+}

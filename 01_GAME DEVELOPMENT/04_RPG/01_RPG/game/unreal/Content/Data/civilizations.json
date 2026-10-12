@@ -1,0 +1,7 @@
+[
+  { "id": "japan", "launch": true, "layers": ["torii", "sakura", "shrine", "sunlight"] },
+  { "id": "greece", "launch": true, "layers": ["column", "temple", "olive", "marble"] },
+  { "id": "egypt", "launch": true, "layers": ["sand", "gold", "obelisk", "underworld"] },
+  { "id": "norse", "launch": true, "layers": ["runestone", "grove", "bifrost"] },
+  { "id": "mesopotamia", "launch": true, "layers": ["gate", "star", "ziggurat"] }
+]

@@ -1,0 +1,11 @@
+{
+  "id": "athena",
+  "obj": "assets/raw/athena.obj",
+  "portrait": "assets/characters/hellas/athena.png",
+  "rig": "auto_rig",
+  "lod": [
+    "lod0",
+    "lod1",
+    "lod2"
+  ]
+}

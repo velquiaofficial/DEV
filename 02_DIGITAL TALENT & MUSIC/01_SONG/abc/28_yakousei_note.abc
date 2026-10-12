@@ -1,0 +1,37 @@
+X:1
+T:夜行性ノート
+C:オリジナル
+M:4/4
+L:1/8
+Q:1/4=100
+K:Dm
+P:Aメロ
+"Dm" F G G F F2 G2 | "Bb" B B A G F2 A2 | "F" A B B A A2 B2 | "C" G A G F E2 G2 |
+w: よ る の ノ ー ト | ペ ー ジ ひ ら く | な ま え を か く | ひ か り の こ る
+"Dm" F A G G F2 G2 | "Gm" G B A G G2 A2 | "Bb" B c B A B2 B2 | "A" A A G G E2 G2 |
+w: ね む れ な い よ | ま ち の ね い ろ | こ え を の せ て | う た に な っ て
+P:Aメロ2
+"Dm" d d c c A2 c2 | "Bb" d e d d d2 e2 | "F" f f e d c2 e2 | "C" c d c c c2 d2 |
+w: よ こ う せ い だ | つ き が み て る | も じ が う か ぶ | こ こ ろ の メ モ
+"Dm" d e d c d2 d2 | "Gm" d e d d d2 e2 | "Bb" d f e d d2 e2 | "A" _d d d c _d2 d2 |
+w: な い しょ だ よ ね | あ し た の き み | こ の ペ ー ジ だ | よ る を こ え て
+P:Bメロ
+"Bb" B d c c B2 c2 | "F" A c B B A2 B2 | "C" c d d c c2 d2 | "Dm" A c c B A2 c2 |
+w: う た は の こ る | か い て お く よ | よ る が な が く | て も ノ ー ト は
+"Gm" B d c c B2 c2 | "Bb" d e d c B2 d2 | "F" c d c B A2 c2 | "A" _d e d d _d2 d2 |
+w: あ た た か い よ | な ま え ひ と つ | の こ し て お く | ひ か り の こ る
+P:サビ
+"Dm" f a g g f2 g2 | "Bb" d f e d d2 e2 | "F" f g f f f2 g2 | "C" c d d c c2 d2 |
+w: よ る の ノ ー ト | よ こ う せ い だ | な ま え を か く | ひ か り の こ る
+"Dm" f g f f f2 g2 | "Gm" d f e d d2 e2 | "Bb" f g g f f2 g2 | "A" e f f e e2 f2 |
+w: ね む れ な い よ | う た に な っ て | な い しょ だ よ ね | こ こ に い る よ
+P:ブリッジ
+"Gm" G G F F D2 F2 | "Bb" B B A G F2 A2 | "F" A B B A A2 B2 | "A" E G G F E2 G2 |
+w: こ こ に い る よ | ペ ー ジ ひ ら く | う た い だ そ う | こ え を の せ て
+"Dm" F G G F F2 G2 | "Gm" B c B A G2 B2 | "C" G A G G G2 A2 | "A" A c B B A2 B2 |
+w: つ き が み て る | な い しょ だ よ ね | よ る の ノ ー ト | な ま え を か く
+P:アウトロ
+"Dm" f a g g f2 g2 | "Bb" d f e d d2 e2 | "F" f g f f f2 g2 | "C" c d d c c2 d2 |
+w: * * * * * * | * * * * * * | * * * * * * | * * * * * *
+"Dm" f g f f f2 g2 | "Gm" d f e d d2 e2 | "Bb" f g g f f2 g2 | "Dm" D8 |
+w: * * * * * * | * * * * * * | * * * * * * | *

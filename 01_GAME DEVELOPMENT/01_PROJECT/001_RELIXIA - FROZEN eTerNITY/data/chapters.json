@@ -1,0 +1,1708 @@
+{
+  "ui": {
+    "logo": "永結のレリクシア",
+    "logoEn": "ETERNAL RELIXIA",
+    "party": "パーティ編成",
+    "partyEn": "PARTY FORMATION",
+    "power": "総戦力",
+    "depart": "出撃",
+    "enemies": "主な敵",
+    "drops": "ドロップ報酬",
+    "recommend": "推奨戦力",
+    "detail": "詳細",
+    "battle": "BATTLE"
+  },
+  "partyActions": [
+    {
+      "id": "skills",
+      "label": "スキル確認"
+    },
+    {
+      "id": "gear",
+      "label": "装備"
+    },
+    {
+      "id": "auto",
+      "label": "おまかせ編成"
+    },
+    {
+      "id": "reset",
+      "label": "編成リセット"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "chapter-1",
+      "mode": "story",
+      "label": "第1章",
+      "title": "桜ノ廃都",
+      "subtitle": "失われた東京の記憶",
+      "banner": "assets/select/chapters/chapter-1.png",
+      "progress": {
+        "current": 0,
+        "total": 10
+      },
+      "stages": [
+        {
+          "id": "1-1",
+          "code": "1-1",
+          "name": "崩れた参道",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "桜ノ廃都、崩れた参道。骨兵が道を埋める。",
+          "recommend": 2200,
+          "cost": 8,
+          "thumb": "assets/select/stages/1-1.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "1-1"
+        },
+        {
+          "id": "1-2",
+          "code": "1-2",
+          "name": "紅の灯火",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "桜ノ廃都、紅の灯火。骨兵が道を埋める。",
+          "recommend": 2580,
+          "cost": 8,
+          "thumb": "assets/select/stages/1-2.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "1-2"
+        },
+        {
+          "id": "1-3",
+          "code": "1-3",
+          "name": "散る桜の下で",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "桜ノ廃都、散る桜の下で。骨兵が道を埋める。",
+          "recommend": 2960,
+          "cost": 8,
+          "thumb": "assets/select/stages/1-3.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "1-3"
+        },
+        {
+          "id": "1-4",
+          "code": "1-4",
+          "name": "鳥居の影",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "桜ノ廃都、鳥居の影。骨兵が道を埋める。",
+          "recommend": 3340,
+          "cost": 8,
+          "thumb": "assets/select/stages/1-4.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "1-4"
+        },
+        {
+          "id": "1-5",
+          "code": "1-5",
+          "name": "廃駅のホーム",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "桜ノ廃都、廃駅のホーム。骨兵が道を埋める。",
+          "recommend": 3720,
+          "cost": 8,
+          "thumb": "assets/select/stages/1-5.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "1-5"
+        },
+        {
+          "id": "1-6",
+          "code": "1-6",
+          "name": "桜吹雪の坂",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "桜ノ廃都、桜吹雪の坂。骨兵が道を埋める。",
+          "recommend": 4100,
+          "cost": 8,
+          "thumb": "assets/select/stages/1-6.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "1-6"
+        },
+        {
+          "id": "1-7",
+          "code": "1-7",
+          "name": "夜の茶屋",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "桜ノ廃都、夜の茶屋。骨兵が道を埋める。",
+          "recommend": 4480,
+          "cost": 8,
+          "thumb": "assets/select/stages/1-7.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "1-7"
+        },
+        {
+          "id": "1-8",
+          "code": "1-8",
+          "name": "門前の石段",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "桜ノ廃都、門前の石段。骨兵が道を埋める。",
+          "recommend": 4860,
+          "cost": 8,
+          "thumb": "assets/select/stages/1-8.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "1-8"
+        },
+        {
+          "id": "1-9",
+          "code": "1-9",
+          "name": "常世の橋",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "桜ノ廃都、常世の橋。骨兵が道を埋める。",
+          "recommend": 5240,
+          "cost": 8,
+          "thumb": "assets/select/stages/1-9.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "1-9"
+        },
+        {
+          "id": "1-10",
+          "code": "1-10",
+          "name": "常世の門",
+          "boss": true,
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "桜ノ廃都の奥。門番が道を塞いでいる。",
+          "recommend": 9120,
+          "cost": 12,
+          "thumb": "assets/select/stages/1-10.png",
+          "drops": [
+            {
+              "id": "gem",
+              "label": "宝玉"
+            },
+            {
+              "id": "bolt",
+              "label": "雷"
+            },
+            {
+              "id": "coin",
+              "label": "通貨"
+            }
+          ],
+          "battle": "1-10"
+        }
+      ]
+    },
+    {
+      "id": "chapter-2",
+      "mode": "story",
+      "label": "第2章",
+      "title": "神々の残響",
+      "subtitle": "目覚める古代の神格",
+      "banner": "assets/select/chapters/chapter-2.png",
+      "progress": {
+        "current": 0,
+        "total": 10
+      },
+      "stages": [
+        {
+          "id": "2-1",
+          "code": "2-1",
+          "name": "目覚めの回廊",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "神々の残響、目覚めの回廊。骨兵が道を埋める。",
+          "recommend": 6400,
+          "cost": 8,
+          "thumb": "assets/select/stages/2-1.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "2-1"
+        },
+        {
+          "id": "2-2",
+          "code": "2-2",
+          "name": "神名の碑",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "神々の残響、神名の碑。骨兵が道を埋める。",
+          "recommend": 6780,
+          "cost": 8,
+          "thumb": "assets/select/stages/2-2.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "2-2"
+        },
+        {
+          "id": "2-3",
+          "code": "2-3",
+          "name": "残響の間",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "神々の残響、残響の間。骨兵が道を埋める。",
+          "recommend": 7160,
+          "cost": 8,
+          "thumb": "assets/select/stages/2-3.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "2-3"
+        },
+        {
+          "id": "2-4",
+          "code": "2-4",
+          "name": "供物の壇",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "神々の残響、供物の壇。骨兵が道を埋める。",
+          "recommend": 7540,
+          "cost": 8,
+          "thumb": "assets/select/stages/2-4.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "2-4"
+        },
+        {
+          "id": "2-5",
+          "code": "2-5",
+          "name": "沈黙の廊下",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "神々の残響、沈黙の廊下。骨兵が道を埋める。",
+          "recommend": 7920,
+          "cost": 8,
+          "thumb": "assets/select/stages/2-5.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "2-5"
+        },
+        {
+          "id": "2-6",
+          "code": "2-6",
+          "name": "古き社",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "神々の残響、古き社。骨兵が道を埋める。",
+          "recommend": 8300,
+          "cost": 8,
+          "thumb": "assets/select/stages/2-6.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "2-6"
+        },
+        {
+          "id": "2-7",
+          "code": "2-7",
+          "name": "神域の階",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "神々の残響、神域の階。骨兵が道を埋める。",
+          "recommend": 8680,
+          "cost": 8,
+          "thumb": "assets/select/stages/2-7.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "2-7"
+        },
+        {
+          "id": "2-8",
+          "code": "2-8",
+          "name": "鈴の音",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "神々の残響、鈴の音。骨兵が道を埋める。",
+          "recommend": 9060,
+          "cost": 8,
+          "thumb": "assets/select/stages/2-8.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "2-8"
+        },
+        {
+          "id": "2-9",
+          "code": "2-9",
+          "name": "最奥の帳",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "神々の残響、最奥の帳。骨兵が道を埋める。",
+          "recommend": 9440,
+          "cost": 8,
+          "thumb": "assets/select/stages/2-9.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "2-9"
+        },
+        {
+          "id": "2-10",
+          "code": "2-10",
+          "name": "神域の最奥",
+          "boss": true,
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "神々の残響の奥。神域の番が道を塞いでいる。",
+          "recommend": 13320,
+          "cost": 12,
+          "thumb": "assets/select/stages/2-10.png",
+          "drops": [
+            {
+              "id": "gem",
+              "label": "宝玉"
+            },
+            {
+              "id": "bolt",
+              "label": "雷"
+            },
+            {
+              "id": "coin",
+              "label": "通貨"
+            }
+          ],
+          "battle": "2-10"
+        }
+      ]
+    },
+    {
+      "id": "chapter-3",
+      "mode": "story",
+      "label": "第3章",
+      "title": "永劫の門",
+      "subtitle": "世界の記憶が交差する場所",
+      "banner": "assets/select/chapters/chapter-3.png",
+      "progress": {
+        "current": 0,
+        "total": 10
+      },
+      "stages": [
+        {
+          "id": "3-1",
+          "code": "3-1",
+          "name": "門の前",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "永劫の門、門の前。骨兵が道を埋める。",
+          "recommend": 10600,
+          "cost": 8,
+          "thumb": "assets/select/stages/3-1.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "3-1"
+        },
+        {
+          "id": "3-2",
+          "code": "3-2",
+          "name": "交差する記憶",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "永劫の門、交差する記憶。骨兵が道を埋める。",
+          "recommend": 10980,
+          "cost": 8,
+          "thumb": "assets/select/stages/3-2.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "3-2"
+        },
+        {
+          "id": "3-3",
+          "code": "3-3",
+          "name": "紫の霧",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "永劫の門、紫の霧。骨兵が道を埋める。",
+          "recommend": 11360,
+          "cost": 8,
+          "thumb": "assets/select/stages/3-3.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "3-3"
+        },
+        {
+          "id": "3-4",
+          "code": "3-4",
+          "name": "門柱",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "永劫の門、門柱。骨兵が道を埋める。",
+          "recommend": 11740,
+          "cost": 8,
+          "thumb": "assets/select/stages/3-4.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "3-4"
+        },
+        {
+          "id": "3-5",
+          "code": "3-5",
+          "name": "忘却の池",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "永劫の門、忘却の池。骨兵が道を埋める。",
+          "recommend": 12120,
+          "cost": 8,
+          "thumb": "assets/select/stages/3-5.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "3-5"
+        },
+        {
+          "id": "3-6",
+          "code": "3-6",
+          "name": "二度目の鳥居",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "永劫の門、二度目の鳥居。骨兵が道を埋める。",
+          "recommend": 12500,
+          "cost": 8,
+          "thumb": "assets/select/stages/3-6.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "3-6"
+        },
+        {
+          "id": "3-7",
+          "code": "3-7",
+          "name": "永劫の階段",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "永劫の門、永劫の階段。骨兵が道を埋める。",
+          "recommend": 12880,
+          "cost": 8,
+          "thumb": "assets/select/stages/3-7.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "3-7"
+        },
+        {
+          "id": "3-8",
+          "code": "3-8",
+          "name": "門の内側",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "永劫の門、門の内側。骨兵が道を埋める。",
+          "recommend": 13260,
+          "cost": 8,
+          "thumb": "assets/select/stages/3-8.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "3-8"
+        },
+        {
+          "id": "3-9",
+          "code": "3-9",
+          "name": "番の間",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "永劫の門、番の間。骨兵が道を埋める。",
+          "recommend": 13640,
+          "cost": 8,
+          "thumb": "assets/select/stages/3-9.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "3-9"
+        },
+        {
+          "id": "3-10",
+          "code": "3-10",
+          "name": "永劫の核",
+          "boss": true,
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "永劫の門の奥。永劫の番が道を塞いでいる。",
+          "recommend": 17520,
+          "cost": 12,
+          "thumb": "assets/select/stages/3-10.png",
+          "drops": [
+            {
+              "id": "gem",
+              "label": "宝玉"
+            },
+            {
+              "id": "bolt",
+              "label": "雷"
+            },
+            {
+              "id": "coin",
+              "label": "通貨"
+            }
+          ],
+          "battle": "3-10"
+        }
+      ]
+    },
+    {
+      "id": "chapter-4",
+      "mode": "story",
+      "label": "第4章",
+      "title": "霜蝕の回廊",
+      "subtitle": "永霜が噛む石段",
+      "banner": "assets/select/chapters/chapter-4.png",
+      "progress": {
+        "current": 0,
+        "total": 10
+      },
+      "stages": [
+        {
+          "id": "4-1",
+          "code": "4-1",
+          "name": "霜の入口",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "霜蝕の回廊、霜の入口。骨兵が道を埋める。",
+          "recommend": 14800,
+          "cost": 8,
+          "thumb": "assets/select/stages/4-1.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "4-1"
+        },
+        {
+          "id": "4-2",
+          "code": "4-2",
+          "name": "凍った灯",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "霜蝕の回廊、凍った灯。骨兵が道を埋める。",
+          "recommend": 15180,
+          "cost": 8,
+          "thumb": "assets/select/stages/4-2.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "4-2"
+        },
+        {
+          "id": "4-3",
+          "code": "4-3",
+          "name": "氷の回廊",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "霜蝕の回廊、氷の回廊。骨兵が道を埋める。",
+          "recommend": 15560,
+          "cost": 8,
+          "thumb": "assets/select/stages/4-3.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "4-3"
+        },
+        {
+          "id": "4-4",
+          "code": "4-4",
+          "name": "雪の祭壇",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "霜蝕の回廊、雪の祭壇。骨兵が道を埋める。",
+          "recommend": 15940,
+          "cost": 8,
+          "thumb": "assets/select/stages/4-4.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "4-4"
+        },
+        {
+          "id": "4-5",
+          "code": "4-5",
+          "name": "白く沈む庭",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "霜蝕の回廊、白く沈む庭。骨兵が道を埋める。",
+          "recommend": 16320,
+          "cost": 8,
+          "thumb": "assets/select/stages/4-5.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "4-5"
+        },
+        {
+          "id": "4-6",
+          "code": "4-6",
+          "name": "霜柱",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "霜蝕の回廊、霜柱。骨兵が道を埋める。",
+          "recommend": 16700,
+          "cost": 8,
+          "thumb": "assets/select/stages/4-6.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "4-6"
+        },
+        {
+          "id": "4-7",
+          "code": "4-7",
+          "name": "氷室",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "霜蝕の回廊、氷室。骨兵が道を埋める。",
+          "recommend": 17080,
+          "cost": 8,
+          "thumb": "assets/select/stages/4-7.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "4-7"
+        },
+        {
+          "id": "4-8",
+          "code": "4-8",
+          "name": "回廊の折れ",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "霜蝕の回廊、回廊の折れ。骨兵が道を埋める。",
+          "recommend": 17460,
+          "cost": 8,
+          "thumb": "assets/select/stages/4-8.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "4-8"
+        },
+        {
+          "id": "4-9",
+          "code": "4-9",
+          "name": "主の間の前",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "霜蝕の回廊、主の間の前。骨兵が道を埋める。",
+          "recommend": 17840,
+          "cost": 8,
+          "thumb": "assets/select/stages/4-9.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "4-9"
+        },
+        {
+          "id": "4-10",
+          "code": "4-10",
+          "name": "回廊の主",
+          "boss": true,
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "霜蝕の回廊の奥。回廊の主が道を塞いでいる。",
+          "recommend": 21720,
+          "cost": 12,
+          "thumb": "assets/select/stages/4-10.png",
+          "drops": [
+            {
+              "id": "gem",
+              "label": "宝玉"
+            },
+            {
+              "id": "bolt",
+              "label": "雷"
+            },
+            {
+              "id": "coin",
+              "label": "通貨"
+            }
+          ],
+          "battle": "4-10"
+        }
+      ]
+    },
+    {
+      "id": "chapter-5",
+      "mode": "story",
+      "label": "第5章",
+      "title": "月下の祭壇",
+      "subtitle": "銀の灯が導く夜",
+      "banner": "assets/select/chapters/chapter-5.png",
+      "progress": {
+        "current": 0,
+        "total": 10
+      },
+      "stages": [
+        {
+          "id": "5-1",
+          "code": "5-1",
+          "name": "月の階段",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "月下の祭壇、月の階段。骨兵が道を埋める。",
+          "recommend": 19000,
+          "cost": 8,
+          "thumb": "assets/select/stages/5-1.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "5-1"
+        },
+        {
+          "id": "5-2",
+          "code": "5-2",
+          "name": "銀の灯",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "月下の祭壇、銀の灯。骨兵が道を埋める。",
+          "recommend": 19380,
+          "cost": 8,
+          "thumb": "assets/select/stages/5-2.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "5-2"
+        },
+        {
+          "id": "5-3",
+          "code": "5-3",
+          "name": "夜の祭壇",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "月下の祭壇、夜の祭壇。骨兵が道を埋める。",
+          "recommend": 19760,
+          "cost": 8,
+          "thumb": "assets/select/stages/5-3.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "5-3"
+        },
+        {
+          "id": "5-4",
+          "code": "5-4",
+          "name": "欠けた月",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "月下の祭壇、欠けた月。骨兵が道を埋める。",
+          "recommend": 20140,
+          "cost": 8,
+          "thumb": "assets/select/stages/5-4.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "5-4"
+        },
+        {
+          "id": "5-5",
+          "code": "5-5",
+          "name": "月読の池",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "月下の祭壇、月読の池。骨兵が道を埋める。",
+          "recommend": 20520,
+          "cost": 8,
+          "thumb": "assets/select/stages/5-5.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "5-5"
+        },
+        {
+          "id": "5-6",
+          "code": "5-6",
+          "name": "白銀の回廊",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "月下の祭壇、白銀の回廊。骨兵が道を埋める。",
+          "recommend": 20900,
+          "cost": 8,
+          "thumb": "assets/select/stages/5-6.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "5-6"
+        },
+        {
+          "id": "5-7",
+          "code": "5-7",
+          "name": "祭具の間",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "月下の祭壇、祭具の間。骨兵が道を埋める。",
+          "recommend": 21280,
+          "cost": 8,
+          "thumb": "assets/select/stages/5-7.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "5-7"
+        },
+        {
+          "id": "5-8",
+          "code": "5-8",
+          "name": "月下の橋",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "月下の祭壇、月下の橋。骨兵が道を埋める。",
+          "recommend": 21660,
+          "cost": 8,
+          "thumb": "assets/select/stages/5-8.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "5-8"
+        },
+        {
+          "id": "5-9",
+          "code": "5-9",
+          "name": "祭司の控え",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "月下の祭壇、祭司の控え。骨兵が道を埋める。",
+          "recommend": 22040,
+          "cost": 8,
+          "thumb": "assets/select/stages/5-9.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "5-9"
+        },
+        {
+          "id": "5-10",
+          "code": "5-10",
+          "name": "月の祭司",
+          "boss": true,
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "月下の祭壇の奥。月の祭司が道を塞いでいる。",
+          "recommend": 25920,
+          "cost": 12,
+          "thumb": "assets/select/stages/5-10.png",
+          "drops": [
+            {
+              "id": "gem",
+              "label": "宝玉"
+            },
+            {
+              "id": "bolt",
+              "label": "雷"
+            },
+            {
+              "id": "coin",
+              "label": "通貨"
+            }
+          ],
+          "battle": "5-10"
+        }
+      ]
+    },
+    {
+      "id": "chapter-6",
+      "mode": "story",
+      "label": "第6章",
+      "title": "星哭の庭",
+      "subtitle": "落ちた星の眠る庭",
+      "banner": "assets/select/chapters/chapter-6.png",
+      "progress": {
+        "current": 0,
+        "total": 10
+      },
+      "stages": [
+        {
+          "id": "6-1",
+          "code": "6-1",
+          "name": "落ちた星",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "星哭の庭、落ちた星。骨兵が道を埋める。",
+          "recommend": 23200,
+          "cost": 8,
+          "thumb": "assets/select/stages/6-1.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "6-1"
+        },
+        {
+          "id": "6-2",
+          "code": "6-2",
+          "name": "泣く庭",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "星哭の庭、泣く庭。骨兵が道を埋める。",
+          "recommend": 23580,
+          "cost": 8,
+          "thumb": "assets/select/stages/6-2.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "6-2"
+        },
+        {
+          "id": "6-3",
+          "code": "6-3",
+          "name": "星屑の道",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "星哭の庭、星屑の道。骨兵が道を埋める。",
+          "recommend": 23960,
+          "cost": 8,
+          "thumb": "assets/select/stages/6-3.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "6-3"
+        },
+        {
+          "id": "6-4",
+          "code": "6-4",
+          "name": "夜空の井戸",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "星哭の庭、夜空の井戸。骨兵が道を埋める。",
+          "recommend": 24340,
+          "cost": 8,
+          "thumb": "assets/select/stages/6-4.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "6-4"
+        },
+        {
+          "id": "6-5",
+          "code": "6-5",
+          "name": "星の墓標",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "星哭の庭、星の墓標。骨兵が道を埋める。",
+          "recommend": 24720,
+          "cost": 8,
+          "thumb": "assets/select/stages/6-5.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "6-5"
+        },
+        {
+          "id": "6-6",
+          "code": "6-6",
+          "name": "光の残骸",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "星哭の庭、光の残骸。骨兵が道を埋める。",
+          "recommend": 25100,
+          "cost": 8,
+          "thumb": "assets/select/stages/6-6.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "6-6"
+        },
+        {
+          "id": "6-7",
+          "code": "6-7",
+          "name": "庭の奥",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "星哭の庭、庭の奥。骨兵が道を埋める。",
+          "recommend": 25480,
+          "cost": 8,
+          "thumb": "assets/select/stages/6-7.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "6-7"
+        },
+        {
+          "id": "6-8",
+          "code": "6-8",
+          "name": "看守の影",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "星哭の庭、看守の影。骨兵が道を埋める。",
+          "recommend": 25860,
+          "cost": 8,
+          "thumb": "assets/select/stages/6-8.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "6-8"
+        },
+        {
+          "id": "6-9",
+          "code": "6-9",
+          "name": "星門",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "星哭の庭、星門。骨兵が道を埋める。",
+          "recommend": 26240,
+          "cost": 8,
+          "thumb": "assets/select/stages/6-9.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "6-9"
+        },
+        {
+          "id": "6-10",
+          "code": "6-10",
+          "name": "星の看守",
+          "boss": true,
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "星哭の庭の奥。星の看守が道を塞いでいる。",
+          "recommend": 30120,
+          "cost": 12,
+          "thumb": "assets/select/stages/6-10.png",
+          "drops": [
+            {
+              "id": "gem",
+              "label": "宝玉"
+            },
+            {
+              "id": "bolt",
+              "label": "雷"
+            },
+            {
+              "id": "coin",
+              "label": "通貨"
+            }
+          ],
+          "battle": "6-10"
+        }
+      ]
+    },
+    {
+      "id": "chapter-7",
+      "mode": "story",
+      "label": "第7章",
+      "title": "永結の核",
+      "subtitle": "すべての記憶が還る場所",
+      "banner": "assets/select/chapters/chapter-7.png",
+      "progress": {
+        "current": 0,
+        "total": 10
+      },
+      "stages": [
+        {
+          "id": "7-1",
+          "code": "7-1",
+          "name": "還る記憶",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "永結の核、還る記憶。骨兵が道を埋める。",
+          "recommend": 27400,
+          "cost": 8,
+          "thumb": "assets/select/stages/7-1.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "7-1"
+        },
+        {
+          "id": "7-2",
+          "code": "7-2",
+          "name": "核への道",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "永結の核、核への道。骨兵が道を埋める。",
+          "recommend": 27780,
+          "cost": 8,
+          "thumb": "assets/select/stages/7-2.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "7-2"
+        },
+        {
+          "id": "7-3",
+          "code": "7-3",
+          "name": "永霜の底",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "永結の核、永霜の底。骨兵が道を埋める。",
+          "recommend": 28160,
+          "cost": 8,
+          "thumb": "assets/select/stages/7-3.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "7-3"
+        },
+        {
+          "id": "7-4",
+          "code": "7-4",
+          "name": "結ばれた扉",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "永結の核、結ばれた扉。骨兵が道を埋める。",
+          "recommend": 28540,
+          "cost": 8,
+          "thumb": "assets/select/stages/7-4.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "7-4"
+        },
+        {
+          "id": "7-5",
+          "code": "7-5",
+          "name": "最後の回廊",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "永結の核、最後の回廊。骨兵が道を埋める。",
+          "recommend": 28920,
+          "cost": 8,
+          "thumb": "assets/select/stages/7-5.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "7-5"
+        },
+        {
+          "id": "7-6",
+          "code": "7-6",
+          "name": "名を失う間",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "永結の核、名を失う間。骨兵が道を埋める。",
+          "recommend": 29300,
+          "cost": 8,
+          "thumb": "assets/select/stages/7-6.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "7-6"
+        },
+        {
+          "id": "7-7",
+          "code": "7-7",
+          "name": "核の前庭",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "永結の核、核の前庭。骨兵が道を埋める。",
+          "recommend": 29680,
+          "cost": 8,
+          "thumb": "assets/select/stages/7-7.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "7-7"
+        },
+        {
+          "id": "7-8",
+          "code": "7-8",
+          "name": "永結の階",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "永結の核、永結の階。骨兵が道を埋める。",
+          "recommend": 30060,
+          "cost": 8,
+          "thumb": "assets/select/stages/7-8.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "7-8"
+        },
+        {
+          "id": "7-9",
+          "code": "7-9",
+          "name": "すべての終わりの前",
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "永結の核、すべての終わりの前。骨兵が道を埋める。",
+          "recommend": 30440,
+          "cost": 8,
+          "thumb": "assets/select/stages/7-9.png",
+          "drops": [
+            {
+              "id": "coin",
+              "label": "通貨"
+            },
+            {
+              "id": "petal",
+              "label": "花"
+            }
+          ],
+          "battle": "7-9"
+        },
+        {
+          "id": "7-10",
+          "code": "7-10",
+          "name": "永結の核",
+          "boss": true,
+          "stars": 0,
+          "starsMax": 3,
+          "summary": "永結の核の奥。永結の核が道を塞いでいる。",
+          "recommend": 34320,
+          "cost": 12,
+          "thumb": "assets/select/stages/7-10.png",
+          "drops": [
+            {
+              "id": "gem",
+              "label": "宝玉"
+            },
+            {
+              "id": "bolt",
+              "label": "雷"
+            },
+            {
+              "id": "coin",
+              "label": "通貨"
+            }
+          ],
+          "battle": "7-10"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+[
+  {
+    "id": "amaterasu_001",
+    "name": "天照",
+    "civilization": "japan",
+    "element": "sun",
+    "relic": "yata_mirror",
+    "hp": 1200,
+    "attack": 180,
+    "defense": 100,
+    "skills": ["solar_slash", "sakura_domain", "eternal_sun"]
+  },
+  {
+    "id": "athena_001",
+    "name": "アテナ",
+    "civilization": "greece",
+    "element": "aegis",
+    "relic": "lost_city_aegis",
+    "hp": 1400,
+    "attack": 120,
+    "defense": 160,
+    "skills": ["aegis_guard", "omen", "war_goddess"]
+  },
+  {
+    "id": "anubis_001",
+    "name": "アヌビス",
+    "civilization": "egypt",
+    "element": "judgment",
+    "relic": "judgment_scale",
+    "hp": 1250,
+    "attack": 150,
+    "defense": 110,
+    "skills": ["scale", "guide", "verdict"]
+  },
+  {
+    "id": "ishtar_001",
+    "name": "イシュタル",
+    "civilization": "mesopotamia",
+    "element": "venus",
+    "relic": "venus_star",
+    "hp": 1300,
+    "attack": 170,
+    "defense": 90,
+    "skills": ["venus", "love_war", "lion_gate"]
+  },
+  {
+    "id": "scathach_001",
+    "name": "スカアハ",
+    "civilization": "celtic",
+    "element": "shadow",
+    "relic": "shadow_spear",
+    "hp": 1180,
+    "attack": 190,
+    "defense": 80,
+    "skills": ["shadow_spear", "otherworld_gate", "trial"]
+  }
+]

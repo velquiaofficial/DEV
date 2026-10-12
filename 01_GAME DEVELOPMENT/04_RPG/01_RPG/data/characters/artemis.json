@@ -1,0 +1,101 @@
+{
+  "id": "artemis",
+  "uid": "artemis_001",
+  "name": "アルテミス",
+  "name_ja": "アルテミス",
+  "name_en": "ARTEMIS",
+  "origin": "DIVINE",
+  "era": "MYTH",
+  "civ": "greece",
+  "civilization": "HELLAS",
+  "civilization_id": "hellas",
+  "relic": "lost_city_aegis",
+  "reconstruction": "都市が白い大理石の神殿都市へ変化する。",
+  "seed": false,
+  "class": "DIVINE",
+  "role": "ASSASSIN",
+  "role_ui": "Assassin",
+  "element": "HUNT",
+  "weapon": "SILVER_BOW",
+  "height": 170,
+  "appearance": {
+    "hair": "hellas_hair",
+    "eyes": "artemis_eyes",
+    "costume": "hellas_divine"
+  },
+  "stats": {
+    "hp": 767,
+    "attack": 88,
+    "defense": 64,
+    "speed": 81
+  },
+  "hp": 108,
+  "speed": 9.0,
+  "damage": 17,
+  "skills": [
+    "artemis_skill1",
+    "artemis_skill2",
+    "artemis_skill3"
+  ],
+  "normal_attack": {
+    "id": "artemis_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "artemis_skill1",
+    "name_ja": "銀弓",
+    "name_en": "銀弓"
+  },
+  "skill_2": {
+    "id": "artemis_skill2",
+    "name_ja": "野駆け",
+    "name_en": "野駆け"
+  },
+  "ultimate": {
+    "id": "artemis_skill3",
+    "name_ja": "処女の夜",
+    "name_en": "処女の夜"
+  },
+  "passive": {
+    "id": "artemis_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "端からの攻撃が致命になりやすい"
+  },
+  "civilization_tags": [
+    "greece",
+    "HELLAS",
+    "MYTH",
+    "DIVINE",
+    "HUNT"
+  ],
+  "relationships": [],
+  "voice_type": "quiet",
+  "music_theme": "狩猟・月・森",
+  "civilization_shift_effect": "廃墟→大理石→神殿→オリーブ→HELLAS DOMAIN",
+  "theme": "狩猟・月・森",
+  "passive_text": "端からの攻撃が致命になりやすい",
+  "story": "追うことを忘れれば、獲物も消える。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "hellas",
+  "land": "hellas",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/hellas/artemis.png",
+  "colors": {
+    "body": [
+      0.888,
+      0.877,
+      0.809
+    ],
+    "emit": [
+      0.478,
+      0.637,
+      0.939
+    ]
+  }
+}

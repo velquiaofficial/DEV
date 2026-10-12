@@ -1,0 +1,7 @@
+[
+  {"id": "amaterasu", "name": "天照", "name_ja": "天照", "civilization": "japan", "relic": "yata_mirror", "hp": 1200, "attack": 180, "defense": 100},
+  {"id": "athena", "name": "アテナ", "name_ja": "アテナ", "civilization": "greece", "relic": "lost_city_aegis", "hp": 1400, "attack": 120, "defense": 160},
+  {"id": "anubis", "name": "アヌビス", "name_ja": "アヌビス", "civilization": "egypt", "relic": "judgment_scale", "hp": 1250, "attack": 150, "defense": 110},
+  {"id": "ishtar", "name": "イシュタル", "name_ja": "イシュタル", "civilization": "mesopotamia", "relic": "venus_star", "hp": 1300, "attack": 170, "defense": 90},
+  {"id": "scathach", "name": "スカアハ", "name_ja": "スカアハ", "civilization": "celtic", "relic": "shadow_spear", "hp": 1180, "attack": 190, "defense": 80}
+]

@@ -1,0 +1,106 @@
+{
+  "id": "future_tokyo",
+  "uid": "future_tokyo_001",
+  "name": "未来東京",
+  "name_ja": "未来東京",
+  "name_en": "FUTURE TOKYO",
+  "origin": "NEXUS",
+  "era": "FUTURE",
+  "civ": "japan",
+  "civilization": "TOKYO",
+  "civilization_id": "tokyo",
+  "relic": "yata_mirror",
+  "reconstruction": "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。",
+  "seed": false,
+  "class": "NEXUS",
+  "role": "TACTICIAN",
+  "role_ui": "Tactician",
+  "element": "CIRCUIT",
+  "weapon": "FUTURE_RAIL",
+  "height": 164,
+  "appearance": {
+    "hair": "tokyo_hair",
+    "eyes": "future_tokyo_eyes",
+    "costume": "tokyo_nexus"
+  },
+  "stats": {
+    "hp": 866,
+    "attack": 73,
+    "defense": 67,
+    "speed": 79
+  },
+  "hp": 122,
+  "speed": 8.8,
+  "damage": 14,
+  "skills": [
+    "future_tokyo_skill1",
+    "future_tokyo_skill2",
+    "future_tokyo_skill3"
+  ],
+  "normal_attack": {
+    "id": "future_tokyo_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "future_tokyo_skill1",
+    "name_ja": "未来回路",
+    "name_en": "未来回路"
+  },
+  "skill_2": {
+    "id": "future_tokyo_skill2",
+    "name_ja": "再首都",
+    "name_en": "再首都"
+  },
+  "ultimate": {
+    "id": "future_tokyo_skill3",
+    "name_ja": "永遠東京",
+    "name_en": "永遠東京"
+  },
+  "passive": {
+    "id": "future_tokyo_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "全味方の捕獲をわずかに加速する"
+  },
+  "civilization_tags": [
+    "japan",
+    "TOKYO",
+    "FUTURE",
+    "NEXUS",
+    "CIRCUIT"
+  ],
+  "relationships": [
+    "tokyo",
+    "amaterasu",
+    "yamato",
+    "aeterna"
+  ],
+  "voice_type": "measured",
+  "music_theme": "回路都市・再設計・未来東京",
+  "civilization_shift_effect": "灰色の線路→ネオン→駅→回路都市→TOKYO DOMAIN",
+  "theme": "回路都市・再設計・未来東京",
+  "passive_text": "全味方の捕獲をわずかに加速する",
+  "story": "まだ起きていない東京が、先に消えている。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "tokyo",
+  "land": "tokyo",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/tokyo/future_tokyo.png",
+  "colors": {
+    "body": [
+      0.135,
+      0.133,
+      0.138
+    ],
+    "emit": [
+      0.255,
+      0.883,
+      0.928
+    ]
+  }
+}

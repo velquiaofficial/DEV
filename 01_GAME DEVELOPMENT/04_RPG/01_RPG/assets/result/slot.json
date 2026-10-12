@@ -1,0 +1,4 @@
+{
+  "slot": "result.win / result.lose",
+  "drop": "win.png, lose.png"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "medieval",
+  "code": "MEDIEVAL",
+  "civ": "medieval",
+  "launch": false,
+  "name": "中世王国",
+  "name_en": "MEDIEVAL",
+  "members": [
+    "mongolia",
+    "goryeo",
+    "frank",
+    "andalus",
+    "mali"
+  ],
+  "features": [
+    "Castle",
+    "Cathedral",
+    "Banner",
+    "Keep",
+    "Market",
+    "Wall"
+  ],
+  "civilization_shift": {
+    "guard": 12,
+    "defense": 8
+  },
+  "shift_text": "荒野→城壁→旗→城塞→MEDIEVAL DOMAIN",
+  "banner": "res://assets/characters/_keyart/medieval.png",
+  "sheet": "res://assets/characters/_sheets/medieval.png"
+}

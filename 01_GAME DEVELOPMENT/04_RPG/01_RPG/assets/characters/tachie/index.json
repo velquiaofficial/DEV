@@ -1,0 +1,1100 @@
+[
+  {
+    "id": "aeterna",
+    "name": "アエテルナ",
+    "file": "tachie/aeterna.png",
+    "ok": true
+  },
+  {
+    "id": "alexandria",
+    "name": "アレクサンドリア",
+    "file": "tachie/alexandria.png",
+    "ok": true
+  },
+  {
+    "id": "amaterasu",
+    "name": "天照",
+    "file": "tachie/amaterasu.png",
+    "ok": true
+  },
+  {
+    "id": "amsterdam",
+    "name": "アムステルダム",
+    "file": "tachie/amsterdam.png",
+    "ok": true
+  },
+  {
+    "id": "andalus",
+    "name": "アンダルス",
+    "file": "tachie/andalus.png",
+    "ok": true
+  },
+  {
+    "id": "anubis",
+    "name": "アヌビス",
+    "file": "tachie/anubis.png",
+    "ok": true
+  },
+  {
+    "id": "apollo",
+    "name": "アポロン",
+    "file": "tachie/apollo.png",
+    "ok": true
+  },
+  {
+    "id": "ark",
+    "name": "方舟",
+    "file": "tachie/ark.png",
+    "ok": true
+  },
+  {
+    "id": "artemis",
+    "name": "アルテミス",
+    "file": "tachie/artemis.png",
+    "ok": true
+  },
+  {
+    "id": "asgard",
+    "name": "アスガルド",
+    "file": "tachie/asgard.png",
+    "ok": true
+  },
+  {
+    "id": "assyria",
+    "name": "アッシリア",
+    "file": "tachie/assyria.png",
+    "ok": true
+  },
+  {
+    "id": "athena",
+    "name": "アテナ",
+    "file": "tachie/athena.png",
+    "ok": true
+  },
+  {
+    "id": "babylon",
+    "name": "バビロン",
+    "file": "tachie/babylon.png",
+    "ok": true
+  },
+  {
+    "id": "bastet",
+    "name": "バステト",
+    "file": "tachie/bastet.png",
+    "ok": true
+  },
+  {
+    "id": "beijing",
+    "name": "北京",
+    "file": "tachie/beijing.png",
+    "ok": true
+  },
+  {
+    "id": "benzaiten",
+    "name": "弁財天",
+    "file": "tachie/benzaiten.png",
+    "ok": true
+  },
+  {
+    "id": "berlin",
+    "name": "ベルリン",
+    "file": "tachie/berlin.png",
+    "ok": true
+  },
+  {
+    "id": "boston",
+    "name": "ボストン",
+    "file": "tachie/boston.png",
+    "ok": true
+  },
+  {
+    "id": "byzantium",
+    "name": "ビザンツ",
+    "file": "tachie/byzantium.png",
+    "ok": true
+  },
+  {
+    "id": "cairo",
+    "name": "カイロ",
+    "file": "tachie/cairo.png",
+    "ok": true
+  },
+  {
+    "id": "carthage",
+    "name": "カルタゴ",
+    "file": "tachie/carthage.png",
+    "ok": true
+  },
+  {
+    "id": "changan",
+    "name": "長安",
+    "file": "tachie/changan.png",
+    "ok": true
+  },
+  {
+    "id": "chicago",
+    "name": "シカゴ",
+    "file": "tachie/chicago.png",
+    "ok": true
+  },
+  {
+    "id": "ctesiphon",
+    "name": "クテシフォン",
+    "file": "tachie/ctesiphon.png",
+    "ok": true
+  },
+  {
+    "id": "dubai",
+    "name": "ドバイ",
+    "file": "tachie/dubai.png",
+    "ok": true
+  },
+  {
+    "id": "edo",
+    "name": "江戸",
+    "file": "tachie/edo.png",
+    "ok": true
+  },
+  {
+    "id": "frank",
+    "name": "フランク",
+    "file": "tachie/frank.png",
+    "ok": true
+  },
+  {
+    "id": "freya",
+    "name": "フレイヤ",
+    "file": "tachie/freya.png",
+    "ok": true
+  },
+  {
+    "id": "frigg",
+    "name": "フリッグ",
+    "file": "tachie/frigg.png",
+    "ok": true
+  },
+  {
+    "id": "future_tokyo",
+    "name": "未来東京",
+    "file": "tachie/future_tokyo.png",
+    "ok": true
+  },
+  {
+    "id": "genoa",
+    "name": "ジェノヴァ",
+    "file": "tachie/genoa.png",
+    "ok": true
+  },
+  {
+    "id": "goryeo",
+    "name": "高麗",
+    "file": "tachie/goryeo.png",
+    "ok": true
+  },
+  {
+    "id": "hachiman",
+    "name": "八幡",
+    "file": "tachie/hachiman.png",
+    "ok": true
+  },
+  {
+    "id": "hangzhou",
+    "name": "杭州",
+    "file": "tachie/hangzhou.png",
+    "ok": true
+  },
+  {
+    "id": "hathor",
+    "name": "ハトホル",
+    "file": "tachie/hathor.png",
+    "ok": true
+  },
+  {
+    "id": "hel",
+    "name": "ヘル",
+    "file": "tachie/hel.png",
+    "ok": true
+  },
+  {
+    "id": "hongkong",
+    "name": "ホンコン",
+    "file": "tachie/hongkong.png",
+    "ok": true
+  },
+  {
+    "id": "inari",
+    "name": "稲荷",
+    "file": "tachie/inari.png",
+    "ok": true
+  },
+  {
+    "id": "ishtar",
+    "name": "イシュタル",
+    "file": "tachie/ishtar.png",
+    "ok": true
+  },
+  {
+    "id": "isis",
+    "name": "イシス",
+    "file": "tachie/isis.png",
+    "ok": true
+  },
+  {
+    "id": "istanbul",
+    "name": "イスタンブール",
+    "file": "tachie/istanbul.png",
+    "ok": true
+  },
+  {
+    "id": "izanami",
+    "name": "伊邪那美",
+    "file": "tachie/izanami.png",
+    "ok": true
+  },
+  {
+    "id": "kamakura",
+    "name": "鎌倉",
+    "file": "tachie/kamakura.png",
+    "ok": true
+  },
+  {
+    "id": "lisbon",
+    "name": "リスボン",
+    "file": "tachie/lisbon.png",
+    "ok": true
+  },
+  {
+    "id": "loki",
+    "name": "ロキ",
+    "file": "tachie/loki.png",
+    "ok": true
+  },
+  {
+    "id": "london",
+    "name": "ロンドン",
+    "file": "tachie/london.png",
+    "ok": true
+  },
+  {
+    "id": "lunar",
+    "name": "月面",
+    "file": "tachie/lunar.png",
+    "ok": true
+  },
+  {
+    "id": "luoshen",
+    "name": "洛神",
+    "file": "tachie/luoshen.png",
+    "ok": true
+  },
+  {
+    "id": "luoyang",
+    "name": "洛陽",
+    "file": "tachie/luoyang.png",
+    "ok": true
+  },
+  {
+    "id": "machine",
+    "name": "機関",
+    "file": "tachie/machine.png",
+    "ok": true
+  },
+  {
+    "id": "mali",
+    "name": "マリ",
+    "file": "tachie/mali.png",
+    "ok": true
+  },
+  {
+    "id": "manchester",
+    "name": "マンチェスター",
+    "file": "tachie/manchester.png",
+    "ok": true
+  },
+  {
+    "id": "meiji",
+    "name": "明治",
+    "file": "tachie/meiji.png",
+    "ok": true
+  },
+  {
+    "id": "memphis",
+    "name": "メンフィス",
+    "file": "tachie/memphis.png",
+    "ok": true
+  },
+  {
+    "id": "mexico",
+    "name": "メキシコ",
+    "file": "tachie/mexico.png",
+    "ok": true
+  },
+  {
+    "id": "minos",
+    "name": "ミノス",
+    "file": "tachie/minos.png",
+    "ok": true
+  },
+  {
+    "id": "mongolia",
+    "name": "モンゴル",
+    "file": "tachie/mongolia.png",
+    "ok": true
+  },
+  {
+    "id": "nagasaki",
+    "name": "長崎",
+    "file": "tachie/nagasaki.png",
+    "ok": true
+  },
+  {
+    "id": "newyork",
+    "name": "ニューヨーク",
+    "file": "tachie/newyork.png",
+    "ok": true
+  },
+  {
+    "id": "nexus_city",
+    "name": "ネクサス",
+    "file": "tachie/nexus_city.png",
+    "ok": true
+  },
+  {
+    "id": "nineveh",
+    "name": "ニネヴェ",
+    "file": "tachie/nineveh.png",
+    "ok": true
+  },
+  {
+    "id": "nuwa",
+    "name": "女媧",
+    "file": "tachie/nuwa.png",
+    "ok": true
+  },
+  {
+    "id": "oblivion",
+    "name": "忘却",
+    "file": "tachie/oblivion.png",
+    "ok": true
+  },
+  {
+    "id": "odin",
+    "name": "オーディン",
+    "file": "tachie/odin.png",
+    "ok": true
+  },
+  {
+    "id": "orbital",
+    "name": "オービタル",
+    "file": "tachie/orbital.png",
+    "ok": true
+  },
+  {
+    "id": "osaka",
+    "name": "大坂",
+    "file": "tachie/osaka.png",
+    "ok": true
+  },
+  {
+    "id": "ottoman",
+    "name": "オスマン",
+    "file": "tachie/ottoman.png",
+    "ok": true
+  },
+  {
+    "id": "palmyra",
+    "name": "パルミラ",
+    "file": "tachie/palmyra.png",
+    "ok": true
+  },
+  {
+    "id": "paris",
+    "name": "パリ",
+    "file": "tachie/paris.png",
+    "ok": true
+  },
+  {
+    "id": "persia",
+    "name": "ペルシア",
+    "file": "tachie/persia.png",
+    "ok": true
+  },
+  {
+    "id": "petersburg",
+    "name": "ペテルブルク",
+    "file": "tachie/petersburg.png",
+    "ok": true
+  },
+  {
+    "id": "poseidon",
+    "name": "ポセイドン",
+    "file": "tachie/poseidon.png",
+    "ok": true
+  },
+  {
+    "id": "ra",
+    "name": "ラー",
+    "file": "tachie/ra.png",
+    "ok": true
+  },
+  {
+    "id": "roma",
+    "name": "ローマ",
+    "file": "tachie/roma.png",
+    "ok": true
+  },
+  {
+    "id": "ryugu",
+    "name": "龍宮",
+    "file": "tachie/ryugu.png",
+    "ok": true
+  },
+  {
+    "id": "scathach",
+    "name": "スカアハ",
+    "file": "tachie/scathach.png",
+    "ok": true
+  },
+  {
+    "id": "seoul",
+    "name": "ソウル",
+    "file": "tachie/seoul.png",
+    "ok": true
+  },
+  {
+    "id": "set",
+    "name": "セト",
+    "file": "tachie/set.png",
+    "ok": true
+  },
+  {
+    "id": "shanghai",
+    "name": "上海",
+    "file": "tachie/shanghai.png",
+    "ok": true
+  },
+  {
+    "id": "singapore",
+    "name": "シンガポール",
+    "file": "tachie/singapore.png",
+    "ok": true
+  },
+  {
+    "id": "sparta",
+    "name": "スパルタ",
+    "file": "tachie/sparta.png",
+    "ok": true
+  },
+  {
+    "id": "sumer",
+    "name": "シュメール",
+    "file": "tachie/sumer.png",
+    "ok": true
+  },
+  {
+    "id": "susanoo",
+    "name": "須佐之男",
+    "file": "tachie/susanoo.png",
+    "ok": true
+  },
+  {
+    "id": "takemikazuchi",
+    "name": "建御雷",
+    "file": "tachie/takemikazuchi.png",
+    "ok": true
+  },
+  {
+    "id": "tang",
+    "name": "唐",
+    "file": "tachie/tang.png",
+    "ok": true
+  },
+  {
+    "id": "thebes",
+    "name": "テーベ",
+    "file": "tachie/thebes.png",
+    "ok": true
+  },
+  {
+    "id": "thor",
+    "name": "トール",
+    "file": "tachie/thor.png",
+    "ok": true
+  },
+  {
+    "id": "thoth",
+    "name": "トト",
+    "file": "tachie/thoth.png",
+    "ok": true
+  },
+  {
+    "id": "tokyo",
+    "name": "東京",
+    "file": "tachie/tokyo.png",
+    "ok": true
+  },
+  {
+    "id": "tsukuyomi",
+    "name": "月読",
+    "file": "tachie/tsukuyomi.png",
+    "ok": true
+  },
+  {
+    "id": "uppsala",
+    "name": "ウプサラ",
+    "file": "tachie/uppsala.png",
+    "ok": true
+  },
+  {
+    "id": "ur",
+    "name": "ウル",
+    "file": "tachie/ur.png",
+    "ok": true
+  },
+  {
+    "id": "uruk",
+    "name": "ウルク",
+    "file": "tachie/uruk.png",
+    "ok": true
+  },
+  {
+    "id": "valkyrie",
+    "name": "ヴァルキリー",
+    "file": "tachie/valkyrie.png",
+    "ok": true
+  },
+  {
+    "id": "venice",
+    "name": "ヴェネツィア",
+    "file": "tachie/venice.png",
+    "ok": true
+  },
+  {
+    "id": "vienna",
+    "name": "ウィーン",
+    "file": "tachie/vienna.png",
+    "ok": true
+  },
+  {
+    "id": "viking",
+    "name": "ヴァイキング",
+    "file": "tachie/viking.png",
+    "ok": true
+  },
+  {
+    "id": "vinland",
+    "name": "ヴィンランド",
+    "file": "tachie/vinland.png",
+    "ok": true
+  },
+  {
+    "id": "xishi",
+    "name": "西施",
+    "file": "tachie/xishi.png",
+    "ok": true
+  },
+  {
+    "id": "yamato",
+    "name": "ヤマト",
+    "file": "tachie/yamato.png",
+    "ok": true
+  },
+  {
+    "id": "yokohama",
+    "name": "横浜",
+    "file": "tachie/yokohama.png",
+    "ok": true
+  },
+  {
+    "id": "sakuya",
+    "name": "木花咲耶",
+    "file": "tachie/sakuya.png",
+    "ok": true
+  },
+  {
+    "id": "fukuhime",
+    "name": "福姫",
+    "file": "tachie/fukuhime.png",
+    "ok": true
+  },
+  {
+    "id": "yaoyorozu",
+    "name": "八百万",
+    "file": "tachie/yaoyorozu.png",
+    "ok": true
+  },
+  {
+    "id": "toyo",
+    "name": "豊穣姫",
+    "file": "tachie/toyo.png",
+    "ok": true
+  },
+  {
+    "id": "narukami",
+    "name": "鳴神",
+    "file": "tachie/narukami.png",
+    "ok": true
+  },
+  {
+    "id": "tachibana",
+    "name": "立花",
+    "file": "tachie/tachibana.png",
+    "ok": true
+  },
+  {
+    "id": "hotaru",
+    "name": "蛍女",
+    "file": "tachie/hotaru.png",
+    "ok": true
+  },
+  {
+    "id": "aphrodite",
+    "name": "アプロディーテ",
+    "file": "tachie/aphrodite.png",
+    "ok": true
+  },
+  {
+    "id": "hera",
+    "name": "ヘラ",
+    "file": "tachie/hera.png",
+    "ok": true
+  },
+  {
+    "id": "demeter",
+    "name": "デメテル",
+    "file": "tachie/demeter.png",
+    "ok": true
+  },
+  {
+    "id": "persephone",
+    "name": "ペルセポネ",
+    "file": "tachie/persephone.png",
+    "ok": true
+  },
+  {
+    "id": "hestia",
+    "name": "ヘスティア",
+    "file": "tachie/hestia.png",
+    "ok": true
+  },
+  {
+    "id": "nike",
+    "name": "ニケ",
+    "file": "tachie/nike.png",
+    "ok": true
+  },
+  {
+    "id": "hecate",
+    "name": "ヘカーター",
+    "file": "tachie/hecate.png",
+    "ok": true
+  },
+  {
+    "id": "medusa",
+    "name": "メデューサ",
+    "file": "tachie/medusa.png",
+    "ok": true
+  },
+  {
+    "id": "nephthys",
+    "name": "ネフティス",
+    "file": "tachie/nephthys.png",
+    "ok": true
+  },
+  {
+    "id": "sekhmet",
+    "name": "セクメト",
+    "file": "tachie/sekhmet.png",
+    "ok": true
+  },
+  {
+    "id": "nut",
+    "name": "ヌト",
+    "file": "tachie/nut.png",
+    "ok": true
+  },
+  {
+    "id": "cleopatra",
+    "name": "クレオパトラ",
+    "file": "tachie/cleopatra.png",
+    "ok": true
+  },
+  {
+    "id": "amenra",
+    "name": "アメンラー",
+    "file": "tachie/amenra.png",
+    "ok": true
+  },
+  {
+    "id": "xiwangmu",
+    "name": "西王母",
+    "file": "tachie/xiwangmu.png",
+    "ok": true
+  },
+  {
+    "id": "change",
+    "name": "嫦娥",
+    "file": "tachie/change.png",
+    "ok": true
+  },
+  {
+    "id": "fuxi",
+    "name": "伏羲",
+    "file": "tachie/fuxi.png",
+    "ok": true
+  },
+  {
+    "id": "longji",
+    "name": "龍姫",
+    "file": "tachie/longji.png",
+    "ok": true
+  },
+  {
+    "id": "huangnu",
+    "name": "黄女",
+    "file": "tachie/huangnu.png",
+    "ok": true
+  },
+  {
+    "id": "guanyu",
+    "name": "関羽",
+    "file": "tachie/guanyu.png",
+    "ok": true
+  },
+  {
+    "id": "diaochan",
+    "name": "貂蝉",
+    "file": "tachie/diaochan.png",
+    "ok": true
+  },
+  {
+    "id": "xiang",
+    "name": "嫦香",
+    "file": "tachie/xiang.png",
+    "ok": true
+  },
+  {
+    "id": "xiannu",
+    "name": "仙女",
+    "file": "tachie/xiannu.png",
+    "ok": true
+  },
+  {
+    "id": "frigga",
+    "name": "フリッグ",
+    "file": "tachie/frigga.png",
+    "ok": true
+  },
+  {
+    "id": "sigurd",
+    "name": "シグルド",
+    "file": "tachie/sigurd.png",
+    "ok": true
+  },
+  {
+    "id": "idunn",
+    "name": "イズン",
+    "file": "tachie/idunn.png",
+    "ok": true
+  },
+  {
+    "id": "yggdrasil",
+    "name": "ユグドラシル",
+    "file": "tachie/yggdrasil.png",
+    "ok": true
+  },
+  {
+    "id": "ereshkigal",
+    "name": "エレシュキガル",
+    "file": "tachie/ereshkigal.png",
+    "ok": true
+  },
+  {
+    "id": "marduk",
+    "name": "マルドゥク",
+    "file": "tachie/marduk.png",
+    "ok": true
+  },
+  {
+    "id": "tiamat",
+    "name": "ティアマト",
+    "file": "tachie/tiamat.png",
+    "ok": true
+  },
+  {
+    "id": "shamash",
+    "name": "シャマシュ",
+    "file": "tachie/shamash.png",
+    "ok": true
+  },
+  {
+    "id": "sin",
+    "name": "シン",
+    "file": "tachie/sin.png",
+    "ok": true
+  },
+  {
+    "id": "ninhursag",
+    "name": "ニンフルサグ",
+    "file": "tachie/ninhursag.png",
+    "ok": true
+  },
+  {
+    "id": "enki",
+    "name": "エンキ",
+    "file": "tachie/enki.png",
+    "ok": true
+  },
+  {
+    "id": "enlil",
+    "name": "エンリル",
+    "file": "tachie/enlil.png",
+    "ok": true
+  },
+  {
+    "id": "nanna",
+    "name": "ナンナ",
+    "file": "tachie/nanna.png",
+    "ok": true
+  },
+  {
+    "id": "quetzalcoatl",
+    "name": "ケツァルコアトル",
+    "file": "tachie/quetzalcoatl.png",
+    "ok": true
+  },
+  {
+    "id": "tezcatlipoca",
+    "name": "テスカトリポカ",
+    "file": "tachie/tezcatlipoca.png",
+    "ok": true
+  },
+  {
+    "id": "tonatiuh",
+    "name": "トナティウ",
+    "file": "tachie/tonatiuh.png",
+    "ok": true
+  },
+  {
+    "id": "xipe",
+    "name": "シペトテック",
+    "file": "tachie/xipe.png",
+    "ok": true
+  },
+  {
+    "id": "chalchiuhtlicue",
+    "name": "チャルチウィトリクエ",
+    "file": "tachie/chalchiuhtlicue.png",
+    "ok": true
+  },
+  {
+    "id": "xolotl",
+    "name": "ショロトル",
+    "file": "tachie/xolotl.png",
+    "ok": true
+  },
+  {
+    "id": "huitzilopochtli",
+    "name": "ウィツィロポチトリ",
+    "file": "tachie/huitzilopochtli.png",
+    "ok": true
+  },
+  {
+    "id": "tlaloc",
+    "name": "トラロック",
+    "file": "tachie/tlaloc.png",
+    "ok": true
+  },
+  {
+    "id": "xochiquetzal",
+    "name": "ショチケツァル",
+    "file": "tachie/xochiquetzal.png",
+    "ok": true
+  },
+  {
+    "id": "mictecacihuatl",
+    "name": "ミクトランシワトル",
+    "file": "tachie/mictecacihuatl.png",
+    "ok": true
+  },
+  {
+    "id": "lakshmi",
+    "name": "ラクシュミー",
+    "file": "tachie/lakshmi.png",
+    "ok": true
+  },
+  {
+    "id": "saraswati",
+    "name": "サラスヴァティ",
+    "file": "tachie/saraswati.png",
+    "ok": true
+  },
+  {
+    "id": "durga",
+    "name": "ドゥルガー",
+    "file": "tachie/durga.png",
+    "ok": true
+  },
+  {
+    "id": "kali",
+    "name": "カーリー",
+    "file": "tachie/kali.png",
+    "ok": true
+  },
+  {
+    "id": "ganesha",
+    "name": "ガネーシャ",
+    "file": "tachie/ganesha.png",
+    "ok": true
+  },
+  {
+    "id": "shiva",
+    "name": "シヴァ",
+    "file": "tachie/shiva.png",
+    "ok": true
+  },
+  {
+    "id": "parvati",
+    "name": "パールヴァティ",
+    "file": "tachie/parvati.png",
+    "ok": true
+  },
+  {
+    "id": "krishna",
+    "name": "クリシュナ",
+    "file": "tachie/krishna.png",
+    "ok": true
+  },
+  {
+    "id": "indra",
+    "name": "インドラ",
+    "file": "tachie/indra.png",
+    "ok": true
+  },
+  {
+    "id": "agni",
+    "name": "アグニ",
+    "file": "tachie/agni.png",
+    "ok": true
+  },
+  {
+    "id": "gaia",
+    "name": "ガイア",
+    "file": "tachie/gaia.png",
+    "ok": true
+  },
+  {
+    "id": "terra",
+    "name": "テラー",
+    "file": "tachie/terra.png",
+    "ok": true
+  },
+  {
+    "id": "morgana",
+    "name": "モルガナ",
+    "file": "tachie/morgana.png",
+    "ok": true
+  },
+  {
+    "id": "brigid",
+    "name": "ブリジッド",
+    "file": "tachie/brigid.png",
+    "ok": true
+  },
+  {
+    "id": "pele",
+    "name": "ペレ",
+    "file": "tachie/pele.png",
+    "ok": true
+  },
+  {
+    "id": "amaterasu_kikai",
+    "name": "アマテラス機械",
+    "file": "tachie/amaterasu_kikai.png",
+    "ok": true
+  },
+  {
+    "id": "sedna",
+    "name": "セドナ",
+    "file": "tachie/sedna.png",
+    "ok": true
+  },
+  {
+    "id": "mamacocha",
+    "name": "ママコチャ",
+    "file": "tachie/mamacocha.png",
+    "ok": true
+  },
+  {
+    "id": "bastetaria",
+    "name": "バステタリア",
+    "file": "tachie/bastetaria.png",
+    "ok": true
+  },
+  {
+    "id": "zenobia",
+    "name": "ゼノビア",
+    "file": "tachie/zenobia.png",
+    "ok": true
+  },
+  {
+    "id": "nemesis",
+    "name": "ネメシス",
+    "file": "tachie/nemesis.png",
+    "ok": true
+  },
+  {
+    "id": "aurora",
+    "name": "オーロラ",
+    "file": "tachie/aurora.png",
+    "ok": true
+  },
+  {
+    "id": "seraphim",
+    "name": "セラフィム",
+    "file": "tachie/seraphim.png",
+    "ok": true
+  },
+  {
+    "id": "nova",
+    "name": "ノヴァ",
+    "file": "tachie/nova.png",
+    "ok": true
+  },
+  {
+    "id": "lyra",
+    "name": "リアー",
+    "file": "tachie/lyra.png",
+    "ok": true
+  },
+  {
+    "id": "eclipse",
+    "name": "エクリプス",
+    "file": "tachie/eclipse.png",
+    "ok": true
+  },
+  {
+    "id": "prometheus",
+    "name": "プロメテリア",
+    "file": "tachie/prometheus.png",
+    "ok": true
+  },
+  {
+    "id": "iris",
+    "name": "イリス",
+    "file": "tachie/iris.png",
+    "ok": true
+  },
+  {
+    "id": "astra",
+    "name": "アストラ",
+    "file": "tachie/astra.png",
+    "ok": true
+  },
+  {
+    "id": "relicsia",
+    "name": "レリクシア",
+    "file": "tachie/relicsia.png",
+    "ok": true
+  }
+]

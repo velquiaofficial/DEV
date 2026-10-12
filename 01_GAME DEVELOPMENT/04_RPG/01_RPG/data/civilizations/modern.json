@@ -1,0 +1,34 @@
+{
+  "id": "modern",
+  "code": "MODERN",
+  "civ": "modern",
+  "launch": false,
+  "name": "近代文明",
+  "name_en": "MODERN",
+  "members": [
+    "manchester",
+    "vienna",
+    "berlin",
+    "petersburg",
+    "chicago",
+    "boston",
+    "lisbon",
+    "amsterdam",
+    "genoa"
+  ],
+  "features": [
+    "Factory",
+    "Railway",
+    "Boulevard",
+    "Academy",
+    "Harbor",
+    "Steam"
+  ],
+  "civilization_shift": {
+    "speed": 8,
+    "power": 8
+  },
+  "shift_text": "煤煙→汽笛→並木→近代都市→MODERN DOMAIN",
+  "banner": "res://assets/characters/_keyart/modern.png",
+  "sheet": "res://assets/characters/_sheets/modern.png"
+}

@@ -1,0 +1,8 @@
+{
+  "help": "勝利すると、出撃したキャラに経験値が入る。次のレベルまでの量は xp.flat + xp.step × レベル + xp.base × レベル ^ xp.power。1レベルで growth の倍率だけステータスが増える。最大レベルは maxLevel、1戦で上がる段数の上限は maxGain。ステージ側に xp を書くと、その量が報酬になる。無いときは reward.base + 推奨戦力 × reward.perRecommend。首領は reward.boss 倍。",
+  "maxLevel": 99,
+  "maxGain": 3,
+  "xp": { "flat": 120, "step": 5, "base": 0, "power": 1 },
+  "growth": { "hp": 0.04, "atk": 0.035, "def": 0.03, "heal": 0.035 },
+  "reward": { "base": 110, "perRecommend": 0.08, "boss": 1.75 }
+}

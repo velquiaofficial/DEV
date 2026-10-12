@@ -1,0 +1,36 @@
+{
+  "id": "norse",
+  "code": "NORSE",
+  "civ": "norse",
+  "launch": true,
+  "name": "ノース",
+  "name_en": "NORSE",
+  "members": [
+    "freya",
+    "odin",
+    "thor",
+    "hel",
+    "loki",
+    "frigg",
+    "valkyrie",
+    "asgard",
+    "uppsala",
+    "vinland",
+    "viking"
+  ],
+  "features": [
+    "Runestone",
+    "Longhouse",
+    "Yggdrasil",
+    "Bifrost",
+    "Fjord",
+    "Mead Hall"
+  ],
+  "civilization_shift": {
+    "ult": 15,
+    "power": 10
+  },
+  "shift_text": "霧→ルーン→神木→虹橋→NORSE DOMAIN",
+  "banner": "res://assets/characters/_keyart/norse.png",
+  "sheet": "res://assets/characters/_sheets/norse.png"
+}

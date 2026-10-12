@@ -1,0 +1,101 @@
+{
+  "id": "set",
+  "uid": "set_001",
+  "name": "セト",
+  "name_ja": "セト",
+  "name_en": "SET",
+  "origin": "DIVINE",
+  "era": "MYTH",
+  "civ": "egypt",
+  "civilization": "KEMET",
+  "civilization_id": "kemet",
+  "relic": "judgment_scale",
+  "reconstruction": "ナイルと蓮が灰色の街を潤す。",
+  "seed": false,
+  "class": "DIVINE",
+  "role": "ATTACKER",
+  "role_ui": "Attacker",
+  "element": "SAND",
+  "weapon": "CHAOS_WAS",
+  "height": 173,
+  "appearance": {
+    "hair": "kemet_hair",
+    "eyes": "set_eyes",
+    "costume": "kemet_divine"
+  },
+  "stats": {
+    "hp": 951,
+    "attack": 88,
+    "defense": 69,
+    "speed": 74
+  },
+  "hp": 134,
+  "speed": 8.2,
+  "damage": 17,
+  "skills": [
+    "set_skill1",
+    "set_skill2",
+    "set_skill3"
+  ],
+  "normal_attack": {
+    "id": "set_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "set_skill1",
+    "name_ja": "砂嵐",
+    "name_en": "砂嵐"
+  },
+  "skill_2": {
+    "id": "set_skill2",
+    "name_ja": "赤土",
+    "name_en": "赤土"
+  },
+  "ultimate": {
+    "id": "set_skill3",
+    "name_ja": "混沌",
+    "name_en": "混沌"
+  },
+  "passive": {
+    "id": "set_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "捕獲争い中の攻撃が強い"
+  },
+  "civilization_tags": [
+    "egypt",
+    "KEMET",
+    "MYTH",
+    "DIVINE",
+    "SAND"
+  ],
+  "relationships": [],
+  "voice_type": "fierce",
+  "music_theme": "砂嵐・混沌・境界",
+  "civilization_shift_effect": "砂→ナイル→蓮→神殿→KEMET DOMAIN",
+  "theme": "砂嵐・混沌・境界",
+  "passive_text": "捕獲争い中の攻撃が強い",
+  "story": "秩序が消える砂で、私は立つ。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "kemet",
+  "land": "kemet",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/kemet/set.png",
+  "colors": {
+    "body": [
+      0.11,
+      0.126,
+      0.176
+    ],
+    "emit": [
+      0.91,
+      0.706,
+      0.216
+    ]
+  }
+}

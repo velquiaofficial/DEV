@@ -1,0 +1,4 @@
+{
+  "slot": "shop.pickup / shop.normal / shop.event",
+  "drop": "pickup.png, normal.png, event.png"
+}

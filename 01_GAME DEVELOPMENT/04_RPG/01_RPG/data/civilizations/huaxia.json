@@ -1,0 +1,37 @@
+{
+  "id": "huaxia",
+  "code": "HUAXIA",
+  "civ": "china",
+  "launch": false,
+  "name": "華夏",
+  "name_en": "HUAXIA",
+  "members": [
+    "xishi",
+    "nuwa",
+    "luoshen",
+    "changan",
+    "luoyang",
+    "tang",
+    "hangzhou",
+    "beijing",
+    "shanghai",
+    "hongkong"
+  ],
+  "features": [
+    "Pavilion",
+    "West Lake",
+    "Silk",
+    "Palace",
+    "Scroll",
+    "Lantern",
+    "River"
+  ],
+  "civilization_shift": {
+    "ult": 10,
+    "healing": 10,
+    "control": 10
+  },
+  "shift_text": "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN",
+  "banner": "res://assets/characters/_keyart/huaxia.png",
+  "sheet": "res://assets/characters/_sheets/huaxia.png"
+}

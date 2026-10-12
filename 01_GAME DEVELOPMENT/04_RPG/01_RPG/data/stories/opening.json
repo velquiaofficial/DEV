@@ -1,0 +1,113 @@
+{
+  "id": "opening",
+  "title": "永結のレリクシア",
+  "tagline": "人類の記憶は、少女となって永遠を戦う。",
+  "beats": [
+    {
+      "bg": "res://assets/opening/001.png",
+      "portrait": "",
+      "speaker": "",
+      "text": "東京は――終わった。",
+      "hold": 2.0
+    },
+    {
+      "bg": "res://assets/opening/002.png",
+      "portrait": "",
+      "speaker": "",
+      "text": "人も、街も……",
+      "hold": 2.0
+    },
+    {
+      "bg": "res://assets/opening/003.png",
+      "portrait": "",
+      "speaker": "",
+      "text": "その記憶さえも。",
+      "hold": 2.0
+    },
+    {
+      "bg": "res://assets/opening/004.png",
+      "portrait": "",
+      "speaker": "",
+      "text": "だけど――",
+      "hold": 2.0
+    },
+    {
+      "bg": "res://assets/opening/005.png",
+      "portrait": "",
+      "speaker": "天照",
+      "text": "私は、覚えている。",
+      "hold": 2.0
+    },
+    {
+      "bg": "res://assets/opening/006.png",
+      "portrait": "",
+      "speaker": "天照",
+      "text": "あなたたちが生きた、この世界を。",
+      "hold": 2.0
+    },
+    {
+      "bg": "res://assets/opening/007.png",
+      "portrait": "",
+      "speaker": "",
+      "text": "失われた記憶は、少女となって目を覚ます。",
+      "hold": 2.0
+    },
+    {
+      "bg": "res://assets/opening/008.png",
+      "portrait": "",
+      "speaker": "",
+      "text": "歴史を喰らう、“忘却”に抗うために。",
+      "hold": 2.0
+    },
+    {
+      "bg": "res://assets/opening/009.png",
+      "portrait": "",
+      "speaker": "天照",
+      "text": "返してもらうわ。",
+      "hold": 2.0
+    },
+    {
+      "bg": "res://assets/opening/010.png",
+      "portrait": "",
+      "speaker": "天照",
+      "text": "私たちの歴史を。",
+      "hold": 2.0
+    },
+    {
+      "bg": "res://assets/opening/011.png",
+      "portrait": "",
+      "speaker": "",
+      "text": "記憶が戻るたび――",
+      "hold": 2.0
+    },
+    {
+      "bg": "res://assets/opening/012.png",
+      "portrait": "",
+      "speaker": "",
+      "text": "世界は、もう一度生まれ変わる。",
+      "hold": 2.0
+    },
+    {
+      "bg": "res://assets/opening/013.png",
+      "portrait": "",
+      "speaker": "天照",
+      "text": "さあ、取り戻しましょう。",
+      "hold": 2.0
+    },
+    {
+      "bg": "res://assets/opening/014.png",
+      "portrait": "",
+      "speaker": "天照",
+      "text": "人類が紡いだ、すべてを。",
+      "hold": 2.0
+    },
+    {
+      "bg": "res://assets/opening/015.png",
+      "portrait": "",
+      "speaker": "",
+      "text": "人類の記憶は、少女となって永遠を戦う。",
+      "title": true,
+      "hold": 2.0
+    }
+  ]
+}

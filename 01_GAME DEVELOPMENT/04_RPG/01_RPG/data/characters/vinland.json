@@ -1,0 +1,101 @@
+{
+  "id": "vinland",
+  "uid": "vinland_001",
+  "name": "ヴィンランド",
+  "name_ja": "ヴィンランド",
+  "name_en": "VINLAND",
+  "origin": "LEGACY",
+  "era": "EARLY MODERN",
+  "civ": "norse",
+  "civilization": "NORSE",
+  "civilization_id": "norse",
+  "relic": "world_tree_shard",
+  "reconstruction": "霧の森とルーンが東京を覆う。",
+  "seed": false,
+  "class": "LEGACY",
+  "role": "ATTACKER",
+  "role_ui": "Attacker",
+  "element": "FRONTIER",
+  "weapon": "LONGSHIP_AXE",
+  "height": 165,
+  "appearance": {
+    "hair": "norse_hair",
+    "eyes": "vinland_eyes",
+    "costume": "norse_legacy"
+  },
+  "stats": {
+    "hp": 909,
+    "attack": 78,
+    "defense": 68,
+    "speed": 75
+  },
+  "hp": 128,
+  "speed": 8.3,
+  "damage": 15,
+  "skills": [
+    "vinland_skill1",
+    "vinland_skill2",
+    "vinland_skill3"
+  ],
+  "normal_attack": {
+    "id": "vinland_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "vinland_skill1",
+    "name_ja": "長船",
+    "name_en": "長船"
+  },
+  "skill_2": {
+    "id": "vinland_skill2",
+    "name_ja": "葡萄",
+    "name_en": "葡萄"
+  },
+  "ultimate": {
+    "id": "vinland_skill3",
+    "name_ja": "西の岸",
+    "name_en": "西の岸"
+  },
+  "passive": {
+    "id": "vinland_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "マップ端で攻撃が伸びる"
+  },
+  "civilization_tags": [
+    "norse",
+    "NORSE",
+    "EARLY_MODERN",
+    "LEGACY",
+    "FRONTIER"
+  ],
+  "relationships": [],
+  "voice_type": "fierce",
+  "music_theme": "航海・葡萄・辺境",
+  "civilization_shift_effect": "霧→ルーン→神木→虹橋→NORSE DOMAIN",
+  "theme": "航海・葡萄・辺境",
+  "passive_text": "マップ端で攻撃が伸びる",
+  "story": "地図の外に、まだ名前がある。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "norse",
+  "land": "norse",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/norse/vinland.png",
+  "colors": {
+    "body": [
+      0.262,
+      0.209,
+      0.167
+    ],
+    "emit": [
+      1.0,
+      0.599,
+      0.667
+    ]
+  }
+}

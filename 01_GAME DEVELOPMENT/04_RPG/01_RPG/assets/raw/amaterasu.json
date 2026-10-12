@@ -1,0 +1,11 @@
+{
+  "id": "amaterasu",
+  "obj": "assets/raw/amaterasu.obj",
+  "portrait": "assets/characters/yamato/amaterasu.png",
+  "rig": "auto_rig",
+  "lod": [
+    "lod0",
+    "lod1",
+    "lod2"
+  ]
+}

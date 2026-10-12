@@ -1,0 +1,106 @@
+{
+  "id": "roma",
+  "uid": "roma_001",
+  "name": "ローマ",
+  "name_ja": "ローマ",
+  "name_en": "ROMA",
+  "origin": "LEGEND",
+  "era": "ANCIENT",
+  "civ": "rome",
+  "civilization": "ROME",
+  "civilization_id": "rome",
+  "relic": "rome_relic",
+  "reconstruction": "瓦礫→石畳→凱旋門→街道→ROME DOMAIN",
+  "seed": false,
+  "class": "LEGEND",
+  "role": "CONTROLLER",
+  "role_ui": "Controller",
+  "element": "EMPIRE",
+  "weapon": "EAGLE_STANDARD",
+  "height": 166,
+  "appearance": {
+    "hair": "rome_hair",
+    "eyes": "roma_eyes",
+    "costume": "rome_legend"
+  },
+  "stats": {
+    "hp": 1100,
+    "attack": 68,
+    "defense": 74,
+    "speed": 61
+  },
+  "hp": 155,
+  "speed": 6.8,
+  "damage": 13,
+  "skills": [
+    "roma_skill1",
+    "roma_skill2",
+    "roma_skill3"
+  ],
+  "normal_attack": {
+    "id": "roma_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "roma_skill1",
+    "name_ja": "軍団",
+    "name_en": "軍団"
+  },
+  "skill_2": {
+    "id": "roma_skill2",
+    "name_ja": "帝都",
+    "name_en": "帝都"
+  },
+  "ultimate": {
+    "id": "roma_skill3",
+    "name_ja": "凱旋",
+    "name_en": "凱旋"
+  },
+  "passive": {
+    "id": "roma_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "領域内のRELIC捕獲が速い"
+  },
+  "civilization_tags": [
+    "rome",
+    "ROME",
+    "ANCIENT",
+    "LEGEND",
+    "EMPIRE"
+  ],
+  "relationships": [
+    "athena",
+    "byzantium",
+    "venice",
+    "carthage"
+  ],
+  "voice_type": "low",
+  "music_theme": "防衛・領域支配・軍団",
+  "civilization_shift_effect": "瓦礫→石畳→凱旋門→街道→ROME DOMAIN",
+  "theme": "防衛・領域支配・軍団",
+  "passive_text": "領域内のRELIC捕獲が速い",
+  "story": "石畳は残る。帝国は、歩くたびに建つ。",
+  "founder": true,
+  "implementation": "PLAYABLE",
+  "playable": true,
+  "belt": "rome",
+  "land": "rome",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/rome/roma.png",
+  "colors": {
+    "body": [
+      0.54,
+      0.072,
+      0.172
+    ],
+    "emit": [
+      0.82,
+      0.672,
+      0.312
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "hangzhou",
+  "uid": "hangzhou_001",
+  "name": "杭州",
+  "name_ja": "杭州",
+  "name_en": "HANGZHOU",
+  "origin": "LEGACY",
+  "era": "EARLY MODERN",
+  "civ": "china",
+  "civilization": "HUAXIA",
+  "civilization_id": "huaxia",
+  "relic": "china_relic",
+  "reconstruction": "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN",
+  "seed": false,
+  "class": "LEGACY",
+  "role": "SUPPORT",
+  "role_ui": "Support",
+  "element": "LAKE",
+  "weapon": "LAKE_MIRROR",
+  "height": 159,
+  "appearance": {
+    "hair": "huaxia_hair",
+    "eyes": "hangzhou_eyes",
+    "costume": "huaxia_legacy"
+  },
+  "stats": {
+    "hp": 809,
+    "attack": 62,
+    "defense": 65,
+    "speed": 72
+  },
+  "hp": 114,
+  "speed": 8.0,
+  "damage": 12,
+  "skills": [
+    "hangzhou_skill1",
+    "hangzhou_skill2",
+    "hangzhou_skill3"
+  ],
+  "normal_attack": {
+    "id": "hangzhou_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "hangzhou_skill1",
+    "name_ja": "西湖",
+    "name_en": "西湖"
+  },
+  "skill_2": {
+    "id": "hangzhou_skill2",
+    "name_ja": "絹市",
+    "name_en": "絹市"
+  },
+  "ultimate": {
+    "id": "hangzhou_skill3",
+    "name_ja": "臨安",
+    "name_en": "臨安"
+  },
+  "passive": {
+    "id": "hangzhou_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "華夏の味方がいると回復が強い"
+  },
+  "civilization_tags": [
+    "china",
+    "HUAXIA",
+    "EARLY_MODERN",
+    "LEGACY",
+    "LAKE"
+  ],
+  "relationships": [],
+  "voice_type": "warm",
+  "music_theme": "西湖・絹・南宋",
+  "civilization_shift_effect": "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN",
+  "theme": "西湖・絹・南宋",
+  "passive_text": "華夏の味方がいると回復が強い",
+  "story": "湖が鏡なら、西施の顔はまだ映る。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "huaxia",
+  "land": "huaxia",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/huaxia/hangzhou.png",
+  "colors": {
+    "body": [
+      0.46,
+      0.104,
+      0.084
+    ],
+    "emit": [
+      0.96,
+      0.744,
+      0.264
+    ]
+  }
+}

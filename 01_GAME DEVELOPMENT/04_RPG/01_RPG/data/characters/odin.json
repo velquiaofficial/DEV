@@ -1,0 +1,101 @@
+{
+  "id": "odin",
+  "uid": "odin_001",
+  "name": "オーディン",
+  "name_ja": "オーディン",
+  "name_en": "ODIN",
+  "origin": "DIVINE",
+  "era": "MYTH",
+  "civ": "norse",
+  "civilization": "NORSE",
+  "civilization_id": "norse",
+  "relic": "world_tree_shard",
+  "reconstruction": "霧の森とルーンが東京を覆う。",
+  "seed": false,
+  "class": "DIVINE",
+  "role": "TACTICIAN",
+  "role_ui": "Tactician",
+  "element": "WISDOM",
+  "weapon": "GUNGNIR",
+  "height": 178,
+  "appearance": {
+    "hair": "norse_hair",
+    "eyes": "odin_eyes",
+    "costume": "norse_divine"
+  },
+  "stats": {
+    "hp": 966,
+    "attack": 73,
+    "defense": 70,
+    "speed": 64
+  },
+  "hp": 136,
+  "speed": 7.1,
+  "damage": 14,
+  "skills": [
+    "odin_skill1",
+    "odin_skill2",
+    "odin_skill3"
+  ],
+  "normal_attack": {
+    "id": "odin_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "odin_skill1",
+    "name_ja": "槍",
+    "name_en": "槍"
+  },
+  "skill_2": {
+    "id": "odin_skill2",
+    "name_ja": "一隻眼",
+    "name_en": "一隻眼"
+  },
+  "ultimate": {
+    "id": "odin_skill3",
+    "name_ja": "ラグナロク知",
+    "name_en": "ラグナロク知"
+  },
+  "passive": {
+    "id": "odin_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "味方が倒れるとUltが貯まる"
+  },
+  "civilization_tags": [
+    "norse",
+    "NORSE",
+    "MYTH",
+    "DIVINE",
+    "WISDOM"
+  ],
+  "relationships": [],
+  "voice_type": "measured",
+  "music_theme": "知恵・犠牲・軍勢",
+  "civilization_shift_effect": "霧→ルーン→神木→虹橋→NORSE DOMAIN",
+  "theme": "知恵・犠牲・軍勢",
+  "passive_text": "味方が倒れるとUltが貯まる",
+  "story": "片目を払っても、名前は買う。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "norse",
+  "land": "norse",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/norse/odin.png",
+  "colors": {
+    "body": [
+      0.118,
+      0.123,
+      0.225
+    ],
+    "emit": [
+      0.888,
+      0.513,
+      0.725
+    ]
+  }
+}

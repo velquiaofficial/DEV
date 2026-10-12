@@ -1,0 +1,103 @@
+{
+  "id": "amaterasu",
+  "parts": [
+    {
+      "name": "hair",
+      "file": "hair.png",
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "box": [
+        97,
+        54,
+        760,
+        460
+      ]
+    },
+    {
+      "name": "face",
+      "file": "face.png",
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "box": [
+        255,
+        161,
+        602,
+        503
+      ]
+    },
+    {
+      "name": "eyes",
+      "file": "eyes.png",
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "box": [
+        271,
+        225,
+        587,
+        353
+      ]
+    },
+    {
+      "name": "mouth",
+      "file": "mouth.png",
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "box": [
+        350,
+        353,
+        508,
+        460
+      ]
+    },
+    {
+      "name": "body",
+      "file": "body.png",
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "box": [
+        176,
+        439,
+        681,
+        1103
+      ]
+    },
+    {
+      "name": "arm_l",
+      "file": "arm_l.png",
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "box": [
+        34,
+        460,
+        286,
+        996
+      ]
+    },
+    {
+      "name": "arm_r",
+      "file": "arm_r.png",
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "box": [
+        571,
+        460,
+        824,
+        996
+      ]
+    }
+  ]
+}

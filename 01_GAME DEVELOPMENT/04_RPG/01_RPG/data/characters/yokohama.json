@@ -1,0 +1,101 @@
+{
+  "id": "yokohama",
+  "uid": "yokohama_001",
+  "name": "横浜",
+  "name_ja": "横浜",
+  "name_en": "YOKOHAMA",
+  "origin": "LEGACY",
+  "era": "MODERN",
+  "civ": "japan",
+  "civilization": "TOKYO",
+  "civilization_id": "tokyo",
+  "relic": "yata_mirror",
+  "reconstruction": "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。",
+  "seed": false,
+  "class": "LEGACY",
+  "role": "TACTICIAN",
+  "role_ui": "Tactician",
+  "element": "PORT",
+  "weapon": "LIGHTHOUSE_KEY",
+  "height": 161,
+  "appearance": {
+    "hair": "tokyo_hair",
+    "eyes": "yokohama_eyes",
+    "costume": "tokyo_legacy"
+  },
+  "stats": {
+    "hp": 852,
+    "attack": 68,
+    "defense": 66,
+    "speed": 73
+  },
+  "hp": 120,
+  "speed": 8.1,
+  "damage": 13,
+  "skills": [
+    "yokohama_skill1",
+    "yokohama_skill2",
+    "yokohama_skill3"
+  ],
+  "normal_attack": {
+    "id": "yokohama_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "yokohama_skill1",
+    "name_ja": "開港",
+    "name_en": "開港"
+  },
+  "skill_2": {
+    "id": "yokohama_skill2",
+    "name_ja": "鉄路",
+    "name_en": "鉄路"
+  },
+  "ultimate": {
+    "id": "yokohama_skill3",
+    "name_ja": "灯台",
+    "name_en": "灯台"
+  },
+  "passive": {
+    "id": "yokohama_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "味方が整列すると捕獲加速"
+  },
+  "civilization_tags": [
+    "japan",
+    "TOKYO",
+    "MODERN",
+    "LEGACY",
+    "PORT"
+  ],
+  "relationships": [],
+  "voice_type": "measured",
+  "music_theme": "開港・灯・鉄路",
+  "civilization_shift_effect": "灰色の線路→ネオン→駅→回路都市→TOKYO DOMAIN",
+  "theme": "開港・灯・鉄路",
+  "passive_text": "味方が整列すると捕獲加速",
+  "story": "港が開ければ、列島は世界と結ぶ。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "tokyo",
+  "land": "tokyo",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/tokyo/yokohama.png",
+  "colors": {
+    "body": [
+      0.09,
+      0.106,
+      0.156
+    ],
+    "emit": [
+      0.21,
+      0.856,
+      0.946
+    ]
+  }
+}

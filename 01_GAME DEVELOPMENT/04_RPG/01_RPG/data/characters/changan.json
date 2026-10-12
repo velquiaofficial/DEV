@@ -1,0 +1,101 @@
+{
+  "id": "changan",
+  "uid": "changan_001",
+  "name": "長安",
+  "name_ja": "長安",
+  "name_en": "CHANGAN",
+  "origin": "LEGACY",
+  "era": "MEDIEVAL",
+  "civ": "china",
+  "civilization": "HUAXIA",
+  "civilization_id": "huaxia",
+  "relic": "china_relic",
+  "reconstruction": "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN",
+  "seed": false,
+  "class": "LEGACY",
+  "role": "TACTICIAN",
+  "role_ui": "Tactician",
+  "element": "CAPITAL",
+  "weapon": "WARD_SEAL",
+  "height": 163,
+  "appearance": {
+    "hair": "huaxia_hair",
+    "eyes": "changan_eyes",
+    "costume": "huaxia_legacy"
+  },
+  "stats": {
+    "hp": 895,
+    "attack": 68,
+    "defense": 68,
+    "speed": 68
+  },
+  "hp": 126,
+  "speed": 7.6,
+  "damage": 13,
+  "skills": [
+    "changan_skill1",
+    "changan_skill2",
+    "changan_skill3"
+  ],
+  "normal_attack": {
+    "id": "changan_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "changan_skill1",
+    "name_ja": "都城",
+    "name_en": "都城"
+  },
+  "skill_2": {
+    "id": "changan_skill2",
+    "name_ja": "条坊",
+    "name_en": "条坊"
+  },
+  "ultimate": {
+    "id": "changan_skill3",
+    "name_ja": "万国朝",
+    "name_en": "万国朝"
+  },
+  "passive": {
+    "id": "changan_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "異なる文明の味方がいると計画が速い"
+  },
+  "civilization_tags": [
+    "china",
+    "HUAXIA",
+    "MEDIEVAL",
+    "LEGACY",
+    "CAPITAL"
+  ],
+  "relationships": [],
+  "voice_type": "measured",
+  "music_theme": "都城・シルクロード・万国",
+  "civilization_shift_effect": "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN",
+  "theme": "都城・シルクロード・万国",
+  "passive_text": "異なる文明の味方がいると計画が速い",
+  "story": "万国が来た都は、忘れ方を知らない。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "huaxia",
+  "land": "huaxia",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/huaxia/changan.png",
+  "colors": {
+    "body": [
+      0.4,
+      0.068,
+      0.108
+    ],
+    "emit": [
+      0.9,
+      0.708,
+      0.288
+    ]
+  }
+}

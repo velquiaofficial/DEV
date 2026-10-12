@@ -1,0 +1,62 @@
+X:1
+T:定食のあとがき
+C:オリジナル
+M:4/4
+L:1/8
+Q:1/4=108
+K:C
+P:Aメロ
+"C" G A B A G G A G | "Am" A B B A A G A A | "F" F G A G F G A G | "G" G G A G G F G F |
+w: い た だ き ま す あ と | は し を お い て か ら | は な し が は じ ま る | ゆ げ は も う な い よ
+"C" G A B A G G A G | "F" A B B A A G A A | "Am" E G A G E F G F | "G" G A A G G F G G |
+w: さ ら は ひ か っ て る | な ま え を よ ぶ こ え | み せ の お く か ら ね | あ た た か い う た を
+P:Aメロ2
+"C" c d e d c d e d | "Am" e e f e e d e d | "F" c d e d c c d c | "G" B c d c B B c c |
+w: み そ し る の そ こ ね | こ と ば が し ず ん で | す く っ て み る か ら | ご は ん の つ ぶ ほ ど
+"C" e d e d c d e d | "F" f e f e f d e d | "Am" c d d c c B c c | "G" d d e d d c d c |
+w: ち い さ な は な し を | な ら べ て は な し て | き み は わ ら っ て る | お ちゃ を い れ る か ら
+P:Aメロ3
+"C" G A B A G G A G | "Am" A B B A A G A A | "F" F G A G F G A G | "G" G G A G G F G F |
+w: て ん い ん さ ん が ね | きょ う の お し ら せ を | な が く よ み あ げ る | う た み た い だ よ ね
+"C" G A B A G G A G | "F" A B B A A G A A | "Am" E G A G E F G F | "G" G A A G G F G G |
+w: ま ぼ ろ し の メ ニュ ー | か い て あ る な ま え | よ む た び に ふ え る | だ れ か の あ と が き
+P:Bメロ
+"F" c d e d c c d c | "C" c c d c c A c B | "Am" c d e d c d e d | "G" B c d c B B c c |
+w: い ち さ ら め は あ さ | に さ ら め は ひ る ね | さ ん さ ら め ゆ う ひ | よ ん さ ら め は き み
+"Dm" A B c B A A B A | "F" c d e d c c d c | "G" B c d c B A c B | "G" B c d c B B c c |
+w: ご さ ら め は な ま え | ろ く さ ら め は う た | な な さ ら め ひ か り | は ち さ ら め は こ こ
+P:Bメロ2
+"F" c d e d c c d c | "C" c c d c c A c B | "Am" c d e d c d e d | "G" B c d c B B c c |
+w: お な か は い っ ぱ い | は な し は か ら っ ぽ | じゃ な い よ ま だ あ る | こ と ば の お か わ り
+"Dm" A B c B A A B A | "F" c d e d c c d c | "G" B c d c B A c B | "G" B c d c B B c c |
+w: く だ さ い っ て い う | き み の こ え だ よ ね | あ ま さ を の こ し て | よ る の て い しょ く だ
+P:サビ
+"C" e e f e e d e d | "G" g g a g g f g f | "Am" e f g f e d f e | "F" f g a g f g a g |
+w: い た だ き ま す あ と | は な し が は じ ま る | な ま え を よ ぶ こ え | あ た た か い う た を
+"C" e e f e e d e d | "Am" e f g f e e f f | "F" c d e d c c d c | "G" g f g f g e f f |
+w: も う い っ ぱ い だ す | さ ら は ひ か っ て る | こ と ば の お か わ り | く だ さ い っ て い う
+P:サビ2
+"C" e e f e e d e d | "G" g g a g g f g f | "Am" e f g f e d f e | "F" f g a g f g a g |
+w: み そ し る の そ こ ね | こ と ば が し ず ん で | す く っ て み る か ら | ち い さ な は な し を
+"C" e e f e e d e d | "Am" e f g f e e f f | "F" c d e d c c d c | "G" g f g f g e f f |
+w: な ら べ て は な し て | き み は わ ら っ て る | お ちゃ を い れ る か ら | だ れ か の あ と が き
+P:ブリッジ
+"Am" A B B A A G A A | "F" F G A G F G A G | "C" c B c B c A B A | "G" G F G F G E F F |
+w: も し か ら っ ぽ で も | さ ら を か た づ け ず | す こ し す わ っ て ね | は な し の つ づ き を
+"Dm" A A B A A G A G | "Am" A B B A A G A A | "F" F G A G F F G F | "G" G G A G G F G F |
+w: な ま え の あ と に ね | う た を そ え る か ら | み せ の あ か り だ よ | ま だ け さ な い か ら
+P:ブリッジ2
+"Am" A B B A A G A A | "F" F G A G F G A G | "C" c B c B c A B A | "G" G F G F G E F F |
+w: て ん い ん さ ん が ね | きょ う の お し ら せ を | な が く よ み あ げ る | う た み た い だ よ ね
+"Dm" A A B A A G A G | "Am" A B B A A G A A | "F" F G A G F F G F | "G" G G A G G F G F |
+w: ま ぼ ろ し の メ ニュ ー | か い て あ る な ま え | よ む た び に ふ え る | よ る の て い しょ く だ
+P:Cメロ
+"F" c d e d c c d c | "C" c c d c c A c B | "Am" c d e d c d e d | "G" B c d c B B c c |
+w: ご ち そ う さ ま ま え | い い た い こ と が ね | ふ た つ み っ つ あ る | あ し た の メ ニュ ー は
+"Dm" A B c B A A B A | "F" c d e d c c d c | "G" B c d c B A c B | "G" B c d c B B c c |
+w: き み の な ま え だ よ | ゆ げ の か わ り に ね | こ と ば を よ そ う よ | こ こ に い る か ら ね
+P:アウトロ
+"C" e e f e e d e d | "G" g g a g g f g f | "Am" e f g f e d f e | "F" f g a g f g a g |
+w: * * * * * * * * | * * * * * * * * | * * * * * * * * | * * * * * * * *
+"C" e e f e e d e d | "Am" e f g f e e f f | "F" c d e d c c d c | "C" C8 |
+w: * * * * * * * * | * * * * * * * * | * * * * * * * * | *

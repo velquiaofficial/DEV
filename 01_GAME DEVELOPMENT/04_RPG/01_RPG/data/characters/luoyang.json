@@ -1,0 +1,101 @@
+{
+  "id": "luoyang",
+  "uid": "luoyang_001",
+  "name": "洛陽",
+  "name_ja": "洛陽",
+  "name_en": "LUOYANG",
+  "origin": "LEGACY",
+  "era": "ANCIENT",
+  "civ": "china",
+  "civilization": "HUAXIA",
+  "civilization_id": "huaxia",
+  "relic": "china_relic",
+  "reconstruction": "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN",
+  "seed": false,
+  "class": "LEGACY",
+  "role": "CONTROLLER",
+  "role_ui": "Controller",
+  "element": "CENTER",
+  "weapon": "PEONY_FAN",
+  "height": 161,
+  "appearance": {
+    "hair": "huaxia_hair",
+    "eyes": "luoyang_eyes",
+    "costume": "huaxia_legacy"
+  },
+  "stats": {
+    "hp": 951,
+    "attack": 68,
+    "defense": 69,
+    "speed": 65
+  },
+  "hp": 134,
+  "speed": 7.2,
+  "damage": 13,
+  "skills": [
+    "luoyang_skill1",
+    "luoyang_skill2",
+    "luoyang_skill3"
+  ],
+  "normal_attack": {
+    "id": "luoyang_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "luoyang_skill1",
+    "name_ja": "牡丹",
+    "name_en": "牡丹"
+  },
+  "skill_2": {
+    "id": "luoyang_skill2",
+    "name_ja": "中原",
+    "name_en": "中原"
+  },
+  "ultimate": {
+    "id": "luoyang_skill3",
+    "name_ja": "帝都",
+    "name_en": "帝都"
+  },
+  "passive": {
+    "id": "luoyang_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "中心RELICの確保が速い"
+  },
+  "civilization_tags": [
+    "china",
+    "HUAXIA",
+    "ANCIENT",
+    "LEGACY",
+    "CENTER"
+  ],
+  "relationships": [],
+  "voice_type": "low",
+  "music_theme": "中原・牡丹・帝都",
+  "civilization_shift_effect": "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN",
+  "theme": "中原・牡丹・帝都",
+  "passive_text": "中心RELICの確保が速い",
+  "story": "花が散っても、都の名は残る。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "huaxia",
+  "land": "huaxia",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/huaxia/luoyang.png",
+  "colors": {
+    "body": [
+      0.42,
+      0.08,
+      0.1
+    ],
+    "emit": [
+      0.92,
+      0.72,
+      0.28
+    ]
+  }
+}

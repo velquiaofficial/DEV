@@ -1,0 +1,101 @@
+{
+  "id": "viking",
+  "uid": "viking_001",
+  "name": "ヴァイキング",
+  "name_ja": "ヴァイキング",
+  "name_en": "VIKING",
+  "origin": "LEGEND",
+  "era": "MEDIEVAL",
+  "civ": "norse",
+  "civilization": "NORSE",
+  "civilization_id": "norse",
+  "relic": "world_tree_shard",
+  "reconstruction": "霧の森とルーンが東京を覆う。",
+  "seed": false,
+  "class": "LEGEND",
+  "role": "ATTACKER",
+  "role_ui": "Attacker",
+  "element": "WAVE",
+  "weapon": "NORTH_AXE",
+  "height": 168,
+  "appearance": {
+    "hair": "norse_hair",
+    "eyes": "viking_eyes",
+    "costume": "norse_legend"
+  },
+  "stats": {
+    "hp": 994,
+    "attack": 83,
+    "defense": 71,
+    "speed": 72
+  },
+  "hp": 140,
+  "speed": 8.0,
+  "damage": 16,
+  "skills": [
+    "viking_skill1",
+    "viking_skill2",
+    "viking_skill3"
+  ],
+  "normal_attack": {
+    "id": "viking_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "viking_skill1",
+    "name_ja": "長船",
+    "name_en": "長船"
+  },
+  "skill_2": {
+    "id": "viking_skill2",
+    "name_ja": "北浪",
+    "name_en": "北浪"
+  },
+  "ultimate": {
+    "id": "viking_skill3",
+    "name_ja": "開拓",
+    "name_en": "開拓"
+  },
+  "passive": {
+    "id": "viking_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "水際で攻撃と捕獲が同時に上がる"
+  },
+  "civilization_tags": [
+    "norse",
+    "NORSE",
+    "MEDIEVAL",
+    "LEGEND",
+    "WAVE"
+  ],
+  "relationships": [],
+  "voice_type": "fierce",
+  "music_theme": "長船・北の海・略奪と開拓",
+  "civilization_shift_effect": "霧→ルーン→神木→虹橋→NORSE DOMAIN",
+  "theme": "長船・北の海・略奪と開拓",
+  "passive_text": "水際で攻撃と捕獲が同時に上がる",
+  "story": "海を渡った名は、岸に残る。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "norse",
+  "land": "norse",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/norse/viking.png",
+  "colors": {
+    "body": [
+      0.28,
+      0.22,
+      0.16
+    ],
+    "emit": [
+      1.0,
+      0.61,
+      0.66
+    ]
+  }
+}

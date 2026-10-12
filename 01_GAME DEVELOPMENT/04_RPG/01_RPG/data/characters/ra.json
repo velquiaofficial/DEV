@@ -1,0 +1,101 @@
+{
+  "id": "ra",
+  "uid": "ra_001",
+  "name": "ラー",
+  "name_ja": "ラー",
+  "name_en": "RA",
+  "origin": "DIVINE",
+  "era": "MYTH",
+  "civ": "egypt",
+  "civilization": "KEMET",
+  "civilization_id": "kemet",
+  "relic": "judgment_scale",
+  "reconstruction": "ナイルと蓮が灰色の街を潤す。",
+  "seed": false,
+  "class": "DIVINE",
+  "role": "ATTACKER",
+  "role_ui": "Attacker",
+  "element": "SUN",
+  "weapon": "SOLAR_BARQUE",
+  "height": 175,
+  "appearance": {
+    "hair": "kemet_hair",
+    "eyes": "ra_eyes",
+    "costume": "kemet_divine"
+  },
+  "stats": {
+    "hp": 994,
+    "attack": 83,
+    "defense": 71,
+    "speed": 66
+  },
+  "hp": 140,
+  "speed": 7.3,
+  "damage": 16,
+  "skills": [
+    "ra_skill1",
+    "ra_skill2",
+    "ra_skill3"
+  ],
+  "normal_attack": {
+    "id": "ra_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "ra_skill1",
+    "name_ja": "日輪",
+    "name_en": "日輪"
+  },
+  "skill_2": {
+    "id": "ra_skill2",
+    "name_ja": "太陽船",
+    "name_en": "太陽船"
+  },
+  "ultimate": {
+    "id": "ra_skill3",
+    "name_ja": "真昼",
+    "name_en": "真昼"
+  },
+  "passive": {
+    "id": "ra_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "HPが高いほど攻撃が強い"
+  },
+  "civilization_tags": [
+    "egypt",
+    "KEMET",
+    "MYTH",
+    "DIVINE",
+    "SUN"
+  ],
+  "relationships": [],
+  "voice_type": "fierce",
+  "music_theme": "太陽船・灼熱",
+  "civilization_shift_effect": "砂→ナイル→蓮→神殿→KEMET DOMAIN",
+  "theme": "太陽船・灼熱",
+  "passive_text": "HPが高いほど攻撃が強い",
+  "story": "夜が世界を飲み込む前に、私は渡る。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "kemet",
+  "land": "kemet",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/kemet/ra.png",
+  "colors": {
+    "body": [
+      0.056,
+      0.094,
+      0.198
+    ],
+    "emit": [
+      0.856,
+      0.674,
+      0.238
+    ]
+  }
+}

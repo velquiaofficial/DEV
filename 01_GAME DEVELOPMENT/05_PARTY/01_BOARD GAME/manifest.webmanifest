@@ -1,0 +1,17 @@
+{
+  "name": "はぁの温度",
+  "short_name": "はぁの温度",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#16120f",
+  "theme_color": "#16120f",
+  "lang": "ja",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

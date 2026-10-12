@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!129 &1
+PlayerSettings:
+  productGUID: 7a1e2c3d4b5f67890123456789abcdef
+  companyName: Aeterna
+  productName: 永結のレリクシア
+  defaultScreenWidth: 1920
+  defaultScreenHeight: 1080
+  androidRenderOutsideSafeArea: 1
+  androidStartInFullscreen: 1
+  AndroidMinSdkVersion: 24
+  AndroidTargetSdkVersion: 34
+  script_build_target: 13

@@ -1,0 +1,101 @@
+{
+  "id": "kamakura",
+  "uid": "kamakura_001",
+  "name": "鎌倉",
+  "name_ja": "鎌倉",
+  "name_en": "KAMAKURA",
+  "origin": "LEGACY",
+  "era": "MEDIEVAL",
+  "civ": "japan",
+  "civilization": "YAMATO",
+  "civilization_id": "yamato",
+  "relic": "yata_mirror",
+  "reconstruction": "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。",
+  "seed": false,
+  "class": "LEGACY",
+  "role": "ATTACKER",
+  "role_ui": "Attacker",
+  "element": "DUTY",
+  "weapon": "TACHI",
+  "height": 166,
+  "appearance": {
+    "hair": "yamato_hair",
+    "eyes": "kamakura_eyes",
+    "costume": "yamato_legacy"
+  },
+  "stats": {
+    "hp": 980,
+    "attack": 83,
+    "defense": 70,
+    "speed": 71
+  },
+  "hp": 138,
+  "speed": 7.9,
+  "damage": 16,
+  "skills": [
+    "kamakura_skill1",
+    "kamakura_skill2",
+    "kamakura_skill3"
+  ],
+  "normal_attack": {
+    "id": "kamakura_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "kamakura_skill1",
+    "name_ja": "切岸",
+    "name_en": "切岸"
+  },
+  "skill_2": {
+    "id": "kamakura_skill2",
+    "name_ja": "鶴岡",
+    "name_en": "鶴岡"
+  },
+  "ultimate": {
+    "id": "kamakura_skill3",
+    "name_ja": "旗指",
+    "name_en": "旗指"
+  },
+  "passive": {
+    "id": "kamakura_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "防御を破ったあと追撃する"
+  },
+  "civilization_tags": [
+    "japan",
+    "YAMATO",
+    "MEDIEVAL",
+    "LEGACY",
+    "DUTY"
+  ],
+  "relationships": [],
+  "voice_type": "fierce",
+  "music_theme": "武家・海・忠義",
+  "civilization_shift_effect": "廃墟→光→桜→鳥居→神社→神木→YAMATO DOMAIN",
+  "theme": "武家・海・忠義",
+  "passive_text": "防御を破ったあと追撃する",
+  "story": "侍の名が消えるなら、刃だけが残る。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "yamato",
+  "land": "yamato",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/yamato/kamakura.png",
+  "colors": {
+    "body": [
+      1.0,
+      0.99,
+      0.84
+    ],
+    "emit": [
+      1.0,
+      0.88,
+      0.31
+    ]
+  }
+}

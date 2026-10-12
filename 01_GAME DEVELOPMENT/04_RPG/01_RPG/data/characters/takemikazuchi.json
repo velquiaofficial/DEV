@@ -1,0 +1,101 @@
+{
+  "id": "takemikazuchi",
+  "uid": "takemikazuchi_001",
+  "name": "建御雷",
+  "name_ja": "建御雷",
+  "name_en": "TAKEMIKAZUCHI",
+  "origin": "DIVINE",
+  "era": "MYTH",
+  "civ": "japan",
+  "civilization": "YAMATO",
+  "civilization_id": "yamato",
+  "relic": "yata_mirror",
+  "reconstruction": "東京の廃墟が神域化。道路から桜が伸び、ビルの間に巨大鳥居が形成される。",
+  "seed": false,
+  "class": "DIVINE",
+  "role": "ATTACKER",
+  "role_ui": "Attacker",
+  "element": "THUNDER",
+  "weapon": "THUNDER_SWORD",
+  "height": 170,
+  "appearance": {
+    "hair": "yamato_hair",
+    "eyes": "takemikazuchi_eyes",
+    "costume": "yamato_divine"
+  },
+  "stats": {
+    "hp": 980,
+    "attack": 83,
+    "defense": 70,
+    "speed": 72
+  },
+  "hp": 138,
+  "speed": 8.0,
+  "damage": 16,
+  "skills": [
+    "takemikazuchi_skill1",
+    "takemikazuchi_skill2",
+    "takemikazuchi_skill3"
+  ],
+  "normal_attack": {
+    "id": "takemikazuchi_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "takemikazuchi_skill1",
+    "name_ja": "雷剣",
+    "name_en": "雷剣"
+  },
+  "skill_2": {
+    "id": "takemikazuchi_skill2",
+    "name_ja": "建御",
+    "name_en": "建御"
+  },
+  "ultimate": {
+    "id": "takemikazuchi_skill3",
+    "name_ja": "鳴神",
+    "name_en": "鳴神"
+  },
+  "passive": {
+    "id": "takemikazuchi_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "攻撃が命中すると周囲にも割れる"
+  },
+  "civilization_tags": [
+    "japan",
+    "YAMATO",
+    "MYTH",
+    "DIVINE",
+    "THUNDER"
+  ],
+  "relationships": [],
+  "voice_type": "fierce",
+  "music_theme": "雷・剣・建御",
+  "civilization_shift_effect": "廃墟→光→桜→鳥居→神社→神木→YAMATO DOMAIN",
+  "theme": "雷・剣・建御",
+  "passive_text": "攻撃が命中すると周囲にも割れる",
+  "story": "土地を譲れ。名は、雷が決める。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "yamato",
+  "land": "yamato",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/yamato/takemikazuchi.png",
+  "colors": {
+    "body": [
+      0.935,
+      0.927,
+      0.882
+    ],
+    "emit": [
+      0.995,
+      0.817,
+      0.352
+    ]
+  }
+}

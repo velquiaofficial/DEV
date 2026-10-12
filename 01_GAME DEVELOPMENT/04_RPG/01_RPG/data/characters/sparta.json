@@ -1,0 +1,101 @@
+{
+  "id": "sparta",
+  "uid": "sparta_001",
+  "name": "スパルタ",
+  "name_ja": "スパルタ",
+  "name_en": "SPARTA",
+  "origin": "LEGEND",
+  "era": "ANCIENT",
+  "civ": "greece",
+  "civilization": "HELLAS",
+  "civilization_id": "hellas",
+  "relic": "lost_city_aegis",
+  "reconstruction": "都市が白い大理石の神殿都市へ変化する。",
+  "seed": false,
+  "class": "LEGEND",
+  "role": "ATTACKER",
+  "role_ui": "Attacker",
+  "element": "DISCIPLINE",
+  "weapon": "HOPLITE_SPEAR",
+  "height": 168,
+  "appearance": {
+    "hair": "hellas_hair",
+    "eyes": "sparta_eyes",
+    "costume": "hellas_legend"
+  },
+  "stats": {
+    "hp": 1037,
+    "attack": 88,
+    "defense": 72,
+    "speed": 68
+  },
+  "hp": 146,
+  "speed": 7.5,
+  "damage": 17,
+  "skills": [
+    "sparta_skill1",
+    "sparta_skill2",
+    "sparta_skill3"
+  ],
+  "normal_attack": {
+    "id": "sparta_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "sparta_skill1",
+    "name_ja": "盾壁",
+    "name_en": "盾壁"
+  },
+  "skill_2": {
+    "id": "sparta_skill2",
+    "name_ja": "戦列",
+    "name_en": "戦列"
+  },
+  "ultimate": {
+    "id": "sparta_skill3",
+    "name_ja": "ラコニア",
+    "name_en": "ラコニア"
+  },
+  "passive": {
+    "id": "sparta_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "味方が近いと攻撃が上がる"
+  },
+  "civilization_tags": [
+    "greece",
+    "HELLAS",
+    "ANCIENT",
+    "LEGEND",
+    "DISCIPLINE"
+  ],
+  "relationships": [],
+  "voice_type": "fierce",
+  "music_theme": "盾壁・規律・戦列",
+  "civilization_shift_effect": "廃墟→大理石→神殿→オリーブ→HELLAS DOMAIN",
+  "theme": "盾壁・規律・戦列",
+  "passive_text": "味方が近いと攻撃が上がる",
+  "story": "短い言葉で、長い戦いを残す。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "hellas",
+  "land": "hellas",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/hellas/sparta.png",
+  "colors": {
+    "body": [
+      0.96,
+      0.92,
+      0.78
+    ],
+    "emit": [
+      0.55,
+      0.68,
+      0.91
+    ]
+  }
+}

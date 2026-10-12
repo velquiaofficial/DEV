@@ -1,0 +1,602 @@
+[
+  {
+    "n": 1,
+    "id": "amaterasu",
+    "name": "天照",
+    "civ": "yamato"
+  },
+  {
+    "n": 2,
+    "id": "tsukuyomi",
+    "name": "月読",
+    "civ": "yamato"
+  },
+  {
+    "n": 3,
+    "id": "susanoo",
+    "name": "須佐之男",
+    "civ": "yamato"
+  },
+  {
+    "n": 4,
+    "id": "sakuya",
+    "name": "木花咲耶",
+    "civ": "yamato"
+  },
+  {
+    "n": 5,
+    "id": "fukuhime",
+    "name": "福姫",
+    "civ": "yamato"
+  },
+  {
+    "n": 6,
+    "id": "yaoyorozu",
+    "name": "八百万",
+    "civ": "yamato"
+  },
+  {
+    "n": 7,
+    "id": "toyo",
+    "name": "豊穣姫",
+    "civ": "yamato"
+  },
+  {
+    "n": 8,
+    "id": "narukami",
+    "name": "鳴神",
+    "civ": "yamato"
+  },
+  {
+    "n": 9,
+    "id": "tachibana",
+    "name": "立花",
+    "civ": "yamato"
+  },
+  {
+    "n": 10,
+    "id": "hotaru",
+    "name": "蛍女",
+    "civ": "yamato"
+  },
+  {
+    "n": 11,
+    "id": "athena",
+    "name": "アテナ",
+    "civ": "hellas"
+  },
+  {
+    "n": 12,
+    "id": "aphrodite",
+    "name": "アプロディーテ",
+    "civ": "hellas"
+  },
+  {
+    "n": 13,
+    "id": "artemis",
+    "name": "アルテミス",
+    "civ": "hellas"
+  },
+  {
+    "n": 14,
+    "id": "hera",
+    "name": "ヘラ",
+    "civ": "hellas"
+  },
+  {
+    "n": 15,
+    "id": "demeter",
+    "name": "デメテル",
+    "civ": "hellas"
+  },
+  {
+    "n": 16,
+    "id": "persephone",
+    "name": "ペルセポネ",
+    "civ": "hellas"
+  },
+  {
+    "n": 17,
+    "id": "hestia",
+    "name": "ヘスティア",
+    "civ": "hellas"
+  },
+  {
+    "n": 18,
+    "id": "nike",
+    "name": "ニケ",
+    "civ": "hellas"
+  },
+  {
+    "n": 19,
+    "id": "hecate",
+    "name": "ヘカーター",
+    "civ": "hellas"
+  },
+  {
+    "n": 20,
+    "id": "medusa",
+    "name": "メデューサ",
+    "civ": "hellas"
+  },
+  {
+    "n": 21,
+    "id": "isis",
+    "name": "イシス",
+    "civ": "kemet"
+  },
+  {
+    "n": 22,
+    "id": "nephthys",
+    "name": "ネフティス",
+    "civ": "kemet"
+  },
+  {
+    "n": 23,
+    "id": "bastet",
+    "name": "バステト",
+    "civ": "kemet"
+  },
+  {
+    "n": 24,
+    "id": "anubis",
+    "name": "アヌビス",
+    "civ": "kemet"
+  },
+  {
+    "n": 25,
+    "id": "hathor",
+    "name": "ハトホール",
+    "civ": "kemet"
+  },
+  {
+    "n": 26,
+    "id": "sekhmet",
+    "name": "セクメト",
+    "civ": "kemet"
+  },
+  {
+    "n": 27,
+    "id": "nut",
+    "name": "ヌト",
+    "civ": "kemet"
+  },
+  {
+    "n": 28,
+    "id": "cleopatra",
+    "name": "クレオパトラ",
+    "civ": "kemet"
+  },
+  {
+    "n": 29,
+    "id": "thoth",
+    "name": "トト",
+    "civ": "kemet"
+  },
+  {
+    "n": 30,
+    "id": "amenra",
+    "name": "アメンラー",
+    "civ": "kemet"
+  },
+  {
+    "n": 31,
+    "id": "nuwa",
+    "name": "女媧",
+    "civ": "huaxia"
+  },
+  {
+    "n": 32,
+    "id": "xiwangmu",
+    "name": "西王母",
+    "civ": "huaxia"
+  },
+  {
+    "n": 33,
+    "id": "change",
+    "name": "嫦娥",
+    "civ": "huaxia"
+  },
+  {
+    "n": 34,
+    "id": "fuxi",
+    "name": "伏羲",
+    "civ": "huaxia"
+  },
+  {
+    "n": 35,
+    "id": "longji",
+    "name": "龍姫",
+    "civ": "huaxia"
+  },
+  {
+    "n": 36,
+    "id": "huangnu",
+    "name": "黄女",
+    "civ": "huaxia"
+  },
+  {
+    "n": 37,
+    "id": "guanyu",
+    "name": "関羽",
+    "civ": "huaxia"
+  },
+  {
+    "n": 38,
+    "id": "diaochan",
+    "name": "貂蝉",
+    "civ": "huaxia"
+  },
+  {
+    "n": 39,
+    "id": "xiang",
+    "name": "嫦香",
+    "civ": "huaxia"
+  },
+  {
+    "n": 40,
+    "id": "xiannu",
+    "name": "仙女",
+    "civ": "huaxia"
+  },
+  {
+    "n": 41,
+    "id": "freya",
+    "name": "フレイヤ",
+    "civ": "norse"
+  },
+  {
+    "n": 42,
+    "id": "frigga",
+    "name": "フリッグ",
+    "civ": "norse"
+  },
+  {
+    "n": 43,
+    "id": "scathach",
+    "name": "スカアハ",
+    "civ": "norse"
+  },
+  {
+    "n": 44,
+    "id": "thor",
+    "name": "トール",
+    "civ": "norse"
+  },
+  {
+    "n": 45,
+    "id": "loki",
+    "name": "ロキ",
+    "civ": "norse"
+  },
+  {
+    "n": 46,
+    "id": "sigurd",
+    "name": "シグルド",
+    "civ": "norse"
+  },
+  {
+    "n": 47,
+    "id": "hel",
+    "name": "ヘル",
+    "civ": "norse"
+  },
+  {
+    "n": 48,
+    "id": "idunn",
+    "name": "イズン",
+    "civ": "norse"
+  },
+  {
+    "n": 49,
+    "id": "valkyrie",
+    "name": "ヴァルキリー",
+    "civ": "norse"
+  },
+  {
+    "n": 50,
+    "id": "yggdrasil",
+    "name": "ユグドラシル",
+    "civ": "norse"
+  },
+  {
+    "n": 51,
+    "id": "ishtar",
+    "name": "イシュタル",
+    "civ": "mesopotamia"
+  },
+  {
+    "n": 52,
+    "id": "ereshkigal",
+    "name": "エレシュキガル",
+    "civ": "mesopotamia"
+  },
+  {
+    "n": 53,
+    "id": "marduk",
+    "name": "マルドゥク",
+    "civ": "mesopotamia"
+  },
+  {
+    "n": 54,
+    "id": "tiamat",
+    "name": "ティアマト",
+    "civ": "mesopotamia"
+  },
+  {
+    "n": 55,
+    "id": "shamash",
+    "name": "シャマシュ",
+    "civ": "mesopotamia"
+  },
+  {
+    "n": 56,
+    "id": "sin",
+    "name": "シン",
+    "civ": "mesopotamia"
+  },
+  {
+    "n": 57,
+    "id": "ninhursag",
+    "name": "ニンフルサグ",
+    "civ": "mesopotamia"
+  },
+  {
+    "n": 58,
+    "id": "enki",
+    "name": "エンキ",
+    "civ": "mesopotamia"
+  },
+  {
+    "n": 59,
+    "id": "enlil",
+    "name": "エンリル",
+    "civ": "mesopotamia"
+  },
+  {
+    "n": 60,
+    "id": "nanna",
+    "name": "ナンナ",
+    "civ": "mesopotamia"
+  },
+  {
+    "n": 61,
+    "id": "quetzalcoatl",
+    "name": "ケツァルコアトル",
+    "civ": "andes"
+  },
+  {
+    "n": 62,
+    "id": "tezcatlipoca",
+    "name": "テスカトリポカ",
+    "civ": "andes"
+  },
+  {
+    "n": 63,
+    "id": "tonatiuh",
+    "name": "トナティウ",
+    "civ": "andes"
+  },
+  {
+    "n": 64,
+    "id": "xipe",
+    "name": "シペトテック",
+    "civ": "andes"
+  },
+  {
+    "n": 65,
+    "id": "chalchiuhtlicue",
+    "name": "チャルチウィトリクエ",
+    "civ": "andes"
+  },
+  {
+    "n": 66,
+    "id": "xolotl",
+    "name": "ショロトル",
+    "civ": "andes"
+  },
+  {
+    "n": 67,
+    "id": "huitzilopochtli",
+    "name": "ウィツィロポチトリ",
+    "civ": "andes"
+  },
+  {
+    "n": 68,
+    "id": "tlaloc",
+    "name": "トラロック",
+    "civ": "andes"
+  },
+  {
+    "n": 69,
+    "id": "xochiquetzal",
+    "name": "ショチケツァル",
+    "civ": "andes"
+  },
+  {
+    "n": 70,
+    "id": "mictecacihuatl",
+    "name": "ミクトランシワトル",
+    "civ": "andes"
+  },
+  {
+    "n": 71,
+    "id": "lakshmi",
+    "name": "ラクシュミー",
+    "civ": "monsoon"
+  },
+  {
+    "n": 72,
+    "id": "saraswati",
+    "name": "サラスヴァティ",
+    "civ": "monsoon"
+  },
+  {
+    "n": 73,
+    "id": "durga",
+    "name": "ドゥルガー",
+    "civ": "monsoon"
+  },
+  {
+    "n": 74,
+    "id": "kali",
+    "name": "カーリー",
+    "civ": "monsoon"
+  },
+  {
+    "n": 75,
+    "id": "ganesha",
+    "name": "ガネーシャ",
+    "civ": "monsoon"
+  },
+  {
+    "n": 76,
+    "id": "shiva",
+    "name": "シヴァ",
+    "civ": "monsoon"
+  },
+  {
+    "n": 77,
+    "id": "parvati",
+    "name": "パールヴァティ",
+    "civ": "monsoon"
+  },
+  {
+    "n": 78,
+    "id": "krishna",
+    "name": "クリシュナ",
+    "civ": "monsoon"
+  },
+  {
+    "n": 79,
+    "id": "indra",
+    "name": "インドラ",
+    "civ": "monsoon"
+  },
+  {
+    "n": 80,
+    "id": "agni",
+    "name": "アグニ",
+    "civ": "monsoon"
+  },
+  {
+    "n": 81,
+    "id": "gaia",
+    "name": "ガイア",
+    "civ": "void"
+  },
+  {
+    "n": 82,
+    "id": "terra",
+    "name": "テラー",
+    "civ": "void"
+  },
+  {
+    "n": 83,
+    "id": "morgana",
+    "name": "モルガナ",
+    "civ": "void"
+  },
+  {
+    "n": 84,
+    "id": "brigid",
+    "name": "ブリジッド",
+    "civ": "void"
+  },
+  {
+    "n": 85,
+    "id": "pele",
+    "name": "ペレ",
+    "civ": "void"
+  },
+  {
+    "n": 86,
+    "id": "amaterasu_kikai",
+    "name": "アマテラス機械",
+    "civ": "void"
+  },
+  {
+    "n": 87,
+    "id": "sedna",
+    "name": "セドナ",
+    "civ": "void"
+  },
+  {
+    "n": 88,
+    "id": "mamacocha",
+    "name": "ママコチャ",
+    "civ": "void"
+  },
+  {
+    "n": 89,
+    "id": "bastetaria",
+    "name": "バステタリア",
+    "civ": "void"
+  },
+  {
+    "n": 90,
+    "id": "zenobia",
+    "name": "ゼノビア",
+    "civ": "void"
+  },
+  {
+    "n": 91,
+    "id": "nemesis",
+    "name": "ネメシス",
+    "civ": "future"
+  },
+  {
+    "n": 92,
+    "id": "aurora",
+    "name": "オーロラ",
+    "civ": "future"
+  },
+  {
+    "n": 93,
+    "id": "seraphim",
+    "name": "セラフィム",
+    "civ": "future"
+  },
+  {
+    "n": 94,
+    "id": "nova",
+    "name": "ノヴァ",
+    "civ": "future"
+  },
+  {
+    "n": 95,
+    "id": "lyra",
+    "name": "リアー",
+    "civ": "future"
+  },
+  {
+    "n": 96,
+    "id": "eclipse",
+    "name": "エクリプス",
+    "civ": "future"
+  },
+  {
+    "n": 97,
+    "id": "prometheus",
+    "name": "プロメテリア",
+    "civ": "future"
+  },
+  {
+    "n": 98,
+    "id": "iris",
+    "name": "イリス",
+    "civ": "future"
+  },
+  {
+    "n": 99,
+    "id": "astra",
+    "name": "アストラ",
+    "civ": "future"
+  },
+  {
+    "n": 100,
+    "id": "relicsia",
+    "name": "レリクシア",
+    "civ": "future"
+  }
+]

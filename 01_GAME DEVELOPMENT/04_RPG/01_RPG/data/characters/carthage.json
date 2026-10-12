@@ -1,0 +1,101 @@
+{
+  "id": "carthage",
+  "uid": "carthage_001",
+  "name": "カルタゴ",
+  "name_ja": "カルタゴ",
+  "name_en": "CARTHAGE",
+  "origin": "LEGACY",
+  "era": "ANCIENT",
+  "civ": "rome",
+  "civilization": "ROME",
+  "civilization_id": "rome",
+  "relic": "rome_relic",
+  "reconstruction": "瓦礫→石畳→凱旋門→街道→ROME DOMAIN",
+  "seed": false,
+  "class": "LEGACY",
+  "role": "ATTACKER",
+  "role_ui": "Attacker",
+  "element": "SALT",
+  "weapon": "SALT_BLADE",
+  "height": 164,
+  "appearance": {
+    "hair": "rome_hair",
+    "eyes": "carthage_eyes",
+    "costume": "rome_legacy"
+  },
+  "stats": {
+    "hp": 951,
+    "attack": 83,
+    "defense": 69,
+    "speed": 70
+  },
+  "hp": 134,
+  "speed": 7.8,
+  "damage": 16,
+  "skills": [
+    "carthage_skill1",
+    "carthage_skill2",
+    "carthage_skill3"
+  ],
+  "normal_attack": {
+    "id": "carthage_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "carthage_skill1",
+    "name_ja": "塩土",
+    "name_en": "塩土"
+  },
+  "skill_2": {
+    "id": "carthage_skill2",
+    "name_ja": "港湾",
+    "name_en": "港湾"
+  },
+  "ultimate": {
+    "id": "carthage_skill3",
+    "name_ja": "再起の火",
+    "name_en": "再起の火"
+  },
+  "passive": {
+    "id": "carthage_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "敗北寸前で攻撃が跳ねる"
+  },
+  "civilization_tags": [
+    "rome",
+    "ROME",
+    "ANCIENT",
+    "LEGACY",
+    "SALT"
+  ],
+  "relationships": [],
+  "voice_type": "fierce",
+  "music_theme": "港・塩・再起",
+  "civilization_shift_effect": "瓦礫→石畳→凱旋門→街道→ROME DOMAIN",
+  "theme": "港・塩・再起",
+  "passive_text": "敗北寸前で攻撃が跳ねる",
+  "story": "滅ぼされた都ほど、名前を呼ぶ。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "rome",
+  "land": "rome",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/rome/carthage.png",
+  "colors": {
+    "body": [
+      0.612,
+      0.115,
+      0.143
+    ],
+    "emit": [
+      0.892,
+      0.715,
+      0.283
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "pipeline": [
+    "Cursor",
+    "Blender+Python",
+    "UE5 Sequencer/Niagara/Lumen/PCG/HLSL",
+    "Movie Render Queue",
+    "PNG/EXR",
+    "FFmpeg",
+    "30s MP4"
+  ],
+  "mp4": "Output/YouTube/Aeterna_Trailer_001.mp4",
+  "ogv": "trailer/Aeterna_Trailer_001.ogv",
+  "frames": "Output/MovieRender/frames",
+  "sequencer": "Output/Sequencer/AeternaTrailer.json",
+  "duration": 30,
+  "resolution": [1920, 1080],
+  "fps": 30,
+  "ready": true
+}

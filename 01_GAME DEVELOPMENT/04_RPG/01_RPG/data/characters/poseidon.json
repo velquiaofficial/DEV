@@ -1,0 +1,101 @@
+{
+  "id": "poseidon",
+  "uid": "poseidon_001",
+  "name": "ポセイドン",
+  "name_ja": "ポセイドン",
+  "name_en": "POSEIDON",
+  "origin": "DIVINE",
+  "era": "MYTH",
+  "civ": "greece",
+  "civilization": "HELLAS",
+  "civilization_id": "hellas",
+  "relic": "lost_city_aegis",
+  "reconstruction": "都市が白い大理石の神殿都市へ変化する。",
+  "seed": false,
+  "class": "DIVINE",
+  "role": "CONTROLLER",
+  "role_ui": "Controller",
+  "element": "SEA",
+  "weapon": "TRIDENT",
+  "height": 174,
+  "appearance": {
+    "hair": "hellas_hair",
+    "eyes": "poseidon_eyes",
+    "costume": "hellas_divine"
+  },
+  "stats": {
+    "hp": 1065,
+    "attack": 78,
+    "defense": 73,
+    "speed": 62
+  },
+  "hp": 150,
+  "speed": 6.9,
+  "damage": 15,
+  "skills": [
+    "poseidon_skill1",
+    "poseidon_skill2",
+    "poseidon_skill3"
+  ],
+  "normal_attack": {
+    "id": "poseidon_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "poseidon_skill1",
+    "name_ja": "三叉",
+    "name_en": "三叉"
+  },
+  "skill_2": {
+    "id": "poseidon_skill2",
+    "name_ja": "海震",
+    "name_en": "海震"
+  },
+  "ultimate": {
+    "id": "poseidon_skill3",
+    "name_ja": "潮主",
+    "name_en": "潮主"
+  },
+  "passive": {
+    "id": "poseidon_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "水際全体の捕獲を干渉する"
+  },
+  "civilization_tags": [
+    "greece",
+    "HELLAS",
+    "MYTH",
+    "DIVINE",
+    "SEA"
+  ],
+  "relationships": [],
+  "voice_type": "low",
+  "music_theme": "海・三叉・地震",
+  "civilization_shift_effect": "廃墟→大理石→神殿→オリーブ→HELLAS DOMAIN",
+  "theme": "海・三叉・地震",
+  "passive_text": "水際全体の捕獲を干渉する",
+  "story": "陸地が忘れても、海は覚えている。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "hellas",
+  "land": "hellas",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/hellas/poseidon.png",
+  "colors": {
+    "body": [
+      0.816,
+      0.834,
+      0.838
+    ],
+    "emit": [
+      0.406,
+      0.594,
+      0.968
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "future",
+  "code": "FUTURE",
+  "civ": "future",
+  "launch": false,
+  "name": "未来文明",
+  "name_en": "FUTURE",
+  "members": [
+    "orbital",
+    "machine",
+    "aeterna",
+    "lunar",
+    "ark",
+    "nexus_city"
+  ],
+  "features": [
+    "Orbital Ring",
+    "Archive Core",
+    "Light Bridge",
+    "Habitat",
+    "Machine Grove"
+  ],
+  "civilization_shift": {
+    "relic_generation": 12,
+    "control": 10
+  },
+  "shift_text": "沈黙→軌道→記憶核→FUTURE DOMAIN",
+  "banner": "res://assets/characters/_keyart/future.png",
+  "sheet": "res://assets/characters/_sheets/future.png"
+}

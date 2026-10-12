@@ -1,0 +1,5077 @@
+{
+  "1-1": {
+    "chapter": "第1章 桜ノ廃都・崩れた参道",
+    "domain": "YAMATO DOMAIN",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 168,
+    "background": "assets/backgrounds/chapter-1.png",
+    "relic": 19,
+    "enemies": [
+      {
+        "id": "1-1-bone-1",
+        "name": "骨兵",
+        "image": "bone",
+        "element": "dark",
+        "scale": 0.62,
+        "stats": {
+          "hp": 10881,
+          "atk": 324,
+          "def": 117
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "1-1-bone-2",
+        "name": "骨兵",
+        "image": "bone",
+        "element": "dark",
+        "scale": 0.62,
+        "stats": {
+          "hp": 10881,
+          "atk": 324,
+          "def": 117
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "1-1-bone-3",
+        "name": "骨兵",
+        "image": "bone",
+        "element": "dark",
+        "scale": 0.62,
+        "stats": {
+          "hp": 10881,
+          "atk": 324,
+          "def": 117
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "1-1-bone-4",
+        "name": "骨兵",
+        "image": "bone",
+        "element": "dark",
+        "scale": 0.62,
+        "stats": {
+          "hp": 10881,
+          "atk": 324,
+          "def": 117
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      }
+    ]
+  },
+  "1-2": {
+    "chapter": "第1章 桜ノ廃都・紅の灯火",
+    "domain": "YAMATO DOMAIN",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 168,
+    "background": "assets/backgrounds/chapter-1.png",
+    "relic": 19,
+    "enemies": [
+      {
+        "id": "1-2-bone-1",
+        "name": "骨兵",
+        "image": "bone",
+        "element": "dark",
+        "scale": 0.62,
+        "stats": {
+          "hp": 10320,
+          "atk": 297,
+          "def": 117
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "1-2-bone-2",
+        "name": "骨兵",
+        "image": "bone",
+        "element": "dark",
+        "scale": 0.62,
+        "stats": {
+          "hp": 10320,
+          "atk": 297,
+          "def": 117
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "1-2-bone-3",
+        "name": "骨兵",
+        "image": "bone",
+        "element": "dark",
+        "scale": 0.62,
+        "stats": {
+          "hp": 10320,
+          "atk": 297,
+          "def": 117
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "1-2-rot-1",
+        "name": "朽ち兵",
+        "image": "rot",
+        "element": "fire",
+        "scale": 0.95,
+        "stats": {
+          "hp": 17028,
+          "atk": 490,
+          "def": 138
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.62,
+          "fx": "rain"
+        }
+      }
+    ]
+  },
+  "1-3": {
+    "chapter": "第1章 桜ノ廃都・散る桜の下で",
+    "domain": "YAMATO DOMAIN",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 168,
+    "background": "assets/backgrounds/chapter-1.png",
+    "relic": 19,
+    "enemies": [
+      {
+        "id": "1-3-bone-1",
+        "name": "骨兵",
+        "image": "bone",
+        "element": "dark",
+        "scale": 0.62,
+        "stats": {
+          "hp": 12198,
+          "atk": 340,
+          "def": 117
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "1-3-rot-1",
+        "name": "朽ち兵",
+        "image": "rot",
+        "element": "fire",
+        "scale": 0.95,
+        "stats": {
+          "hp": 20127,
+          "atk": 562,
+          "def": 138
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.62,
+          "fx": "rain"
+        }
+      },
+      {
+        "id": "1-3-rot-2",
+        "name": "朽ち兵",
+        "image": "rot",
+        "element": "fire",
+        "scale": 0.95,
+        "stats": {
+          "hp": 20127,
+          "atk": 562,
+          "def": 138
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.62,
+          "fx": "rain"
+        }
+      }
+    ]
+  },
+  "1-4": {
+    "chapter": "第1章 桜ノ廃都・鳥居の影",
+    "domain": "YAMATO DOMAIN",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 168,
+    "background": "assets/backgrounds/chapter-1.png",
+    "relic": 19,
+    "enemies": [
+      {
+        "id": "1-4-bone-1",
+        "name": "骨兵",
+        "image": "bone",
+        "element": "dark",
+        "scale": 0.62,
+        "stats": {
+          "hp": 15749,
+          "atk": 422,
+          "def": 117
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "1-4-bone-2",
+        "name": "骨兵",
+        "image": "bone",
+        "element": "dark",
+        "scale": 0.62,
+        "stats": {
+          "hp": 15749,
+          "atk": 422,
+          "def": 117
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "1-4-bone-3",
+        "name": "骨兵",
+        "image": "bone",
+        "element": "dark",
+        "scale": 0.62,
+        "stats": {
+          "hp": 15749,
+          "atk": 422,
+          "def": 117
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "1-4-bone-4",
+        "name": "骨兵",
+        "image": "bone",
+        "element": "dark",
+        "scale": 0.62,
+        "stats": {
+          "hp": 15749,
+          "atk": 422,
+          "def": 117
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "1-4-bone-5",
+        "name": "骨兵",
+        "image": "bone",
+        "element": "dark",
+        "scale": 0.62,
+        "stats": {
+          "hp": 15749,
+          "atk": 422,
+          "def": 117
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      }
+    ]
+  },
+  "1-5": {
+    "chapter": "第1章 桜ノ廃都・廃駅のホーム",
+    "domain": "YAMATO DOMAIN",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 168,
+    "background": "assets/backgrounds/chapter-1.png",
+    "relic": 19,
+    "enemies": [
+      {
+        "id": "1-5-bone-1",
+        "name": "骨兵",
+        "image": "bone",
+        "element": "dark",
+        "scale": 0.62,
+        "stats": {
+          "hp": 18871,
+          "atk": 494,
+          "def": 117
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "1-5-bone-2",
+        "name": "骨兵",
+        "image": "bone",
+        "element": "dark",
+        "scale": 0.62,
+        "stats": {
+          "hp": 18871,
+          "atk": 494,
+          "def": 117
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "1-5-shade-1",
+        "name": "桜ノ影",
+        "image": "shade",
+        "element": "dark",
+        "scale": 1.22,
+        "stats": {
+          "hp": 47178,
+          "atk": 1236,
+          "def": 166
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.25,
+          "fx": "thick"
+        }
+      }
+    ]
+  },
+  "1-6": {
+    "chapter": "第1章 桜ノ廃都・桜吹雪の坂",
+    "domain": "YAMATO DOMAIN",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 168,
+    "background": "assets/backgrounds/chapter-1.png",
+    "relic": 19,
+    "enemies": [
+      {
+        "id": "1-6-rot-1",
+        "name": "朽ち兵",
+        "image": "rot",
+        "element": "fire",
+        "scale": 0.95,
+        "stats": {
+          "hp": 30365,
+          "atk": 779,
+          "def": 138
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.62,
+          "fx": "rain"
+        }
+      },
+      {
+        "id": "1-6-rot-2",
+        "name": "朽ち兵",
+        "image": "rot",
+        "element": "fire",
+        "scale": 0.95,
+        "stats": {
+          "hp": 30365,
+          "atk": 779,
+          "def": 138
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.62,
+          "fx": "rain"
+        }
+      },
+      {
+        "id": "1-6-rot-3",
+        "name": "朽ち兵",
+        "image": "rot",
+        "element": "fire",
+        "scale": 0.95,
+        "stats": {
+          "hp": 30365,
+          "atk": 779,
+          "def": 138
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.62,
+          "fx": "rain"
+        }
+      }
+    ]
+  },
+  "1-7": {
+    "chapter": "第1章 桜ノ廃都・夜の茶屋",
+    "domain": "YAMATO DOMAIN",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 168,
+    "background": "assets/backgrounds/chapter-1.png",
+    "relic": 19,
+    "enemies": [
+      {
+        "id": "1-7-bone-1",
+        "name": "骨兵",
+        "image": "bone",
+        "element": "dark",
+        "scale": 0.62,
+        "stats": {
+          "hp": 15817,
+          "atk": 398,
+          "def": 117
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "1-7-bone-2",
+        "name": "骨兵",
+        "image": "bone",
+        "element": "dark",
+        "scale": 0.62,
+        "stats": {
+          "hp": 15817,
+          "atk": 398,
+          "def": 117
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "1-7-rot-1",
+        "name": "朽ち兵",
+        "image": "rot",
+        "element": "fire",
+        "scale": 0.95,
+        "stats": {
+          "hp": 26097,
+          "atk": 657,
+          "def": 138
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.62,
+          "fx": "rain"
+        }
+      },
+      {
+        "id": "1-7-shade-1",
+        "name": "桜ノ影",
+        "image": "shade",
+        "element": "dark",
+        "scale": 1.22,
+        "stats": {
+          "hp": 39541,
+          "atk": 995,
+          "def": 166
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.25,
+          "fx": "thick"
+        }
+      }
+    ]
+  },
+  "1-8": {
+    "chapter": "第1章 桜ノ廃都・門前の石段",
+    "domain": "YAMATO DOMAIN",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 168,
+    "background": "assets/backgrounds/chapter-1.png",
+    "relic": 19,
+    "enemies": [
+      {
+        "id": "1-8-bone-1",
+        "name": "骨兵",
+        "image": "bone",
+        "element": "dark",
+        "scale": 0.62,
+        "stats": {
+          "hp": 26019,
+          "atk": 633,
+          "def": 117
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "1-8-rot-1",
+        "name": "朽ち兵",
+        "image": "rot",
+        "element": "fire",
+        "scale": 0.95,
+        "stats": {
+          "hp": 42932,
+          "atk": 1044,
+          "def": 138
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.62,
+          "fx": "rain"
+        }
+      },
+      {
+        "id": "1-8-shade-1",
+        "name": "桜ノ影",
+        "image": "shade",
+        "element": "dark",
+        "scale": 1.22,
+        "stats": {
+          "hp": 65049,
+          "atk": 1583,
+          "def": 166
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.25,
+          "fx": "thick"
+        }
+      }
+    ]
+  },
+  "1-9": {
+    "chapter": "第1章 桜ノ廃都・常世の橋",
+    "domain": "YAMATO DOMAIN",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 168,
+    "background": "assets/backgrounds/chapter-1.png",
+    "relic": 19,
+    "enemies": [
+      {
+        "id": "1-9-rot-1",
+        "name": "朽ち兵",
+        "image": "rot",
+        "element": "fire",
+        "scale": 0.95,
+        "stats": {
+          "hp": 35233,
+          "atk": 844,
+          "def": 138
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.62,
+          "fx": "rain"
+        }
+      },
+      {
+        "id": "1-9-shade-1",
+        "name": "桜ノ影",
+        "image": "shade",
+        "element": "dark",
+        "scale": 1.22,
+        "stats": {
+          "hp": 53383,
+          "atk": 1278,
+          "def": 166
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.25,
+          "fx": "thick"
+        }
+      },
+      {
+        "id": "1-9-shade-2",
+        "name": "桜ノ影",
+        "image": "shade",
+        "element": "dark",
+        "scale": 1.22,
+        "stats": {
+          "hp": 53383,
+          "atk": 1278,
+          "def": 166
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.25,
+          "fx": "thick"
+        }
+      }
+    ]
+  },
+  "1-10": {
+    "chapter": "第1章 桜ノ廃都・常世の門",
+    "domain": "YAMATO DOMAIN",
+    "wave": {
+      "current": 1,
+      "total": 5
+    },
+    "time": 168,
+    "background": "assets/backgrounds/chapter-1.png",
+    "relic": 19,
+    "enemies": [
+      {
+        "id": "boss-1",
+        "name": "門番",
+        "image": "boss-1",
+        "boss": true,
+        "element": "fire",
+        "scale": 2.6,
+        "stats": {
+          "hp": 148764,
+          "atk": 1098,
+          "def": 460
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.85,
+          "fx": "pillar"
+        }
+      }
+    ]
+  },
+  "2-1": {
+    "chapter": "第2章 神々の残響・目覚めの回廊",
+    "domain": "ECHO SANCTUM",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 176,
+    "background": "assets/backgrounds/chapter-2.png",
+    "relic": 23,
+    "enemies": [
+      {
+        "id": "2-1-echo-1",
+        "name": "残響",
+        "image": "echo",
+        "element": "light",
+        "scale": 0.6,
+        "stats": {
+          "hp": 22041,
+          "atk": 534,
+          "def": 133
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "2-1-echo-2",
+        "name": "残響",
+        "image": "echo",
+        "element": "light",
+        "scale": 0.6,
+        "stats": {
+          "hp": 22041,
+          "atk": 534,
+          "def": 133
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "2-1-echo-3",
+        "name": "残響",
+        "image": "echo",
+        "element": "light",
+        "scale": 0.6,
+        "stats": {
+          "hp": 22041,
+          "atk": 534,
+          "def": 133
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "2-1-echo-4",
+        "name": "残響",
+        "image": "echo",
+        "element": "light",
+        "scale": 0.6,
+        "stats": {
+          "hp": 22041,
+          "atk": 534,
+          "def": 133
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      }
+    ]
+  },
+  "2-2": {
+    "chapter": "第2章 神々の残響・神名の碑",
+    "domain": "ECHO SANCTUM",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 176,
+    "background": "assets/backgrounds/chapter-2.png",
+    "relic": 23,
+    "enemies": [
+      {
+        "id": "2-2-echo-1",
+        "name": "残響",
+        "image": "echo",
+        "element": "light",
+        "scale": 0.6,
+        "stats": {
+          "hp": 19920,
+          "atk": 477,
+          "def": 133
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "2-2-echo-2",
+        "name": "残響",
+        "image": "echo",
+        "element": "light",
+        "scale": 0.6,
+        "stats": {
+          "hp": 19920,
+          "atk": 477,
+          "def": 133
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "2-2-echo-3",
+        "name": "残響",
+        "image": "echo",
+        "element": "light",
+        "scale": 0.6,
+        "stats": {
+          "hp": 19920,
+          "atk": 477,
+          "def": 133
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "2-2-acolyte-1",
+        "name": "神官",
+        "image": "acolyte",
+        "element": "light",
+        "scale": 0.92,
+        "stats": {
+          "hp": 32868,
+          "atk": 788,
+          "def": 156
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.6,
+          "fx": "bloom"
+        }
+      }
+    ]
+  },
+  "2-3": {
+    "chapter": "第2章 神々の残響・残響の間",
+    "domain": "ECHO SANCTUM",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 176,
+    "background": "assets/backgrounds/chapter-2.png",
+    "relic": 23,
+    "enemies": [
+      {
+        "id": "2-3-echo-1",
+        "name": "残響",
+        "image": "echo",
+        "element": "light",
+        "scale": 0.6,
+        "stats": {
+          "hp": 22580,
+          "atk": 536,
+          "def": 133
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "2-3-acolyte-1",
+        "name": "神官",
+        "image": "acolyte",
+        "element": "light",
+        "scale": 0.92,
+        "stats": {
+          "hp": 37256,
+          "atk": 884,
+          "def": 156
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.6,
+          "fx": "bloom"
+        }
+      },
+      {
+        "id": "2-3-acolyte-2",
+        "name": "神官",
+        "image": "acolyte",
+        "element": "light",
+        "scale": 0.92,
+        "stats": {
+          "hp": 37256,
+          "atk": 884,
+          "def": 156
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.6,
+          "fx": "bloom"
+        }
+      }
+    ]
+  },
+  "2-4": {
+    "chapter": "第2章 神々の残響・供物の壇",
+    "domain": "ECHO SANCTUM",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 176,
+    "background": "assets/backgrounds/chapter-2.png",
+    "relic": 23,
+    "enemies": [
+      {
+        "id": "2-4-echo-1",
+        "name": "残響",
+        "image": "echo",
+        "element": "light",
+        "scale": 0.6,
+        "stats": {
+          "hp": 28101,
+          "atk": 646,
+          "def": 133
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "2-4-echo-2",
+        "name": "残響",
+        "image": "echo",
+        "element": "light",
+        "scale": 0.6,
+        "stats": {
+          "hp": 28101,
+          "atk": 646,
+          "def": 133
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "2-4-echo-3",
+        "name": "残響",
+        "image": "echo",
+        "element": "light",
+        "scale": 0.6,
+        "stats": {
+          "hp": 28101,
+          "atk": 646,
+          "def": 133
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "2-4-echo-4",
+        "name": "残響",
+        "image": "echo",
+        "element": "light",
+        "scale": 0.6,
+        "stats": {
+          "hp": 28101,
+          "atk": 646,
+          "def": 133
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "2-4-echo-5",
+        "name": "残響",
+        "image": "echo",
+        "element": "light",
+        "scale": 0.6,
+        "stats": {
+          "hp": 28101,
+          "atk": 646,
+          "def": 133
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      }
+    ]
+  },
+  "2-5": {
+    "chapter": "第2章 神々の残響・沈黙の廊下",
+    "domain": "ECHO SANCTUM",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 176,
+    "background": "assets/backgrounds/chapter-2.png",
+    "relic": 23,
+    "enemies": [
+      {
+        "id": "2-5-echo-1",
+        "name": "残響",
+        "image": "echo",
+        "element": "light",
+        "scale": 0.6,
+        "stats": {
+          "hp": 32596,
+          "atk": 743,
+          "def": 133
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "2-5-echo-2",
+        "name": "残響",
+        "image": "echo",
+        "element": "light",
+        "scale": 0.6,
+        "stats": {
+          "hp": 32596,
+          "atk": 743,
+          "def": 133
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "2-5-statue-1",
+        "name": "石像",
+        "image": "statue",
+        "element": "ice",
+        "scale": 1.28,
+        "stats": {
+          "hp": 81489,
+          "atk": 1858,
+          "def": 187
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.3,
+          "fx": "thick"
+        }
+      }
+    ]
+  },
+  "2-6": {
+    "chapter": "第2章 神々の残響・古き社",
+    "domain": "ECHO SANCTUM",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 176,
+    "background": "assets/backgrounds/chapter-2.png",
+    "relic": 23,
+    "enemies": [
+      {
+        "id": "2-6-acolyte-1",
+        "name": "神官",
+        "image": "acolyte",
+        "element": "light",
+        "scale": 0.92,
+        "stats": {
+          "hp": 50952,
+          "atk": 1152,
+          "def": 156
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.6,
+          "fx": "bloom"
+        }
+      },
+      {
+        "id": "2-6-acolyte-2",
+        "name": "神官",
+        "image": "acolyte",
+        "element": "light",
+        "scale": 0.92,
+        "stats": {
+          "hp": 50952,
+          "atk": 1152,
+          "def": 156
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.6,
+          "fx": "bloom"
+        }
+      },
+      {
+        "id": "2-6-acolyte-3",
+        "name": "神官",
+        "image": "acolyte",
+        "element": "light",
+        "scale": 0.92,
+        "stats": {
+          "hp": 50952,
+          "atk": 1152,
+          "def": 156
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.6,
+          "fx": "bloom"
+        }
+      }
+    ]
+  },
+  "2-7": {
+    "chapter": "第2章 神々の残響・神域の階",
+    "domain": "ECHO SANCTUM",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 176,
+    "background": "assets/backgrounds/chapter-2.png",
+    "relic": 23,
+    "enemies": [
+      {
+        "id": "2-7-echo-1",
+        "name": "残響",
+        "image": "echo",
+        "element": "light",
+        "scale": 0.6,
+        "stats": {
+          "hp": 25859,
+          "atk": 580,
+          "def": 133
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "2-7-echo-2",
+        "name": "残響",
+        "image": "echo",
+        "element": "light",
+        "scale": 0.6,
+        "stats": {
+          "hp": 25859,
+          "atk": 580,
+          "def": 133
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "2-7-acolyte-1",
+        "name": "神官",
+        "image": "acolyte",
+        "element": "light",
+        "scale": 0.92,
+        "stats": {
+          "hp": 42667,
+          "atk": 957,
+          "def": 156
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.6,
+          "fx": "bloom"
+        }
+      },
+      {
+        "id": "2-7-statue-1",
+        "name": "石像",
+        "image": "statue",
+        "element": "ice",
+        "scale": 1.28,
+        "stats": {
+          "hp": 64647,
+          "atk": 1450,
+          "def": 187
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.3,
+          "fx": "thick"
+        }
+      }
+    ]
+  },
+  "2-8": {
+    "chapter": "第2章 神々の残響・鈴の音",
+    "domain": "ECHO SANCTUM",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 176,
+    "background": "assets/backgrounds/chapter-2.png",
+    "relic": 23,
+    "enemies": [
+      {
+        "id": "2-8-echo-1",
+        "name": "残響",
+        "image": "echo",
+        "element": "light",
+        "scale": 0.6,
+        "stats": {
+          "hp": 41553,
+          "atk": 905,
+          "def": 133
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "2-8-acolyte-1",
+        "name": "神官",
+        "image": "acolyte",
+        "element": "light",
+        "scale": 0.92,
+        "stats": {
+          "hp": 68563,
+          "atk": 1493,
+          "def": 156
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.6,
+          "fx": "bloom"
+        }
+      },
+      {
+        "id": "2-8-statue-1",
+        "name": "石像",
+        "image": "statue",
+        "element": "ice",
+        "scale": 1.28,
+        "stats": {
+          "hp": 103883,
+          "atk": 2262,
+          "def": 187
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.3,
+          "fx": "thick"
+        }
+      }
+    ]
+  },
+  "2-9": {
+    "chapter": "第2章 神々の残響・最奥の帳",
+    "domain": "ECHO SANCTUM",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 176,
+    "background": "assets/backgrounds/chapter-2.png",
+    "relic": 23,
+    "enemies": [
+      {
+        "id": "2-9-acolyte-1",
+        "name": "神官",
+        "image": "acolyte",
+        "element": "light",
+        "scale": 0.92,
+        "stats": {
+          "hp": 55083,
+          "atk": 1191,
+          "def": 156
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.6,
+          "fx": "bloom"
+        }
+      },
+      {
+        "id": "2-9-statue-1",
+        "name": "石像",
+        "image": "statue",
+        "element": "ice",
+        "scale": 1.28,
+        "stats": {
+          "hp": 83459,
+          "atk": 1805,
+          "def": 187
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.3,
+          "fx": "thick"
+        }
+      },
+      {
+        "id": "2-9-statue-2",
+        "name": "石像",
+        "image": "statue",
+        "element": "ice",
+        "scale": 1.28,
+        "stats": {
+          "hp": 83459,
+          "atk": 1805,
+          "def": 187
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.3,
+          "fx": "thick"
+        }
+      }
+    ]
+  },
+  "2-10": {
+    "chapter": "第2章 神々の残響・神域の最奥",
+    "domain": "ECHO SANCTUM",
+    "wave": {
+      "current": 1,
+      "total": 5
+    },
+    "time": 176,
+    "background": "assets/backgrounds/chapter-2.png",
+    "relic": 23,
+    "enemies": [
+      {
+        "id": "boss-2",
+        "name": "神域の番",
+        "image": "boss-2",
+        "boss": true,
+        "element": "light",
+        "scale": 2.6,
+        "stats": {
+          "hp": 210073,
+          "atk": 1277,
+          "def": 506
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.85,
+          "fx": "pillar"
+        }
+      }
+    ]
+  },
+  "3-1": {
+    "chapter": "第3章 永劫の門・門の前",
+    "domain": "ETERNAL GATE",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 184,
+    "background": "assets/backgrounds/chapter-3.png",
+    "relic": 27,
+    "enemies": [
+      {
+        "id": "3-1-gate-1",
+        "name": "門兵",
+        "image": "gate",
+        "element": "dark",
+        "scale": 0.66,
+        "stats": {
+          "hp": 33201,
+          "atk": 744,
+          "def": 148
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "3-1-gate-2",
+        "name": "門兵",
+        "image": "gate",
+        "element": "dark",
+        "scale": 0.66,
+        "stats": {
+          "hp": 33201,
+          "atk": 744,
+          "def": 148
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "3-1-gate-3",
+        "name": "門兵",
+        "image": "gate",
+        "element": "dark",
+        "scale": 0.66,
+        "stats": {
+          "hp": 33201,
+          "atk": 744,
+          "def": 148
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "3-1-gate-4",
+        "name": "門兵",
+        "image": "gate",
+        "element": "dark",
+        "scale": 0.66,
+        "stats": {
+          "hp": 33201,
+          "atk": 744,
+          "def": 148
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      }
+    ]
+  },
+  "3-2": {
+    "chapter": "第3章 永劫の門・交差する記憶",
+    "domain": "ETERNAL GATE",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 184,
+    "background": "assets/backgrounds/chapter-3.png",
+    "relic": 27,
+    "enemies": [
+      {
+        "id": "3-2-gate-1",
+        "name": "門兵",
+        "image": "gate",
+        "element": "dark",
+        "scale": 0.66,
+        "stats": {
+          "hp": 29520,
+          "atk": 658,
+          "def": 148
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "3-2-gate-2",
+        "name": "門兵",
+        "image": "gate",
+        "element": "dark",
+        "scale": 0.66,
+        "stats": {
+          "hp": 29520,
+          "atk": 658,
+          "def": 148
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "3-2-gate-3",
+        "name": "門兵",
+        "image": "gate",
+        "element": "dark",
+        "scale": 0.66,
+        "stats": {
+          "hp": 29520,
+          "atk": 658,
+          "def": 148
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "3-2-hound-1",
+        "name": "番犬",
+        "image": "hound",
+        "element": "fire",
+        "scale": 0.88,
+        "stats": {
+          "hp": 48708,
+          "atk": 1086,
+          "def": 174
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.15,
+          "fx": "arc"
+        }
+      }
+    ]
+  },
+  "3-3": {
+    "chapter": "第3章 永劫の門・紫の霧",
+    "domain": "ETERNAL GATE",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 184,
+    "background": "assets/backgrounds/chapter-3.png",
+    "relic": 27,
+    "enemies": [
+      {
+        "id": "3-3-gate-1",
+        "name": "門兵",
+        "image": "gate",
+        "element": "dark",
+        "scale": 0.66,
+        "stats": {
+          "hp": 32961,
+          "atk": 731,
+          "def": 148
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "3-3-hound-1",
+        "name": "番犬",
+        "image": "hound",
+        "element": "fire",
+        "scale": 0.88,
+        "stats": {
+          "hp": 54386,
+          "atk": 1206,
+          "def": 174
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.15,
+          "fx": "arc"
+        }
+      },
+      {
+        "id": "3-3-hound-2",
+        "name": "番犬",
+        "image": "hound",
+        "element": "fire",
+        "scale": 0.88,
+        "stats": {
+          "hp": 54386,
+          "atk": 1206,
+          "def": 174
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.15,
+          "fx": "arc"
+        }
+      }
+    ]
+  },
+  "3-4": {
+    "chapter": "第3章 永劫の門・門柱",
+    "domain": "ETERNAL GATE",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 184,
+    "background": "assets/backgrounds/chapter-3.png",
+    "relic": 27,
+    "enemies": [
+      {
+        "id": "3-4-gate-1",
+        "name": "門兵",
+        "image": "gate",
+        "element": "dark",
+        "scale": 0.66,
+        "stats": {
+          "hp": 40453,
+          "atk": 870,
+          "def": 148
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "3-4-gate-2",
+        "name": "門兵",
+        "image": "gate",
+        "element": "dark",
+        "scale": 0.66,
+        "stats": {
+          "hp": 40453,
+          "atk": 870,
+          "def": 148
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "3-4-gate-3",
+        "name": "門兵",
+        "image": "gate",
+        "element": "dark",
+        "scale": 0.66,
+        "stats": {
+          "hp": 40453,
+          "atk": 870,
+          "def": 148
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "3-4-gate-4",
+        "name": "門兵",
+        "image": "gate",
+        "element": "dark",
+        "scale": 0.66,
+        "stats": {
+          "hp": 40453,
+          "atk": 870,
+          "def": 148
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "3-4-gate-5",
+        "name": "門兵",
+        "image": "gate",
+        "element": "dark",
+        "scale": 0.66,
+        "stats": {
+          "hp": 40453,
+          "atk": 870,
+          "def": 148
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      }
+    ]
+  },
+  "3-5": {
+    "chapter": "第3章 永劫の門・忘却の池",
+    "domain": "ETERNAL GATE",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 184,
+    "background": "assets/backgrounds/chapter-3.png",
+    "relic": 27,
+    "enemies": [
+      {
+        "id": "3-5-gate-1",
+        "name": "門兵",
+        "image": "gate",
+        "element": "dark",
+        "scale": 0.66,
+        "stats": {
+          "hp": 46320,
+          "atk": 992,
+          "def": 148
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "3-5-gate-2",
+        "name": "門兵",
+        "image": "gate",
+        "element": "dark",
+        "scale": 0.66,
+        "stats": {
+          "hp": 46320,
+          "atk": 992,
+          "def": 148
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "3-5-armor-1",
+        "name": "鎧武者",
+        "image": "armor",
+        "element": "dark",
+        "scale": 1.25,
+        "stats": {
+          "hp": 115800,
+          "atk": 2480,
+          "def": 209
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.7,
+          "fx": "fan"
+        }
+      }
+    ]
+  },
+  "3-6": {
+    "chapter": "第3章 永劫の門・二度目の鳥居",
+    "domain": "ETERNAL GATE",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 184,
+    "background": "assets/backgrounds/chapter-3.png",
+    "relic": 27,
+    "enemies": [
+      {
+        "id": "3-6-hound-1",
+        "name": "番犬",
+        "image": "hound",
+        "element": "fire",
+        "scale": 0.88,
+        "stats": {
+          "hp": 71539,
+          "atk": 1525,
+          "def": 174
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.15,
+          "fx": "arc"
+        }
+      },
+      {
+        "id": "3-6-hound-2",
+        "name": "番犬",
+        "image": "hound",
+        "element": "fire",
+        "scale": 0.88,
+        "stats": {
+          "hp": 71539,
+          "atk": 1525,
+          "def": 174
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.15,
+          "fx": "arc"
+        }
+      },
+      {
+        "id": "3-6-hound-3",
+        "name": "番犬",
+        "image": "hound",
+        "element": "fire",
+        "scale": 0.88,
+        "stats": {
+          "hp": 71539,
+          "atk": 1525,
+          "def": 174
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.15,
+          "fx": "arc"
+        }
+      }
+    ]
+  },
+  "3-7": {
+    "chapter": "第3章 永劫の門・永劫の階段",
+    "domain": "ETERNAL GATE",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 184,
+    "background": "assets/backgrounds/chapter-3.png",
+    "relic": 27,
+    "enemies": [
+      {
+        "id": "3-7-gate-1",
+        "name": "門兵",
+        "image": "gate",
+        "element": "dark",
+        "scale": 0.66,
+        "stats": {
+          "hp": 35901,
+          "atk": 762,
+          "def": 148
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "3-7-gate-2",
+        "name": "門兵",
+        "image": "gate",
+        "element": "dark",
+        "scale": 0.66,
+        "stats": {
+          "hp": 35901,
+          "atk": 762,
+          "def": 148
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "3-7-hound-1",
+        "name": "番犬",
+        "image": "hound",
+        "element": "fire",
+        "scale": 0.88,
+        "stats": {
+          "hp": 59237,
+          "atk": 1258,
+          "def": 174
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.15,
+          "fx": "arc"
+        }
+      },
+      {
+        "id": "3-7-armor-1",
+        "name": "鎧武者",
+        "image": "armor",
+        "element": "dark",
+        "scale": 1.25,
+        "stats": {
+          "hp": 89753,
+          "atk": 1906,
+          "def": 209
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.7,
+          "fx": "fan"
+        }
+      }
+    ]
+  },
+  "3-8": {
+    "chapter": "第3章 永劫の門・門の内側",
+    "domain": "ETERNAL GATE",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 184,
+    "background": "assets/backgrounds/chapter-3.png",
+    "relic": 27,
+    "enemies": [
+      {
+        "id": "3-8-gate-1",
+        "name": "門兵",
+        "image": "gate",
+        "element": "dark",
+        "scale": 0.66,
+        "stats": {
+          "hp": 57087,
+          "atk": 1177,
+          "def": 148
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "3-8-hound-1",
+        "name": "番犬",
+        "image": "hound",
+        "element": "fire",
+        "scale": 0.88,
+        "stats": {
+          "hp": 94194,
+          "atk": 1942,
+          "def": 174
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.15,
+          "fx": "arc"
+        }
+      },
+      {
+        "id": "3-8-armor-1",
+        "name": "鎧武者",
+        "image": "armor",
+        "element": "dark",
+        "scale": 1.25,
+        "stats": {
+          "hp": 142718,
+          "atk": 2942,
+          "def": 209
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.7,
+          "fx": "fan"
+        }
+      }
+    ]
+  },
+  "3-9": {
+    "chapter": "第3章 永劫の門・番の間",
+    "domain": "ETERNAL GATE",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 184,
+    "background": "assets/backgrounds/chapter-3.png",
+    "relic": 27,
+    "enemies": [
+      {
+        "id": "3-9-hound-1",
+        "name": "番犬",
+        "image": "hound",
+        "element": "fire",
+        "scale": 0.88,
+        "stats": {
+          "hp": 74932,
+          "atk": 1538,
+          "def": 174
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.15,
+          "fx": "arc"
+        }
+      },
+      {
+        "id": "3-9-armor-1",
+        "name": "鎧武者",
+        "image": "armor",
+        "element": "dark",
+        "scale": 1.25,
+        "stats": {
+          "hp": 113534,
+          "atk": 2331,
+          "def": 209
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.7,
+          "fx": "fan"
+        }
+      },
+      {
+        "id": "3-9-armor-2",
+        "name": "鎧武者",
+        "image": "armor",
+        "element": "dark",
+        "scale": 1.25,
+        "stats": {
+          "hp": 113534,
+          "atk": 2331,
+          "def": 209
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.7,
+          "fx": "fan"
+        }
+      }
+    ]
+  },
+  "3-10": {
+    "chapter": "第3章 永劫の門・永劫の核",
+    "domain": "ETERNAL GATE",
+    "wave": {
+      "current": 1,
+      "total": 5
+    },
+    "time": 184,
+    "background": "assets/backgrounds/chapter-3.png",
+    "relic": 27,
+    "enemies": [
+      {
+        "id": "boss-3",
+        "name": "永劫の番",
+        "image": "boss-3",
+        "boss": true,
+        "element": "dark",
+        "scale": 2.65,
+        "stats": {
+          "hp": 271382,
+          "atk": 1456,
+          "def": 552
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.4,
+          "fx": "pillar"
+        }
+      }
+    ]
+  },
+  "4-1": {
+    "chapter": "第4章 霜蝕の回廊・霜の入口",
+    "domain": "FROST CORRIDOR",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 192,
+    "background": "assets/backgrounds/chapter-4.png",
+    "relic": 31,
+    "enemies": [
+      {
+        "id": "4-1-frost-1",
+        "name": "霜兵",
+        "image": "frost",
+        "element": "ice",
+        "scale": 0.62,
+        "stats": {
+          "hp": 44361,
+          "atk": 954,
+          "def": 163
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "4-1-frost-2",
+        "name": "霜兵",
+        "image": "frost",
+        "element": "ice",
+        "scale": 0.62,
+        "stats": {
+          "hp": 44361,
+          "atk": 954,
+          "def": 163
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "4-1-frost-3",
+        "name": "霜兵",
+        "image": "frost",
+        "element": "ice",
+        "scale": 0.62,
+        "stats": {
+          "hp": 44361,
+          "atk": 954,
+          "def": 163
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "4-1-frost-4",
+        "name": "霜兵",
+        "image": "frost",
+        "element": "ice",
+        "scale": 0.62,
+        "stats": {
+          "hp": 44361,
+          "atk": 954,
+          "def": 163
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      }
+    ]
+  },
+  "4-2": {
+    "chapter": "第4章 霜蝕の回廊・凍った灯",
+    "domain": "FROST CORRIDOR",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 192,
+    "background": "assets/backgrounds/chapter-4.png",
+    "relic": 31,
+    "enemies": [
+      {
+        "id": "4-2-frost-1",
+        "name": "霜兵",
+        "image": "frost",
+        "element": "ice",
+        "scale": 0.62,
+        "stats": {
+          "hp": 39120,
+          "atk": 839,
+          "def": 163
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "4-2-frost-2",
+        "name": "霜兵",
+        "image": "frost",
+        "element": "ice",
+        "scale": 0.62,
+        "stats": {
+          "hp": 39120,
+          "atk": 839,
+          "def": 163
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "4-2-frost-3",
+        "name": "霜兵",
+        "image": "frost",
+        "element": "ice",
+        "scale": 0.62,
+        "stats": {
+          "hp": 39120,
+          "atk": 839,
+          "def": 163
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "4-2-wolf-1",
+        "name": "霜狼",
+        "image": "wolf",
+        "element": "ice",
+        "scale": 0.9,
+        "stats": {
+          "hp": 64548,
+          "atk": 1384,
+          "def": 192
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.2,
+          "fx": "arc"
+        }
+      }
+    ]
+  },
+  "4-3": {
+    "chapter": "第4章 霜蝕の回廊・氷の回廊",
+    "domain": "FROST CORRIDOR",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 192,
+    "background": "assets/backgrounds/chapter-4.png",
+    "relic": 31,
+    "enemies": [
+      {
+        "id": "4-3-frost-1",
+        "name": "霜兵",
+        "image": "frost",
+        "element": "ice",
+        "scale": 0.62,
+        "stats": {
+          "hp": 43342,
+          "atk": 927,
+          "def": 163
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "4-3-wolf-1",
+        "name": "霜狼",
+        "image": "wolf",
+        "element": "ice",
+        "scale": 0.9,
+        "stats": {
+          "hp": 71515,
+          "atk": 1529,
+          "def": 192
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.2,
+          "fx": "arc"
+        }
+      },
+      {
+        "id": "4-3-wolf-2",
+        "name": "霜狼",
+        "image": "wolf",
+        "element": "ice",
+        "scale": 0.9,
+        "stats": {
+          "hp": 71515,
+          "atk": 1529,
+          "def": 192
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.2,
+          "fx": "arc"
+        }
+      }
+    ]
+  },
+  "4-4": {
+    "chapter": "第4章 霜蝕の回廊・雪の祭壇",
+    "domain": "FROST CORRIDOR",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 192,
+    "background": "assets/backgrounds/chapter-4.png",
+    "relic": 31,
+    "enemies": [
+      {
+        "id": "4-4-frost-1",
+        "name": "霜兵",
+        "image": "frost",
+        "element": "ice",
+        "scale": 0.62,
+        "stats": {
+          "hp": 52805,
+          "atk": 1094,
+          "def": 163
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "4-4-frost-2",
+        "name": "霜兵",
+        "image": "frost",
+        "element": "ice",
+        "scale": 0.62,
+        "stats": {
+          "hp": 52805,
+          "atk": 1094,
+          "def": 163
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "4-4-frost-3",
+        "name": "霜兵",
+        "image": "frost",
+        "element": "ice",
+        "scale": 0.62,
+        "stats": {
+          "hp": 52805,
+          "atk": 1094,
+          "def": 163
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "4-4-frost-4",
+        "name": "霜兵",
+        "image": "frost",
+        "element": "ice",
+        "scale": 0.62,
+        "stats": {
+          "hp": 52805,
+          "atk": 1094,
+          "def": 163
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "4-4-frost-5",
+        "name": "霜兵",
+        "image": "frost",
+        "element": "ice",
+        "scale": 0.62,
+        "stats": {
+          "hp": 52805,
+          "atk": 1094,
+          "def": 163
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      }
+    ]
+  },
+  "4-5": {
+    "chapter": "第4章 霜蝕の回廊・白く沈む庭",
+    "domain": "FROST CORRIDOR",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 192,
+    "background": "assets/backgrounds/chapter-4.png",
+    "relic": 31,
+    "enemies": [
+      {
+        "id": "4-5-frost-1",
+        "name": "霜兵",
+        "image": "frost",
+        "element": "ice",
+        "scale": 0.62,
+        "stats": {
+          "hp": 60044,
+          "atk": 1241,
+          "def": 163
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "4-5-frost-2",
+        "name": "霜兵",
+        "image": "frost",
+        "element": "ice",
+        "scale": 0.62,
+        "stats": {
+          "hp": 60044,
+          "atk": 1241,
+          "def": 163
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "4-5-iceblock-1",
+        "name": "氷塊",
+        "image": "iceblock",
+        "element": "ice",
+        "scale": 1.3,
+        "stats": {
+          "hp": 150111,
+          "atk": 3102,
+          "def": 230
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.68,
+          "fx": "rain"
+        }
+      }
+    ]
+  },
+  "4-6": {
+    "chapter": "第4章 霜蝕の回廊・霜柱",
+    "domain": "FROST CORRIDOR",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 192,
+    "background": "assets/backgrounds/chapter-4.png",
+    "relic": 31,
+    "enemies": [
+      {
+        "id": "4-6-wolf-1",
+        "name": "霜狼",
+        "image": "wolf",
+        "element": "ice",
+        "scale": 0.9,
+        "stats": {
+          "hp": 92125,
+          "atk": 1899,
+          "def": 192
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.2,
+          "fx": "arc"
+        }
+      },
+      {
+        "id": "4-6-wolf-2",
+        "name": "霜狼",
+        "image": "wolf",
+        "element": "ice",
+        "scale": 0.9,
+        "stats": {
+          "hp": 92125,
+          "atk": 1899,
+          "def": 192
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.2,
+          "fx": "arc"
+        }
+      },
+      {
+        "id": "4-6-wolf-3",
+        "name": "霜狼",
+        "image": "wolf",
+        "element": "ice",
+        "scale": 0.9,
+        "stats": {
+          "hp": 92125,
+          "atk": 1899,
+          "def": 192
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.2,
+          "fx": "arc"
+        }
+      }
+    ]
+  },
+  "4-7": {
+    "chapter": "第4章 霜蝕の回廊・氷室",
+    "domain": "FROST CORRIDOR",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 192,
+    "background": "assets/backgrounds/chapter-4.png",
+    "relic": 31,
+    "enemies": [
+      {
+        "id": "4-7-frost-1",
+        "name": "霜兵",
+        "image": "frost",
+        "element": "ice",
+        "scale": 0.62,
+        "stats": {
+          "hp": 45943,
+          "atk": 944,
+          "def": 163
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "4-7-frost-2",
+        "name": "霜兵",
+        "image": "frost",
+        "element": "ice",
+        "scale": 0.62,
+        "stats": {
+          "hp": 45943,
+          "atk": 944,
+          "def": 163
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "4-7-wolf-1",
+        "name": "霜狼",
+        "image": "wolf",
+        "element": "ice",
+        "scale": 0.9,
+        "stats": {
+          "hp": 75807,
+          "atk": 1558,
+          "def": 192
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.2,
+          "fx": "arc"
+        }
+      },
+      {
+        "id": "4-7-iceblock-1",
+        "name": "氷塊",
+        "image": "iceblock",
+        "element": "ice",
+        "scale": 1.3,
+        "stats": {
+          "hp": 114859,
+          "atk": 2361,
+          "def": 230
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.68,
+          "fx": "rain"
+        }
+      }
+    ]
+  },
+  "4-8": {
+    "chapter": "第4章 霜蝕の回廊・回廊の折れ",
+    "domain": "FROST CORRIDOR",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 192,
+    "background": "assets/backgrounds/chapter-4.png",
+    "relic": 31,
+    "enemies": [
+      {
+        "id": "4-8-frost-1",
+        "name": "霜兵",
+        "image": "frost",
+        "element": "ice",
+        "scale": 0.62,
+        "stats": {
+          "hp": 72621,
+          "atk": 1449,
+          "def": 163
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "4-8-wolf-1",
+        "name": "霜狼",
+        "image": "wolf",
+        "element": "ice",
+        "scale": 0.9,
+        "stats": {
+          "hp": 119825,
+          "atk": 2390,
+          "def": 192
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.2,
+          "fx": "arc"
+        }
+      },
+      {
+        "id": "4-8-iceblock-1",
+        "name": "氷塊",
+        "image": "iceblock",
+        "element": "ice",
+        "scale": 1.3,
+        "stats": {
+          "hp": 181553,
+          "atk": 3621,
+          "def": 230
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.68,
+          "fx": "rain"
+        }
+      }
+    ]
+  },
+  "4-9": {
+    "chapter": "第4章 霜蝕の回廊・主の間の前",
+    "domain": "FROST CORRIDOR",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 192,
+    "background": "assets/backgrounds/chapter-4.png",
+    "relic": 31,
+    "enemies": [
+      {
+        "id": "4-9-wolf-1",
+        "name": "霜狼",
+        "image": "wolf",
+        "element": "ice",
+        "scale": 0.9,
+        "stats": {
+          "hp": 94782,
+          "atk": 1886,
+          "def": 192
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.2,
+          "fx": "arc"
+        }
+      },
+      {
+        "id": "4-9-iceblock-1",
+        "name": "氷塊",
+        "image": "iceblock",
+        "element": "ice",
+        "scale": 1.3,
+        "stats": {
+          "hp": 143609,
+          "atk": 2857,
+          "def": 230
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.68,
+          "fx": "rain"
+        }
+      },
+      {
+        "id": "4-9-iceblock-2",
+        "name": "氷塊",
+        "image": "iceblock",
+        "element": "ice",
+        "scale": 1.3,
+        "stats": {
+          "hp": 143609,
+          "atk": 2857,
+          "def": 230
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.68,
+          "fx": "rain"
+        }
+      }
+    ]
+  },
+  "4-10": {
+    "chapter": "第4章 霜蝕の回廊・回廊の主",
+    "domain": "FROST CORRIDOR",
+    "wave": {
+      "current": 1,
+      "total": 5
+    },
+    "time": 192,
+    "background": "assets/backgrounds/chapter-4.png",
+    "relic": 31,
+    "enemies": [
+      {
+        "id": "boss-4",
+        "name": "回廊の主",
+        "image": "boss-4",
+        "boss": true,
+        "element": "ice",
+        "scale": 2.6,
+        "stats": {
+          "hp": 332690,
+          "atk": 1635,
+          "def": 598
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.9,
+          "fx": "pillar"
+        }
+      }
+    ]
+  },
+  "5-1": {
+    "chapter": "第5章 月下の祭壇・月の階段",
+    "domain": "MOON ALTAR",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 200,
+    "background": "assets/backgrounds/chapter-5.png",
+    "relic": 35,
+    "enemies": [
+      {
+        "id": "5-1-offering-1",
+        "name": "供物の影",
+        "image": "offering",
+        "element": "moon",
+        "scale": 0.64,
+        "stats": {
+          "hp": 55521,
+          "atk": 1164,
+          "def": 179
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "bloom"
+        }
+      },
+      {
+        "id": "5-1-offering-2",
+        "name": "供物の影",
+        "image": "offering",
+        "element": "moon",
+        "scale": 0.64,
+        "stats": {
+          "hp": 55521,
+          "atk": 1164,
+          "def": 179
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "bloom"
+        }
+      },
+      {
+        "id": "5-1-offering-3",
+        "name": "供物の影",
+        "image": "offering",
+        "element": "moon",
+        "scale": 0.64,
+        "stats": {
+          "hp": 55521,
+          "atk": 1164,
+          "def": 179
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "bloom"
+        }
+      },
+      {
+        "id": "5-1-offering-4",
+        "name": "供物の影",
+        "image": "offering",
+        "element": "moon",
+        "scale": 0.64,
+        "stats": {
+          "hp": 55521,
+          "atk": 1164,
+          "def": 179
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "bloom"
+        }
+      }
+    ]
+  },
+  "5-2": {
+    "chapter": "第5章 月下の祭壇・銀の灯",
+    "domain": "MOON ALTAR",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 200,
+    "background": "assets/backgrounds/chapter-5.png",
+    "relic": 35,
+    "enemies": [
+      {
+        "id": "5-2-offering-1",
+        "name": "供物の影",
+        "image": "offering",
+        "element": "moon",
+        "scale": 0.64,
+        "stats": {
+          "hp": 48720,
+          "atk": 1019,
+          "def": 179
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "bloom"
+        }
+      },
+      {
+        "id": "5-2-offering-2",
+        "name": "供物の影",
+        "image": "offering",
+        "element": "moon",
+        "scale": 0.64,
+        "stats": {
+          "hp": 48720,
+          "atk": 1019,
+          "def": 179
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "bloom"
+        }
+      },
+      {
+        "id": "5-2-offering-3",
+        "name": "供物の影",
+        "image": "offering",
+        "element": "moon",
+        "scale": 0.64,
+        "stats": {
+          "hp": 48720,
+          "atk": 1019,
+          "def": 179
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "bloom"
+        }
+      },
+      {
+        "id": "5-2-miko-1",
+        "name": "月下の巫",
+        "image": "miko",
+        "element": "moon",
+        "scale": 0.94,
+        "stats": {
+          "hp": 80388,
+          "atk": 1682,
+          "def": 210
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.6,
+          "fx": "arc"
+        }
+      }
+    ]
+  },
+  "5-3": {
+    "chapter": "第5章 月下の祭壇・夜の祭壇",
+    "domain": "MOON ALTAR",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 200,
+    "background": "assets/backgrounds/chapter-5.png",
+    "relic": 35,
+    "enemies": [
+      {
+        "id": "5-3-offering-1",
+        "name": "供物の影",
+        "image": "offering",
+        "element": "moon",
+        "scale": 0.64,
+        "stats": {
+          "hp": 53724,
+          "atk": 1122,
+          "def": 179
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "bloom"
+        }
+      },
+      {
+        "id": "5-3-miko-1",
+        "name": "月下の巫",
+        "image": "miko",
+        "element": "moon",
+        "scale": 0.94,
+        "stats": {
+          "hp": 88644,
+          "atk": 1851,
+          "def": 210
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.6,
+          "fx": "arc"
+        }
+      },
+      {
+        "id": "5-3-miko-2",
+        "name": "月下の巫",
+        "image": "miko",
+        "element": "moon",
+        "scale": 0.94,
+        "stats": {
+          "hp": 88644,
+          "atk": 1851,
+          "def": 210
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.6,
+          "fx": "arc"
+        }
+      }
+    ]
+  },
+  "5-4": {
+    "chapter": "第5章 月下の祭壇・欠けた月",
+    "domain": "MOON ALTAR",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 200,
+    "background": "assets/backgrounds/chapter-5.png",
+    "relic": 35,
+    "enemies": [
+      {
+        "id": "5-4-offering-1",
+        "name": "供物の影",
+        "image": "offering",
+        "element": "moon",
+        "scale": 0.64,
+        "stats": {
+          "hp": 65157,
+          "atk": 1318,
+          "def": 179
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "bloom"
+        }
+      },
+      {
+        "id": "5-4-offering-2",
+        "name": "供物の影",
+        "image": "offering",
+        "element": "moon",
+        "scale": 0.64,
+        "stats": {
+          "hp": 65157,
+          "atk": 1318,
+          "def": 179
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "bloom"
+        }
+      },
+      {
+        "id": "5-4-offering-3",
+        "name": "供物の影",
+        "image": "offering",
+        "element": "moon",
+        "scale": 0.64,
+        "stats": {
+          "hp": 65157,
+          "atk": 1318,
+          "def": 179
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "bloom"
+        }
+      },
+      {
+        "id": "5-4-offering-4",
+        "name": "供物の影",
+        "image": "offering",
+        "element": "moon",
+        "scale": 0.64,
+        "stats": {
+          "hp": 65157,
+          "atk": 1318,
+          "def": 179
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "bloom"
+        }
+      },
+      {
+        "id": "5-4-offering-5",
+        "name": "供物の影",
+        "image": "offering",
+        "element": "moon",
+        "scale": 0.64,
+        "stats": {
+          "hp": 65157,
+          "atk": 1318,
+          "def": 179
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "bloom"
+        }
+      }
+    ]
+  },
+  "5-5": {
+    "chapter": "第5章 月下の祭壇・月読の池",
+    "domain": "MOON ALTAR",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 200,
+    "background": "assets/backgrounds/chapter-5.png",
+    "relic": 35,
+    "enemies": [
+      {
+        "id": "5-5-offering-1",
+        "name": "供物の影",
+        "image": "offering",
+        "element": "moon",
+        "scale": 0.64,
+        "stats": {
+          "hp": 73769,
+          "atk": 1490,
+          "def": 179
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "bloom"
+        }
+      },
+      {
+        "id": "5-5-offering-2",
+        "name": "供物の影",
+        "image": "offering",
+        "element": "moon",
+        "scale": 0.64,
+        "stats": {
+          "hp": 73769,
+          "atk": 1490,
+          "def": 179
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "bloom"
+        }
+      },
+      {
+        "id": "5-5-beast-1",
+        "name": "祭壇の獣",
+        "image": "beast",
+        "element": "dark",
+        "scale": 1.24,
+        "stats": {
+          "hp": 184422,
+          "atk": 3724,
+          "def": 252
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.3,
+          "fx": "thick"
+        }
+      }
+    ]
+  },
+  "5-6": {
+    "chapter": "第5章 月下の祭壇・白銀の回廊",
+    "domain": "MOON ALTAR",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 200,
+    "background": "assets/backgrounds/chapter-5.png",
+    "relic": 35,
+    "enemies": [
+      {
+        "id": "5-6-miko-1",
+        "name": "月下の巫",
+        "image": "miko",
+        "element": "moon",
+        "scale": 0.94,
+        "stats": {
+          "hp": 112712,
+          "atk": 2272,
+          "def": 210
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.6,
+          "fx": "arc"
+        }
+      },
+      {
+        "id": "5-6-miko-2",
+        "name": "月下の巫",
+        "image": "miko",
+        "element": "moon",
+        "scale": 0.94,
+        "stats": {
+          "hp": 112712,
+          "atk": 2272,
+          "def": 210
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.6,
+          "fx": "arc"
+        }
+      },
+      {
+        "id": "5-6-miko-3",
+        "name": "月下の巫",
+        "image": "miko",
+        "element": "moon",
+        "scale": 0.94,
+        "stats": {
+          "hp": 112712,
+          "atk": 2272,
+          "def": 210
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.6,
+          "fx": "arc"
+        }
+      }
+    ]
+  },
+  "5-7": {
+    "chapter": "第5章 月下の祭壇・祭具の間",
+    "domain": "MOON ALTAR",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 200,
+    "background": "assets/backgrounds/chapter-5.png",
+    "relic": 35,
+    "enemies": [
+      {
+        "id": "5-7-offering-1",
+        "name": "供物の影",
+        "image": "offering",
+        "element": "moon",
+        "scale": 0.64,
+        "stats": {
+          "hp": 55986,
+          "atk": 1127,
+          "def": 179
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "bloom"
+        }
+      },
+      {
+        "id": "5-7-offering-2",
+        "name": "供物の影",
+        "image": "offering",
+        "element": "moon",
+        "scale": 0.64,
+        "stats": {
+          "hp": 55986,
+          "atk": 1127,
+          "def": 179
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "bloom"
+        }
+      },
+      {
+        "id": "5-7-miko-1",
+        "name": "月下の巫",
+        "image": "miko",
+        "element": "moon",
+        "scale": 0.94,
+        "stats": {
+          "hp": 92376,
+          "atk": 1859,
+          "def": 210
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.6,
+          "fx": "arc"
+        }
+      },
+      {
+        "id": "5-7-beast-1",
+        "name": "祭壇の獣",
+        "image": "beast",
+        "element": "dark",
+        "scale": 1.24,
+        "stats": {
+          "hp": 139964,
+          "atk": 2816,
+          "def": 252
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.3,
+          "fx": "thick"
+        }
+      }
+    ]
+  },
+  "5-8": {
+    "chapter": "第5章 月下の祭壇・月下の橋",
+    "domain": "MOON ALTAR",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 200,
+    "background": "assets/backgrounds/chapter-5.png",
+    "relic": 35,
+    "enemies": [
+      {
+        "id": "5-8-offering-1",
+        "name": "供物の影",
+        "image": "offering",
+        "element": "moon",
+        "scale": 0.64,
+        "stats": {
+          "hp": 88155,
+          "atk": 1720,
+          "def": 179
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "bloom"
+        }
+      },
+      {
+        "id": "5-8-miko-1",
+        "name": "月下の巫",
+        "image": "miko",
+        "element": "moon",
+        "scale": 0.94,
+        "stats": {
+          "hp": 145456,
+          "atk": 2839,
+          "def": 210
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.6,
+          "fx": "arc"
+        }
+      },
+      {
+        "id": "5-8-beast-1",
+        "name": "祭壇の獣",
+        "image": "beast",
+        "element": "dark",
+        "scale": 1.24,
+        "stats": {
+          "hp": 220388,
+          "atk": 4301,
+          "def": 252
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.3,
+          "fx": "thick"
+        }
+      }
+    ]
+  },
+  "5-9": {
+    "chapter": "第5章 月下の祭壇・祭司の控え",
+    "domain": "MOON ALTAR",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 200,
+    "background": "assets/backgrounds/chapter-5.png",
+    "relic": 35,
+    "enemies": [
+      {
+        "id": "5-9-miko-1",
+        "name": "月下の巫",
+        "image": "miko",
+        "element": "moon",
+        "scale": 0.94,
+        "stats": {
+          "hp": 114632,
+          "atk": 2233,
+          "def": 210
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.6,
+          "fx": "arc"
+        }
+      },
+      {
+        "id": "5-9-beast-1",
+        "name": "祭壇の獣",
+        "image": "beast",
+        "element": "dark",
+        "scale": 1.24,
+        "stats": {
+          "hp": 173684,
+          "atk": 3383,
+          "def": 252
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.3,
+          "fx": "thick"
+        }
+      },
+      {
+        "id": "5-9-beast-2",
+        "name": "祭壇の獣",
+        "image": "beast",
+        "element": "dark",
+        "scale": 1.24,
+        "stats": {
+          "hp": 173684,
+          "atk": 3383,
+          "def": 252
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.3,
+          "fx": "thick"
+        }
+      }
+    ]
+  },
+  "5-10": {
+    "chapter": "第5章 月下の祭壇・月の祭司",
+    "domain": "MOON ALTAR",
+    "wave": {
+      "current": 1,
+      "total": 5
+    },
+    "time": 200,
+    "background": "assets/backgrounds/chapter-5.png",
+    "relic": 35,
+    "enemies": [
+      {
+        "id": "boss-5",
+        "name": "月の祭司",
+        "image": "boss-5",
+        "boss": true,
+        "element": "moon",
+        "scale": 2.6,
+        "stats": {
+          "hp": 393999,
+          "atk": 1814,
+          "def": 644
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.85,
+          "fx": "rain"
+        }
+      }
+    ]
+  },
+  "6-1": {
+    "chapter": "第6章 星哭の庭・落ちた星",
+    "domain": "STAR GARDEN",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 208,
+    "background": "assets/backgrounds/chapter-6.png",
+    "relic": 39,
+    "enemies": [
+      {
+        "id": "6-1-stardust-1",
+        "name": "星の屑",
+        "image": "stardust",
+        "element": "light",
+        "scale": 0.58,
+        "stats": {
+          "hp": 66681,
+          "atk": 1374,
+          "def": 194
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 0.95,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "6-1-stardust-2",
+        "name": "星の屑",
+        "image": "stardust",
+        "element": "light",
+        "scale": 0.58,
+        "stats": {
+          "hp": 66681,
+          "atk": 1374,
+          "def": 194
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 0.95,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "6-1-stardust-3",
+        "name": "星の屑",
+        "image": "stardust",
+        "element": "light",
+        "scale": 0.58,
+        "stats": {
+          "hp": 66681,
+          "atk": 1374,
+          "def": 194
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 0.95,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "6-1-stardust-4",
+        "name": "星の屑",
+        "image": "stardust",
+        "element": "light",
+        "scale": 0.58,
+        "stats": {
+          "hp": 66681,
+          "atk": 1374,
+          "def": 194
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 0.95,
+          "fx": "shot"
+        }
+      }
+    ]
+  },
+  "6-2": {
+    "chapter": "第6章 星哭の庭・泣く庭",
+    "domain": "STAR GARDEN",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 208,
+    "background": "assets/backgrounds/chapter-6.png",
+    "relic": 39,
+    "enemies": [
+      {
+        "id": "6-2-stardust-1",
+        "name": "星の屑",
+        "image": "stardust",
+        "element": "light",
+        "scale": 0.58,
+        "stats": {
+          "hp": 58320,
+          "atk": 1200,
+          "def": 194
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 0.95,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "6-2-stardust-2",
+        "name": "星の屑",
+        "image": "stardust",
+        "element": "light",
+        "scale": 0.58,
+        "stats": {
+          "hp": 58320,
+          "atk": 1200,
+          "def": 194
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 0.95,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "6-2-stardust-3",
+        "name": "星の屑",
+        "image": "stardust",
+        "element": "light",
+        "scale": 0.58,
+        "stats": {
+          "hp": 58320,
+          "atk": 1200,
+          "def": 194
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 0.95,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "6-2-tree-1",
+        "name": "哭く樹",
+        "image": "tree",
+        "element": "dark",
+        "scale": 1.05,
+        "stats": {
+          "hp": 96228,
+          "atk": 1980,
+          "def": 228
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.58,
+          "fx": "rain"
+        }
+      }
+    ]
+  },
+  "6-3": {
+    "chapter": "第6章 星哭の庭・星屑の道",
+    "domain": "STAR GARDEN",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 208,
+    "background": "assets/backgrounds/chapter-6.png",
+    "relic": 39,
+    "enemies": [
+      {
+        "id": "6-3-stardust-1",
+        "name": "星の屑",
+        "image": "stardust",
+        "element": "light",
+        "scale": 0.58,
+        "stats": {
+          "hp": 64105,
+          "atk": 1317,
+          "def": 194
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 0.95,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "6-3-tree-1",
+        "name": "哭く樹",
+        "image": "tree",
+        "element": "dark",
+        "scale": 1.05,
+        "stats": {
+          "hp": 105773,
+          "atk": 2173,
+          "def": 228
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.58,
+          "fx": "rain"
+        }
+      },
+      {
+        "id": "6-3-tree-2",
+        "name": "哭く樹",
+        "image": "tree",
+        "element": "dark",
+        "scale": 1.05,
+        "stats": {
+          "hp": 105773,
+          "atk": 2173,
+          "def": 228
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.58,
+          "fx": "rain"
+        }
+      }
+    ]
+  },
+  "6-4": {
+    "chapter": "第6章 星哭の庭・夜空の井戸",
+    "domain": "STAR GARDEN",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 208,
+    "background": "assets/backgrounds/chapter-6.png",
+    "relic": 39,
+    "enemies": [
+      {
+        "id": "6-4-stardust-1",
+        "name": "星の屑",
+        "image": "stardust",
+        "element": "light",
+        "scale": 0.58,
+        "stats": {
+          "hp": 77509,
+          "atk": 1542,
+          "def": 194
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 0.95,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "6-4-stardust-2",
+        "name": "星の屑",
+        "image": "stardust",
+        "element": "light",
+        "scale": 0.58,
+        "stats": {
+          "hp": 77509,
+          "atk": 1542,
+          "def": 194
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 0.95,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "6-4-stardust-3",
+        "name": "星の屑",
+        "image": "stardust",
+        "element": "light",
+        "scale": 0.58,
+        "stats": {
+          "hp": 77509,
+          "atk": 1542,
+          "def": 194
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 0.95,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "6-4-stardust-4",
+        "name": "星の屑",
+        "image": "stardust",
+        "element": "light",
+        "scale": 0.58,
+        "stats": {
+          "hp": 77509,
+          "atk": 1542,
+          "def": 194
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 0.95,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "6-4-stardust-5",
+        "name": "星の屑",
+        "image": "stardust",
+        "element": "light",
+        "scale": 0.58,
+        "stats": {
+          "hp": 77509,
+          "atk": 1542,
+          "def": 194
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 0.95,
+          "fx": "shot"
+        }
+      }
+    ]
+  },
+  "6-5": {
+    "chapter": "第6章 星哭の庭・星の墓標",
+    "domain": "STAR GARDEN",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 208,
+    "background": "assets/backgrounds/chapter-6.png",
+    "relic": 39,
+    "enemies": [
+      {
+        "id": "6-5-stardust-1",
+        "name": "星の屑",
+        "image": "stardust",
+        "element": "light",
+        "scale": 0.58,
+        "stats": {
+          "hp": 87493,
+          "atk": 1739,
+          "def": 194
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 0.95,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "6-5-stardust-2",
+        "name": "星の屑",
+        "image": "stardust",
+        "element": "light",
+        "scale": 0.58,
+        "stats": {
+          "hp": 87493,
+          "atk": 1739,
+          "def": 194
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 0.95,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "6-5-keeper-1",
+        "name": "庭の番人",
+        "image": "keeper",
+        "element": "light",
+        "scale": 1.22,
+        "stats": {
+          "hp": 218733,
+          "atk": 4347,
+          "def": 274
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.25,
+          "fx": "fan"
+        }
+      }
+    ]
+  },
+  "6-6": {
+    "chapter": "第6章 星哭の庭・光の残骸",
+    "domain": "STAR GARDEN",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 208,
+    "background": "assets/backgrounds/chapter-6.png",
+    "relic": 39,
+    "enemies": [
+      {
+        "id": "6-6-tree-1",
+        "name": "哭く樹",
+        "image": "tree",
+        "element": "dark",
+        "scale": 1.05,
+        "stats": {
+          "hp": 133299,
+          "atk": 2645,
+          "def": 228
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.58,
+          "fx": "rain"
+        }
+      },
+      {
+        "id": "6-6-tree-2",
+        "name": "哭く樹",
+        "image": "tree",
+        "element": "dark",
+        "scale": 1.05,
+        "stats": {
+          "hp": 133299,
+          "atk": 2645,
+          "def": 228
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.58,
+          "fx": "rain"
+        }
+      },
+      {
+        "id": "6-6-tree-3",
+        "name": "哭く樹",
+        "image": "tree",
+        "element": "dark",
+        "scale": 1.05,
+        "stats": {
+          "hp": 133299,
+          "atk": 2645,
+          "def": 228
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.58,
+          "fx": "rain"
+        }
+      }
+    ]
+  },
+  "6-7": {
+    "chapter": "第6章 星哭の庭・庭の奥",
+    "domain": "STAR GARDEN",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 208,
+    "background": "assets/backgrounds/chapter-6.png",
+    "relic": 39,
+    "enemies": [
+      {
+        "id": "6-7-stardust-1",
+        "name": "星の屑",
+        "image": "stardust",
+        "element": "light",
+        "scale": 0.58,
+        "stats": {
+          "hp": 66028,
+          "atk": 1309,
+          "def": 194
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 0.95,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "6-7-stardust-2",
+        "name": "星の屑",
+        "image": "stardust",
+        "element": "light",
+        "scale": 0.58,
+        "stats": {
+          "hp": 66028,
+          "atk": 1309,
+          "def": 194
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 0.95,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "6-7-tree-1",
+        "name": "哭く樹",
+        "image": "tree",
+        "element": "dark",
+        "scale": 1.05,
+        "stats": {
+          "hp": 108946,
+          "atk": 2159,
+          "def": 228
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.58,
+          "fx": "rain"
+        }
+      },
+      {
+        "id": "6-7-keeper-1",
+        "name": "庭の番人",
+        "image": "keeper",
+        "element": "light",
+        "scale": 1.22,
+        "stats": {
+          "hp": 165070,
+          "atk": 3272,
+          "def": 274
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.25,
+          "fx": "fan"
+        }
+      }
+    ]
+  },
+  "6-8": {
+    "chapter": "第6章 星哭の庭・看守の影",
+    "domain": "STAR GARDEN",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 208,
+    "background": "assets/backgrounds/chapter-6.png",
+    "relic": 39,
+    "enemies": [
+      {
+        "id": "6-8-stardust-1",
+        "name": "星の屑",
+        "image": "stardust",
+        "element": "light",
+        "scale": 0.58,
+        "stats": {
+          "hp": 103689,
+          "atk": 1992,
+          "def": 194
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 0.95,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "6-8-tree-1",
+        "name": "哭く樹",
+        "image": "tree",
+        "element": "dark",
+        "scale": 1.05,
+        "stats": {
+          "hp": 171087,
+          "atk": 3287,
+          "def": 228
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.58,
+          "fx": "rain"
+        }
+      },
+      {
+        "id": "6-8-keeper-1",
+        "name": "庭の番人",
+        "image": "keeper",
+        "element": "light",
+        "scale": 1.22,
+        "stats": {
+          "hp": 259223,
+          "atk": 4981,
+          "def": 274
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.25,
+          "fx": "fan"
+        }
+      }
+    ]
+  },
+  "6-9": {
+    "chapter": "第6章 星哭の庭・星門",
+    "domain": "STAR GARDEN",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 208,
+    "background": "assets/backgrounds/chapter-6.png",
+    "relic": 39,
+    "enemies": [
+      {
+        "id": "6-9-tree-1",
+        "name": "哭く樹",
+        "image": "tree",
+        "element": "dark",
+        "scale": 1.05,
+        "stats": {
+          "hp": 134481,
+          "atk": 2580,
+          "def": 228
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.58,
+          "fx": "rain"
+        }
+      },
+      {
+        "id": "6-9-keeper-1",
+        "name": "庭の番人",
+        "image": "keeper",
+        "element": "light",
+        "scale": 1.22,
+        "stats": {
+          "hp": 203759,
+          "atk": 3910,
+          "def": 274
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.25,
+          "fx": "fan"
+        }
+      },
+      {
+        "id": "6-9-keeper-2",
+        "name": "庭の番人",
+        "image": "keeper",
+        "element": "light",
+        "scale": 1.22,
+        "stats": {
+          "hp": 203759,
+          "atk": 3910,
+          "def": 274
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.25,
+          "fx": "fan"
+        }
+      }
+    ]
+  },
+  "6-10": {
+    "chapter": "第6章 星哭の庭・星の看守",
+    "domain": "STAR GARDEN",
+    "wave": {
+      "current": 1,
+      "total": 5
+    },
+    "time": 208,
+    "background": "assets/backgrounds/chapter-6.png",
+    "relic": 39,
+    "enemies": [
+      {
+        "id": "boss-6",
+        "name": "星の看守",
+        "image": "boss-6",
+        "boss": true,
+        "element": "light",
+        "scale": 2.65,
+        "stats": {
+          "hp": 455308,
+          "atk": 1994,
+          "def": 690
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.88,
+          "fx": "pillar"
+        }
+      }
+    ]
+  },
+  "7-1": {
+    "chapter": "第7章 永結の核・還る記憶",
+    "domain": "AETERNA CORE",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 216,
+    "background": "assets/backgrounds/chapter-7.png",
+    "relic": 43,
+    "enemies": [
+      {
+        "id": "7-1-shard-1",
+        "name": "核の欠片",
+        "image": "shard",
+        "element": "light",
+        "scale": 0.6,
+        "stats": {
+          "hp": 77841,
+          "atk": 1584,
+          "def": 209
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "7-1-shard-2",
+        "name": "核の欠片",
+        "image": "shard",
+        "element": "light",
+        "scale": 0.6,
+        "stats": {
+          "hp": 77841,
+          "atk": 1584,
+          "def": 209
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "7-1-shard-3",
+        "name": "核の欠片",
+        "image": "shard",
+        "element": "light",
+        "scale": 0.6,
+        "stats": {
+          "hp": 77841,
+          "atk": 1584,
+          "def": 209
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "7-1-shard-4",
+        "name": "核の欠片",
+        "image": "shard",
+        "element": "light",
+        "scale": 0.6,
+        "stats": {
+          "hp": 77841,
+          "atk": 1584,
+          "def": 209
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      }
+    ]
+  },
+  "7-2": {
+    "chapter": "第7章 永結の核・核への道",
+    "domain": "AETERNA CORE",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 216,
+    "background": "assets/backgrounds/chapter-7.png",
+    "relic": 43,
+    "enemies": [
+      {
+        "id": "7-2-shard-1",
+        "name": "核の欠片",
+        "image": "shard",
+        "element": "light",
+        "scale": 0.6,
+        "stats": {
+          "hp": 67920,
+          "atk": 1381,
+          "def": 209
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "7-2-shard-2",
+        "name": "核の欠片",
+        "image": "shard",
+        "element": "light",
+        "scale": 0.6,
+        "stats": {
+          "hp": 67920,
+          "atk": 1381,
+          "def": 209
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "7-2-shard-3",
+        "name": "核の欠片",
+        "image": "shard",
+        "element": "light",
+        "scale": 0.6,
+        "stats": {
+          "hp": 67920,
+          "atk": 1381,
+          "def": 209
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "7-2-ward-1",
+        "name": "結界の兵",
+        "image": "ward",
+        "element": "ice",
+        "scale": 0.96,
+        "stats": {
+          "hp": 112068,
+          "atk": 2278,
+          "def": 246
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.62,
+          "fx": "bloom"
+        }
+      }
+    ]
+  },
+  "7-3": {
+    "chapter": "第7章 永結の核・永霜の底",
+    "domain": "AETERNA CORE",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 216,
+    "background": "assets/backgrounds/chapter-7.png",
+    "relic": 43,
+    "enemies": [
+      {
+        "id": "7-3-shard-1",
+        "name": "核の欠片",
+        "image": "shard",
+        "element": "light",
+        "scale": 0.6,
+        "stats": {
+          "hp": 74487,
+          "atk": 1513,
+          "def": 209
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "7-3-ward-1",
+        "name": "結界の兵",
+        "image": "ward",
+        "element": "ice",
+        "scale": 0.96,
+        "stats": {
+          "hp": 122903,
+          "atk": 2496,
+          "def": 246
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.62,
+          "fx": "bloom"
+        }
+      },
+      {
+        "id": "7-3-ward-2",
+        "name": "結界の兵",
+        "image": "ward",
+        "element": "ice",
+        "scale": 0.96,
+        "stats": {
+          "hp": 122903,
+          "atk": 2496,
+          "def": 246
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.62,
+          "fx": "bloom"
+        }
+      }
+    ]
+  },
+  "7-4": {
+    "chapter": "第7章 永結の核・結ばれた扉",
+    "domain": "AETERNA CORE",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 216,
+    "background": "assets/backgrounds/chapter-7.png",
+    "relic": 43,
+    "enemies": [
+      {
+        "id": "7-4-shard-1",
+        "name": "核の欠片",
+        "image": "shard",
+        "element": "light",
+        "scale": 0.6,
+        "stats": {
+          "hp": 89861,
+          "atk": 1766,
+          "def": 209
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "7-4-shard-2",
+        "name": "核の欠片",
+        "image": "shard",
+        "element": "light",
+        "scale": 0.6,
+        "stats": {
+          "hp": 89861,
+          "atk": 1766,
+          "def": 209
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "7-4-shard-3",
+        "name": "核の欠片",
+        "image": "shard",
+        "element": "light",
+        "scale": 0.6,
+        "stats": {
+          "hp": 89861,
+          "atk": 1766,
+          "def": 209
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "7-4-shard-4",
+        "name": "核の欠片",
+        "image": "shard",
+        "element": "light",
+        "scale": 0.6,
+        "stats": {
+          "hp": 89861,
+          "atk": 1766,
+          "def": 209
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "7-4-shard-5",
+        "name": "核の欠片",
+        "image": "shard",
+        "element": "light",
+        "scale": 0.6,
+        "stats": {
+          "hp": 89861,
+          "atk": 1766,
+          "def": 209
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      }
+    ]
+  },
+  "7-5": {
+    "chapter": "第7章 永結の核・最後の回廊",
+    "domain": "AETERNA CORE",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 216,
+    "background": "assets/backgrounds/chapter-7.png",
+    "relic": 43,
+    "enemies": [
+      {
+        "id": "7-5-shard-1",
+        "name": "核の欠片",
+        "image": "shard",
+        "element": "light",
+        "scale": 0.6,
+        "stats": {
+          "hp": 101218,
+          "atk": 1988,
+          "def": 209
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "7-5-shard-2",
+        "name": "核の欠片",
+        "image": "shard",
+        "element": "light",
+        "scale": 0.6,
+        "stats": {
+          "hp": 101218,
+          "atk": 1988,
+          "def": 209
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "7-5-guard-1",
+        "name": "永結の衛",
+        "image": "guard",
+        "element": "light",
+        "scale": 1.26,
+        "stats": {
+          "hp": 253044,
+          "atk": 4969,
+          "def": 295
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.3,
+          "fx": "thick"
+        }
+      }
+    ]
+  },
+  "7-6": {
+    "chapter": "第7章 永結の核・名を失う間",
+    "domain": "AETERNA CORE",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 216,
+    "background": "assets/backgrounds/chapter-7.png",
+    "relic": 43,
+    "enemies": [
+      {
+        "id": "7-6-ward-1",
+        "name": "結界の兵",
+        "image": "ward",
+        "element": "ice",
+        "scale": 0.96,
+        "stats": {
+          "hp": 153885,
+          "atk": 3019,
+          "def": 246
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.62,
+          "fx": "bloom"
+        }
+      },
+      {
+        "id": "7-6-ward-2",
+        "name": "結界の兵",
+        "image": "ward",
+        "element": "ice",
+        "scale": 0.96,
+        "stats": {
+          "hp": 153885,
+          "atk": 3019,
+          "def": 246
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.62,
+          "fx": "bloom"
+        }
+      },
+      {
+        "id": "7-6-ward-3",
+        "name": "結界の兵",
+        "image": "ward",
+        "element": "ice",
+        "scale": 0.96,
+        "stats": {
+          "hp": 153885,
+          "atk": 3019,
+          "def": 246
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.62,
+          "fx": "bloom"
+        }
+      }
+    ]
+  },
+  "7-7": {
+    "chapter": "第7章 永結の核・核の前庭",
+    "domain": "AETERNA CORE",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 216,
+    "background": "assets/backgrounds/chapter-7.png",
+    "relic": 43,
+    "enemies": [
+      {
+        "id": "7-7-shard-1",
+        "name": "核の欠片",
+        "image": "shard",
+        "element": "light",
+        "scale": 0.6,
+        "stats": {
+          "hp": 76070,
+          "atk": 1491,
+          "def": 209
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "7-7-shard-2",
+        "name": "核の欠片",
+        "image": "shard",
+        "element": "light",
+        "scale": 0.6,
+        "stats": {
+          "hp": 76070,
+          "atk": 1491,
+          "def": 209
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "7-7-ward-1",
+        "name": "結界の兵",
+        "image": "ward",
+        "element": "ice",
+        "scale": 0.96,
+        "stats": {
+          "hp": 125516,
+          "atk": 2460,
+          "def": 246
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.62,
+          "fx": "bloom"
+        }
+      },
+      {
+        "id": "7-7-guard-1",
+        "name": "永結の衛",
+        "image": "guard",
+        "element": "light",
+        "scale": 1.26,
+        "stats": {
+          "hp": 190176,
+          "atk": 3727,
+          "def": 295
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.3,
+          "fx": "thick"
+        }
+      }
+    ]
+  },
+  "7-8": {
+    "chapter": "第7章 永結の核・永結の階",
+    "domain": "AETERNA CORE",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 216,
+    "background": "assets/backgrounds/chapter-7.png",
+    "relic": 43,
+    "enemies": [
+      {
+        "id": "7-8-shard-1",
+        "name": "核の欠片",
+        "image": "shard",
+        "element": "light",
+        "scale": 0.6,
+        "stats": {
+          "hp": 119223,
+          "atk": 2264,
+          "def": 209
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1,
+          "fx": "shot"
+        }
+      },
+      {
+        "id": "7-8-ward-1",
+        "name": "結界の兵",
+        "image": "ward",
+        "element": "ice",
+        "scale": 0.96,
+        "stats": {
+          "hp": 196718,
+          "atk": 3736,
+          "def": 246
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.62,
+          "fx": "bloom"
+        }
+      },
+      {
+        "id": "7-8-guard-1",
+        "name": "永結の衛",
+        "image": "guard",
+        "element": "light",
+        "scale": 1.26,
+        "stats": {
+          "hp": 298058,
+          "atk": 5660,
+          "def": 295
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.3,
+          "fx": "thick"
+        }
+      }
+    ]
+  },
+  "7-9": {
+    "chapter": "第7章 永結の核・すべての終わりの前",
+    "domain": "AETERNA CORE",
+    "wave": {
+      "current": 1,
+      "total": 3
+    },
+    "time": 216,
+    "background": "assets/backgrounds/chapter-7.png",
+    "relic": 43,
+    "enemies": [
+      {
+        "id": "7-9-ward-1",
+        "name": "結界の兵",
+        "image": "ward",
+        "element": "ice",
+        "scale": 0.96,
+        "stats": {
+          "hp": 154331,
+          "atk": 2928,
+          "def": 246
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.62,
+          "fx": "bloom"
+        }
+      },
+      {
+        "id": "7-9-guard-1",
+        "name": "永結の衛",
+        "image": "guard",
+        "element": "light",
+        "scale": 1.26,
+        "stats": {
+          "hp": 233835,
+          "atk": 4436,
+          "def": 295
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.3,
+          "fx": "thick"
+        }
+      },
+      {
+        "id": "7-9-guard-2",
+        "name": "永結の衛",
+        "image": "guard",
+        "element": "light",
+        "scale": 1.26,
+        "stats": {
+          "hp": 233835,
+          "atk": 4436,
+          "def": 295
+        },
+        "skill": {
+          "type": "single",
+          "stat": "atk",
+          "rate": 1.3,
+          "fx": "thick"
+        }
+      }
+    ]
+  },
+  "7-10": {
+    "chapter": "第7章 永結の核・永結の核",
+    "domain": "AETERNA CORE",
+    "wave": {
+      "current": 1,
+      "total": 5
+    },
+    "time": 216,
+    "background": "assets/backgrounds/chapter-7.png",
+    "relic": 43,
+    "enemies": [
+      {
+        "id": "boss-7",
+        "name": "永結の核",
+        "image": "boss-7",
+        "boss": true,
+        "element": "light",
+        "scale": 2.7,
+        "stats": {
+          "hp": 516617,
+          "atk": 2173,
+          "def": 736
+        },
+        "skill": {
+          "type": "aoe",
+          "stat": "atk",
+          "rate": 0.9,
+          "fx": "pillar"
+        }
+      }
+    ]
+  }
+}

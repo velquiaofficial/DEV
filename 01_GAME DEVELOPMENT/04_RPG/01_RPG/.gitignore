@@ -1,0 +1,15 @@
+.godot/
+*.translation
+godot-cpp/.sconsign.dblite
+godot-cpp/gen/
+godot-cpp/bin/
+.sconsign.dblite
+*.obj
+*.os
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.idb
+__pycache__/
+tools/

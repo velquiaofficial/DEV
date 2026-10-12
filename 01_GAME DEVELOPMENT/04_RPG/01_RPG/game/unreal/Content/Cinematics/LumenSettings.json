@@ -1,0 +1,7 @@
+{
+  "gi": true,
+  "reflections": true,
+  "hardware_ray_tracing": false,
+  "exposure": "ACES",
+  "note": "Intel UHD: keep software Lumen, no hardware RT"
+}

@@ -1,0 +1,101 @@
+{
+  "id": "nineveh",
+  "uid": "nineveh_001",
+  "name": "ニネヴェ",
+  "name_ja": "ニネヴェ",
+  "name_en": "NINEVEH",
+  "origin": "LEGACY",
+  "era": "ANCIENT",
+  "civ": "mesopotamia",
+  "civilization": "MESOPOTAMIA",
+  "civilization_id": "mesopotamia",
+  "relic": "venus_star",
+  "reconstruction": "古代都市の門と星の王権が地上へ戻る。",
+  "seed": false,
+  "class": "LEGACY",
+  "role": "TACTICIAN",
+  "role_ui": "Tactician",
+  "element": "ARCHIVE",
+  "weapon": "LION_LIBRARY",
+  "height": 163,
+  "appearance": {
+    "hair": "mesopotamia_hair",
+    "eyes": "nineveh_eyes",
+    "costume": "mesopotamia_legacy"
+  },
+  "stats": {
+    "hp": 895,
+    "attack": 68,
+    "defense": 68,
+    "speed": 68
+  },
+  "hp": 126,
+  "speed": 7.6,
+  "damage": 13,
+  "skills": [
+    "nineveh_skill1",
+    "nineveh_skill2",
+    "nineveh_skill3"
+  ],
+  "normal_attack": {
+    "id": "nineveh_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "nineveh_skill1",
+    "name_ja": "獅子",
+    "name_en": "獅子"
+  },
+  "skill_2": {
+    "id": "nineveh_skill2",
+    "name_ja": "書庫",
+    "name_en": "書庫"
+  },
+  "ultimate": {
+    "id": "nineveh_skill3",
+    "name_ja": "帝国文書",
+    "name_en": "帝国文書"
+  },
+  "passive": {
+    "id": "nineveh_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "ERA情報が味方に共有される"
+  },
+  "civilization_tags": [
+    "mesopotamia",
+    "MESOPOTAMIA",
+    "ANCIENT",
+    "LEGACY",
+    "ARCHIVE"
+  ],
+  "relationships": [],
+  "voice_type": "measured",
+  "music_theme": "書庫・獅子・帝国",
+  "civilization_shift_effect": "砂塵→楔形→聖塔→両河→MESOPOTAMIA DOMAIN",
+  "theme": "書庫・獅子・帝国",
+  "passive_text": "ERA情報が味方に共有される",
+  "story": "焼かれても、粘土は残る。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "mesopotamia",
+  "land": "mesopotamia",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/mesopotamia/nineveh.png",
+  "colors": {
+    "body": [
+      0.22,
+      0.124,
+      0.064
+    ],
+    "emit": [
+      0.96,
+      0.644,
+      0.184
+    ]
+  }
+}

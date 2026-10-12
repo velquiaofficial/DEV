@@ -1,0 +1,25 @@
+{
+  "id": "celtic",
+  "code": "CELTIC",
+  "civ": "celtic",
+  "launch": false,
+  "name": "ケルト",
+  "name_en": "CELTIC",
+  "members": [
+    "scathach"
+  ],
+  "features": [
+    "Mist",
+    "Otherworld",
+    "Spear",
+    "Shadow",
+    "Isle"
+  ],
+  "civilization_shift": {
+    "power": 12,
+    "speed": 10
+  },
+  "shift_text": "霧→異界→影の槍→CELTIC DOMAIN",
+  "banner": "res://assets/characters/_keyart/celtic.png",
+  "sheet": "res://assets/characters/_sheets/celtic.png"
+}

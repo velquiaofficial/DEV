@@ -1,0 +1,101 @@
+{
+  "id": "genoa",
+  "uid": "genoa_001",
+  "name": "ジェノヴァ",
+  "name_ja": "ジェノヴァ",
+  "name_en": "GENOA",
+  "origin": "LEGACY",
+  "era": "EARLY MODERN",
+  "civ": "modern",
+  "civilization": "MODERN",
+  "civilization_id": "modern",
+  "relic": "modern_relic",
+  "reconstruction": "煤煙→汽笛→並木→近代都市→MODERN DOMAIN",
+  "seed": false,
+  "class": "LEGACY",
+  "role": "ASSASSIN",
+  "role_ui": "Assassin",
+  "element": "MAP",
+  "weapon": "CHART_DAGGER",
+  "height": 158,
+  "appearance": {
+    "hair": "modern_hair",
+    "eyes": "genoa_eyes",
+    "costume": "modern_legacy"
+  },
+  "stats": {
+    "hp": 753,
+    "attack": 83,
+    "defense": 63,
+    "speed": 80
+  },
+  "hp": 106,
+  "speed": 8.9,
+  "damage": 16,
+  "skills": [
+    "genoa_skill1",
+    "genoa_skill2",
+    "genoa_skill3"
+  ],
+  "normal_attack": {
+    "id": "genoa_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "genoa_skill1",
+    "name_ja": "海商",
+    "name_en": "海商"
+  },
+  "skill_2": {
+    "id": "genoa_skill2",
+    "name_ja": "地図",
+    "name_en": "地図"
+  },
+  "ultimate": {
+    "id": "genoa_skill3",
+    "name_ja": "競争",
+    "name_en": "競争"
+  },
+  "passive": {
+    "id": "genoa_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "長い移動のあと致命打"
+  },
+  "civilization_tags": [
+    "modern",
+    "MODERN",
+    "EARLY_MODERN",
+    "LEGACY",
+    "MAP"
+  ],
+  "relationships": [],
+  "voice_type": "quiet",
+  "music_theme": "海商・地図・競争",
+  "civilization_shift_effect": "煤煙→汽笛→並木→近代都市→MODERN DOMAIN",
+  "theme": "海商・地図・競争",
+  "passive_text": "長い移動のあと致命打",
+  "story": "地図を売る都は、海を覚える。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "modern",
+  "land": "modern",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/modern/genoa.png",
+  "colors": {
+    "body": [
+      0.3,
+      0.28,
+      0.22
+    ],
+    "emit": [
+      0.8,
+      0.8,
+      0.76
+    ]
+  }
+}

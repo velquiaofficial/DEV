@@ -1,0 +1,78 @@
+[
+  {
+    "id": "japan_greece",
+    "name_ja": "神域神殿",
+    "name_en": "SACRED AGORA",
+    "members": [
+      "japan",
+      "greece"
+    ],
+    "characters": [
+      "amaterasu",
+      "athena"
+    ],
+    "features": [
+      "白い神殿",
+      "鳥居",
+      "桜",
+      "オリーブ",
+      "太陽紋章"
+    ],
+    "buff": {
+      "power": 10,
+      "guard": 10,
+      "healing": 8
+    },
+    "text": "日本神道と古代ギリシャが重なり、白い神殿のあいだに鳥居と桜が立つ。"
+  },
+  {
+    "id": "japan_egypt",
+    "name_ja": "黄金鳥居",
+    "name_en": "GOLDEN TORII",
+    "members": [
+      "japan",
+      "egypt"
+    ],
+    "characters": [
+      "amaterasu",
+      "anubis"
+    ],
+    "features": [
+      "黄金鳥居",
+      "砂漠",
+      "冥界",
+      "桜",
+      "神獣"
+    ],
+    "buff": {
+      "healing": 10,
+      "power": 8,
+      "control": 8
+    },
+    "text": "神道と死者の国が結び、黄金の鳥居が砂の上に立つ。"
+  },
+  {
+    "id": "greece_egypt",
+    "name_ja": "砂のアゴラ",
+    "name_en": "SAND AGORA",
+    "members": [
+      "greece",
+      "egypt"
+    ],
+    "characters": [
+      "athena",
+      "anubis"
+    ],
+    "features": [
+      "大理石",
+      "黄金",
+      "秤",
+      "神殿"
+    ],
+    "buff": {
+      "guard": 12,
+      "control": 8
+    },
+    "text": "知恵の都市と死者の都市が一つの広場になる。"
+  }
+]

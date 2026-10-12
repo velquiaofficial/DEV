@@ -1,0 +1,62 @@
+X:1
+T:信号の独白
+C:オリジナル
+M:4/4
+L:1/8
+Q:1/4=124
+K:G
+P:Aメロ
+"G" G A B A G A B A | "Em" G A A G G F G G | "C" G G A G G E G F | "D" A A B A A G A G |
+w: あ か い し ん ご う で | か ぞ え る こ と ば が | ふ え て い く よ る だ | な ま え を い ち か ら
+"G" B A B A G A B A | "C" G G A G G E G F | "Em" G A A G G F G G | "D" A A B A A G A G |
+w: じゅ う ま で い う か ら | む ね の ド キ ド キ を | う た の リ ズ ム だ よ | き み と な ら ん だ よ
+P:Aメロ2
+"G" d e f e d d e d | "Em" B d e d B c d c | "C" c d d c c B c c | "D" d e e d d c d d |
+w: ひ だ り を み て か ら | み ぎ を み て か ら ね | こ と ば は わ た れ ず | く ち の な か に あ る
+"G" d e f e d d e d | "C" c d d c c B c c | "Em" B d e d B c d c | "D" d e e d d c d d |
+w: あ お に な る ま え に | い い た い こ と を ね | ぜ ん ぶ な ら べ る よ | て を ふ っ て あ い ず
+P:Aメロ3
+"G" G A B A G A B A | "Em" G A A G G F G G | "C" G G A G G E G F | "D" A A B A A G A G |
+w: あ お に な っ た よ る | こ と ば い っ せ い に | お う だ ん す る か ら | は く せ ん の う え を
+"G" B A B A G A B A | "C" G G A G G E G F | "Em" G A A G G F G G | "D" A A B A A G A G |
+w: な ま え が あ る い て | ひ か り の ほ う へ ね | こ え が つ い て く る | む ね は ま だ は や い
+P:Bメロ
+"C" c c d c c A c B | "G" d e e d d c d d | "Em" B c d c B B c c | "D" A B c B A A B A |
+w: い ち びょ う こ と ば が | に びょ う め な ま え が | さ ん びょ う め ひ か り | よ ん びょ う め き み が
+"Am" c d e d c c d c | "C" c c d c c A c B | "D" d c d c d B c c | "D" d d e d d c d c |
+w: ご びょ う め う た だ よ | ろ く びょ う め よ る が | な な びょ う め こ え が | は ち びょ う め こ こ だ
+P:Bメロ2
+"C" c c d c c A c B | "G" d e e d d c d d | "Em" B c d c B B c c | "D" A B c B A A B A |
+w: わ た り き っ た あ と | は な し は お わ ら ず | み ち の む こ う だ よ | ま た あ か に な る よ
+"Am" c d e d c c d c | "C" c c d c c A c B | "D" d c d c d B c c | "D" d d e d d c d c |
+w: そ の あ い だ に も ね | こ と ば は ふ え る よ | き み は わ ら っ て る | む ね は ま だ は や い
+P:サビ
+"G" g g a g g e g f | "D" d e f e d e f e | "Em" g a a g g f g g | "C" e e f e e d e d |
+w: あ か い し ん ご う で | か ぞ え る こ と ば が | ふ え て い く よ る だ | な ま え を い ち か ら
+"G" g f g f g e f e | "Em" B d e d B c d c | "C" e f g f e e f e | "D" d e f e d d e d |
+w: じゅ う ま で い う か ら | む ね の ド キ ド キ を | う た の リ ズ ム だ よ | き み と な ら ん だ よ
+P:サビ2
+"G" g g a g g e g f | "D" d e f e d e f e | "Em" g a a g g f g g | "C" e e f e e d e d |
+w: あ お に な っ た よ る | こ と ば い っ せ い に | お う だ ん す る か ら | な ま え が あ る い て
+"G" g f g f g e f e | "Em" B d e d B c d c | "C" e f g f e e f e | "D" d e f e d d e d |
+w: ひ か り の ほ う へ ね | こ え が つ い て く る | わ た り き っ た あ と | は な し は お わ ら ず
+P:ブリッジ
+"Em" G A A G G F G G | "C" c B c B c A B A | "G" G F G F G E F E | "D" A A B A A G A G |
+w: も し あ か く て も ね | く ち は と め な い よ | し ん ご う よ り さ き | こ の こ と ば た ち を
+"Am" A B B A A G A A | "Em" G G A G G E G F | "C" G G A G G E G F | "D" A B B A A G A A |
+w: わ た し て お く か ら | な ま え の さ き に ね | う た を ひ と つ ぶ ね | お い て い く か ら ね
+P:ブリッジ2
+"Em" G A A G G F G G | "C" c B c B c A B A | "G" G F G F G E F E | "D" A A B A A G A G |
+w: ひ だ り を み て か ら | み ぎ を み て か ら ね | こ と ば は わ た れ ず | く ち の な か に あ る
+"Am" A B B A A G A A | "Em" G G A G G E G F | "C" G G A G G E G F | "D" A B B A A G A A |
+w: あ お に な る ま え に | い い た い こ と を ね | ぜ ん ぶ な ら べ る よ | て を ふ っ て あ い ず
+P:Cメロ
+"C" c c d c c A c B | "G" d e e d d c d d | "Em" B c d c B B c c | "D" A B c B A A B A |
+w: ま た あ か に な る よ | そ の あ い だ に も ね | こ と ば は ふ え る よ | き み は わ ら っ て る
+"Am" c d e d c c d c | "C" c c d c c A c B | "D" d c d c d B c c | "D" d d e d d c d c |
+w: み ち の む こ う だ よ | む ね は ま だ は や い | は く せ ん の う え を | こ こ に い る か ら ね
+P:アウトロ
+"G" g g a g g e g f | "D" d e f e d e f e | "Em" g a a g g f g g | "C" e e f e e d e d |
+w: * * * * * * * * | * * * * * * * * | * * * * * * * * | * * * * * * * *
+"G" g f g f g e f e | "Em" B d e d B c d c | "C" e f g f e e f e | "G" G8 |
+w: * * * * * * * * | * * * * * * * * | * * * * * * * * | *

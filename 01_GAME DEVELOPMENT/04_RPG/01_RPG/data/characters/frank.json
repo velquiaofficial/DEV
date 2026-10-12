@@ -1,0 +1,101 @@
+{
+  "id": "frank",
+  "uid": "frank_001",
+  "name": "フランク",
+  "name_ja": "フランク",
+  "name_en": "FRANK",
+  "origin": "LEGEND",
+  "era": "MEDIEVAL",
+  "civ": "medieval",
+  "civilization": "MEDIEVAL",
+  "civilization_id": "medieval",
+  "relic": "medieval_relic",
+  "reconstruction": "荒野→城壁→旗→城塞→MEDIEVAL DOMAIN",
+  "seed": false,
+  "class": "LEGEND",
+  "role": "DEFENDER",
+  "role_ui": "Defender",
+  "element": "CROWN",
+  "weapon": "CROWN_SWORD",
+  "height": 168,
+  "appearance": {
+    "hair": "medieval_hair",
+    "eyes": "frank_eyes",
+    "costume": "medieval_legend"
+  },
+  "stats": {
+    "hp": 1065,
+    "attack": 68,
+    "defense": 73,
+    "speed": 61
+  },
+  "hp": 150,
+  "speed": 6.8,
+  "damage": 13,
+  "skills": [
+    "frank_skill1",
+    "frank_skill2",
+    "frank_skill3"
+  ],
+  "normal_attack": {
+    "id": "frank_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "frank_skill1",
+    "name_ja": "王剣",
+    "name_en": "王剣"
+  },
+  "skill_2": {
+    "id": "frank_skill2",
+    "name_ja": "戴冠",
+    "name_en": "戴冠"
+  },
+  "ultimate": {
+    "id": "frank_skill3",
+    "name_ja": "西欧",
+    "name_en": "西欧"
+  },
+  "passive": {
+    "id": "frank_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "味方が3体で領域防御"
+  },
+  "civilization_tags": [
+    "medieval",
+    "MEDIEVAL",
+    "MEDIEVAL",
+    "LEGEND",
+    "CROWN"
+  ],
+  "relationships": [],
+  "voice_type": "steadfast",
+  "music_theme": "王権・剣・西欧",
+  "civilization_shift_effect": "荒野→城壁→旗→城塞→MEDIEVAL DOMAIN",
+  "theme": "王権・剣・西欧",
+  "passive_text": "味方が3体で領域防御",
+  "story": "戴いた名は、国になる。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "medieval",
+  "land": "medieval",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/medieval/frank.png",
+  "colors": {
+    "body": [
+      0.15,
+      0.126,
+      0.136
+    ],
+    "emit": [
+      0.73,
+      0.586,
+      0.316
+    ]
+  }
+}

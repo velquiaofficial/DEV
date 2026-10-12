@@ -1,0 +1,101 @@
+{
+  "id": "berlin",
+  "uid": "berlin_001",
+  "name": "ベルリン",
+  "name_ja": "ベルリン",
+  "name_en": "BERLIN",
+  "origin": "LEGACY",
+  "era": "MODERN",
+  "civ": "modern",
+  "civilization": "MODERN",
+  "civilization_id": "modern",
+  "relic": "modern_relic",
+  "reconstruction": "煤煙→汽笛→並木→近代都市→MODERN DOMAIN",
+  "seed": false,
+  "class": "LEGACY",
+  "role": "CONTROLLER",
+  "role_ui": "Controller",
+  "element": "LINE",
+  "weapon": "PLAN_COMPASS",
+  "height": 166,
+  "appearance": {
+    "hair": "modern_hair",
+    "eyes": "berlin_eyes",
+    "costume": "modern_legacy"
+  },
+  "stats": {
+    "hp": 951,
+    "attack": 68,
+    "defense": 69,
+    "speed": 67
+  },
+  "hp": 134,
+  "speed": 7.4,
+  "damage": 13,
+  "skills": [
+    "berlin_skill1",
+    "berlin_skill2",
+    "berlin_skill3"
+  ],
+  "normal_attack": {
+    "id": "berlin_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "berlin_skill1",
+    "name_ja": "線都",
+    "name_en": "線都"
+  },
+  "skill_2": {
+    "id": "berlin_skill2",
+    "name_ja": "設計",
+    "name_en": "設計"
+  },
+  "ultimate": {
+    "id": "berlin_skill3",
+    "name_ja": "近代",
+    "name_en": "近代"
+  },
+  "passive": {
+    "id": "berlin_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "確保したRELICの喪失が遅い"
+  },
+  "civilization_tags": [
+    "modern",
+    "MODERN",
+    "MODERN",
+    "LEGACY",
+    "LINE"
+  ],
+  "relationships": [],
+  "voice_type": "low",
+  "music_theme": "線・設計・近代国家",
+  "civilization_shift_effect": "煤煙→汽笛→並木→近代都市→MODERN DOMAIN",
+  "theme": "線・設計・近代国家",
+  "passive_text": "確保したRELICの喪失が遅い",
+  "story": "線を引いた都は、忘れ方まで設計する。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "modern",
+  "land": "modern",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/modern/berlin.png",
+  "colors": {
+    "body": [
+      0.165,
+      0.199,
+      0.274
+    ],
+    "emit": [
+      0.665,
+      0.719,
+      0.814
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "istanbul",
+  "uid": "istanbul_001",
+  "name": "イスタンブール",
+  "name_ja": "イスタンブール",
+  "name_en": "ISTANBUL",
+  "origin": "NEXUS",
+  "era": "MODERN",
+  "civ": "rome",
+  "civilization": "ROME",
+  "civilization_id": "rome",
+  "relic": "rome_relic",
+  "reconstruction": "瓦礫→石畳→凱旋門→街道→ROME DOMAIN",
+  "seed": false,
+  "class": "NEXUS",
+  "role": "CONTROLLER",
+  "role_ui": "Controller",
+  "element": "STRAIT",
+  "weapon": "STRAIT_KEY",
+  "height": 165,
+  "appearance": {
+    "hair": "rome_hair",
+    "eyes": "istanbul_eyes",
+    "costume": "rome_nexus"
+  },
+  "stats": {
+    "hp": 980,
+    "attack": 73,
+    "defense": 70,
+    "speed": 66
+  },
+  "hp": 138,
+  "speed": 7.3,
+  "damage": 14,
+  "skills": [
+    "istanbul_skill1",
+    "istanbul_skill2",
+    "istanbul_skill3"
+  ],
+  "normal_attack": {
+    "id": "istanbul_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "istanbul_skill1",
+    "name_ja": "両岸",
+    "name_en": "両岸"
+  },
+  "skill_2": {
+    "id": "istanbul_skill2",
+    "name_ja": "層名",
+    "name_en": "層名"
+  },
+  "ultimate": {
+    "id": "istanbul_skill3",
+    "name_ja": "海峡",
+    "name_en": "海峡"
+  },
+  "passive": {
+    "id": "istanbul_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "中心と水際の両方に強い"
+  },
+  "civilization_tags": [
+    "rome",
+    "ROME",
+    "MODERN",
+    "NEXUS",
+    "STRAIT"
+  ],
+  "relationships": [],
+  "voice_type": "low",
+  "music_theme": "両岸・層名・海峡",
+  "civilization_shift_effect": "瓦礫→石畳→凱旋門→街道→ROME DOMAIN",
+  "theme": "両岸・層名・海峡",
+  "passive_text": "中心と水際の両方に強い",
+  "story": "名前が変わっても、海峡は同じ。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "rome",
+  "land": "rome",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/rome/istanbul.png",
+  "colors": {
+    "body": [
+      0.72,
+      0.18,
+      0.1
+    ],
+    "emit": [
+      1.0,
+      0.78,
+      0.24
+    ]
+  }
+}

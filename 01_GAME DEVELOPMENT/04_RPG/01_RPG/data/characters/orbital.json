@@ -1,0 +1,101 @@
+{
+  "id": "orbital",
+  "uid": "orbital_001",
+  "name": "オービタル",
+  "name_ja": "オービタル",
+  "name_en": "ORBITAL",
+  "origin": "NEXUS",
+  "era": "FUTURE",
+  "civ": "future",
+  "civilization": "FUTURE",
+  "civilization_id": "future",
+  "relic": "memory_core",
+  "reconstruction": "失われたネットワークが回路として蘇る。",
+  "seed": false,
+  "class": "NEXUS",
+  "role": "TACTICIAN",
+  "role_ui": "Tactician",
+  "element": "ORBIT",
+  "weapon": "ORBIT_LENS",
+  "height": 172,
+  "appearance": {
+    "hair": "future_hair",
+    "eyes": "orbital_eyes",
+    "costume": "future_nexus"
+  },
+  "stats": {
+    "hp": 923,
+    "attack": 68,
+    "defense": 69,
+    "speed": 75
+  },
+  "hp": 130,
+  "speed": 8.3,
+  "damage": 13,
+  "skills": [
+    "orbital_skill1",
+    "orbital_skill2",
+    "orbital_skill3"
+  ],
+  "normal_attack": {
+    "id": "orbital_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "orbital_skill1",
+    "name_ja": "軌道",
+    "name_en": "軌道"
+  },
+  "skill_2": {
+    "id": "orbital_skill2",
+    "name_ja": "観測",
+    "name_en": "観測"
+  },
+  "ultimate": {
+    "id": "orbital_skill3",
+    "name_ja": "星図庫",
+    "name_en": "星図庫"
+  },
+  "passive": {
+    "id": "orbital_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "全域のRELIC状況が見える"
+  },
+  "civilization_tags": [
+    "future",
+    "FUTURE",
+    "FUTURE",
+    "NEXUS",
+    "ORBIT"
+  ],
+  "relationships": [],
+  "voice_type": "measured",
+  "music_theme": "軌道・観測・記録",
+  "civilization_shift_effect": "沈黙→軌道→記憶核→FUTURE DOMAIN",
+  "theme": "軌道・観測・記録",
+  "passive_text": "全域のRELIC状況が見える",
+  "story": "地上を忘れないために、上から見る。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "future",
+  "land": "future",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/future/orbital.png",
+  "colors": {
+    "body": [
+      0.04,
+      0.04,
+      0.132
+    ],
+    "emit": [
+      0.7,
+      0.772,
+      0.982
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "paris",
+  "uid": "paris_001",
+  "name": "パリ",
+  "name_ja": "パリ",
+  "name_en": "PARIS",
+  "origin": "NEXUS",
+  "era": "CONTEMPORARY",
+  "civ": "contemporary",
+  "civilization": "CONTEMPORARY",
+  "civilization_id": "contemporary",
+  "relic": "contemporary_relic",
+  "reconstruction": "空白→街灯→交差点→現代都市→CONTEMPORARY DOMAIN",
+  "seed": false,
+  "class": "NEXUS",
+  "role": "SUPPORT",
+  "role_ui": "Support",
+  "element": "LIGHT",
+  "weapon": "LANTERN_ROSE",
+  "height": 164,
+  "appearance": {
+    "hair": "contemporary_hair",
+    "eyes": "paris_eyes",
+    "costume": "contemporary_nexus"
+  },
+  "stats": {
+    "hp": 824,
+    "attack": 62,
+    "defense": 66,
+    "speed": 72
+  },
+  "hp": 116,
+  "speed": 8.0,
+  "damage": 12,
+  "skills": [
+    "paris_skill1",
+    "paris_skill2",
+    "paris_skill3"
+  ],
+  "normal_attack": {
+    "id": "paris_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "paris_skill1",
+    "name_ja": "灯火",
+    "name_en": "灯火"
+  },
+  "skill_2": {
+    "id": "paris_skill2",
+    "name_ja": "革命",
+    "name_en": "革命"
+  },
+  "ultimate": {
+    "id": "paris_skill3",
+    "name_ja": "花都",
+    "name_en": "花都"
+  },
+  "passive": {
+    "id": "paris_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "味方が技能を使うと回復"
+  },
+  "civilization_tags": [
+    "contemporary",
+    "CONTEMPORARY",
+    "CONTEMPORARY",
+    "NEXUS",
+    "LIGHT"
+  ],
+  "relationships": [],
+  "voice_type": "warm",
+  "music_theme": "光・革命・花都",
+  "civilization_shift_effect": "空白→街灯→交差点→現代都市→CONTEMPORARY DOMAIN",
+  "theme": "光・革命・花都",
+  "passive_text": "味方が技能を使うと回復",
+  "story": "美しさは、抵抗の形でもある。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "contemporary",
+  "land": "contemporary",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/contemporary/paris.png",
+  "colors": {
+    "body": [
+      0.05,
+      0.08,
+      0.18
+    ],
+    "emit": [
+      0.5,
+      0.67,
+      0.97
+    ]
+  }
+}

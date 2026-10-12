@@ -1,0 +1,37 @@
+X:1
+T:青信号待ち
+C:オリジナル
+M:4/4
+L:1/8
+Q:1/4=132
+K:G
+P:Aメロ
+"G" G A A G G2 A2 | "Em" G B A A G2 A2 | "C" G A G F E2 G2 | "D" F A G G F2 G2 |
+w: し ん ご う ま ち | あ お に な る よ | む ね が は や る | か ぞ え て く よ
+"G" G A A G G2 A2 | "C" G B A A G2 A2 | "Em" G A G G G2 A2 | "D" F G G F F2 G2 |
+w: な ま え を よ ぶ | ひ か り の ほ う | て を ふ っ て く | う た い だ す よ
+P:Aメロ2
+"G" d e d d d2 e2 | "Em" e f e d e2 e2 | "C" c d c c c2 d2 | "D" d e d c d2 d2 |
+w: あ か い ま ま で | き み と な ら ぶ | い き を す う よ | お ち つ い て ね
+"G" d e d d d2 e2 | "C" e f e d c2 e2 | "Em" B d d c B2 d2 | "D" d d c c A2 c2 |
+w: あ お に な っ た | い っ しょ わ た る | う た に な っ て | ま っ て る か ら
+P:Bメロ
+"C" c c B A G2 B2 | "G" d e d c B2 d2 | "Em" B c c B B2 c2 | "D" d d c c A2 c2 |
+w: あ か く て も ね | な ま え ひ と つ | よ ん で み る よ | ひ か り の こ る
+"Am" c d d c c2 d2 | "C" c d c B c2 c2 | "D" d e d d d2 e2 | "D" d d c c A2 c2 |
+w: あ お に な る よ | て を ふ っ て く | む ね が は や る | か ぞ え て く よ
+P:サビ
+"G" d e e d d2 e2 | "D" f g f e d2 f2 | "Em" B d d c B2 d2 | "C" e g f e e2 f2 |
+w: し ん ご う ま ち | あ お に な る よ | な ま え を よ ぶ | い っ しょ わ た る
+"G" d e e d d2 e2 | "Em" g a g f e2 g2 | "C" e f e e e2 f2 | "D" f a g g f2 g2 |
+w: む ね が は や る | て を ふ っ て く | う た に な っ て | こ こ に い る よ
+P:ブリッジ
+"Em" G A A G G2 A2 | "C" G B A A G2 A2 | "G" G A G F G2 G2 | "D" F G G F F2 G2 |
+w: う た い だ そ う | こ こ に い る よ | し ん ご う ま ち | き み と な ら ぶ
+"Am" A B A A A2 B2 | "Em" G A G G G2 A2 | "C" c c B A G2 B2 | "D" F G F E D2 F2 |
+w: い き を す う よ | お ち つ い て ね | な ま え を よ ぶ | ひ か り の ほ う
+P:アウトロ
+"G" d e e d d2 e2 | "D" f g f e d2 f2 | "Em" B d d c B2 d2 | "C" e g f e e2 f2 |
+w: * * * * * * | * * * * * * | * * * * * * | * * * * * *
+"G" d e e d d2 e2 | "Em" g a g f e2 g2 | "C" e f e e e2 f2 | "G" G8 |
+w: * * * * * * | * * * * * * | * * * * * * | *

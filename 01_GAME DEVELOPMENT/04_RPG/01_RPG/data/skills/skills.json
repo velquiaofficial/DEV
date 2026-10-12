@@ -1,0 +1,4042 @@
+[
+  {
+    "id": "amaterasu_normal",
+    "owner": "amaterasu",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "solar_slash",
+    "owner": "amaterasu",
+    "slot": "skill_1",
+    "name_ja": "日輪斬",
+    "name_en": "SOLAR SLASH",
+    "text": ""
+  },
+  {
+    "id": "sakura_domain",
+    "owner": "amaterasu",
+    "slot": "skill_2",
+    "name_ja": "桜域",
+    "name_en": "SAKURA DOMAIN",
+    "text": ""
+  },
+  {
+    "id": "eternal_sun",
+    "owner": "amaterasu",
+    "slot": "ultimate",
+    "name_ja": "常世の太陽",
+    "name_en": "ETERNAL SUN",
+    "text": ""
+  },
+  {
+    "id": "amaterasu_passive",
+    "owner": "amaterasu",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "確保したRELICの近くで緩やかに回復する"
+  },
+  {
+    "id": "tsukuyomi_normal",
+    "owner": "tsukuyomi",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "tsukuyomi_skill1",
+    "owner": "tsukuyomi",
+    "slot": "skill_1",
+    "name_ja": "月蝕",
+    "name_en": "月蝕",
+    "text": ""
+  },
+  {
+    "id": "tsukuyomi_skill2",
+    "owner": "tsukuyomi",
+    "slot": "skill_2",
+    "name_ja": "静夜",
+    "name_en": "静夜",
+    "text": ""
+  },
+  {
+    "id": "tsukuyomi_skill3",
+    "owner": "tsukuyomi",
+    "slot": "ultimate",
+    "name_ja": "満潮",
+    "name_en": "満潮",
+    "text": ""
+  },
+  {
+    "id": "tsukuyomi_passive",
+    "owner": "tsukuyomi",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "夜（ERA SHIFT後）に捕獲が速くなる"
+  },
+  {
+    "id": "susanoo_normal",
+    "owner": "susanoo",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "susanoo_skill1",
+    "owner": "susanoo",
+    "slot": "skill_1",
+    "name_ja": "八雲",
+    "name_en": "八雲",
+    "text": ""
+  },
+  {
+    "id": "susanoo_skill2",
+    "owner": "susanoo",
+    "slot": "skill_2",
+    "name_ja": "暴雨",
+    "name_en": "暴雨",
+    "text": ""
+  },
+  {
+    "id": "susanoo_skill3",
+    "owner": "susanoo",
+    "slot": "ultimate",
+    "name_ja": "草薙",
+    "name_en": "草薙",
+    "text": ""
+  },
+  {
+    "id": "susanoo_passive",
+    "owner": "susanoo",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "攻撃が続くと与ダメージが上がる"
+  },
+  {
+    "id": "inari_normal",
+    "owner": "inari",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "inari_skill1",
+    "owner": "inari",
+    "slot": "skill_1",
+    "name_ja": "白狐",
+    "name_en": "白狐",
+    "text": ""
+  },
+  {
+    "id": "inari_skill2",
+    "owner": "inari",
+    "slot": "skill_2",
+    "name_ja": "稲穂",
+    "name_en": "稲穂",
+    "text": ""
+  },
+  {
+    "id": "inari_skill3",
+    "owner": "inari",
+    "slot": "ultimate",
+    "name_ja": "千成",
+    "name_en": "千成",
+    "text": ""
+  },
+  {
+    "id": "inari_passive",
+    "owner": "inari",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "味方の回復量がわずかに増える"
+  },
+  {
+    "id": "izanami_normal",
+    "owner": "izanami",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "izanami_skill1",
+    "owner": "izanami",
+    "slot": "skill_1",
+    "name_ja": "黄泉",
+    "name_en": "黄泉",
+    "text": ""
+  },
+  {
+    "id": "izanami_skill2",
+    "owner": "izanami",
+    "slot": "skill_2",
+    "name_ja": "創世",
+    "name_en": "創世",
+    "text": ""
+  },
+  {
+    "id": "izanami_skill3",
+    "owner": "izanami",
+    "slot": "ultimate",
+    "name_ja": "回帰",
+    "name_en": "回帰",
+    "text": ""
+  },
+  {
+    "id": "izanami_passive",
+    "owner": "izanami",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "倒れた敵の復活を遅らせる"
+  },
+  {
+    "id": "takemikazuchi_normal",
+    "owner": "takemikazuchi",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "takemikazuchi_skill1",
+    "owner": "takemikazuchi",
+    "slot": "skill_1",
+    "name_ja": "雷剣",
+    "name_en": "雷剣",
+    "text": ""
+  },
+  {
+    "id": "takemikazuchi_skill2",
+    "owner": "takemikazuchi",
+    "slot": "skill_2",
+    "name_ja": "建御",
+    "name_en": "建御",
+    "text": ""
+  },
+  {
+    "id": "takemikazuchi_skill3",
+    "owner": "takemikazuchi",
+    "slot": "ultimate",
+    "name_ja": "鳴神",
+    "name_en": "鳴神",
+    "text": ""
+  },
+  {
+    "id": "takemikazuchi_passive",
+    "owner": "takemikazuchi",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "攻撃が命中すると周囲にも割れる"
+  },
+  {
+    "id": "hachiman_normal",
+    "owner": "hachiman",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "hachiman_skill1",
+    "owner": "hachiman",
+    "slot": "skill_1",
+    "name_ja": "八幡弓",
+    "name_en": "八幡弓",
+    "text": ""
+  },
+  {
+    "id": "hachiman_skill2",
+    "owner": "hachiman",
+    "slot": "skill_2",
+    "name_ja": "守護",
+    "name_en": "守護",
+    "text": ""
+  },
+  {
+    "id": "hachiman_skill3",
+    "owner": "hachiman",
+    "slot": "ultimate",
+    "name_ja": "旗神",
+    "name_en": "旗神",
+    "text": ""
+  },
+  {
+    "id": "hachiman_passive",
+    "owner": "hachiman",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "味方の被弾を一度分散する"
+  },
+  {
+    "id": "benzaiten_normal",
+    "owner": "benzaiten",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "benzaiten_skill1",
+    "owner": "benzaiten",
+    "slot": "skill_1",
+    "name_ja": "弁才",
+    "name_en": "弁才",
+    "text": ""
+  },
+  {
+    "id": "benzaiten_skill2",
+    "owner": "benzaiten",
+    "slot": "skill_2",
+    "name_ja": "水音",
+    "name_en": "水音",
+    "text": ""
+  },
+  {
+    "id": "benzaiten_skill3",
+    "owner": "benzaiten",
+    "slot": "ultimate",
+    "name_ja": "妙音",
+    "name_en": "妙音",
+    "text": ""
+  },
+  {
+    "id": "benzaiten_passive",
+    "owner": "benzaiten",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "味方が技能を使うと回復"
+  },
+  {
+    "id": "ryugu_normal",
+    "owner": "ryugu",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "ryugu_skill1",
+    "owner": "ryugu",
+    "slot": "skill_1",
+    "name_ja": "潮宮",
+    "name_en": "潮宮",
+    "text": ""
+  },
+  {
+    "id": "ryugu_skill2",
+    "owner": "ryugu",
+    "slot": "skill_2",
+    "name_ja": "乙姫",
+    "name_en": "乙姫",
+    "text": ""
+  },
+  {
+    "id": "ryugu_skill3",
+    "owner": "ryugu",
+    "slot": "ultimate",
+    "name_ja": "龍宮城",
+    "name_en": "龍宮城",
+    "text": ""
+  },
+  {
+    "id": "ryugu_passive",
+    "owner": "ryugu",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "水際のRELICに強く干渉する"
+  },
+  {
+    "id": "edo_normal",
+    "owner": "edo",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "edo_skill1",
+    "owner": "edo",
+    "slot": "skill_1",
+    "name_ja": "夜駆け",
+    "name_en": "夜駆け",
+    "text": ""
+  },
+  {
+    "id": "edo_skill2",
+    "owner": "edo",
+    "slot": "skill_2",
+    "name_ja": "居合",
+    "name_en": "居合",
+    "text": ""
+  },
+  {
+    "id": "edo_skill3",
+    "owner": "edo",
+    "slot": "ultimate",
+    "name_ja": "千斬",
+    "name_en": "千斬",
+    "text": ""
+  },
+  {
+    "id": "edo_passive",
+    "owner": "edo",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "回避直後の攻撃が強化される"
+  },
+  {
+    "id": "osaka_normal",
+    "owner": "osaka",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "osaka_skill1",
+    "owner": "osaka",
+    "slot": "skill_1",
+    "name_ja": "大城",
+    "name_en": "大城",
+    "text": ""
+  },
+  {
+    "id": "osaka_skill2",
+    "owner": "osaka",
+    "slot": "skill_2",
+    "name_ja": "商い",
+    "name_en": "商い",
+    "text": ""
+  },
+  {
+    "id": "osaka_skill3",
+    "owner": "osaka",
+    "slot": "ultimate",
+    "name_ja": "大河",
+    "name_en": "大河",
+    "text": ""
+  },
+  {
+    "id": "osaka_passive",
+    "owner": "osaka",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "味方が近いと攻撃が上がる"
+  },
+  {
+    "id": "nagasaki_normal",
+    "owner": "nagasaki",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "nagasaki_skill1",
+    "owner": "nagasaki",
+    "slot": "skill_1",
+    "name_ja": "出島",
+    "name_en": "出島",
+    "text": ""
+  },
+  {
+    "id": "nagasaki_skill2",
+    "owner": "nagasaki",
+    "slot": "skill_2",
+    "name_ja": "窓",
+    "name_en": "窓",
+    "text": ""
+  },
+  {
+    "id": "nagasaki_skill3",
+    "owner": "nagasaki",
+    "slot": "ultimate",
+    "name_ja": "交流",
+    "name_en": "交流",
+    "text": ""
+  },
+  {
+    "id": "nagasaki_passive",
+    "owner": "nagasaki",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "異なる土地の味方がいると計画が速い"
+  },
+  {
+    "id": "kamakura_normal",
+    "owner": "kamakura",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "kamakura_skill1",
+    "owner": "kamakura",
+    "slot": "skill_1",
+    "name_ja": "切岸",
+    "name_en": "切岸",
+    "text": ""
+  },
+  {
+    "id": "kamakura_skill2",
+    "owner": "kamakura",
+    "slot": "skill_2",
+    "name_ja": "鶴岡",
+    "name_en": "鶴岡",
+    "text": ""
+  },
+  {
+    "id": "kamakura_skill3",
+    "owner": "kamakura",
+    "slot": "ultimate",
+    "name_ja": "旗指",
+    "name_en": "旗指",
+    "text": ""
+  },
+  {
+    "id": "kamakura_passive",
+    "owner": "kamakura",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "防御を破ったあと追撃する"
+  },
+  {
+    "id": "tokyo_normal",
+    "owner": "tokyo",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "tokyo_skill1",
+    "owner": "tokyo",
+    "slot": "skill_1",
+    "name_ja": "回路",
+    "name_en": "回路",
+    "text": ""
+  },
+  {
+    "id": "tokyo_skill2",
+    "owner": "tokyo",
+    "slot": "skill_2",
+    "name_ja": "急行",
+    "name_en": "急行",
+    "text": ""
+  },
+  {
+    "id": "tokyo_skill3",
+    "owner": "tokyo",
+    "slot": "ultimate",
+    "name_ja": "首都覚醒",
+    "name_en": "首都覚醒",
+    "text": ""
+  },
+  {
+    "id": "tokyo_passive",
+    "owner": "tokyo",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "味方と距離が近いと捕獲加速"
+  },
+  {
+    "id": "meiji_normal",
+    "owner": "meiji",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "meiji_skill1",
+    "owner": "meiji",
+    "slot": "skill_1",
+    "name_ja": "汽笛",
+    "name_en": "汽笛",
+    "text": ""
+  },
+  {
+    "id": "meiji_skill2",
+    "owner": "meiji",
+    "slot": "skill_2",
+    "name_ja": "条約",
+    "name_en": "条約",
+    "text": ""
+  },
+  {
+    "id": "meiji_skill3",
+    "owner": "meiji",
+    "slot": "ultimate",
+    "name_ja": "文明開化",
+    "name_en": "文明開化",
+    "text": ""
+  },
+  {
+    "id": "meiji_passive",
+    "owner": "meiji",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "ERA SHIFT直後に味方を加速する"
+  },
+  {
+    "id": "yokohama_normal",
+    "owner": "yokohama",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "yokohama_skill1",
+    "owner": "yokohama",
+    "slot": "skill_1",
+    "name_ja": "開港",
+    "name_en": "開港",
+    "text": ""
+  },
+  {
+    "id": "yokohama_skill2",
+    "owner": "yokohama",
+    "slot": "skill_2",
+    "name_ja": "鉄路",
+    "name_en": "鉄路",
+    "text": ""
+  },
+  {
+    "id": "yokohama_skill3",
+    "owner": "yokohama",
+    "slot": "ultimate",
+    "name_ja": "灯台",
+    "name_en": "灯台",
+    "text": ""
+  },
+  {
+    "id": "yokohama_passive",
+    "owner": "yokohama",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "味方が整列すると捕獲加速"
+  },
+  {
+    "id": "future_tokyo_normal",
+    "owner": "future_tokyo",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "future_tokyo_skill1",
+    "owner": "future_tokyo",
+    "slot": "skill_1",
+    "name_ja": "未来回路",
+    "name_en": "未来回路",
+    "text": ""
+  },
+  {
+    "id": "future_tokyo_skill2",
+    "owner": "future_tokyo",
+    "slot": "skill_2",
+    "name_ja": "再首都",
+    "name_en": "再首都",
+    "text": ""
+  },
+  {
+    "id": "future_tokyo_skill3",
+    "owner": "future_tokyo",
+    "slot": "ultimate",
+    "name_ja": "永遠東京",
+    "name_en": "永遠東京",
+    "text": ""
+  },
+  {
+    "id": "future_tokyo_passive",
+    "owner": "future_tokyo",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "全味方の捕獲をわずかに加速する"
+  },
+  {
+    "id": "yamato_normal",
+    "owner": "yamato",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "yamato_skill1",
+    "owner": "yamato",
+    "slot": "skill_1",
+    "name_ja": "艦影",
+    "name_en": "艦影",
+    "text": ""
+  },
+  {
+    "id": "yamato_skill2",
+    "owner": "yamato",
+    "slot": "skill_2",
+    "name_ja": "星図",
+    "name_en": "星図",
+    "text": ""
+  },
+  {
+    "id": "yamato_skill3",
+    "owner": "yamato",
+    "slot": "ultimate",
+    "name_ja": "永遠の列島",
+    "name_en": "永遠の列島",
+    "text": ""
+  },
+  {
+    "id": "yamato_passive",
+    "owner": "yamato",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "味方の被弾を一度分散する"
+  },
+  {
+    "id": "athena_normal",
+    "owner": "athena",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "athena_skill1",
+    "owner": "athena",
+    "slot": "skill_1",
+    "name_ja": "アエギス",
+    "name_en": "アエギス",
+    "text": ""
+  },
+  {
+    "id": "athena_skill2",
+    "owner": "athena",
+    "slot": "skill_2",
+    "name_ja": "予兆",
+    "name_en": "予兆",
+    "text": ""
+  },
+  {
+    "id": "athena_skill3",
+    "owner": "athena",
+    "slot": "ultimate",
+    "name_ja": "戦女神",
+    "name_en": "戦女神",
+    "text": ""
+  },
+  {
+    "id": "athena_passive",
+    "owner": "athena",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "被弾後、短時間防御が上がる"
+  },
+  {
+    "id": "poseidon_normal",
+    "owner": "poseidon",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "poseidon_skill1",
+    "owner": "poseidon",
+    "slot": "skill_1",
+    "name_ja": "三叉",
+    "name_en": "三叉",
+    "text": ""
+  },
+  {
+    "id": "poseidon_skill2",
+    "owner": "poseidon",
+    "slot": "skill_2",
+    "name_ja": "海震",
+    "name_en": "海震",
+    "text": ""
+  },
+  {
+    "id": "poseidon_skill3",
+    "owner": "poseidon",
+    "slot": "ultimate",
+    "name_ja": "潮主",
+    "name_en": "潮主",
+    "text": ""
+  },
+  {
+    "id": "poseidon_passive",
+    "owner": "poseidon",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "水際全体の捕獲を干渉する"
+  },
+  {
+    "id": "apollo_normal",
+    "owner": "apollo",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "apollo_skill1",
+    "owner": "apollo",
+    "slot": "skill_1",
+    "name_ja": "光矢",
+    "name_en": "光矢",
+    "text": ""
+  },
+  {
+    "id": "apollo_skill2",
+    "owner": "apollo",
+    "slot": "skill_2",
+    "name_ja": "神託",
+    "name_en": "神託",
+    "text": ""
+  },
+  {
+    "id": "apollo_skill3",
+    "owner": "apollo",
+    "slot": "ultimate",
+    "name_ja": "デルポイ",
+    "name_en": "デルポイ",
+    "text": ""
+  },
+  {
+    "id": "apollo_passive",
+    "owner": "apollo",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "遠距離ほどダメージが伸びる"
+  },
+  {
+    "id": "artemis_normal",
+    "owner": "artemis",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "artemis_skill1",
+    "owner": "artemis",
+    "slot": "skill_1",
+    "name_ja": "銀弓",
+    "name_en": "銀弓",
+    "text": ""
+  },
+  {
+    "id": "artemis_skill2",
+    "owner": "artemis",
+    "slot": "skill_2",
+    "name_ja": "野駆け",
+    "name_en": "野駆け",
+    "text": ""
+  },
+  {
+    "id": "artemis_skill3",
+    "owner": "artemis",
+    "slot": "ultimate",
+    "name_ja": "処女の夜",
+    "name_en": "処女の夜",
+    "text": ""
+  },
+  {
+    "id": "artemis_passive",
+    "owner": "artemis",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "端からの攻撃が致命になりやすい"
+  },
+  {
+    "id": "minos_normal",
+    "owner": "minos",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "minos_skill1",
+    "owner": "minos",
+    "slot": "skill_1",
+    "name_ja": "迷宮",
+    "name_en": "迷宮",
+    "text": ""
+  },
+  {
+    "id": "minos_skill2",
+    "owner": "minos",
+    "slot": "skill_2",
+    "name_ja": "牛頭",
+    "name_en": "牛頭",
+    "text": ""
+  },
+  {
+    "id": "minos_skill3",
+    "owner": "minos",
+    "slot": "ultimate",
+    "name_ja": "海の法",
+    "name_en": "海の法",
+    "text": ""
+  },
+  {
+    "id": "minos_passive",
+    "owner": "minos",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "敵の直線移動を妨げる"
+  },
+  {
+    "id": "sparta_normal",
+    "owner": "sparta",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "sparta_skill1",
+    "owner": "sparta",
+    "slot": "skill_1",
+    "name_ja": "盾壁",
+    "name_en": "盾壁",
+    "text": ""
+  },
+  {
+    "id": "sparta_skill2",
+    "owner": "sparta",
+    "slot": "skill_2",
+    "name_ja": "戦列",
+    "name_en": "戦列",
+    "text": ""
+  },
+  {
+    "id": "sparta_skill3",
+    "owner": "sparta",
+    "slot": "ultimate",
+    "name_ja": "ラコニア",
+    "name_en": "ラコニア",
+    "text": ""
+  },
+  {
+    "id": "sparta_passive",
+    "owner": "sparta",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "味方が近いと攻撃が上がる"
+  },
+  {
+    "id": "roma_normal",
+    "owner": "roma",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "roma_skill1",
+    "owner": "roma",
+    "slot": "skill_1",
+    "name_ja": "軍団",
+    "name_en": "軍団",
+    "text": ""
+  },
+  {
+    "id": "roma_skill2",
+    "owner": "roma",
+    "slot": "skill_2",
+    "name_ja": "帝都",
+    "name_en": "帝都",
+    "text": ""
+  },
+  {
+    "id": "roma_skill3",
+    "owner": "roma",
+    "slot": "ultimate",
+    "name_ja": "凱旋",
+    "name_en": "凱旋",
+    "text": ""
+  },
+  {
+    "id": "roma_passive",
+    "owner": "roma",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "領域内のRELIC捕獲が速い"
+  },
+  {
+    "id": "venice_normal",
+    "owner": "venice",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "venice_skill1",
+    "owner": "venice",
+    "slot": "skill_1",
+    "name_ja": "満潮路",
+    "name_en": "満潮路",
+    "text": ""
+  },
+  {
+    "id": "venice_skill2",
+    "owner": "venice",
+    "slot": "skill_2",
+    "name_ja": "仮面",
+    "name_en": "仮面",
+    "text": ""
+  },
+  {
+    "id": "venice_skill3",
+    "owner": "venice",
+    "slot": "ultimate",
+    "name_ja": "潟の支配",
+    "name_en": "潟の支配",
+    "text": ""
+  },
+  {
+    "id": "venice_passive",
+    "owner": "venice",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "水際（マップ端）で移動が速い"
+  },
+  {
+    "id": "carthage_normal",
+    "owner": "carthage",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "carthage_skill1",
+    "owner": "carthage",
+    "slot": "skill_1",
+    "name_ja": "塩土",
+    "name_en": "塩土",
+    "text": ""
+  },
+  {
+    "id": "carthage_skill2",
+    "owner": "carthage",
+    "slot": "skill_2",
+    "name_ja": "港湾",
+    "name_en": "港湾",
+    "text": ""
+  },
+  {
+    "id": "carthage_skill3",
+    "owner": "carthage",
+    "slot": "ultimate",
+    "name_ja": "再起の火",
+    "name_en": "再起の火",
+    "text": ""
+  },
+  {
+    "id": "carthage_passive",
+    "owner": "carthage",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "敗北寸前で攻撃が跳ねる"
+  },
+  {
+    "id": "byzantium_normal",
+    "owner": "byzantium",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "byzantium_skill1",
+    "owner": "byzantium",
+    "slot": "skill_1",
+    "name_ja": "三重壁",
+    "name_en": "三重壁",
+    "text": ""
+  },
+  {
+    "id": "byzantium_skill2",
+    "owner": "byzantium",
+    "slot": "skill_2",
+    "name_ja": "金角",
+    "name_en": "金角",
+    "text": ""
+  },
+  {
+    "id": "byzantium_skill3",
+    "owner": "byzantium",
+    "slot": "ultimate",
+    "name_ja": "両洋の都",
+    "name_en": "両洋の都",
+    "text": ""
+  },
+  {
+    "id": "byzantium_passive",
+    "owner": "byzantium",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "味方全体の防御がわずかに上がる"
+  },
+  {
+    "id": "ottoman_normal",
+    "owner": "ottoman",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "ottoman_skill1",
+    "owner": "ottoman",
+    "slot": "skill_1",
+    "name_ja": "半月",
+    "name_en": "半月",
+    "text": ""
+  },
+  {
+    "id": "ottoman_skill2",
+    "owner": "ottoman",
+    "slot": "skill_2",
+    "name_ja": "帝都",
+    "name_en": "帝都",
+    "text": ""
+  },
+  {
+    "id": "ottoman_skill3",
+    "owner": "ottoman",
+    "slot": "ultimate",
+    "name_ja": "砲門",
+    "name_en": "砲門",
+    "text": ""
+  },
+  {
+    "id": "ottoman_passive",
+    "owner": "ottoman",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "確保したRELICの喪失が遅い"
+  },
+  {
+    "id": "istanbul_normal",
+    "owner": "istanbul",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "istanbul_skill1",
+    "owner": "istanbul",
+    "slot": "skill_1",
+    "name_ja": "両岸",
+    "name_en": "両岸",
+    "text": ""
+  },
+  {
+    "id": "istanbul_skill2",
+    "owner": "istanbul",
+    "slot": "skill_2",
+    "name_ja": "層名",
+    "name_en": "層名",
+    "text": ""
+  },
+  {
+    "id": "istanbul_skill3",
+    "owner": "istanbul",
+    "slot": "ultimate",
+    "name_ja": "海峡",
+    "name_en": "海峡",
+    "text": ""
+  },
+  {
+    "id": "istanbul_passive",
+    "owner": "istanbul",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "中心と水際の両方に強い"
+  },
+  {
+    "id": "isis_normal",
+    "owner": "isis",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "isis_skill1",
+    "owner": "isis",
+    "slot": "skill_1",
+    "name_ja": "生命の翼",
+    "name_en": "生命の翼",
+    "text": ""
+  },
+  {
+    "id": "isis_skill2",
+    "owner": "isis",
+    "slot": "skill_2",
+    "name_ja": "星の呪",
+    "name_en": "星の呪",
+    "text": ""
+  },
+  {
+    "id": "isis_skill3",
+    "owner": "isis",
+    "slot": "ultimate",
+    "name_ja": "再生",
+    "name_en": "再生",
+    "text": ""
+  },
+  {
+    "id": "isis_passive",
+    "owner": "isis",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "味方の戦闘不能を一度だけ遅らせる"
+  },
+  {
+    "id": "anubis_normal",
+    "owner": "anubis",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "anubis_skill1",
+    "owner": "anubis",
+    "slot": "skill_1",
+    "name_ja": "秤",
+    "name_en": "秤",
+    "text": ""
+  },
+  {
+    "id": "anubis_skill2",
+    "owner": "anubis",
+    "slot": "skill_2",
+    "name_ja": "導霊",
+    "name_en": "導霊",
+    "text": ""
+  },
+  {
+    "id": "anubis_skill3",
+    "owner": "anubis",
+    "slot": "ultimate",
+    "name_ja": "裁決",
+    "name_en": "裁決",
+    "text": ""
+  },
+  {
+    "id": "anubis_passive",
+    "owner": "anubis",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "低体力の敵に追加ダメージ"
+  },
+  {
+    "id": "ra_normal",
+    "owner": "ra",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "ra_skill1",
+    "owner": "ra",
+    "slot": "skill_1",
+    "name_ja": "日輪",
+    "name_en": "日輪",
+    "text": ""
+  },
+  {
+    "id": "ra_skill2",
+    "owner": "ra",
+    "slot": "skill_2",
+    "name_ja": "太陽船",
+    "name_en": "太陽船",
+    "text": ""
+  },
+  {
+    "id": "ra_skill3",
+    "owner": "ra",
+    "slot": "ultimate",
+    "name_ja": "真昼",
+    "name_en": "真昼",
+    "text": ""
+  },
+  {
+    "id": "ra_passive",
+    "owner": "ra",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "HPが高いほど攻撃が強い"
+  },
+  {
+    "id": "hathor_normal",
+    "owner": "hathor",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "hathor_skill1",
+    "owner": "hathor",
+    "slot": "skill_1",
+    "name_ja": "琴",
+    "name_en": "琴",
+    "text": ""
+  },
+  {
+    "id": "hathor_skill2",
+    "owner": "hathor",
+    "slot": "skill_2",
+    "name_ja": "歓楽",
+    "name_en": "歓楽",
+    "text": ""
+  },
+  {
+    "id": "hathor_skill3",
+    "owner": "hathor",
+    "slot": "ultimate",
+    "name_ja": "天空の牛",
+    "name_en": "天空の牛",
+    "text": ""
+  },
+  {
+    "id": "hathor_passive",
+    "owner": "hathor",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "付近の味方のUlt蓄積が速い"
+  },
+  {
+    "id": "thoth_normal",
+    "owner": "thoth",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "thoth_skill1",
+    "owner": "thoth",
+    "slot": "skill_1",
+    "name_ja": "聖刻",
+    "name_en": "聖刻",
+    "text": ""
+  },
+  {
+    "id": "thoth_skill2",
+    "owner": "thoth",
+    "slot": "skill_2",
+    "name_ja": "月のインク",
+    "name_en": "月のインク",
+    "text": ""
+  },
+  {
+    "id": "thoth_skill3",
+    "owner": "thoth",
+    "slot": "ultimate",
+    "name_ja": "記録",
+    "name_en": "記録",
+    "text": ""
+  },
+  {
+    "id": "thoth_passive",
+    "owner": "thoth",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "技能情報が敵に長く残る"
+  },
+  {
+    "id": "set_normal",
+    "owner": "set",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "set_skill1",
+    "owner": "set",
+    "slot": "skill_1",
+    "name_ja": "砂嵐",
+    "name_en": "砂嵐",
+    "text": ""
+  },
+  {
+    "id": "set_skill2",
+    "owner": "set",
+    "slot": "skill_2",
+    "name_ja": "赤土",
+    "name_en": "赤土",
+    "text": ""
+  },
+  {
+    "id": "set_skill3",
+    "owner": "set",
+    "slot": "ultimate",
+    "name_ja": "混沌",
+    "name_en": "混沌",
+    "text": ""
+  },
+  {
+    "id": "set_passive",
+    "owner": "set",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "捕獲争い中の攻撃が強い"
+  },
+  {
+    "id": "bastet_normal",
+    "owner": "bastet",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "bastet_skill1",
+    "owner": "bastet",
+    "slot": "skill_1",
+    "name_ja": "猫歩",
+    "name_en": "猫歩",
+    "text": ""
+  },
+  {
+    "id": "bastet_skill2",
+    "owner": "bastet",
+    "slot": "skill_2",
+    "name_ja": "守護鈴",
+    "name_en": "守護鈴",
+    "text": ""
+  },
+  {
+    "id": "bastet_skill3",
+    "owner": "bastet",
+    "slot": "ultimate",
+    "name_ja": "夜眼",
+    "name_en": "夜眼",
+    "text": ""
+  },
+  {
+    "id": "bastet_passive",
+    "owner": "bastet",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "回避直後の攻撃が強化される"
+  },
+  {
+    "id": "memphis_normal",
+    "owner": "memphis",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "memphis_skill1",
+    "owner": "memphis",
+    "slot": "skill_1",
+    "name_ja": "白壁",
+    "name_en": "白壁",
+    "text": ""
+  },
+  {
+    "id": "memphis_skill2",
+    "owner": "memphis",
+    "slot": "skill_2",
+    "name_ja": "工匠",
+    "name_en": "工匠",
+    "text": ""
+  },
+  {
+    "id": "memphis_skill3",
+    "owner": "memphis",
+    "slot": "ultimate",
+    "name_ja": "古都",
+    "name_en": "古都",
+    "text": ""
+  },
+  {
+    "id": "memphis_passive",
+    "owner": "memphis",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "領域内で防御が上がる"
+  },
+  {
+    "id": "alexandria_normal",
+    "owner": "alexandria",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "alexandria_skill1",
+    "owner": "alexandria",
+    "slot": "skill_1",
+    "name_ja": "灯台",
+    "name_en": "灯台",
+    "text": ""
+  },
+  {
+    "id": "alexandria_skill2",
+    "owner": "alexandria",
+    "slot": "skill_2",
+    "name_ja": "焼ける書",
+    "name_en": "焼ける書",
+    "text": ""
+  },
+  {
+    "id": "alexandria_skill3",
+    "owner": "alexandria",
+    "slot": "ultimate",
+    "name_ja": "大図書館",
+    "name_en": "大図書館",
+    "text": ""
+  },
+  {
+    "id": "alexandria_passive",
+    "owner": "alexandria",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "視界内のRELIC情報が見える"
+  },
+  {
+    "id": "thebes_normal",
+    "owner": "thebes",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "thebes_skill1",
+    "owner": "thebes",
+    "slot": "skill_1",
+    "name_ja": "百門",
+    "name_en": "百門",
+    "text": ""
+  },
+  {
+    "id": "thebes_skill2",
+    "owner": "thebes",
+    "slot": "skill_2",
+    "name_ja": "神官",
+    "name_en": "神官",
+    "text": ""
+  },
+  {
+    "id": "thebes_skill3",
+    "owner": "thebes",
+    "slot": "ultimate",
+    "name_ja": "王都",
+    "name_en": "王都",
+    "text": ""
+  },
+  {
+    "id": "thebes_passive",
+    "owner": "thebes",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "中心RELICの確保が速い"
+  },
+  {
+    "id": "cairo_normal",
+    "owner": "cairo",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "cairo_skill1",
+    "owner": "cairo",
+    "slot": "skill_1",
+    "name_ja": "市場",
+    "name_en": "市場",
+    "text": ""
+  },
+  {
+    "id": "cairo_skill2",
+    "owner": "cairo",
+    "slot": "skill_2",
+    "name_ja": "層都",
+    "name_en": "層都",
+    "text": ""
+  },
+  {
+    "id": "cairo_skill3",
+    "owner": "cairo",
+    "slot": "ultimate",
+    "name_ja": "ナイル回路",
+    "name_en": "ナイル回路",
+    "text": ""
+  },
+  {
+    "id": "cairo_passive",
+    "owner": "cairo",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "捕獲中に味方が近づくと加速"
+  },
+  {
+    "id": "xishi_normal",
+    "owner": "xishi",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "xishi_skill1",
+    "owner": "xishi",
+    "slot": "skill_1",
+    "name_ja": "湖光",
+    "name_en": "湖光",
+    "text": ""
+  },
+  {
+    "id": "xishi_skill2",
+    "owner": "xishi",
+    "slot": "skill_2",
+    "name_ja": "絹舞",
+    "name_en": "絹舞",
+    "text": ""
+  },
+  {
+    "id": "xishi_skill3",
+    "owner": "xishi",
+    "slot": "ultimate",
+    "name_ja": "傾国",
+    "name_en": "傾国",
+    "text": ""
+  },
+  {
+    "id": "xishi_passive",
+    "owner": "xishi",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "味方が技能を使うと回復し、領域が華夏へ寄る"
+  },
+  {
+    "id": "nuwa_normal",
+    "owner": "nuwa",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "nuwa_skill1",
+    "owner": "nuwa",
+    "slot": "skill_1",
+    "name_ja": "補天",
+    "name_en": "補天",
+    "text": ""
+  },
+  {
+    "id": "nuwa_skill2",
+    "owner": "nuwa",
+    "slot": "skill_2",
+    "name_ja": "造人",
+    "name_en": "造人",
+    "text": ""
+  },
+  {
+    "id": "nuwa_skill3",
+    "owner": "nuwa",
+    "slot": "ultimate",
+    "name_ja": "五色石",
+    "name_en": "五色石",
+    "text": ""
+  },
+  {
+    "id": "nuwa_passive",
+    "owner": "nuwa",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "倒れた味方を蘇生しやすくする"
+  },
+  {
+    "id": "luoshen_normal",
+    "owner": "luoshen",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "luoshen_skill1",
+    "owner": "luoshen",
+    "slot": "skill_1",
+    "name_ja": "洛水",
+    "name_en": "洛水",
+    "text": ""
+  },
+  {
+    "id": "luoshen_skill2",
+    "owner": "luoshen",
+    "slot": "skill_2",
+    "name_ja": "賦",
+    "name_en": "賦",
+    "text": ""
+  },
+  {
+    "id": "luoshen_skill3",
+    "owner": "luoshen",
+    "slot": "ultimate",
+    "name_ja": "水神",
+    "name_en": "水神",
+    "text": ""
+  },
+  {
+    "id": "luoshen_passive",
+    "owner": "luoshen",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "水際の敵を遅くする"
+  },
+  {
+    "id": "changan_normal",
+    "owner": "changan",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "changan_skill1",
+    "owner": "changan",
+    "slot": "skill_1",
+    "name_ja": "都城",
+    "name_en": "都城",
+    "text": ""
+  },
+  {
+    "id": "changan_skill2",
+    "owner": "changan",
+    "slot": "skill_2",
+    "name_ja": "条坊",
+    "name_en": "条坊",
+    "text": ""
+  },
+  {
+    "id": "changan_skill3",
+    "owner": "changan",
+    "slot": "ultimate",
+    "name_ja": "万国朝",
+    "name_en": "万国朝",
+    "text": ""
+  },
+  {
+    "id": "changan_passive",
+    "owner": "changan",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "異なる文明の味方がいると計画が速い"
+  },
+  {
+    "id": "luoyang_normal",
+    "owner": "luoyang",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "luoyang_skill1",
+    "owner": "luoyang",
+    "slot": "skill_1",
+    "name_ja": "牡丹",
+    "name_en": "牡丹",
+    "text": ""
+  },
+  {
+    "id": "luoyang_skill2",
+    "owner": "luoyang",
+    "slot": "skill_2",
+    "name_ja": "中原",
+    "name_en": "中原",
+    "text": ""
+  },
+  {
+    "id": "luoyang_skill3",
+    "owner": "luoyang",
+    "slot": "ultimate",
+    "name_ja": "帝都",
+    "name_en": "帝都",
+    "text": ""
+  },
+  {
+    "id": "luoyang_passive",
+    "owner": "luoyang",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "中心RELICの確保が速い"
+  },
+  {
+    "id": "tang_normal",
+    "owner": "tang",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "tang_skill1",
+    "owner": "tang",
+    "slot": "skill_1",
+    "name_ja": "唐騎",
+    "name_en": "唐騎",
+    "text": ""
+  },
+  {
+    "id": "tang_skill2",
+    "owner": "tang",
+    "slot": "skill_2",
+    "name_ja": "長安詩",
+    "name_en": "長安詩",
+    "text": ""
+  },
+  {
+    "id": "tang_skill3",
+    "owner": "tang",
+    "slot": "ultimate",
+    "name_ja": "開放",
+    "name_en": "開放",
+    "text": ""
+  },
+  {
+    "id": "tang_passive",
+    "owner": "tang",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "移動したあと攻撃が伸びる"
+  },
+  {
+    "id": "hangzhou_normal",
+    "owner": "hangzhou",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "hangzhou_skill1",
+    "owner": "hangzhou",
+    "slot": "skill_1",
+    "name_ja": "西湖",
+    "name_en": "西湖",
+    "text": ""
+  },
+  {
+    "id": "hangzhou_skill2",
+    "owner": "hangzhou",
+    "slot": "skill_2",
+    "name_ja": "絹市",
+    "name_en": "絹市",
+    "text": ""
+  },
+  {
+    "id": "hangzhou_skill3",
+    "owner": "hangzhou",
+    "slot": "ultimate",
+    "name_ja": "臨安",
+    "name_en": "臨安",
+    "text": ""
+  },
+  {
+    "id": "hangzhou_passive",
+    "owner": "hangzhou",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "華夏の味方がいると回復が強い"
+  },
+  {
+    "id": "beijing_normal",
+    "owner": "beijing",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "beijing_skill1",
+    "owner": "beijing",
+    "slot": "skill_1",
+    "name_ja": "軸線",
+    "name_en": "軸線",
+    "text": ""
+  },
+  {
+    "id": "beijing_skill2",
+    "owner": "beijing",
+    "slot": "skill_2",
+    "name_ja": "宮門",
+    "name_en": "宮門",
+    "text": ""
+  },
+  {
+    "id": "beijing_skill3",
+    "owner": "beijing",
+    "slot": "ultimate",
+    "name_ja": "層都",
+    "name_en": "層都",
+    "text": ""
+  },
+  {
+    "id": "beijing_passive",
+    "owner": "beijing",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "確保文明が多いほど計画が速い"
+  },
+  {
+    "id": "shanghai_normal",
+    "owner": "shanghai",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "shanghai_skill1",
+    "owner": "shanghai",
+    "slot": "skill_1",
+    "name_ja": "外灘",
+    "name_en": "外灘",
+    "text": ""
+  },
+  {
+    "id": "shanghai_skill2",
+    "owner": "shanghai",
+    "slot": "skill_2",
+    "name_ja": "層港",
+    "name_en": "層港",
+    "text": ""
+  },
+  {
+    "id": "shanghai_skill3",
+    "owner": "shanghai",
+    "slot": "ultimate",
+    "name_ja": "東方の灯",
+    "name_en": "東方の灯",
+    "text": ""
+  },
+  {
+    "id": "shanghai_passive",
+    "owner": "shanghai",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "攻撃速度が時間とともに上がる"
+  },
+  {
+    "id": "hongkong_normal",
+    "owner": "hongkong",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "hongkong_skill1",
+    "owner": "hongkong",
+    "slot": "skill_1",
+    "name_ja": "維港",
+    "name_en": "維港",
+    "text": ""
+  },
+  {
+    "id": "hongkong_skill2",
+    "owner": "hongkong",
+    "slot": "skill_2",
+    "name_ja": "層島",
+    "name_en": "層島",
+    "text": ""
+  },
+  {
+    "id": "hongkong_skill3",
+    "owner": "hongkong",
+    "slot": "ultimate",
+    "name_ja": "東の門",
+    "name_en": "東の門",
+    "text": ""
+  },
+  {
+    "id": "hongkong_passive",
+    "owner": "hongkong",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "狭い範囲の捕獲が非常に速い"
+  },
+  {
+    "id": "freya_normal",
+    "owner": "freya",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "freya_skill1",
+    "owner": "freya",
+    "slot": "skill_1",
+    "name_ja": "猫の行進",
+    "name_en": "猫の行進",
+    "text": ""
+  },
+  {
+    "id": "freya_skill2",
+    "owner": "freya",
+    "slot": "skill_2",
+    "name_ja": "琥珀",
+    "name_en": "琥珀",
+    "text": ""
+  },
+  {
+    "id": "freya_skill3",
+    "owner": "freya",
+    "slot": "ultimate",
+    "name_ja": "戦乙女",
+    "name_en": "戦乙女",
+    "text": ""
+  },
+  {
+    "id": "freya_passive",
+    "owner": "freya",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "味方のUltimate蓄積が速い"
+  },
+  {
+    "id": "odin_normal",
+    "owner": "odin",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "odin_skill1",
+    "owner": "odin",
+    "slot": "skill_1",
+    "name_ja": "槍",
+    "name_en": "槍",
+    "text": ""
+  },
+  {
+    "id": "odin_skill2",
+    "owner": "odin",
+    "slot": "skill_2",
+    "name_ja": "一隻眼",
+    "name_en": "一隻眼",
+    "text": ""
+  },
+  {
+    "id": "odin_skill3",
+    "owner": "odin",
+    "slot": "ultimate",
+    "name_ja": "ラグナロク知",
+    "name_en": "ラグナロク知",
+    "text": ""
+  },
+  {
+    "id": "odin_passive",
+    "owner": "odin",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "味方が倒れるとUltが貯まる"
+  },
+  {
+    "id": "thor_normal",
+    "owner": "thor",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "thor_skill1",
+    "owner": "thor",
+    "slot": "skill_1",
+    "name_ja": "雷槌",
+    "name_en": "雷槌",
+    "text": ""
+  },
+  {
+    "id": "thor_skill2",
+    "owner": "thor",
+    "slot": "skill_2",
+    "name_ja": "嵐輪",
+    "name_en": "嵐輪",
+    "text": ""
+  },
+  {
+    "id": "thor_skill3",
+    "owner": "thor",
+    "slot": "ultimate",
+    "name_ja": "ミョルニル",
+    "name_en": "ミョルニル",
+    "text": ""
+  },
+  {
+    "id": "thor_passive",
+    "owner": "thor",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "攻撃が命中すると周囲にも割れる"
+  },
+  {
+    "id": "hel_normal",
+    "owner": "hel",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "hel_skill1",
+    "owner": "hel",
+    "slot": "skill_1",
+    "name_ja": "半身",
+    "name_en": "半身",
+    "text": ""
+  },
+  {
+    "id": "hel_skill2",
+    "owner": "hel",
+    "slot": "skill_2",
+    "name_ja": "冷門",
+    "name_en": "冷門",
+    "text": ""
+  },
+  {
+    "id": "hel_skill3",
+    "owner": "hel",
+    "slot": "ultimate",
+    "name_ja": "死者の国",
+    "name_en": "死者の国",
+    "text": ""
+  },
+  {
+    "id": "hel_passive",
+    "owner": "hel",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "倒れた敵の復活を遅らせる"
+  },
+  {
+    "id": "loki_normal",
+    "owner": "loki",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "loki_skill1",
+    "owner": "loki",
+    "slot": "skill_1",
+    "name_ja": "偽名",
+    "name_en": "偽名",
+    "text": ""
+  },
+  {
+    "id": "loki_skill2",
+    "owner": "loki",
+    "slot": "skill_2",
+    "name_ja": "変化",
+    "name_en": "変化",
+    "text": ""
+  },
+  {
+    "id": "loki_skill3",
+    "owner": "loki",
+    "slot": "ultimate",
+    "name_ja": "終火",
+    "name_en": "終火",
+    "text": ""
+  },
+  {
+    "id": "loki_passive",
+    "owner": "loki",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "技能後に移動が速くなる"
+  },
+  {
+    "id": "frigg_normal",
+    "owner": "frigg",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "frigg_skill1",
+    "owner": "frigg",
+    "slot": "skill_1",
+    "name_ja": "糸紡ぎ",
+    "name_en": "糸紡ぎ",
+    "text": ""
+  },
+  {
+    "id": "frigg_skill2",
+    "owner": "frigg",
+    "slot": "skill_2",
+    "name_ja": "予見",
+    "name_en": "予見",
+    "text": ""
+  },
+  {
+    "id": "frigg_skill3",
+    "owner": "frigg",
+    "slot": "ultimate",
+    "name_ja": "守護衣",
+    "name_en": "守護衣",
+    "text": ""
+  },
+  {
+    "id": "frigg_passive",
+    "owner": "frigg",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "味方の被弾を予測して軽減する"
+  },
+  {
+    "id": "valkyrie_normal",
+    "owner": "valkyrie",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "valkyrie_skill1",
+    "owner": "valkyrie",
+    "slot": "skill_1",
+    "name_ja": "選定",
+    "name_en": "選定",
+    "text": ""
+  },
+  {
+    "id": "valkyrie_skill2",
+    "owner": "valkyrie",
+    "slot": "skill_2",
+    "name_ja": "翼撃",
+    "name_en": "翼撃",
+    "text": ""
+  },
+  {
+    "id": "valkyrie_skill3",
+    "owner": "valkyrie",
+    "slot": "ultimate",
+    "name_ja": "英霊送り",
+    "name_en": "英霊送り",
+    "text": ""
+  },
+  {
+    "id": "valkyrie_passive",
+    "owner": "valkyrie",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "低HPの敵を優先して追う"
+  },
+  {
+    "id": "asgard_normal",
+    "owner": "asgard",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "asgard_skill1",
+    "owner": "asgard",
+    "slot": "skill_1",
+    "name_ja": "神壁",
+    "name_en": "神壁",
+    "text": ""
+  },
+  {
+    "id": "asgard_skill2",
+    "owner": "asgard",
+    "slot": "skill_2",
+    "name_ja": "虹橋",
+    "name_en": "虹橋",
+    "text": ""
+  },
+  {
+    "id": "asgard_skill3",
+    "owner": "asgard",
+    "slot": "ultimate",
+    "name_ja": "神域",
+    "name_en": "神域",
+    "text": ""
+  },
+  {
+    "id": "asgard_passive",
+    "owner": "asgard",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "中心にいると非常に硬い"
+  },
+  {
+    "id": "uppsala_normal",
+    "owner": "uppsala",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "uppsala_skill1",
+    "owner": "uppsala",
+    "slot": "skill_1",
+    "name_ja": "神木",
+    "name_en": "神木",
+    "text": ""
+  },
+  {
+    "id": "uppsala_skill2",
+    "owner": "uppsala",
+    "slot": "skill_2",
+    "name_ja": "生贄の金",
+    "name_en": "生贄の金",
+    "text": ""
+  },
+  {
+    "id": "uppsala_skill3",
+    "owner": "uppsala",
+    "slot": "ultimate",
+    "name_ja": "北社",
+    "name_en": "北社",
+    "text": ""
+  },
+  {
+    "id": "uppsala_passive",
+    "owner": "uppsala",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "確保RELIC付近で回復"
+  },
+  {
+    "id": "vinland_normal",
+    "owner": "vinland",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "vinland_skill1",
+    "owner": "vinland",
+    "slot": "skill_1",
+    "name_ja": "長船",
+    "name_en": "長船",
+    "text": ""
+  },
+  {
+    "id": "vinland_skill2",
+    "owner": "vinland",
+    "slot": "skill_2",
+    "name_ja": "葡萄",
+    "name_en": "葡萄",
+    "text": ""
+  },
+  {
+    "id": "vinland_skill3",
+    "owner": "vinland",
+    "slot": "ultimate",
+    "name_ja": "西の岸",
+    "name_en": "西の岸",
+    "text": ""
+  },
+  {
+    "id": "vinland_passive",
+    "owner": "vinland",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "マップ端で攻撃が伸びる"
+  },
+  {
+    "id": "viking_normal",
+    "owner": "viking",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "viking_skill1",
+    "owner": "viking",
+    "slot": "skill_1",
+    "name_ja": "長船",
+    "name_en": "長船",
+    "text": ""
+  },
+  {
+    "id": "viking_skill2",
+    "owner": "viking",
+    "slot": "skill_2",
+    "name_ja": "北浪",
+    "name_en": "北浪",
+    "text": ""
+  },
+  {
+    "id": "viking_skill3",
+    "owner": "viking",
+    "slot": "ultimate",
+    "name_ja": "開拓",
+    "name_en": "開拓",
+    "text": ""
+  },
+  {
+    "id": "viking_passive",
+    "owner": "viking",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "水際で攻撃と捕獲が同時に上がる"
+  },
+  {
+    "id": "ishtar_normal",
+    "owner": "ishtar",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "ishtar_skill1",
+    "owner": "ishtar",
+    "slot": "skill_1",
+    "name_ja": "金星",
+    "name_en": "金星",
+    "text": ""
+  },
+  {
+    "id": "ishtar_skill2",
+    "owner": "ishtar",
+    "slot": "skill_2",
+    "name_ja": "愛戦",
+    "name_en": "愛戦",
+    "text": ""
+  },
+  {
+    "id": "ishtar_skill3",
+    "owner": "ishtar",
+    "slot": "ultimate",
+    "name_ja": "門の獅子",
+    "name_en": "門の獅子",
+    "text": ""
+  },
+  {
+    "id": "ishtar_passive",
+    "owner": "ishtar",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "攻撃するたびUltimateが貯まる"
+  },
+  {
+    "id": "sumer_normal",
+    "owner": "sumer",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "sumer_skill1",
+    "owner": "sumer",
+    "slot": "skill_1",
+    "name_ja": "楔形",
+    "name_en": "楔形",
+    "text": ""
+  },
+  {
+    "id": "sumer_skill2",
+    "owner": "sumer",
+    "slot": "skill_2",
+    "name_ja": "最初の市",
+    "name_en": "最初の市",
+    "text": ""
+  },
+  {
+    "id": "sumer_skill3",
+    "owner": "sumer",
+    "slot": "ultimate",
+    "name_ja": "聖なる土",
+    "name_en": "聖なる土",
+    "text": ""
+  },
+  {
+    "id": "sumer_passive",
+    "owner": "sumer",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "試合開始直後の計画が速い"
+  },
+  {
+    "id": "babylon_normal",
+    "owner": "babylon",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "babylon_skill1",
+    "owner": "babylon",
+    "slot": "skill_1",
+    "name_ja": "法碑",
+    "name_en": "法碑",
+    "text": ""
+  },
+  {
+    "id": "babylon_skill2",
+    "owner": "babylon",
+    "slot": "skill_2",
+    "name_ja": "空中庭",
+    "name_en": "空中庭",
+    "text": ""
+  },
+  {
+    "id": "babylon_skill3",
+    "owner": "babylon",
+    "slot": "ultimate",
+    "name_ja": "大塔",
+    "name_en": "大塔",
+    "text": ""
+  },
+  {
+    "id": "babylon_passive",
+    "owner": "babylon",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "敵の技能を一度無効化しやすくする"
+  },
+  {
+    "id": "persia_normal",
+    "owner": "persia",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "persia_skill1",
+    "owner": "persia",
+    "slot": "skill_1",
+    "name_ja": "王道",
+    "name_en": "王道",
+    "text": ""
+  },
+  {
+    "id": "persia_skill2",
+    "owner": "persia",
+    "slot": "skill_2",
+    "name_ja": "百柱",
+    "name_en": "百柱",
+    "text": ""
+  },
+  {
+    "id": "persia_skill3",
+    "owner": "persia",
+    "slot": "ultimate",
+    "name_ja": "光の帝国",
+    "name_en": "光の帝国",
+    "text": ""
+  },
+  {
+    "id": "persia_passive",
+    "owner": "persia",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "領域内で味方が倒れにくい"
+  },
+  {
+    "id": "uruk_normal",
+    "owner": "uruk",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "uruk_skill1",
+    "owner": "uruk",
+    "slot": "skill_1",
+    "name_ja": "城壁",
+    "name_en": "城壁",
+    "text": ""
+  },
+  {
+    "id": "uruk_skill2",
+    "owner": "uruk",
+    "slot": "skill_2",
+    "name_ja": "英雄",
+    "name_en": "英雄",
+    "text": ""
+  },
+  {
+    "id": "uruk_skill3",
+    "owner": "uruk",
+    "slot": "ultimate",
+    "name_ja": "叙事詩",
+    "name_en": "叙事詩",
+    "text": ""
+  },
+  {
+    "id": "uruk_passive",
+    "owner": "uruk",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "HPが高いほど突破が速い"
+  },
+  {
+    "id": "ur_normal",
+    "owner": "ur",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "ur_skill1",
+    "owner": "ur",
+    "slot": "skill_1",
+    "name_ja": "月壇",
+    "name_en": "月壇",
+    "text": ""
+  },
+  {
+    "id": "ur_skill2",
+    "owner": "ur",
+    "slot": "skill_2",
+    "name_ja": "港市",
+    "name_en": "港市",
+    "text": ""
+  },
+  {
+    "id": "ur_skill3",
+    "owner": "ur",
+    "slot": "ultimate",
+    "name_ja": "聖都",
+    "name_en": "聖都",
+    "text": ""
+  },
+  {
+    "id": "ur_passive",
+    "owner": "ur",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "確保文明の回復が強い"
+  },
+  {
+    "id": "nineveh_normal",
+    "owner": "nineveh",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "nineveh_skill1",
+    "owner": "nineveh",
+    "slot": "skill_1",
+    "name_ja": "獅子",
+    "name_en": "獅子",
+    "text": ""
+  },
+  {
+    "id": "nineveh_skill2",
+    "owner": "nineveh",
+    "slot": "skill_2",
+    "name_ja": "書庫",
+    "name_en": "書庫",
+    "text": ""
+  },
+  {
+    "id": "nineveh_skill3",
+    "owner": "nineveh",
+    "slot": "ultimate",
+    "name_ja": "帝国文書",
+    "name_en": "帝国文書",
+    "text": ""
+  },
+  {
+    "id": "nineveh_passive",
+    "owner": "nineveh",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "ERA情報が味方に共有される"
+  },
+  {
+    "id": "assyria_normal",
+    "owner": "assyria",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "assyria_skill1",
+    "owner": "assyria",
+    "slot": "skill_1",
+    "name_ja": "鉄軍",
+    "name_en": "鉄軍",
+    "text": ""
+  },
+  {
+    "id": "assyria_skill2",
+    "owner": "assyria",
+    "slot": "skill_2",
+    "name_ja": "浮彫",
+    "name_en": "浮彫",
+    "text": ""
+  },
+  {
+    "id": "assyria_skill3",
+    "owner": "assyria",
+    "slot": "ultimate",
+    "name_ja": "征服",
+    "name_en": "征服",
+    "text": ""
+  },
+  {
+    "id": "assyria_passive",
+    "owner": "assyria",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "連続攻撃で防御を削る"
+  },
+  {
+    "id": "palmyra_normal",
+    "owner": "palmyra",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "palmyra_skill1",
+    "owner": "palmyra",
+    "slot": "skill_1",
+    "name_ja": "列柱街",
+    "name_en": "列柱街",
+    "text": ""
+  },
+  {
+    "id": "palmyra_skill2",
+    "owner": "palmyra",
+    "slot": "skill_2",
+    "name_ja": "砂漠駆け",
+    "name_en": "砂漠駆け",
+    "text": ""
+  },
+  {
+    "id": "palmyra_skill3",
+    "owner": "palmyra",
+    "slot": "ultimate",
+    "name_ja": "オアシス",
+    "name_en": "オアシス",
+    "text": ""
+  },
+  {
+    "id": "palmyra_passive",
+    "owner": "palmyra",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "長い移動のあと攻撃が強化される"
+  },
+  {
+    "id": "ctesiphon_normal",
+    "owner": "ctesiphon",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "ctesiphon_skill1",
+    "owner": "ctesiphon",
+    "slot": "skill_1",
+    "name_ja": "大アーチ",
+    "name_en": "大アーチ",
+    "text": ""
+  },
+  {
+    "id": "ctesiphon_skill2",
+    "owner": "ctesiphon",
+    "slot": "skill_2",
+    "name_ja": "再帝",
+    "name_en": "再帝",
+    "text": ""
+  },
+  {
+    "id": "ctesiphon_skill3",
+    "owner": "ctesiphon",
+    "slot": "ultimate",
+    "name_ja": "両河",
+    "name_en": "両河",
+    "text": ""
+  },
+  {
+    "id": "ctesiphon_passive",
+    "owner": "ctesiphon",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "ERA SHIFTで領域が広がる"
+  },
+  {
+    "id": "scathach_normal",
+    "owner": "scathach",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "scathach_skill1",
+    "owner": "scathach",
+    "slot": "skill_1",
+    "name_ja": "影槍",
+    "name_en": "影槍",
+    "text": ""
+  },
+  {
+    "id": "scathach_skill2",
+    "owner": "scathach",
+    "slot": "skill_2",
+    "name_ja": "異界門",
+    "name_en": "異界門",
+    "text": ""
+  },
+  {
+    "id": "scathach_skill3",
+    "owner": "scathach",
+    "slot": "ultimate",
+    "name_ja": "師の試練",
+    "name_en": "師の試練",
+    "text": ""
+  },
+  {
+    "id": "scathach_passive",
+    "owner": "scathach",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "回避直後の攻撃が強化される"
+  },
+  {
+    "id": "mongolia_normal",
+    "owner": "mongolia",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "mongolia_skill1",
+    "owner": "mongolia",
+    "slot": "skill_1",
+    "name_ja": "騎馬",
+    "name_en": "騎馬",
+    "text": ""
+  },
+  {
+    "id": "mongolia_skill2",
+    "owner": "mongolia",
+    "slot": "skill_2",
+    "name_ja": "草原",
+    "name_en": "草原",
+    "text": ""
+  },
+  {
+    "id": "mongolia_skill3",
+    "owner": "mongolia",
+    "slot": "ultimate",
+    "name_ja": "大帝国",
+    "name_en": "大帝国",
+    "text": ""
+  },
+  {
+    "id": "mongolia_passive",
+    "owner": "mongolia",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "移動距離に応じて攻撃が伸びる"
+  },
+  {
+    "id": "goryeo_normal",
+    "owner": "goryeo",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "goryeo_skill1",
+    "owner": "goryeo",
+    "slot": "skill_1",
+    "name_ja": "青磁",
+    "name_en": "青磁",
+    "text": ""
+  },
+  {
+    "id": "goryeo_skill2",
+    "owner": "goryeo",
+    "slot": "skill_2",
+    "name_ja": "王京",
+    "name_en": "王京",
+    "text": ""
+  },
+  {
+    "id": "goryeo_skill3",
+    "owner": "goryeo",
+    "slot": "ultimate",
+    "name_ja": "半島",
+    "name_en": "半島",
+    "text": ""
+  },
+  {
+    "id": "goryeo_passive",
+    "owner": "goryeo",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "端にいる味方の防御が上がる"
+  },
+  {
+    "id": "frank_normal",
+    "owner": "frank",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "frank_skill1",
+    "owner": "frank",
+    "slot": "skill_1",
+    "name_ja": "王剣",
+    "name_en": "王剣",
+    "text": ""
+  },
+  {
+    "id": "frank_skill2",
+    "owner": "frank",
+    "slot": "skill_2",
+    "name_ja": "戴冠",
+    "name_en": "戴冠",
+    "text": ""
+  },
+  {
+    "id": "frank_skill3",
+    "owner": "frank",
+    "slot": "ultimate",
+    "name_ja": "西欧",
+    "name_en": "西欧",
+    "text": ""
+  },
+  {
+    "id": "frank_passive",
+    "owner": "frank",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "味方が3体で領域防御"
+  },
+  {
+    "id": "andalus_normal",
+    "owner": "andalus",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "andalus_skill1",
+    "owner": "andalus",
+    "slot": "skill_1",
+    "name_ja": "庭園",
+    "name_en": "庭園",
+    "text": ""
+  },
+  {
+    "id": "andalus_skill2",
+    "owner": "andalus",
+    "slot": "skill_2",
+    "name_ja": "星学",
+    "name_en": "星学",
+    "text": ""
+  },
+  {
+    "id": "andalus_skill3",
+    "owner": "andalus",
+    "slot": "ultimate",
+    "name_ja": "共存",
+    "name_en": "共存",
+    "text": ""
+  },
+  {
+    "id": "andalus_passive",
+    "owner": "andalus",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "異なる土地の味方がいると回復"
+  },
+  {
+    "id": "mali_normal",
+    "owner": "mali",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "mali_skill1",
+    "owner": "mali",
+    "slot": "skill_1",
+    "name_ja": "黄金",
+    "name_en": "黄金",
+    "text": ""
+  },
+  {
+    "id": "mali_skill2",
+    "owner": "mali",
+    "slot": "skill_2",
+    "name_ja": "学都",
+    "name_en": "学都",
+    "text": ""
+  },
+  {
+    "id": "mali_skill3",
+    "owner": "mali",
+    "slot": "ultimate",
+    "name_ja": "砂漠の王",
+    "name_en": "砂漠の王",
+    "text": ""
+  },
+  {
+    "id": "mali_passive",
+    "owner": "mali",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "確保RELICが味方を癒す"
+  },
+  {
+    "id": "manchester_normal",
+    "owner": "manchester",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "manchester_skill1",
+    "owner": "manchester",
+    "slot": "skill_1",
+    "name_ja": "蒸気",
+    "name_en": "蒸気",
+    "text": ""
+  },
+  {
+    "id": "manchester_skill2",
+    "owner": "manchester",
+    "slot": "skill_2",
+    "name_ja": "工場",
+    "name_en": "工場",
+    "text": ""
+  },
+  {
+    "id": "manchester_skill3",
+    "owner": "manchester",
+    "slot": "ultimate",
+    "name_ja": "産業",
+    "name_en": "産業",
+    "text": ""
+  },
+  {
+    "id": "manchester_passive",
+    "owner": "manchester",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "時間が経つほど攻撃が上がる"
+  },
+  {
+    "id": "vienna_normal",
+    "owner": "vienna",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "vienna_skill1",
+    "owner": "vienna",
+    "slot": "skill_1",
+    "name_ja": "円舞",
+    "name_en": "円舞",
+    "text": ""
+  },
+  {
+    "id": "vienna_skill2",
+    "owner": "vienna",
+    "slot": "skill_2",
+    "name_ja": "会議",
+    "name_en": "会議",
+    "text": ""
+  },
+  {
+    "id": "vienna_skill3",
+    "owner": "vienna",
+    "slot": "ultimate",
+    "name_ja": "帝都楽",
+    "name_en": "帝都楽",
+    "text": ""
+  },
+  {
+    "id": "vienna_passive",
+    "owner": "vienna",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "味方が技能を使うと回復"
+  },
+  {
+    "id": "berlin_normal",
+    "owner": "berlin",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "berlin_skill1",
+    "owner": "berlin",
+    "slot": "skill_1",
+    "name_ja": "線都",
+    "name_en": "線都",
+    "text": ""
+  },
+  {
+    "id": "berlin_skill2",
+    "owner": "berlin",
+    "slot": "skill_2",
+    "name_ja": "設計",
+    "name_en": "設計",
+    "text": ""
+  },
+  {
+    "id": "berlin_skill3",
+    "owner": "berlin",
+    "slot": "ultimate",
+    "name_ja": "近代",
+    "name_en": "近代",
+    "text": ""
+  },
+  {
+    "id": "berlin_passive",
+    "owner": "berlin",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "確保したRELICの喪失が遅い"
+  },
+  {
+    "id": "petersburg_normal",
+    "owner": "petersburg",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "petersburg_skill1",
+    "owner": "petersburg",
+    "slot": "skill_1",
+    "name_ja": "白夜",
+    "name_en": "白夜",
+    "text": ""
+  },
+  {
+    "id": "petersburg_skill2",
+    "owner": "petersburg",
+    "slot": "skill_2",
+    "name_ja": "運河",
+    "name_en": "運河",
+    "text": ""
+  },
+  {
+    "id": "petersburg_skill3",
+    "owner": "petersburg",
+    "slot": "ultimate",
+    "name_ja": "窓都",
+    "name_en": "窓都",
+    "text": ""
+  },
+  {
+    "id": "petersburg_passive",
+    "owner": "petersburg",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "ERA SHIFTの効果時間が延びる"
+  },
+  {
+    "id": "chicago_normal",
+    "owner": "chicago",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "chicago_skill1",
+    "owner": "chicago",
+    "slot": "skill_1",
+    "name_ja": "塔市",
+    "name_en": "塔市",
+    "text": ""
+  },
+  {
+    "id": "chicago_skill2",
+    "owner": "chicago",
+    "slot": "skill_2",
+    "name_ja": "大火",
+    "name_en": "大火",
+    "text": ""
+  },
+  {
+    "id": "chicago_skill3",
+    "owner": "chicago",
+    "slot": "ultimate",
+    "name_ja": "再興",
+    "name_en": "再興",
+    "text": ""
+  },
+  {
+    "id": "chicago_passive",
+    "owner": "chicago",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "被弾後に攻撃が跳ねる"
+  },
+  {
+    "id": "boston_normal",
+    "owner": "boston",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "boston_skill1",
+    "owner": "boston",
+    "slot": "skill_1",
+    "name_ja": "茶会",
+    "name_en": "茶会",
+    "text": ""
+  },
+  {
+    "id": "boston_skill2",
+    "owner": "boston",
+    "slot": "skill_2",
+    "name_ja": "独立",
+    "name_en": "独立",
+    "text": ""
+  },
+  {
+    "id": "boston_skill3",
+    "owner": "boston",
+    "slot": "ultimate",
+    "name_ja": "港の灯",
+    "name_en": "港の灯",
+    "text": ""
+  },
+  {
+    "id": "boston_passive",
+    "owner": "boston",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "味方が倒れると防御が上がる"
+  },
+  {
+    "id": "lisbon_normal",
+    "owner": "lisbon",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "lisbon_skill1",
+    "owner": "lisbon",
+    "slot": "skill_1",
+    "name_ja": "出航",
+    "name_en": "出航",
+    "text": ""
+  },
+  {
+    "id": "lisbon_skill2",
+    "owner": "lisbon",
+    "slot": "skill_2",
+    "name_ja": "大地震",
+    "name_en": "大地震",
+    "text": ""
+  },
+  {
+    "id": "lisbon_skill3",
+    "owner": "lisbon",
+    "slot": "ultimate",
+    "name_ja": "再興の丘",
+    "name_en": "再興の丘",
+    "text": ""
+  },
+  {
+    "id": "lisbon_passive",
+    "owner": "lisbon",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "試合開始直後の捕獲が速い"
+  },
+  {
+    "id": "amsterdam_normal",
+    "owner": "amsterdam",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "amsterdam_skill1",
+    "owner": "amsterdam",
+    "slot": "skill_1",
+    "name_ja": "運河",
+    "name_en": "運河",
+    "text": ""
+  },
+  {
+    "id": "amsterdam_skill2",
+    "owner": "amsterdam",
+    "slot": "skill_2",
+    "name_ja": "市場",
+    "name_en": "市場",
+    "text": ""
+  },
+  {
+    "id": "amsterdam_skill3",
+    "owner": "amsterdam",
+    "slot": "ultimate",
+    "name_ja": "造船",
+    "name_en": "造船",
+    "text": ""
+  },
+  {
+    "id": "amsterdam_passive",
+    "owner": "amsterdam",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "水際の捕獲が速い"
+  },
+  {
+    "id": "genoa_normal",
+    "owner": "genoa",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "genoa_skill1",
+    "owner": "genoa",
+    "slot": "skill_1",
+    "name_ja": "海商",
+    "name_en": "海商",
+    "text": ""
+  },
+  {
+    "id": "genoa_skill2",
+    "owner": "genoa",
+    "slot": "skill_2",
+    "name_ja": "地図",
+    "name_en": "地図",
+    "text": ""
+  },
+  {
+    "id": "genoa_skill3",
+    "owner": "genoa",
+    "slot": "ultimate",
+    "name_ja": "競争",
+    "name_en": "競争",
+    "text": ""
+  },
+  {
+    "id": "genoa_passive",
+    "owner": "genoa",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "長い移動のあと致命打"
+  },
+  {
+    "id": "newyork_normal",
+    "owner": "newyork",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "newyork_skill1",
+    "owner": "newyork",
+    "slot": "skill_1",
+    "name_ja": "塔",
+    "name_en": "塔",
+    "text": ""
+  },
+  {
+    "id": "newyork_skill2",
+    "owner": "newyork",
+    "slot": "skill_2",
+    "name_ja": "交差",
+    "name_en": "交差",
+    "text": ""
+  },
+  {
+    "id": "newyork_skill3",
+    "owner": "newyork",
+    "slot": "ultimate",
+    "name_ja": "フロンティア",
+    "name_en": "フロンティア",
+    "text": ""
+  },
+  {
+    "id": "newyork_passive",
+    "owner": "newyork",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "攻撃するたびUltimateが貯まる"
+  },
+  {
+    "id": "paris_normal",
+    "owner": "paris",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "paris_skill1",
+    "owner": "paris",
+    "slot": "skill_1",
+    "name_ja": "灯火",
+    "name_en": "灯火",
+    "text": ""
+  },
+  {
+    "id": "paris_skill2",
+    "owner": "paris",
+    "slot": "skill_2",
+    "name_ja": "革命",
+    "name_en": "革命",
+    "text": ""
+  },
+  {
+    "id": "paris_skill3",
+    "owner": "paris",
+    "slot": "ultimate",
+    "name_ja": "花都",
+    "name_en": "花都",
+    "text": ""
+  },
+  {
+    "id": "paris_passive",
+    "owner": "paris",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "味方が技能を使うと回復"
+  },
+  {
+    "id": "london_normal",
+    "owner": "london",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "london_skill1",
+    "owner": "london",
+    "slot": "skill_1",
+    "name_ja": "霧都",
+    "name_en": "霧都",
+    "text": ""
+  },
+  {
+    "id": "london_skill2",
+    "owner": "london",
+    "slot": "skill_2",
+    "name_ja": "書庫",
+    "name_en": "書庫",
+    "text": ""
+  },
+  {
+    "id": "london_skill3",
+    "owner": "london",
+    "slot": "ultimate",
+    "name_ja": "大時計",
+    "name_en": "大時計",
+    "text": ""
+  },
+  {
+    "id": "london_passive",
+    "owner": "london",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "ERA SHIFTの効果時間が延びる"
+  },
+  {
+    "id": "singapore_normal",
+    "owner": "singapore",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "singapore_skill1",
+    "owner": "singapore",
+    "slot": "skill_1",
+    "name_ja": "港湾国家",
+    "name_en": "港湾国家",
+    "text": ""
+  },
+  {
+    "id": "singapore_skill2",
+    "owner": "singapore",
+    "slot": "skill_2",
+    "name_ja": "庭園",
+    "name_en": "庭園",
+    "text": ""
+  },
+  {
+    "id": "singapore_skill3",
+    "owner": "singapore",
+    "slot": "ultimate",
+    "name_ja": "結節点",
+    "name_en": "結節点",
+    "text": ""
+  },
+  {
+    "id": "singapore_passive",
+    "owner": "singapore",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "味方が散らばっても計画が切れない"
+  },
+  {
+    "id": "seoul_normal",
+    "owner": "seoul",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "seoul_skill1",
+    "owner": "seoul",
+    "slot": "skill_1",
+    "name_ja": "四門",
+    "name_en": "四門",
+    "text": ""
+  },
+  {
+    "id": "seoul_skill2",
+    "owner": "seoul",
+    "slot": "skill_2",
+    "name_ja": "盆地",
+    "name_en": "盆地",
+    "text": ""
+  },
+  {
+    "id": "seoul_skill3",
+    "owner": "seoul",
+    "slot": "ultimate",
+    "name_ja": "漢陽残光",
+    "name_en": "漢陽残光",
+    "text": ""
+  },
+  {
+    "id": "seoul_passive",
+    "owner": "seoul",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "端にいる味方の防御が上がる"
+  },
+  {
+    "id": "mexico_normal",
+    "owner": "mexico",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "mexico_skill1",
+    "owner": "mexico",
+    "slot": "skill_1",
+    "name_ja": "壁画",
+    "name_en": "壁画",
+    "text": ""
+  },
+  {
+    "id": "mexico_skill2",
+    "owner": "mexico",
+    "slot": "skill_2",
+    "name_ja": "層都",
+    "name_en": "層都",
+    "text": ""
+  },
+  {
+    "id": "mexico_skill3",
+    "owner": "mexico",
+    "slot": "ultimate",
+    "name_ja": "高原",
+    "name_en": "高原",
+    "text": ""
+  },
+  {
+    "id": "mexico_passive",
+    "owner": "mexico",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "確保文明が多いほど計画が速い"
+  },
+  {
+    "id": "dubai_normal",
+    "owner": "dubai",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "dubai_skill1",
+    "owner": "dubai",
+    "slot": "skill_1",
+    "name_ja": "超塔",
+    "name_en": "超塔",
+    "text": ""
+  },
+  {
+    "id": "dubai_skill2",
+    "owner": "dubai",
+    "slot": "skill_2",
+    "name_ja": "人工島",
+    "name_en": "人工島",
+    "text": ""
+  },
+  {
+    "id": "dubai_skill3",
+    "owner": "dubai",
+    "slot": "ultimate",
+    "name_ja": "砂の未来",
+    "name_en": "砂の未来",
+    "text": ""
+  },
+  {
+    "id": "dubai_passive",
+    "owner": "dubai",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "捕獲と攻撃を同時に伸ばす"
+  },
+  {
+    "id": "orbital_normal",
+    "owner": "orbital",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "orbital_skill1",
+    "owner": "orbital",
+    "slot": "skill_1",
+    "name_ja": "軌道",
+    "name_en": "軌道",
+    "text": ""
+  },
+  {
+    "id": "orbital_skill2",
+    "owner": "orbital",
+    "slot": "skill_2",
+    "name_ja": "観測",
+    "name_en": "観測",
+    "text": ""
+  },
+  {
+    "id": "orbital_skill3",
+    "owner": "orbital",
+    "slot": "ultimate",
+    "name_ja": "星図庫",
+    "name_en": "星図庫",
+    "text": ""
+  },
+  {
+    "id": "orbital_passive",
+    "owner": "orbital",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "全域のRELIC状況が見える"
+  },
+  {
+    "id": "machine_normal",
+    "owner": "machine",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "machine_skill1",
+    "owner": "machine",
+    "slot": "skill_1",
+    "name_ja": "機関",
+    "name_en": "機関",
+    "text": ""
+  },
+  {
+    "id": "machine_skill2",
+    "owner": "machine",
+    "slot": "skill_2",
+    "name_ja": "冷却",
+    "name_en": "冷却",
+    "text": ""
+  },
+  {
+    "id": "machine_skill3",
+    "owner": "machine",
+    "slot": "ultimate",
+    "name_ja": "規律環",
+    "name_en": "規律環",
+    "text": ""
+  },
+  {
+    "id": "machine_passive",
+    "owner": "machine",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "RELICの喪失速度を落とす"
+  },
+  {
+    "id": "aeterna_normal",
+    "owner": "aeterna",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "aeterna_skill1",
+    "owner": "aeterna",
+    "slot": "skill_1",
+    "name_ja": "記憶核",
+    "name_en": "記憶核",
+    "text": ""
+  },
+  {
+    "id": "aeterna_skill2",
+    "owner": "aeterna",
+    "slot": "skill_2",
+    "name_ja": "永遠契約",
+    "name_en": "永遠契約",
+    "text": ""
+  },
+  {
+    "id": "aeterna_skill3",
+    "owner": "aeterna",
+    "slot": "ultimate",
+    "name_ja": "世界再結",
+    "name_en": "世界再結",
+    "text": ""
+  },
+  {
+    "id": "aeterna_passive",
+    "owner": "aeterna",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "全連鎖の効果をわずかに底上げする"
+  },
+  {
+    "id": "lunar_normal",
+    "owner": "lunar",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "lunar_skill1",
+    "owner": "lunar",
+    "slot": "skill_1",
+    "name_ja": "月面",
+    "name_en": "月面",
+    "text": ""
+  },
+  {
+    "id": "lunar_skill2",
+    "owner": "lunar",
+    "slot": "skill_2",
+    "name_ja": "静都",
+    "name_en": "静都",
+    "text": ""
+  },
+  {
+    "id": "lunar_skill3",
+    "owner": "lunar",
+    "slot": "ultimate",
+    "name_ja": "観測塔",
+    "name_en": "観測塔",
+    "text": ""
+  },
+  {
+    "id": "lunar_passive",
+    "owner": "lunar",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "上側にいると非常に硬い"
+  },
+  {
+    "id": "ark_normal",
+    "owner": "ark",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "ark_skill1",
+    "owner": "ark",
+    "slot": "skill_1",
+    "name_ja": "方舟",
+    "name_en": "方舟",
+    "text": ""
+  },
+  {
+    "id": "ark_skill2",
+    "owner": "ark",
+    "slot": "skill_2",
+    "name_ja": "種火",
+    "name_en": "種火",
+    "text": ""
+  },
+  {
+    "id": "ark_skill3",
+    "owner": "ark",
+    "slot": "ultimate",
+    "name_ja": "再出発",
+    "name_en": "再出発",
+    "text": ""
+  },
+  {
+    "id": "ark_passive",
+    "owner": "ark",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "倒れた味方を蘇生しやすくする"
+  },
+  {
+    "id": "nexus_city_normal",
+    "owner": "nexus_city",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "nexus_city_skill1",
+    "owner": "nexus_city",
+    "slot": "skill_1",
+    "name_ja": "結節",
+    "name_en": "結節",
+    "text": ""
+  },
+  {
+    "id": "nexus_city_skill2",
+    "owner": "nexus_city",
+    "slot": "skill_2",
+    "name_ja": "接続",
+    "name_en": "接続",
+    "text": ""
+  },
+  {
+    "id": "nexus_city_skill3",
+    "owner": "nexus_city",
+    "slot": "ultimate",
+    "name_ja": "全史回線",
+    "name_en": "全史回線",
+    "text": ""
+  },
+  {
+    "id": "nexus_city_passive",
+    "owner": "nexus_city",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "異なる土地の味方が揃うと強化"
+  },
+  {
+    "id": "oblivion_normal",
+    "owner": "oblivion",
+    "slot": "normal_attack",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK",
+    "text": ""
+  },
+  {
+    "id": "oblivion_skill1",
+    "owner": "oblivion",
+    "slot": "skill_1",
+    "name_ja": "抹消",
+    "name_en": "抹消",
+    "text": ""
+  },
+  {
+    "id": "oblivion_skill2",
+    "owner": "oblivion",
+    "slot": "skill_2",
+    "name_ja": "奪取",
+    "name_en": "奪取",
+    "text": ""
+  },
+  {
+    "id": "oblivion_skill3",
+    "owner": "oblivion",
+    "slot": "ultimate",
+    "name_ja": "無史",
+    "name_en": "無史",
+    "text": ""
+  },
+  {
+    "id": "oblivion_passive",
+    "owner": "oblivion",
+    "slot": "passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "確保したRELICを腐敗させ、文明を戻す"
+  }
+]

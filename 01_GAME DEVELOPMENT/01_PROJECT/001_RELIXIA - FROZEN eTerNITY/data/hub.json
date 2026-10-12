@@ -1,0 +1,373 @@
+{
+  "help": "戦闘と編成以外の画面。画像パスにPNGを置くと、枠の文字が消えて絵になる。文言や商品やお知らせはここに足す。召喚の期間とラインナップは gacha.json。",
+  "title": {
+    "background": "assets/hub/title/bg.png",
+    "logo": "assets/hub/title/logo.png",
+    "portrait": "assets/hub/title/hero.png",
+    "kicker": "ETERNAL FROST",
+    "title": "永結のレリクシア",
+    "english": "RELIXIA",
+    "tagline": "失われた東京の記憶",
+    "foot": "Relixia for Eternal Frost",
+    "actions": [
+      {
+        "label": "GAME START",
+        "note": "はじめから",
+        "screen": "login"
+      },
+      {
+        "label": "CONTINUE",
+        "note": "戦闘へ",
+        "screen": "battle"
+      },
+      {
+        "label": "ACCOUNT",
+        "note": "お知らせ",
+        "screen": "login"
+      }
+    ]
+  },
+  "login": {
+    "background": "assets/hub/login/bg.png",
+    "portrait": "assets/hub/login/hero.png",
+    "heading": "LOGIN BONUS",
+    "claim": "受け取る",
+    "next": "home",
+    "days": [
+      {
+        "label": "1",
+        "item": "石"
+      },
+      {
+        "label": "2",
+        "item": "石"
+      },
+      {
+        "label": "3",
+        "item": "札"
+      },
+      {
+        "label": "4",
+        "item": "石"
+      },
+      {
+        "label": "5",
+        "item": "武器"
+      },
+      {
+        "label": "6",
+        "item": "石"
+      },
+      {
+        "label": "7",
+        "item": "星"
+      }
+    ],
+    "notices": [
+      {
+        "tag": "報酬",
+        "title": "ログインボーナス",
+        "body": "七日分の報酬枠です。アイコン画像を足せます。"
+      },
+      {
+        "tag": "告知",
+        "title": "イベント告知",
+        "body": "お知らせの文は hub.json の notices に足します。"
+      }
+    ]
+  },
+  "home": {
+    "background": "assets/hub/home/bg.png",
+    "hero": "assets/hub/home/hero.png",
+    "player": "assets/hub/home/player.png",
+    "stamina": "120/120",
+    "nav": [
+      {
+        "label": "編成",
+        "screen": "prepare",
+        "icon": "assets/hub/home/nav-party.png"
+      },
+      {
+        "label": "ホーム",
+        "screen": "home",
+        "icon": "assets/hub/home/nav-home.png"
+      },
+      {
+        "label": "ショップ",
+        "screen": "shop",
+        "icon": "assets/hub/home/nav-shop.png"
+      },
+      {
+        "label": "ガチャ",
+        "screen": "gacha",
+        "icon": "assets/hub/home/nav-gacha.png"
+      },
+      {
+        "label": "出撃",
+        "screen": "prepare",
+        "icon": "assets/hub/home/nav-battle.png",
+        "primary": true
+      }
+    ],
+    "side": [
+      {
+        "label": "お知らせ",
+        "screen": "login",
+        "icon": "assets/hub/home/side-news.png"
+      },
+      {
+        "label": "ミッション",
+        "screen": "extra",
+        "icon": "assets/hub/home/side-mission.png"
+      },
+      {
+        "label": "プレゼント",
+        "screen": "extra",
+        "icon": "assets/hub/home/side-gift.png"
+      },
+      {
+        "label": "ストーリー",
+        "screen": "story",
+        "icon": "assets/hub/home/side-story.png"
+      }
+    ]
+  },
+  "story": {
+    "background": "assets/hub/story/bg.png",
+    "actor": "assets/hub/story/actor.png"
+  },
+  "character": {
+    "background": "assets/hub/character/bg.png"
+  },
+  "gacha": {
+    "background": "assets/hub/gacha/bg.png",
+    "logo": "assets/hub/gacha/logo.png",
+    "logoTitle": "永結のレリクシア",
+    "logoEnglish": "Eternal Relixia",
+    "ticket": "assets/hub/gacha/ticket.png",
+    "tickets": 24,
+    "ticketLabel": "召喚札",
+    "once": "1回召喚",
+    "ten": "10回召喚",
+    "cost1": "1",
+    "cost10": "10",
+    "rates": "提供割合",
+    "history": "召喚履歴",
+    "detail": "詳細",
+    "close": "閉じる",
+    "nav": [
+      {
+        "id": "home",
+        "label": "ホーム",
+        "screen": "home"
+      },
+      {
+        "id": "news",
+        "label": "お知らせ",
+        "screen": "login"
+      },
+      {
+        "id": "menu",
+        "label": "メニュー",
+        "screen": "extra"
+      }
+    ]
+  },
+  "shop": {
+    "background": "assets/hub/shop/bg.png",
+    "tabs": [
+      {
+        "label": "パック",
+        "goods": [
+          {
+            "id": "pack-star",
+            "name": "星晶パック",
+            "price": "¥1,480",
+            "note": "星晶 1200"
+          },
+          {
+            "id": "pack-growth",
+            "name": "育成パック",
+            "price": "¥980",
+            "note": "強化素材"
+          },
+          {
+            "id": "pack-month",
+            "name": "月間パス",
+            "price": "¥610",
+            "note": "30日"
+          }
+        ]
+      },
+      {
+        "label": "アイテム",
+        "goods": [
+          {
+            "id": "potion",
+            "name": "回復薬",
+            "price": "500",
+            "note": "戦闘中に使用"
+          },
+          {
+            "id": "ticket",
+            "name": "召喚札",
+            "price": "300",
+            "note": "ガチャ1回"
+          },
+          {
+            "id": "stone",
+            "name": "強化石",
+            "price": "200",
+            "note": "装備強化"
+          }
+        ]
+      }
+    ]
+  },
+  "charge": {
+    "title": "購入",
+    "close": "閉じる",
+    "back": "商品へ戻る",
+    "buy": "購入する",
+    "banner": "assets/hub/charge/banner.png",
+    "note": "決済はあとから接続できます。商品はここに足せます。",
+    "groups": [
+      {
+        "id": "stellar",
+        "label": "星晶"
+      },
+      {
+        "id": "ticket",
+        "label": "召喚札"
+      },
+      {
+        "id": "coin",
+        "label": "コイン"
+      },
+      {
+        "id": "pass",
+        "label": "パス"
+      }
+    ],
+    "offers": [
+      {
+        "id": "stellar-120",
+        "group": "stellar",
+        "name": "星晶 120",
+        "price": "¥160",
+        "note": "星晶"
+      },
+      {
+        "id": "stellar-600",
+        "group": "stellar",
+        "name": "星晶 600",
+        "price": "¥800",
+        "note": "星晶"
+      },
+      {
+        "id": "stellar-1200",
+        "group": "stellar",
+        "name": "星晶 1200",
+        "price": "¥1,480",
+        "note": "星晶パック"
+      },
+      {
+        "id": "ticket-1",
+        "group": "ticket",
+        "name": "召喚札 1",
+        "price": "¥160",
+        "note": "ガチャ1回"
+      },
+      {
+        "id": "ticket-10",
+        "group": "ticket",
+        "name": "召喚札 10",
+        "price": "¥1,480",
+        "note": "ガチャ10回"
+      },
+      {
+        "id": "coin-pack",
+        "group": "coin",
+        "name": "コインパック",
+        "price": "¥480",
+        "note": "コイン"
+      },
+      {
+        "id": "month",
+        "group": "pass",
+        "name": "月間パス",
+        "price": "¥610",
+        "note": "30日"
+      }
+    ]
+  },
+  "extra": {
+    "background": "assets/hub/extra/bg.png",
+    "menus": [
+      {
+        "id": "mission",
+        "label": "ミッション"
+      },
+      {
+        "id": "codex",
+        "label": "図鑑"
+      },
+      {
+        "id": "friend",
+        "label": "フレンド"
+      },
+      {
+        "id": "config",
+        "label": "設定"
+      }
+    ],
+    "missions": [
+      {
+        "name": "戦闘に勝利する",
+        "progress": "0/1"
+      },
+      {
+        "name": "ストーリーを1話進める",
+        "progress": "0/1"
+      },
+      {
+        "name": "編成を確認する",
+        "progress": "0/1"
+      }
+    ],
+    "friends": [
+      {
+        "id": "guest",
+        "name": "ゲスト",
+        "rank": "ランク 1",
+        "note": "応援枠"
+      }
+    ],
+    "settings": [
+      {
+        "id": "sound",
+        "label": "音量",
+        "values": [
+          "オン",
+          "オフ"
+        ]
+      },
+      {
+        "id": "speed",
+        "label": "バトル速度",
+        "values": [
+          "×1",
+          "×2",
+          "×3"
+        ]
+      },
+      {
+        "id": "lang",
+        "label": "表示言語",
+        "values": [
+          "日本語"
+        ]
+      }
+    ]
+  }
+}

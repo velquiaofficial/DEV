@@ -1,0 +1,32 @@
+{
+  "id": "contemporary",
+  "code": "CONTEMPORARY",
+  "civ": "contemporary",
+  "launch": false,
+  "name": "現代都市",
+  "name_en": "CONTEMPORARY",
+  "members": [
+    "newyork",
+    "paris",
+    "london",
+    "singapore",
+    "seoul",
+    "mexico",
+    "dubai"
+  ],
+  "features": [
+    "Plaza",
+    "Transit",
+    "Glass Tower",
+    "Riverfront",
+    "Archive",
+    "Light"
+  ],
+  "civilization_shift": {
+    "ult": 8,
+    "capture": 8
+  },
+  "shift_text": "空白→街灯→交差点→現代都市→CONTEMPORARY DOMAIN",
+  "banner": "res://assets/characters/_keyart/contemporary.png",
+  "sheet": "res://assets/characters/_sheets/contemporary.png"
+}

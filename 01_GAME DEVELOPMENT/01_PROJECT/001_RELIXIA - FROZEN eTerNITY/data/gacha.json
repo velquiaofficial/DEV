@@ -1,0 +1,141 @@
+{
+  "help": "召喚の中身。banners を足すと左の一覧に増える。画像を省略すると assets/hub/gacha/banners/{id}.png、heroes/{id}.png、titles/{id}.png を読む。期間は periodLabel と starts と ends。一文にしたいときは period。ラインナップは lineup。レアリティの名前と枠は rarities。",
+  "words": {
+    "period": "ピックアップ期間",
+    "until": "〜",
+    "voice": "声",
+    "lineup": "ラインナップ"
+  },
+  "lineupPage": 8,
+  "rarities": [
+    { "id": "ssr", "label": "SSR", "high": true, "shine": true, "glow": "gold", "frame": "assets/hub/gacha/frame-ssr.png" },
+    { "id": "sr", "label": "SR", "high": true, "glow": "violet", "frame": "assets/hub/gacha/frame-sr.png" },
+    { "id": "r", "label": "R", "high": false, "frame": "assets/hub/gacha/frame-r.png" }
+  ],
+  "banners": [
+    {
+      "id": "dawn",
+      "name": "天照の曙光",
+      "badge": "ピックアップ",
+      "hero": "assets/hub/gacha/pickup.png",
+      "title": "天照の曙光",
+      "tagline": "失われた世界に、再び光を。",
+      "periodLabel": "ピックアップ期間",
+      "starts": "2024/10/01 12:00",
+      "ends": "2024/10/21 11:59",
+      "rateTitle": "ピックアップ対象の排出確率UP!",
+      "rateNote": "10回召喚で SR以上1体確定!",
+      "characterId": "amaterasu",
+      "rarity": "ssr",
+      "voice": "上田麗奈",
+      "quote": "忘れないで。この世界は、まだ終わっていない。",
+      "pity": true,
+      "offers": [
+        { "label": "SSR", "text": "3%" },
+        { "label": "SR", "text": "15%" },
+        { "label": "R", "text": "82%" }
+      ],
+      "lineup": [
+        { "id": "amaterasu", "rarity": "ssr" },
+        { "id": "athena", "rarity": "ssr" },
+        { "id": "isis", "rarity": "ssr" },
+        { "id": "roma", "rarity": "sr" },
+        { "id": "cleopatra", "rarity": "sr" },
+        { "id": "freyja", "rarity": "sr" },
+        { "id": "artemis", "rarity": "sr" }
+      ]
+    },
+    {
+      "id": "moon",
+      "name": "月影の契り",
+      "badge": "ピックアップ",
+      "title": "月影の契り",
+      "tagline": "月の下で、契りは結ばれる。",
+      "periodLabel": "ピックアップ期間",
+      "starts": "",
+      "ends": "",
+      "rateTitle": "ピックアップ対象の排出確率UP!",
+      "rateNote": "10回召喚で SR以上1体確定!",
+      "characterId": "artemis",
+      "rarity": "ssr",
+      "voice": "",
+      "quote": "",
+      "pity": true,
+      "offers": [
+        { "label": "SSR", "text": "3%" },
+        { "label": "SR", "text": "15%" }
+      ],
+      "lineup": [
+        { "id": "artemis", "rarity": "ssr" },
+        { "id": "freyja", "rarity": "ssr" },
+        { "id": "athena", "rarity": "sr" },
+        { "id": "roma", "rarity": "sr" },
+        { "id": "cleopatra", "rarity": "sr" }
+      ]
+    },
+    {
+      "id": "sea",
+      "name": "海天の詩",
+      "badge": "ピックアップ",
+      "title": "海天の詩",
+      "tagline": "潮騒が、名を呼んでいる。",
+      "periodLabel": "ピックアップ期間",
+      "rateTitle": "ピックアップ対象の排出確率UP!",
+      "rateNote": "10回召喚で SR以上1体確定!",
+      "characterId": "isis",
+      "rarity": "ssr",
+      "pity": true,
+      "offers": [
+        { "label": "SSR", "text": "3%" },
+        { "label": "SR", "text": "15%" }
+      ],
+      "lineup": [
+        { "id": "isis", "rarity": "ssr" },
+        { "id": "cleopatra", "rarity": "ssr" },
+        { "id": "amaterasu", "rarity": "sr" },
+        { "id": "roma", "rarity": "sr" }
+      ]
+    },
+    {
+      "id": "standard",
+      "name": "恒常召喚",
+      "badge": "レリクシアたち",
+      "title": "恒常召喚",
+      "tagline": "レリクシアたち",
+      "periodLabel": "常設",
+      "rateTitle": "常設の召喚",
+      "pity": false,
+      "offers": [
+        { "label": "SSR", "text": "2%" },
+        { "label": "SR", "text": "12%" }
+      ],
+      "lineup": [
+        { "id": "amaterasu", "rarity": "ssr" },
+        { "id": "athena", "rarity": "ssr" },
+        { "id": "isis", "rarity": "sr" },
+        { "id": "roma", "rarity": "sr" },
+        { "id": "cleopatra", "rarity": "sr" },
+        { "id": "freyja", "rarity": "sr" },
+        { "id": "artemis", "rarity": "sr" }
+      ]
+    },
+    {
+      "id": "friend",
+      "name": "友情召喚",
+      "title": "友情召喚",
+      "tagline": "仲間との召喚",
+      "periodLabel": "常設",
+      "rateTitle": "友情の召喚",
+      "pity": false,
+      "offers": [
+        { "label": "SR", "text": "10%" }
+      ],
+      "lineup": [
+        { "id": "roma", "rarity": "sr" },
+        { "id": "cleopatra", "rarity": "sr" },
+        { "id": "freyja", "rarity": "sr" },
+        { "id": "artemis", "rarity": "sr" }
+      ]
+    }
+  ]
+}

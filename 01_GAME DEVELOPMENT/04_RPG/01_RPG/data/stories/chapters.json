@@ -1,0 +1,946 @@
+[
+  {
+    "id": "ch0",
+    "title": "Chapter 0  大欠落",
+    "body": "色を失った東京。The Loss。巨大記憶ネットワークは崩れ、世界には欠片だけが残った。",
+    "bg": "res://assets/opening/001.png",
+    "pages": [
+      {
+        "speaker": "",
+        "text": "東京は、色を失っていた。",
+        "bg": "res://assets/opening/001.png"
+      },
+      {
+        "speaker": "",
+        "text": "信号は点かず、霓虹は死に、交差点を渡るのは風だけだ。人の声は、もう残っていない。",
+        "bg": "res://assets/opening/002.png"
+      },
+      {
+        "speaker": "",
+        "text": "昨日まであった看板の文字が、薄くなっていく。読もうとすると、意味のほうが先に消える。",
+        "bg": "res://assets/opening/003.png"
+      },
+      {
+        "speaker": "",
+        "text": "人類は記憶を、巨大なネットワークへ預けていた。個人の生涯も、都市の歴史も、文明の形も。すべてが一つの層だった。",
+        "bg": "res://assets/opening/004.png"
+      },
+      {
+        "speaker": "",
+        "text": "顔写真、家族の声、昨日の天気。そういう薄い記憶から、先に死んだ。",
+        "bg": "res://assets/opening/005.png"
+      },
+      {
+        "speaker": "",
+        "text": "残ったのは、厚く圧縮された核だけだ。神社。神殿。秤。星。槍。",
+        "bg": "res://assets/opening/006.png"
+      },
+      {
+        "speaker": "",
+        "text": "それが崩れた日を、後の少女たちは大欠落——The Loss——と呼ぶ。戦争の名前ではない。システムの死だ。",
+        "bg": "res://assets/opening/007.png"
+      },
+      {
+        "speaker": "",
+        "text": "あなたは名前を持たない。ポケットの中の遺物だけが、微かに熱を返す。",
+        "bg": "res://assets/opening/008.png"
+      },
+      {
+        "speaker": "",
+        "text": "円い金属。太陽の紋。指を置くと、灰色の風が一度だけ、金色に濁る。",
+        "bg": "res://assets/opening/009.png"
+      },
+      {
+        "speaker": "",
+        "text": "RELICは、文明の記憶を圧縮した核だ。起動すれば、この世界は別の歴史を着始める。",
+        "bg": "res://assets/opening/010.png"
+      },
+      {
+        "speaker": "",
+        "text": "まだ、名前は呼べない。呼ぶ相手が、いない。",
+        "bg": "res://assets/opening/011.png"
+      },
+      {
+        "speaker": "",
+        "text": "それでも熱は消えない。誰かが、鏡の内側で待っている。",
+        "bg": "res://assets/opening/012.png"
+      }
+    ]
+  },
+  {
+    "id": "ch1",
+    "title": "Chapter 1  天照",
+    "body": "最初に反応したRELICは八咫鏡だった。少女は主人公を、まだ名前のない『先生』と呼ぶ。",
+    "bg": "res://assets/opening/013.png",
+    "pages": [
+      {
+        "speaker": "",
+        "text": "渋谷の交差点で、円い鏡が浮いた。錆びた青銅に、太陽の紋が残っている。",
+        "bg": "res://assets/opening/013.png"
+      },
+      {
+        "speaker": "",
+        "text": "熱が、手のひらから鏡へ移る。古代の文字が、一度だけ読めた。八咫。",
+        "bg": "res://assets/opening/014.png"
+      },
+      {
+        "speaker": "",
+        "text": "光が割れ、少女が降りた。白と紅の装束。灰色の風の中でだけ、金色の瞳をしていた。",
+        "bg": "res://assets/opening/015.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "先生。",
+        "bg": "res://assets/opening/001.png"
+      },
+      {
+        "speaker": "",
+        "text": "声は小さい。それでも、死んだ街に、初めて誰かの名が落ちた。",
+        "bg": "res://assets/opening/002.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "この鏡は、まだ世界を覚えている。名前を呼べば、光は残る。",
+        "bg": "res://assets/opening/003.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "……私を、呼んで。紋様のままでいるのは、もう飽きた。",
+        "bg": "res://assets/opening/004.png"
+      },
+      {
+        "speaker": "",
+        "text": "あなたが口にしたのは、鏡に残っていた一字だけだった。天照。",
+        "bg": "res://assets/opening/005.png"
+      },
+      {
+        "speaker": "",
+        "text": "彼女は目を閉じ、また開いた。髪の金具が、初めて音を立てる。",
+        "bg": "res://assets/opening/006.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "私は太陽の記憶。ヤマトの神域が、人の形を取ったもの。召喚じゃない。復元。",
+        "bg": "res://assets/opening/007.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "先生は、まだ自分の名前を持っていない。いい。私は待てる。",
+        "bg": "res://assets/opening/008.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "代わりに、戦って。先生が残した光を、私が世界へ返す。",
+        "bg": "res://assets/opening/009.png"
+      },
+      {
+        "speaker": "",
+        "text": "鏡が胸の前で小さくなり、彼女の装束の金具に吸い込まれた。八咫鏡は、もう遺物ではなく、彼女の心臓だ。",
+        "bg": "res://assets/opening/010.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "ここは……失われた東京。でも、まだ終わってはいない。",
+        "bg": "res://assets/opening/011.png"
+      }
+    ]
+  },
+  {
+    "id": "ch2",
+    "title": "Chapter 2  日本文明再構築",
+    "body": "渋谷の廃墟に桜が走り、ビルの間に鳥居が立つ。同じ地図が、選んだRELICで別の歴史になる。",
+    "bg": "res://assets/opening/012.png",
+    "pages": [
+      {
+        "speaker": "",
+        "text": "八咫鏡が起動したとき、地面から光が走った。Memory Wave。",
+        "bg": "res://assets/opening/012.png"
+      },
+      {
+        "speaker": "",
+        "text": "灰色のアスファルトに、まず一輪。それから通りごと、桜の色が戻る。",
+        "bg": "res://assets/opening/013.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "見て。先生。ビルの間に、鳥居が立つ。",
+        "bg": "res://assets/opening/014.png"
+      },
+      {
+        "speaker": "",
+        "text": "壊れた信号の支柱が柱になり、横断歩道の白線が参道に変わる。地図は同じだ。歴史だけが違う。",
+        "bg": "res://assets/opening/015.png"
+      },
+      {
+        "speaker": "",
+        "text": "同じ渋谷でも、起動したRELICで世界は変わる。Layer。忘れられた東京の上に、ヤマトが重なる。",
+        "bg": "res://assets/opening/001.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "領域は、景色だけじゃない。戦い方も変わる。私の光は増し、傷は閉じ、次のRELICが早く熱を持つ。",
+        "bg": "res://assets/opening/002.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "神域の中では、先生も少しだけ名前に近づく。思い出せ、とは言わない。立っていればいい。",
+        "bg": "res://assets/opening/003.png"
+      },
+      {
+        "speaker": "",
+        "text": "遠くで、色が剥がれる音がした。復元した桜の一枝が、また灰になる。",
+        "bg": "res://assets/opening/004.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "……来ている。全部を、無かったことにしたがっているもの。",
+        "bg": "res://assets/opening/005.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "神域は、残すための場所。奪われれば、また灰色へ戻る。",
+        "bg": "res://assets/opening/006.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "だから確保して。鏡の周りを、私たちの側に。五つの核が揃うまで、ここを落とさないで。",
+        "bg": "res://assets/opening/007.png"
+      },
+      {
+        "speaker": "",
+        "text": "鳥居の下を風が抜ける。今度の風は、花の匂いがした。",
+        "bg": "res://assets/opening/008.png"
+      }
+    ]
+  },
+  {
+    "id": "ch3",
+    "title": "Chapter 3  第二のRELIC",
+    "body": "探索は続く。次の遺物は、別の文明の記憶を圧縮している。",
+    "bg": "res://assets/opening/009.png",
+    "pages": [
+      {
+        "speaker": "",
+        "text": "神域の端で、地面がもう一度熱を持った。桜ではない。石の、冷たい熱だ。",
+        "bg": "res://assets/opening/009.png"
+      },
+      {
+        "speaker": "",
+        "text": "東京の地下通路。崩れた改札の向こうに、別の核があった。大理石の感触。梟の浮き彫り。",
+        "bg": "res://assets/opening/010.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "日本だけが、世界ではない。先生は、知っているはずだ。",
+        "bg": "res://assets/opening/011.png"
+      },
+      {
+        "speaker": "",
+        "text": "八咫鏡が、盾の形をした遺物に反応して鳴る。同じ周波数。違う文明。",
+        "bg": "res://assets/opening/012.png"
+      },
+      {
+        "speaker": "",
+        "text": "RELICは、召喚しない。",
+        "bg": "res://assets/opening/013.png"
+      },
+      {
+        "speaker": "",
+        "text": "まず発掘。土と瓦礫を除き、核を光にさらす。",
+        "bg": "res://assets/opening/014.png"
+      },
+      {
+        "speaker": "",
+        "text": "次に古代文字の解析。読めない文字が、先生の指先だけで意味に戻る。",
+        "bg": "res://assets/opening/015.png"
+      },
+      {
+        "speaker": "",
+        "text": "それから記憶同期。遺物の中の都市が、あなたの残光と噛み合う。",
+        "bg": "res://assets/opening/001.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "世界が変化し、シルエットが立ち、目が開いて、最後に名前が落ちる。その順を、飛ばしてはいけない。",
+        "bg": "res://assets/opening/002.png"
+      },
+      {
+        "speaker": "",
+        "text": "第二の遺物は、まだ名前を呼んでいない。盾は伏せたまま、梟の目だけがこちらを見ている。",
+        "bg": "res://assets/opening/003.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "呼んだ瞬間、別の歴史が東京を上書きする。準備は、いい？",
+        "bg": "res://assets/opening/004.png"
+      },
+      {
+        "speaker": "",
+        "text": "あなたは盾に手を置いた。石が、議論を始めるように振動した。",
+        "bg": "res://assets/opening/005.png"
+      }
+    ]
+  },
+  {
+    "id": "ch4",
+    "title": "Chapter 4  アテナ",
+    "body": "盾が都市を大理石へ書き換える。梟の目は、折れる歴史の音を聞く。",
+    "bg": "res://assets/opening/006.png",
+    "pages": [
+      {
+        "speaker": "アテナ",
+        "text": "……先生。盾は、折れた歴史の音を聞いている。",
+        "bg": "res://assets/opening/006.png"
+      },
+      {
+        "speaker": "",
+        "text": "白い装甲の少女が、交差点に円い盾を立てた。声は静かで、結論から話す。",
+        "bg": "res://assets/opening/007.png"
+      },
+      {
+        "speaker": "",
+        "text": "石畳が伸び、柱が立つ。ビルのガラスに、神殿の影が重なった。",
+        "bg": "res://assets/opening/008.png"
+      },
+      {
+        "speaker": "アテナ",
+        "text": "私はアテナ。ヘラスの知恵が、人の形をしたもの。梟は、都市が折れる音を聞く。",
+        "bg": "res://assets/opening/009.png"
+      },
+      {
+        "speaker": "アテナ",
+        "text": "ヘラスは、議論する文明だ。残すなら、戦い方も選べ。黙って光を撒くな。",
+        "bg": "res://assets/opening/010.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "光は、撒くものじゃない。返すものよ。",
+        "bg": "res://assets/opening/011.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "同じ地図を、二人で奪い合うことになる。",
+        "bg": "res://assets/opening/012.png"
+      },
+      {
+        "speaker": "アテナ",
+        "text": "それでいい。一つの歴史だけでは、この街は薄い。",
+        "bg": "res://assets/opening/013.png"
+      },
+      {
+        "speaker": "アテナ",
+        "text": "先生。ヤマトの神域を残すか、ヘラスの柱を残すか。今は両方を立てておけ。境界は、私が測る。",
+        "bg": "res://assets/opening/014.png"
+      },
+      {
+        "speaker": "",
+        "text": "盾を持つ彼女の足元で、オリーブの葉が一枚、桜の花弁と並んだ。",
+        "bg": "res://assets/opening/015.png"
+      },
+      {
+        "speaker": "アテナ",
+        "text": "歴史は、重なって初めて本物になる。先生は、その重なりを記録する人だ。",
+        "bg": "res://assets/opening/001.png"
+      },
+      {
+        "speaker": "",
+        "text": "天照は鏡を胸に抱き、初めて同格の誰かを見た顔をした。",
+        "bg": "res://assets/opening/002.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "歓迎はしない。でも、排除もしない。先生が連れてきたなら。",
+        "bg": "res://assets/opening/003.png"
+      }
+    ]
+  },
+  {
+    "id": "ch5",
+    "title": "Chapter 5  文明衝突",
+    "body": "二つの領域が接触する。黄金と青白い光。融合すれば、歴史上存在しなかった文明が生まれる。",
+    "bg": "res://assets/opening/004.png",
+    "pages": [
+      {
+        "speaker": "",
+        "text": "渋谷の半分は桜と鳥居。半分は大理石とオリーブ。境界で、光が擦れた。",
+        "bg": "res://assets/opening/004.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "領域が触れている。このままでは、どちらかが剥がれる。",
+        "bg": "res://assets/opening/005.png"
+      },
+      {
+        "speaker": "アテナ",
+        "text": "衝突させるか。重ねるか。先生が決める。私は、どちらにも盾を向けられる。",
+        "bg": "res://assets/opening/006.png"
+      },
+      {
+        "speaker": "",
+        "text": "衝突は速い。領域がぶつかり、弱い層が灰に戻る。融合は遅い。二つの核を、同時に生きたままにする。",
+        "bg": "res://assets/opening/007.png"
+      },
+      {
+        "speaker": "",
+        "text": "Civilization Fusion。ヤマトとヘラスが一つの層になると、白い神殿の前に鳥居が立つ。",
+        "bg": "res://assets/opening/008.png"
+      },
+      {
+        "speaker": "アテナ",
+        "text": "桜の下にオリーブが実り、参道の石が大理石になる。回復と防御が、同じ風に混ざる。",
+        "bg": "res://assets/opening/009.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "きれい。でも、境界の名前が溶けるのが怖い。私は天照のままでいたい。",
+        "bg": "res://assets/opening/010.png"
+      },
+      {
+        "speaker": "アテナ",
+        "text": "溶かすのではない。併記する。神域であり、アゴラでもある、と。",
+        "bg": "res://assets/opening/011.png"
+      },
+      {
+        "speaker": "",
+        "text": "歴史上、存在しなかった文明。それでも記憶は、それを『在った』と書き直す。",
+        "bg": "res://assets/opening/012.png"
+      },
+      {
+        "speaker": "",
+        "text": "先生が境界に立つと、二つの光が同じ高さになった。選択は、まだ確定していない。",
+        "bg": "res://assets/opening/013.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "記録して。この重なりを。次に奪われても、もう一度重ねられるように。",
+        "bg": "res://assets/opening/014.png"
+      },
+      {
+        "speaker": "アテナ",
+        "text": "忘却が境界を舐めている。融合した場所ほど、美味いと言うように。",
+        "bg": "res://assets/opening/015.png"
+      }
+    ]
+  },
+  {
+    "id": "ch6",
+    "title": "Chapter 6  崩壊の真実",
+    "body": "RELICだけが主人公に反応する。少女たちは知っている。先生は、世界崩壊前の記憶システムに触れていた。",
+    "bg": "res://assets/opening/001.png",
+    "pages": [
+      {
+        "speaker": "",
+        "text": "夜、神域の鳥居が一度、透明になった。色が、内側から抜ける。",
+        "bg": "res://assets/opening/001.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "先生は、名前を忘れている。私たちは、忘れられない。",
+        "bg": "res://assets/opening/002.png"
+      },
+      {
+        "speaker": "アテナ",
+        "text": "崩壊の前、記憶ネットワークの中心に人がいた。鍵を持っていた。RELICは、その残光にしか開かない。",
+        "bg": "res://assets/opening/003.png"
+      },
+      {
+        "speaker": "",
+        "text": "あなたはシステムの管理者だったのか。事故の目撃者だったのか。鏡は、その区別をしない。",
+        "bg": "res://assets/opening/004.png"
+      },
+      {
+        "speaker": "アテナ",
+        "text": "記録層の最深部に、一つの権限があった。文明を書き、文明を消す権限。",
+        "bg": "res://assets/opening/005.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "先生の手は、今もその権限の形をしている。だから遺物が熱を持つ。",
+        "bg": "res://assets/opening/006.png"
+      },
+      {
+        "speaker": "忘却",
+        "text": "存在しなかったことに、すればいい。",
+        "bg": "res://assets/opening/007.png"
+      },
+      {
+        "speaker": "",
+        "text": "黒い衣の少女が、境界の上に立っていた。目の代わりに、赤い残り火。",
+        "bg": "res://assets/opening/008.png"
+      },
+      {
+        "speaker": "忘却",
+        "text": "私は忘却。大欠落が人の形をしたもの。復元はノイズだ。静かに戻せ。",
+        "bg": "res://assets/opening/009.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "しない。",
+        "bg": "res://assets/opening/010.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "先生が残した光を、私が世界へ返す。何度剥がしても。",
+        "bg": "res://assets/opening/011.png"
+      },
+      {
+        "speaker": "忘却",
+        "text": "鍵を折れば、痛みも終わる。先生。あなたが最初に、消したがっていた。",
+        "bg": "res://assets/opening/012.png"
+      },
+      {
+        "speaker": "",
+        "text": "盾が鳴った。アテナは答えず、ただ先生の前に半歩出た。",
+        "bg": "res://assets/opening/013.png"
+      },
+      {
+        "speaker": "アテナ",
+        "text": "真実は、まだ半分だ。でも、敵の名前は分かった。忘却は、消えない。",
+        "bg": "res://assets/opening/014.png"
+      }
+    ]
+  },
+  {
+    "id": "ch7",
+    "title": "Chapter 7  アヌビス",
+    "body": "審判の秤が砂を呼ぶ。死者の名は、まだ東京の下にある。",
+    "bg": "res://assets/opening/015.png",
+    "pages": [
+      {
+        "speaker": "",
+        "text": "三本目の熱は、地下のさらに下から来た。乾いた、砂の匂い。",
+        "bg": "res://assets/opening/015.png"
+      },
+      {
+        "speaker": "アヌビス",
+        "text": "死者の名は、まだ砂の下だ。先生、掘れ。",
+        "bg": "res://assets/opening/001.png"
+      },
+      {
+        "speaker": "",
+        "text": "黄金の秤を持つ少女が、改札の闇から上がってきた。足音がしない。",
+        "bg": "res://assets/opening/002.png"
+      },
+      {
+        "speaker": "",
+        "text": "秤が傾くと、交差点に砂が流れ、オベリスクがビルの影から伸びた。",
+        "bg": "res://assets/opening/003.png"
+      },
+      {
+        "speaker": "アヌビス",
+        "text": "私はアヌビス。ケメトの審判だ。残す文明と、葬る文明を、ここで分ける。",
+        "bg": "res://assets/opening/004.png"
+      },
+      {
+        "speaker": "アヌビス",
+        "text": "先生の心臓は、まだ生きている。だから秤は、完全には沈まない。",
+        "bg": "res://assets/opening/005.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "死者まで戦わせるのか。",
+        "bg": "res://assets/opening/006.png"
+      },
+      {
+        "speaker": "アヌビス",
+        "text": "戦わせるのではない。名を返す。名のないままでは、裁けない。",
+        "bg": "res://assets/opening/007.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "日本とエジプトが重なれば、黄金の鳥居が立つ。砂漠の上の神域。冥界に届く参道。",
+        "bg": "res://assets/opening/008.png"
+      },
+      {
+        "speaker": "アテナ",
+        "text": "ヘラスの柱も、砂に耐えるか試す。知恵は、死者の前でこそ本音を言う。",
+        "bg": "res://assets/opening/009.png"
+      },
+      {
+        "speaker": "アヌビス",
+        "text": "冥界と神域。先生は、どちら側の名前を先に呼ぶ。",
+        "bg": "res://assets/opening/010.png"
+      },
+      {
+        "speaker": "",
+        "text": "秤の皿に、小さな光が乗った。八咫の残光だ。天照は、それを奪わなかった。",
+        "bg": "res://assets/opening/011.png"
+      },
+      {
+        "speaker": "アヌビス",
+        "text": "掘れ。埋めるな。忘却は、砂ごと世界を平らにしたがっている。",
+        "bg": "res://assets/opening/012.png"
+      }
+    ]
+  },
+  {
+    "id": "ch8",
+    "title": "Chapter 8  イシュタル",
+    "body": "金星章が門を開く。星が落ちた街に、王権が戻る。",
+    "bg": "res://assets/opening/013.png",
+    "pages": [
+      {
+        "speaker": "",
+        "text": "夜になっても、空は灰色のままだった。星は、上にない。",
+        "bg": "res://assets/opening/013.png"
+      },
+      {
+        "speaker": "イシュタル",
+        "text": "星が落ちた街ね。先生、私の名を先に呼べばいい。",
+        "bg": "res://assets/opening/014.png"
+      },
+      {
+        "speaker": "",
+        "text": "八稜の星が、夜空ではなく歩道のひびから昇った。ジッグラトの輪郭が、駅前に重なる。",
+        "bg": "res://assets/opening/015.png"
+      },
+      {
+        "speaker": "",
+        "text": "金の宝冠。獅子。彼女は怖がる素振りをせず、崩れたホームに腰を下ろした。",
+        "bg": "res://assets/opening/001.png"
+      },
+      {
+        "speaker": "イシュタル",
+        "text": "イシュタル。愛も戦争も、文明の核よ。残すなら、中途半端は許さない。",
+        "bg": "res://assets/opening/002.png"
+      },
+      {
+        "speaker": "イシュタル",
+        "text": "門を開けば、都市は通り道になる。閉じれば、王の居城になる。先生はどっちが好き？",
+        "bg": "res://assets/opening/003.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "光は門の前で待っている。通していい。でも、桜を踏まないで。",
+        "bg": "res://assets/opening/004.png"
+      },
+      {
+        "speaker": "イシュタル",
+        "text": "踏まない。飾る。私の星の下に、あなたの花は映える。",
+        "bg": "res://assets/opening/005.png"
+      },
+      {
+        "speaker": "アテナ",
+        "text": "王権の星と、知恵の盾。重なれば、都市は門になる。議論のできる城だ。",
+        "bg": "res://assets/opening/006.png"
+      },
+      {
+        "speaker": "アヌビス",
+        "text": "死者の門でもある。開くなら、帰る道を先に作れ。",
+        "bg": "res://assets/opening/007.png"
+      },
+      {
+        "speaker": "イシュタル",
+        "text": "細かいことは戦いながら決める。先生、金星の章を胸に入れて。次は私が前に出る。",
+        "bg": "res://assets/opening/008.png"
+      },
+      {
+        "speaker": "",
+        "text": "星が一つ、灰色の空に戻った。それだけで、街は少し高く見えた。",
+        "bg": "res://assets/opening/009.png"
+      }
+    ]
+  },
+  {
+    "id": "ch9",
+    "title": "Chapter 9  スカアハ",
+    "body": "影の槍が霧を裂く。異界の教師が、先生を試す。",
+    "bg": "res://assets/opening/010.png",
+    "pages": [
+      {
+        "speaker": "",
+        "text": "霧が、神域の花の匂いを消した。渋谷の輪郭が、影絵になる。",
+        "bg": "res://assets/opening/010.png"
+      },
+      {
+        "speaker": "スカアハ",
+        "text": "影の国は閉じた。先生、剣を持て。",
+        "bg": "res://assets/opening/011.png"
+      },
+      {
+        "speaker": "",
+        "text": "赤い槍が一本、路面に立っている。その向こうに、教師の目だ。",
+        "bg": "res://assets/opening/012.png"
+      },
+      {
+        "speaker": "スカアハ",
+        "text": "私はスカアハ。異界の槍を預かった者だ。文明を戻すだけなら、誰にでもできる。",
+        "bg": "res://assets/opening/013.png"
+      },
+      {
+        "speaker": "スカアハ",
+        "text": "残したあとに、守れるか。それを見に来た。",
+        "bg": "res://assets/opening/014.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "先生は、私たちの先生だ。試すなら、私も立つ。",
+        "bg": "res://assets/opening/015.png"
+      },
+      {
+        "speaker": "スカアハ",
+        "text": "光の娘が前に出るな。先生が自分の足で避けるところを見たい。",
+        "bg": "res://assets/opening/001.png"
+      },
+      {
+        "speaker": "アテナ",
+        "text": "盾は貸す。使うかどうかは、本人が決めろ。",
+        "bg": "res://assets/opening/002.png"
+      },
+      {
+        "speaker": "",
+        "text": "槍が振られ、風だけが頬を切った。ダメージはない。型だけが、身体に残る。",
+        "bg": "res://assets/opening/003.png"
+      },
+      {
+        "speaker": "スカアハ",
+        "text": "合格ではない。まだ立っている、というだけだ。",
+        "bg": "res://assets/opening/004.png"
+      },
+      {
+        "speaker": "スカアハ",
+        "text": "なら、私の弟子でもある。落ちたら、異界へ連れていく。そこでやり直させる。",
+        "bg": "res://assets/opening/005.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "連れていかないで。先生は、この街の鍵よ。",
+        "bg": "res://assets/opening/006.png"
+      },
+      {
+        "speaker": "スカアハ",
+        "text": "分かっている。だから殺さない。強くする。次の波まで、その足を使え。",
+        "bg": "res://assets/opening/007.png"
+      }
+    ]
+  },
+  {
+    "id": "ch10",
+    "title": "Chapter 10  文明融合",
+    "body": "複数の層が同時に生きる。存在しなかった歴史が、地図に書き込まれる。",
+    "bg": "res://assets/opening/008.png",
+    "pages": [
+      {
+        "speaker": "",
+        "text": "核が五つを超えた夜、渋谷は一枚の地図に収まらなくなった。",
+        "bg": "res://assets/opening/008.png"
+      },
+      {
+        "speaker": "",
+        "text": "ヤマトとヘラス。白い神殿の前の鳥居。桜の下のオリーブ。回復と、折られない盾。",
+        "bg": "res://assets/opening/009.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "ヤマトとケメト。黄金の鳥居。参道が砂漠へ続き、鳥居の向こうが冥界になる。",
+        "bg": "res://assets/opening/010.png"
+      },
+      {
+        "speaker": "アテナ",
+        "text": "ヘラスとケメト。柱の間を砂が流れ、議論の席に死者の席が並ぶ。",
+        "bg": "res://assets/opening/011.png"
+      },
+      {
+        "speaker": "イシュタル",
+        "text": "星の門を足すと、どの組み合わせも城門になる。私を入れ忘れるな。",
+        "bg": "res://assets/opening/012.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "融合は美しい。でも、境界を失えば、名前も溶ける。",
+        "bg": "res://assets/opening/013.png"
+      },
+      {
+        "speaker": "アテナ",
+        "text": "だから記録する。先生の選択を、RELICが覚える。同じ重なりを、もう一度呼べるように。",
+        "bg": "res://assets/opening/014.png"
+      },
+      {
+        "speaker": "アヌビス",
+        "text": "溶けた名前は、秤の上で数え直す。消えはしない。順番が変わるだけだ。",
+        "bg": "res://assets/opening/015.png"
+      },
+      {
+        "speaker": "",
+        "text": "戦うほど、世界が歴史を取り戻す。",
+        "bg": "res://assets/opening/001.png"
+      },
+      {
+        "speaker": "アテナ",
+        "text": "取り戻しすぎれば、世界は新しい神話になる。在ったことのない文明が、正史になる。",
+        "bg": "res://assets/opening/002.png"
+      },
+      {
+        "speaker": "イシュタル",
+        "text": "それが永結よ。結ぶ。ほどく。また結ぶ。先生の仕事は、その繰り返し。",
+        "bg": "res://assets/opening/003.png"
+      },
+      {
+        "speaker": "スカアハ",
+        "text": "影の槍も、融合の境界に刺さる。守る場所が増えるということは、背中も増える。",
+        "bg": "res://assets/opening/004.png"
+      },
+      {
+        "speaker": "",
+        "text": "地図に、存在しなかった国の名が一行、書き足された。インクは、まだ乾いていない。",
+        "bg": "res://assets/opening/005.png"
+      }
+    ]
+  },
+  {
+    "id": "ch11",
+    "title": "Chapter 11  六人の始祖",
+    "body": "FOUNDERS SIX。天照、アテナ、イシス、ローマ、西施、江戸。起動の核は、彼女たちにある。",
+    "bg": "res://assets/opening/006.png",
+    "pages": [
+      {
+        "speaker": "",
+        "text": "起動の核は六人。神話から近世まで、文明の柱が少女の形をしている。",
+        "bg": "res://assets/opening/006.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "私は光。八咫を心臓にして、神域を返す。",
+        "bg": "res://assets/opening/007.png"
+      },
+      {
+        "speaker": "アテナ",
+        "text": "私は盾。ヘラスの柱を、折れる前に聞く。",
+        "bg": "res://assets/opening/008.png"
+      },
+      {
+        "speaker": "イシス",
+        "text": "私は再生。イシス。死んだ層に、もう一度息を吹き込む。",
+        "bg": "res://assets/opening/009.png"
+      },
+      {
+        "speaker": "",
+        "text": "翼のある影が、鳥居の横に跪いた。倒れた桜が、彼女の指先から芽を出す。",
+        "bg": "res://assets/opening/010.png"
+      },
+      {
+        "speaker": "ローマ",
+        "text": "私は街道。ローマ。どの神域も、道がなければ兵も記憶も届かない。",
+        "bg": "res://assets/opening/011.png"
+      },
+      {
+        "speaker": "",
+        "text": "石の道が、参道とアゴラと砂の道を一本に縫った。",
+        "bg": "res://assets/opening/012.png"
+      },
+      {
+        "speaker": "西施",
+        "text": "私は湖。西施。華夏の都は、美しさごと記憶される。急がなくていい。深くして。",
+        "bg": "res://assets/opening/013.png"
+      },
+      {
+        "speaker": "",
+        "text": "水面が交差点に広がり、楼閣の影がビルの代わりに揺れた。",
+        "bg": "res://assets/opening/014.png"
+      },
+      {
+        "speaker": "江戸",
+        "text": "私は夜の灯。江戸。消えかけても、街の形は覚える。先生、花見は復元のあとでいい。",
+        "bg": "res://assets/opening/015.png"
+      },
+      {
+        "speaker": "",
+        "text": "提灯が、灰色だった窓に一つずつ戻る。",
+        "bg": "res://assets/opening/001.png"
+      },
+      {
+        "speaker": "",
+        "text": "六人が揃うと、眠っていた記憶が目を覚ます。百の名は、まだアーカイブの奥だ。",
+        "bg": "res://assets/opening/002.png"
+      },
+      {
+        "speaker": "アテナ",
+        "text": "ARCHIVED MEMORY。今はシルエット。始祖が道を開けば、あとから名前が降りる。",
+        "bg": "res://assets/opening/003.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "全員を一度には起こさない。先生の残光が、割れる。",
+        "bg": "res://assets/opening/004.png"
+      }
+    ]
+  },
+  {
+    "id": "ch12",
+    "title": "Chapter 12  永遠の戦い",
+    "body": "忘却は消えない。だから少女たちは永遠を戦う。",
+    "bg": "res://assets/opening/005.png",
+    "pages": [
+      {
+        "speaker": "",
+        "text": "六人の光が揃った朝、街の半分が再び灰になった。",
+        "bg": "res://assets/opening/005.png"
+      },
+      {
+        "speaker": "忘却",
+        "text": "復元しても、また灰色に戻す。それが私だ。",
+        "bg": "res://assets/opening/006.png"
+      },
+      {
+        "speaker": "",
+        "text": "忘却は鳥居を素手で撫でた。桜が、触れた順に色を失う。",
+        "bg": "res://assets/opening/007.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "なら、何度でも起動する。",
+        "bg": "res://assets/opening/008.png"
+      },
+      {
+        "speaker": "アテナ",
+        "text": "歴史は一度では終わらない。盾も、二度目のほうが厚い。",
+        "bg": "res://assets/opening/009.png"
+      },
+      {
+        "speaker": "アヌビス",
+        "text": "死者は戻る。灰になっても、名があれば秤に乗る。",
+        "bg": "res://assets/opening/010.png"
+      },
+      {
+        "speaker": "イシュタル",
+        "text": "私の星は、灰色の空でも落ちてこない。上に戻すだけ。",
+        "bg": "res://assets/opening/011.png"
+      },
+      {
+        "speaker": "スカアハ",
+        "text": "落ちたら起こせ。それだけのことだ。",
+        "bg": "res://assets/opening/012.png"
+      },
+      {
+        "speaker": "江戸",
+        "text": "夜の灯は、消えても芯が残る。先生、また点して。",
+        "bg": "res://assets/opening/013.png"
+      },
+      {
+        "speaker": "",
+        "text": "プロジェクトの名は AETERNA。永結。一度結んだものを、ほどけても結び直すこと。",
+        "bg": "res://assets/opening/014.png"
+      },
+      {
+        "speaker": "アテナ",
+        "text": "終わりはない。先生が鍵である限り、忘却も完全には勝てない。",
+        "bg": "res://assets/opening/015.png"
+      },
+      {
+        "speaker": "",
+        "text": "厭だ、と言いながら、忘却は鏡の光の中で形を保っていた。消える資格が、自分にもない。",
+        "bg": "res://assets/opening/001.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "先生。次のRELICを。",
+        "bg": "res://assets/opening/002.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "世界は、まだ名前を待っている。百の記憶が、先生の声で目を開ける。",
+        "bg": "res://assets/opening/003.png"
+      }
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+X:1
+T:あまい非常ベル
+C:オリジナル
+M:4/4
+L:1/8
+Q:1/4=160
+K:F
+P:Aメロ
+"F" F G G2 F F G2 | "Dm" F A G2 F G A2 | "Bb" B B A2 B G A2 | "C" G B B2 G A B2 |
+w: ベ ル が な る よ | あ ま い ベ ル よ | こ わ く な い よ | な ま え を よ ぶ
+"F" F A G2 F G A2 | "Bb" F G G2 F F G2 | "Dm" A B A2 A G A2 | "C" G B B2 G A B2 |
+w: ひ か り の ほ う | に げ な い で ね | う た に な っ て | あ か い ラ ン プ
+P:Aメロ2
+"F" c d c2 c B c2 | "Dm" d e d2 d c d2 | "Bb" d e d2 d c d2 | "C" e f e2 e d e2 |
+w: て ん め つ だ よ | き み の こ え は | こ え お お き い | あ ま い お と よ
+"F" c d d2 c c d2 | "Bb" B d c2 B c d2 | "Dm" d e d2 d c d2 | "C" e f e2 e d e2 |
+w: て を ふ っ て く | い っ しょ に と ぶ | ひ じょ う ベ ル だ | な ま え ひ と つ
+P:Bメロ
+"Bb" B c c2 B B c2 | "F" c d c2 c B c2 | "Dm" d e d2 d c d2 | "C" c d c2 c B c2 |
+w: さ け ん で も ね | う た は の こ る | こ わ く な い よ | ベ ル が な る よ
+"Gm" d e d2 d c d2 | "Bb" B d c2 B c d2 | "C" c c B2 c A B2 | "C" c d d2 c c d2 |
+w: あ ま い お と よ | き み を み て ね | ひ か り の ほ う | う た い だ そ う
+P:サビ
+"F" c d d2 c c d2 | "C" e g f2 e e f2 | "Dm" d f e2 d d e2 | "Bb" f g g2 f f g2 |
+w: ベ ル が な る よ | あ ま い ベ ル よ | こ わ く な い よ | に げ な い で ね
+"F" f g f2 f d f2 | "Dm" a a g2 f g a2 | "Bb" d f e2 d d e2 | "C" e g f2 e e f2 |
+w: あ ま い お と よ | な ま え を よ ぶ | い っ しょ に と ぶ | う た い だ そ う
+P:ブリッジ
+"Dm" F G G2 F F G2 | "Bb" F G G2 F F G2 | "F" A B B2 A G B2 | "C" G A G2 G F G2 |
+w: な っ て も い い | あ ま い お と よ | に げ な い で ね | な ま え を よ ぶ
+"Gm" B c B2 B A B2 | "Dm" F G F2 F E F2 | "Bb" B B A2 B G A2 | "C" G B B2 G A B2 |
+w: て を ふ っ て く | ひ か り の こ る | こ こ に い る よ | う た に な っ て
+P:アウトロ
+"F" c d d2 c c d2 | "C" e g f2 e e f2 | "Dm" d f e2 d d e2 | "Bb" f g g2 f f g2 |
+w: * * * * * * | * * * * * * | * * * * * * | * * * * * *
+"F" f g f2 f d f2 | "Dm" a a g2 f g a2 | "Bb" d f e2 d d e2 | "F" F8 |
+w: * * * * * * | * * * * * * | * * * * * * | *

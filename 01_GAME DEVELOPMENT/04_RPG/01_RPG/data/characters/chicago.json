@@ -1,0 +1,101 @@
+{
+  "id": "chicago",
+  "uid": "chicago_001",
+  "name": "シカゴ",
+  "name_ja": "シカゴ",
+  "name_en": "CHICAGO",
+  "origin": "LEGACY",
+  "era": "MODERN",
+  "civ": "modern",
+  "civilization": "MODERN",
+  "civilization_id": "modern",
+  "relic": "modern_relic",
+  "reconstruction": "煤煙→汽笛→並木→近代都市→MODERN DOMAIN",
+  "seed": false,
+  "class": "LEGACY",
+  "role": "ATTACKER",
+  "role_ui": "Attacker",
+  "element": "FIRE",
+  "weapon": "TOWER_CRANE",
+  "height": 169,
+  "appearance": {
+    "hair": "modern_hair",
+    "eyes": "chicago_eyes",
+    "costume": "modern_legacy"
+  },
+  "stats": {
+    "hp": 909,
+    "attack": 83,
+    "defense": 68,
+    "speed": 72
+  },
+  "hp": 128,
+  "speed": 8.0,
+  "damage": 16,
+  "skills": [
+    "chicago_skill1",
+    "chicago_skill2",
+    "chicago_skill3"
+  ],
+  "normal_attack": {
+    "id": "chicago_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "chicago_skill1",
+    "name_ja": "塔市",
+    "name_en": "塔市"
+  },
+  "skill_2": {
+    "id": "chicago_skill2",
+    "name_ja": "大火",
+    "name_en": "大火"
+  },
+  "ultimate": {
+    "id": "chicago_skill3",
+    "name_ja": "再興",
+    "name_en": "再興"
+  },
+  "passive": {
+    "id": "chicago_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "被弾後に攻撃が跳ねる"
+  },
+  "civilization_tags": [
+    "modern",
+    "MODERN",
+    "MODERN",
+    "LEGACY",
+    "FIRE"
+  ],
+  "relationships": [],
+  "voice_type": "fierce",
+  "music_theme": "塔・火・再興",
+  "civilization_shift_effect": "煤煙→汽笛→並木→近代都市→MODERN DOMAIN",
+  "theme": "塔・火・再興",
+  "passive_text": "被弾後に攻撃が跳ねる",
+  "story": "焼けても、塔はもっと高くなる。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "modern",
+  "land": "modern",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/modern/chicago.png",
+  "colors": {
+    "body": [
+      0.21,
+      0.226,
+      0.256
+    ],
+    "emit": [
+      0.71,
+      0.746,
+      0.796
+    ]
+  }
+}

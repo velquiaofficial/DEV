@@ -1,0 +1,37 @@
+X:1
+T:パレードの裏側
+C:オリジナル
+M:4/4
+L:1/8
+Q:1/4=156
+K:E
+P:Aメロ
+"E" G A B A G G A A | "C#m" G G A G G F G F | "A" E F G F E F G F | "B" F A B A F G A G |
+w: う ら が わ の ひ か り | ド ラ ム が う な っ て | こ こ ろ の ド ラ ム だ | だ れ も み て な い よ
+"E" G A B A G G A A | "A" E F G F E F G F | "C#m" G G A G G F G F | "B" F A B A F G A G |
+w: パ レ ー ド の う ら で | こ え を か さ ね る よ | ひ か り が お ち て く | そ れ で も う た う よ
+P:Aメロ2
+"E" e e f e e c e d | "C#m" c d d c c B c c | "A" c c d c c B c B | "B" d d e d d c d c |
+w: よ る が お わ ら な い | あ し た も こ こ だ よ | ぼ く ら は う た う よ | ア ン コ ー ル を ま つ
+"E" e e f e e c e d | "A" c c d c c B c B | "C#m" c d d c c B c c | "B" d d e d d c d c |
+w: て を ふ っ て み る よ | ま ち が ひ か っ て る | な ま え を さ け ぶ よ | う た が は じ ま る よ
+P:Bメロ
+"A" A B c B A B c B | "E" e d e d e c d c | "C#m" c c d c c B c B | "B" B B c B B A B A |
+w: ス テ ー ジ の ひ か り | ま ぶ し く て わ ら う | す こ し だ け ま っ て | な ま え を よ ぶ か ら
+"F#m" c d d c c B c c | "A" A B c B A B c B | "B" B c d c B B c B | "B" d c d c B c d c |
+w: ひ か り を つ か ん で | う た は と ま ら な い | ま ち が っ て も い い | け せ ば い い だ け さ
+P:サビ
+"E" e f g f e f g f | "B" d e f e d d e e | "C#m" g g a g g f g f | "A" e e f e e c e d |
+w: パ レ ー ド の う ら で | ド ラ ム が う な っ て | こ え を か さ ね る よ | ひ か り が お ち て く
+"E" e f g f e e f e | "C#m" c d d c c B c c | "A" e f g f e e f e | "B" d e f e d c e d |
+w: よ る が お わ ら な い | ぼ く ら は う た う よ | ア ン コ ー ル を ま つ | そ れ で も う た う よ
+P:ブリッジ
+"C#m" G G A G G F G F | "A" A B c B A A B A | "E" E F G F E E F E | "B" F A B A F G A G |
+w: こ え は ま だ の こ る | よ る を て ら し て る | じ か ん よ と ま っ て | よ る の しょ う め い だ
+"F#m" A B B A A G A A | "C#m" E F G F E F G F | "A" E F G F E F G F | "B" B A B A B G A A |
+w: う ら が わ の ひ か り | こ え を か さ ね る よ | ぼ く ら は う た う よ | あ し た も こ こ だ よ
+P:アウトロ
+"E" e f g f e f g f | "B" d e f e d d e e | "C#m" g g a g g f g f | "A" e e f e e c e d |
+w: * * * * * * * * | * * * * * * * * | * * * * * * * * | * * * * * * * *
+"E" e f g f e e f e | "C#m" c d d c c B c c | "A" e f g f e e f e | "E" E8 |
+w: * * * * * * * * | * * * * * * * * | * * * * * * * * | *

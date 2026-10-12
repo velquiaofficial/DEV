@@ -1,0 +1,101 @@
+{
+  "id": "ur",
+  "uid": "ur_001",
+  "name": "ウル",
+  "name_ja": "ウル",
+  "name_en": "UR",
+  "origin": "LEGACY",
+  "era": "ANCIENT",
+  "civ": "mesopotamia",
+  "civilization": "MESOPOTAMIA",
+  "civilization_id": "mesopotamia",
+  "relic": "venus_star",
+  "reconstruction": "古代都市の門と星の王権が地上へ戻る。",
+  "seed": false,
+  "class": "LEGACY",
+  "role": "SUPPORT",
+  "role_ui": "Support",
+  "element": "MOON",
+  "weapon": "MOON_ZIGGURAT",
+  "height": 160,
+  "appearance": {
+    "hair": "mesopotamia_hair",
+    "eyes": "ur_eyes",
+    "costume": "mesopotamia_legacy"
+  },
+  "stats": {
+    "hp": 838,
+    "attack": 57,
+    "defense": 66,
+    "speed": 68
+  },
+  "hp": 118,
+  "speed": 7.5,
+  "damage": 11,
+  "skills": [
+    "ur_skill1",
+    "ur_skill2",
+    "ur_skill3"
+  ],
+  "normal_attack": {
+    "id": "ur_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "ur_skill1",
+    "name_ja": "月壇",
+    "name_en": "月壇"
+  },
+  "skill_2": {
+    "id": "ur_skill2",
+    "name_ja": "港市",
+    "name_en": "港市"
+  },
+  "ultimate": {
+    "id": "ur_skill3",
+    "name_ja": "聖都",
+    "name_en": "聖都"
+  },
+  "passive": {
+    "id": "ur_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "確保文明の回復が強い"
+  },
+  "civilization_tags": [
+    "mesopotamia",
+    "MESOPOTAMIA",
+    "ANCIENT",
+    "LEGACY",
+    "MOON"
+  ],
+  "relationships": [],
+  "voice_type": "warm",
+  "music_theme": "ジッグラト・月神・港",
+  "civilization_shift_effect": "砂塵→楔形→聖塔→両河→MESOPOTAMIA DOMAIN",
+  "theme": "ジッグラト・月神・港",
+  "passive_text": "確保文明の回復が強い",
+  "story": "月の都は、川が乾いても残る。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "mesopotamia",
+  "land": "mesopotamia",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/mesopotamia/ur.png",
+  "colors": {
+    "body": [
+      0.2,
+      0.112,
+      0.072
+    ],
+    "emit": [
+      0.94,
+      0.632,
+      0.192
+    ]
+  }
+}

@@ -1,0 +1,507 @@
+[
+  {
+    "id": "YATA_MIRROR",
+    "owner": "amaterasu",
+    "civilization": "YAMATO"
+  },
+  {
+    "id": "MOON_DISK",
+    "owner": "tsukuyomi",
+    "civilization": "YAMATO"
+  },
+  {
+    "id": "KUSANAGI",
+    "owner": "susanoo",
+    "civilization": "YAMATO"
+  },
+  {
+    "id": "RICE_STAFF",
+    "owner": "inari",
+    "civilization": "YAMATO"
+  },
+  {
+    "id": "YOMI_MIRROR",
+    "owner": "izanami",
+    "civilization": "YAMATO"
+  },
+  {
+    "id": "THUNDER_SWORD",
+    "owner": "takemikazuchi",
+    "civilization": "YAMATO"
+  },
+  {
+    "id": "WAR_BOW",
+    "owner": "hachiman",
+    "civilization": "YAMATO"
+  },
+  {
+    "id": "BIWA",
+    "owner": "benzaiten",
+    "civilization": "YAMATO"
+  },
+  {
+    "id": "TIDE_ORB",
+    "owner": "ryugu",
+    "civilization": "YAMATO"
+  },
+  {
+    "id": "IAITO",
+    "owner": "edo",
+    "civilization": "YAMATO"
+  },
+  {
+    "id": "CASTLE_SPEAR",
+    "owner": "osaka",
+    "civilization": "YAMATO"
+  },
+  {
+    "id": "HARBOR_FAN",
+    "owner": "nagasaki",
+    "civilization": "YAMATO"
+  },
+  {
+    "id": "TACHI",
+    "owner": "kamakura",
+    "civilization": "YAMATO"
+  },
+  {
+    "id": "TRANSIT_CORE",
+    "owner": "tokyo",
+    "civilization": "TOKYO"
+  },
+  {
+    "id": "TREATY_SABER",
+    "owner": "meiji",
+    "civilization": "TOKYO"
+  },
+  {
+    "id": "LIGHTHOUSE_KEY",
+    "owner": "yokohama",
+    "civilization": "TOKYO"
+  },
+  {
+    "id": "FUTURE_RAIL",
+    "owner": "future_tokyo",
+    "civilization": "TOKYO"
+  },
+  {
+    "id": "STAR_CHART",
+    "owner": "yamato",
+    "civilization": "TOKYO"
+  },
+  {
+    "id": "AEGIS",
+    "owner": "athena",
+    "civilization": "HELLAS"
+  },
+  {
+    "id": "TRIDENT",
+    "owner": "poseidon",
+    "civilization": "HELLAS"
+  },
+  {
+    "id": "GOLDEN_BOW",
+    "owner": "apollo",
+    "civilization": "HELLAS"
+  },
+  {
+    "id": "SILVER_BOW",
+    "owner": "artemis",
+    "civilization": "HELLAS"
+  },
+  {
+    "id": "LABYRINTH_AXE",
+    "owner": "minos",
+    "civilization": "HELLAS"
+  },
+  {
+    "id": "HOPLITE_SPEAR",
+    "owner": "sparta",
+    "civilization": "HELLAS"
+  },
+  {
+    "id": "EAGLE_STANDARD",
+    "owner": "roma",
+    "civilization": "ROME"
+  },
+  {
+    "id": "MASK_FAN",
+    "owner": "venice",
+    "civilization": "ROME"
+  },
+  {
+    "id": "SALT_BLADE",
+    "owner": "carthage",
+    "civilization": "ROME"
+  },
+  {
+    "id": "GOLDEN_WALL",
+    "owner": "byzantium",
+    "civilization": "ROME"
+  },
+  {
+    "id": "CRESCENT_GUN",
+    "owner": "ottoman",
+    "civilization": "ROME"
+  },
+  {
+    "id": "STRAIT_KEY",
+    "owner": "istanbul",
+    "civilization": "ROME"
+  },
+  {
+    "id": "ANKH_WINGS",
+    "owner": "isis",
+    "civilization": "KEMET"
+  },
+  {
+    "id": "JUDGMENT_SCALE",
+    "owner": "anubis",
+    "civilization": "KEMET"
+  },
+  {
+    "id": "SOLAR_BARQUE",
+    "owner": "ra",
+    "civilization": "KEMET"
+  },
+  {
+    "id": "SKY_LYRE",
+    "owner": "hathor",
+    "civilization": "KEMET"
+  },
+  {
+    "id": "IBIS_STYLUS",
+    "owner": "thoth",
+    "civilization": "KEMET"
+  },
+  {
+    "id": "CHAOS_WAS",
+    "owner": "set",
+    "civilization": "KEMET"
+  },
+  {
+    "id": "CAT_CLAWS",
+    "owner": "bastet",
+    "civilization": "KEMET"
+  },
+  {
+    "id": "WHITE_WALL",
+    "owner": "memphis",
+    "civilization": "KEMET"
+  },
+  {
+    "id": "PHAROS",
+    "owner": "alexandria",
+    "civilization": "KEMET"
+  },
+  {
+    "id": "HUNDRED_GATES",
+    "owner": "thebes",
+    "civilization": "KEMET"
+  },
+  {
+    "id": "MARKET_MAP",
+    "owner": "cairo",
+    "civilization": "KEMET"
+  },
+  {
+    "id": "WEST_LAKE_SILK",
+    "owner": "xishi",
+    "civilization": "HUAXIA"
+  },
+  {
+    "id": "FIVE_COLOR_STONE",
+    "owner": "nuwa",
+    "civilization": "HUAXIA"
+  },
+  {
+    "id": "LUO_SASH",
+    "owner": "luoshen",
+    "civilization": "HUAXIA"
+  },
+  {
+    "id": "WARD_SEAL",
+    "owner": "changan",
+    "civilization": "HUAXIA"
+  },
+  {
+    "id": "PEONY_FAN",
+    "owner": "luoyang",
+    "civilization": "HUAXIA"
+  },
+  {
+    "id": "TANG_SABER",
+    "owner": "tang",
+    "civilization": "HUAXIA"
+  },
+  {
+    "id": "LAKE_MIRROR",
+    "owner": "hangzhou",
+    "civilization": "HUAXIA"
+  },
+  {
+    "id": "AXIS_SEAL",
+    "owner": "beijing",
+    "civilization": "HUAXIA"
+  },
+  {
+    "id": "BUND_LIGHT",
+    "owner": "shanghai",
+    "civilization": "HUAXIA"
+  },
+  {
+    "id": "HARBOUR_KEY",
+    "owner": "hongkong",
+    "civilization": "HUAXIA"
+  },
+  {
+    "id": "BRISINGAMEN",
+    "owner": "freya",
+    "civilization": "NORSE"
+  },
+  {
+    "id": "GUNGNIR",
+    "owner": "odin",
+    "civilization": "NORSE"
+  },
+  {
+    "id": "MJOLNIR",
+    "owner": "thor",
+    "civilization": "NORSE"
+  },
+  {
+    "id": "HALF_CROWN",
+    "owner": "hel",
+    "civilization": "NORSE"
+  },
+  {
+    "id": "TRICK_DAGGER",
+    "owner": "loki",
+    "civilization": "NORSE"
+  },
+  {
+    "id": "FATE_THREAD",
+    "owner": "frigg",
+    "civilization": "NORSE"
+  },
+  {
+    "id": "CHOOSER_SPEAR",
+    "owner": "valkyrie",
+    "civilization": "NORSE"
+  },
+  {
+    "id": "BIFROST_SHIELD",
+    "owner": "asgard",
+    "civilization": "NORSE"
+  },
+  {
+    "id": "GROVE_STAFF",
+    "owner": "uppsala",
+    "civilization": "NORSE"
+  },
+  {
+    "id": "LONGSHIP_AXE",
+    "owner": "vinland",
+    "civilization": "NORSE"
+  },
+  {
+    "id": "NORTH_AXE",
+    "owner": "viking",
+    "civilization": "NORSE"
+  },
+  {
+    "id": "VENUS_LION",
+    "owner": "ishtar",
+    "civilization": "MESOPOTAMIA"
+  },
+  {
+    "id": "CUNEIFORM_TABLET",
+    "owner": "sumer",
+    "civilization": "MESOPOTAMIA"
+  },
+  {
+    "id": "LAW_STELE",
+    "owner": "babylon",
+    "civilization": "MESOPOTAMIA"
+  },
+  {
+    "id": "ROYAL_ROAD",
+    "owner": "persia",
+    "civilization": "MESOPOTAMIA"
+  },
+  {
+    "id": "EPIC_AXE",
+    "owner": "uruk",
+    "civilization": "MESOPOTAMIA"
+  },
+  {
+    "id": "MOON_ZIGGURAT",
+    "owner": "ur",
+    "civilization": "MESOPOTAMIA"
+  },
+  {
+    "id": "LION_LIBRARY",
+    "owner": "nineveh",
+    "civilization": "MESOPOTAMIA"
+  },
+  {
+    "id": "IRON_RELIEF",
+    "owner": "assyria",
+    "civilization": "MESOPOTAMIA"
+  },
+  {
+    "id": "COLONNADE_KNIFE",
+    "owner": "palmyra",
+    "civilization": "MESOPOTAMIA"
+  },
+  {
+    "id": "GREAT_ARCH",
+    "owner": "ctesiphon",
+    "civilization": "MESOPOTAMIA"
+  },
+  {
+    "id": "SHADOW_SPEAR",
+    "owner": "scathach",
+    "civilization": "CELTIC"
+  },
+  {
+    "id": "STEPPE_BOW",
+    "owner": "mongolia",
+    "civilization": "MEDIEVAL"
+  },
+  {
+    "id": "CELADON_SHIELD",
+    "owner": "goryeo",
+    "civilization": "MEDIEVAL"
+  },
+  {
+    "id": "CROWN_SWORD",
+    "owner": "frank",
+    "civilization": "MEDIEVAL"
+  },
+  {
+    "id": "GARDEN_ASTROLABE",
+    "owner": "andalus",
+    "civilization": "MEDIEVAL"
+  },
+  {
+    "id": "GOLDEN_STAFF",
+    "owner": "mali",
+    "civilization": "MEDIEVAL"
+  },
+  {
+    "id": "STEAM_HAMMER",
+    "owner": "manchester",
+    "civilization": "MODERN"
+  },
+  {
+    "id": "WALTZ_BATON",
+    "owner": "vienna",
+    "civilization": "MODERN"
+  },
+  {
+    "id": "PLAN_COMPASS",
+    "owner": "berlin",
+    "civilization": "MODERN"
+  },
+  {
+    "id": "WHITE_NIGHT",
+    "owner": "petersburg",
+    "civilization": "MODERN"
+  },
+  {
+    "id": "TOWER_CRANE",
+    "owner": "chicago",
+    "civilization": "MODERN"
+  },
+  {
+    "id": "HARBOR_LANTERN",
+    "owner": "boston",
+    "civilization": "MODERN"
+  },
+  {
+    "id": "COMPASS_ROSE",
+    "owner": "lisbon",
+    "civilization": "MODERN"
+  },
+  {
+    "id": "CANAL_LEDGER",
+    "owner": "amsterdam",
+    "civilization": "MODERN"
+  },
+  {
+    "id": "CHART_DAGGER",
+    "owner": "genoa",
+    "civilization": "MODERN"
+  },
+  {
+    "id": "SKYLINE_EDGE",
+    "owner": "newyork",
+    "civilization": "CONTEMPORARY"
+  },
+  {
+    "id": "LANTERN_ROSE",
+    "owner": "paris",
+    "civilization": "CONTEMPORARY"
+  },
+  {
+    "id": "BIG_CLOCK",
+    "owner": "london",
+    "civilization": "CONTEMPORARY"
+  },
+  {
+    "id": "PORT_GARDEN",
+    "owner": "singapore",
+    "civilization": "CONTEMPORARY"
+  },
+  {
+    "id": "FOUR_GATES",
+    "owner": "seoul",
+    "civilization": "CONTEMPORARY"
+  },
+  {
+    "id": "MURAL_SEAL",
+    "owner": "mexico",
+    "civilization": "CONTEMPORARY"
+  },
+  {
+    "id": "SUPERTOWER",
+    "owner": "dubai",
+    "civilization": "CONTEMPORARY"
+  },
+  {
+    "id": "ORBIT_LENS",
+    "owner": "orbital",
+    "civilization": "FUTURE"
+  },
+  {
+    "id": "COOLING_RING",
+    "owner": "machine",
+    "civilization": "FUTURE"
+  },
+  {
+    "id": "MEMORY_CORE",
+    "owner": "aeterna",
+    "civilization": "FUTURE"
+  },
+  {
+    "id": "SILENT_DOME",
+    "owner": "lunar",
+    "civilization": "FUTURE"
+  },
+  {
+    "id": "SEED_ARK",
+    "owner": "ark",
+    "civilization": "FUTURE"
+  },
+  {
+    "id": "NEXUS_LINK",
+    "owner": "nexus_city",
+    "civilization": "FUTURE"
+  },
+  {
+    "id": "VOID_HAND",
+    "owner": "oblivion",
+    "civilization": "VOID"
+  }
+]

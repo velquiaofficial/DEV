@@ -1,0 +1,578 @@
+[
+  {
+    "id": "ch13",
+    "title": "終章 1  東京",
+    "body": "ヘラスの先遣を返し、東京は自分の名を取り戻す。",
+    "bg": "res://assets/opening/001.png",
+    "pages": [
+      {
+        "speaker": "",
+        "text": "渋谷の廃駅で、桜がもう一度、色を持った。",
+        "bg": "res://assets/opening/001.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "東京は、終わっていなかった。人がいなくても、街の名は残っていた。",
+        "bg": "res://assets/opening/002.png"
+      },
+      {
+        "speaker": "アテナ",
+        "text": "先遣は引き上げる。この層は、ヘラスの地図ではない。",
+        "bg": "res://assets/opening/003.png"
+      },
+      {
+        "speaker": "月読",
+        "text": "看板の文字が、読むより先に消えなくなった。",
+        "bg": "res://assets/opening/004.png"
+      },
+      {
+        "speaker": "",
+        "text": "東京駅の煉瓦が、開かれた時間を閉じずにいられた。",
+        "bg": "res://assets/opening/005.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "先生。この街は、最初の返還だ。",
+        "bg": "res://assets/opening/006.png"
+      },
+      {
+        "speaker": "",
+        "text": "忘却は空の端にいた。まだ手は出さない。名が戻るのを、数えている。",
+        "bg": "res://assets/opening/007.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "次は、鏡の国。ヤマトを返す。",
+        "bg": "res://assets/opening/008.png"
+      }
+    ]
+  },
+  {
+    "id": "ch14",
+    "title": "終章 2  ヤマト",
+    "body": "八咫鏡が社へ戻り、ケメトの秤は神域を量り損ねる。",
+    "bg": "res://assets/opening/001.png",
+    "pages": [
+      {
+        "speaker": "",
+        "text": "伊勢の川が、神の名を運ぶ音を取り戻した。",
+        "bg": "res://assets/opening/001.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "鏡は、まだ熱を返す。これが私の核だ。",
+        "bg": "res://assets/opening/002.png"
+      },
+      {
+        "speaker": "須佐之男",
+        "text": "黄泉の坂は、下りるためだけのものじゃない。",
+        "bg": "res://assets/opening/003.png"
+      },
+      {
+        "speaker": "アヌビス",
+        "text": "秤は、この社を死者の側へ倒せなかった。認めよう。",
+        "bg": "res://assets/opening/004.png"
+      },
+      {
+        "speaker": "",
+        "text": "厳島の回廊を潮が洗い、柱の数が元に戻る。",
+        "bg": "res://assets/opening/005.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "ヤマトは色を着た。まだ、他の文明が待っている。",
+        "bg": "res://assets/opening/006.png"
+      },
+      {
+        "speaker": "",
+        "text": "富士の裾で、太陽の紋が灰から出た。",
+        "bg": "res://assets/opening/007.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "ヘラスの知恵を、壁の中へ閉じ込めない。次はそこだ。",
+        "bg": "res://assets/opening/008.png"
+      }
+    ]
+  },
+  {
+    "id": "ch15",
+    "title": "終章 3  ヘラス",
+    "body": "神殿の問いは、ローマの城壁より先に残る。",
+    "bg": "res://assets/opening/001.png",
+    "pages": [
+      {
+        "speaker": "アテナ",
+        "text": "柱は、答えより問いの形をしている。それでいい。",
+        "bg": "res://assets/opening/001.png"
+      },
+      {
+        "speaker": "",
+        "text": "デルフォイの煙が、欠けていた言葉を一段だけ戻した。",
+        "bg": "res://assets/opening/002.png"
+      },
+      {
+        "speaker": "ローマ",
+        "text": "法は壁の内側に書くものだ。この広場も、いずれ帝国の一部になる。",
+        "bg": "res://assets/opening/003.png"
+      },
+      {
+        "speaker": "アテナ",
+        "text": "ならない。知恵は、布告ではない。",
+        "bg": "res://assets/opening/004.png"
+      },
+      {
+        "speaker": "月読",
+        "text": "競技の砂に、勝敗以外の足跡が戻っている。",
+        "bg": "res://assets/opening/005.png"
+      },
+      {
+        "speaker": "",
+        "text": "トロイアの残壁の外で、陣が解かれた。",
+        "bg": "res://assets/opening/006.png"
+      },
+      {
+        "speaker": "アテナ",
+        "text": "ヘラスは返還された。盾は、ここに置く。",
+        "bg": "res://assets/opening/007.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "砂漠の太陽が、絹に覆われかけている。ケメトへ。",
+        "bg": "res://assets/opening/008.png"
+      }
+    ]
+  },
+  {
+    "id": "ch16",
+    "title": "終章 4  ケメト",
+    "body": "ナイルの太陽が、都の帳の下から出る。",
+    "bg": "res://assets/opening/001.png",
+    "pages": [
+      {
+        "speaker": "アヌビス",
+        "text": "死者は戻る。名があれば、秤に乗る。",
+        "bg": "res://assets/opening/001.png"
+      },
+      {
+        "speaker": "",
+        "text": "メンフィスの白い壁が、砂の色を脱いだ。",
+        "bg": "res://assets/opening/002.png"
+      },
+      {
+        "speaker": "西施",
+        "text": "絹は覆うためにある。美しいものは、帳の奥で静かでいられる。",
+        "bg": "res://assets/opening/003.png"
+      },
+      {
+        "speaker": "アヌビス",
+        "text": "静けさは、忘却に似すぎる。",
+        "bg": "res://assets/opening/004.png"
+      },
+      {
+        "speaker": "イシス",
+        "text": "書庫の棚に、中身が一行戻った。",
+        "bg": "res://assets/opening/005.png"
+      },
+      {
+        "speaker": "",
+        "text": "増水の段差に、去年の目盛りが刻まれ直す。",
+        "bg": "res://assets/opening/006.png"
+      },
+      {
+        "speaker": "アヌビス",
+        "text": "ケメトは閉じない。太陽は、帳の外だ。",
+        "bg": "res://assets/opening/007.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "石の法が、冬の船に割られている。ローマを返す。",
+        "bg": "res://assets/opening/008.png"
+      }
+    ]
+  },
+  {
+    "id": "ch17",
+    "title": "終章 5  ローマ",
+    "body": "法が石へ戻り、ノースの船は広場を去る。",
+    "bg": "res://assets/opening/001.png",
+    "pages": [
+      {
+        "speaker": "ローマ",
+        "text": "演壇に、声が要る。壁だけでは都市ではない。",
+        "bg": "res://assets/opening/001.png"
+      },
+      {
+        "speaker": "",
+        "text": "フォロの石が、演説の形を覚えていた。",
+        "bg": "res://assets/opening/002.png"
+      },
+      {
+        "speaker": "フレイヤ",
+        "text": "誓いは船で運ぶ。冬は、街道より古い。",
+        "bg": "res://assets/opening/003.png"
+      },
+      {
+        "speaker": "ローマ",
+        "text": "古いものは尊重する。だがこの広場の法は、ここへ戻す。",
+        "bg": "res://assets/opening/004.png"
+      },
+      {
+        "speaker": "",
+        "text": "ビザンツの三重の壁が、内側の名を守り直した。",
+        "bg": "res://assets/opening/005.png"
+      },
+      {
+        "speaker": "ヴェネツィア",
+        "text": "潟の杭は、帝国の端のままでいい。中心にはしない。",
+        "bg": "res://assets/opening/006.png"
+      },
+      {
+        "speaker": "ローマ",
+        "text": "ローマは返還された。里程標が、数字を取り戻した。",
+        "bg": "res://assets/opening/007.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "都の軸が、別の文字に横切られている。華夏へ。",
+        "bg": "res://assets/opening/008.png"
+      }
+    ]
+  },
+  {
+    "id": "ch18",
+    "title": "終章 6  華夏",
+    "body": "長安の軸が、再び南を向く。",
+    "bg": "res://assets/opening/001.png",
+    "pages": [
+      {
+        "speaker": "西施",
+        "text": "詩が戻れば、湖はただの水ではなくなる。",
+        "bg": "res://assets/opening/001.png"
+      },
+      {
+        "speaker": "",
+        "text": "朱雀の軸の上で、門が南の名を思い出した。",
+        "bg": "res://assets/opening/002.png"
+      },
+      {
+        "speaker": "イシュタル",
+        "text": "最初の都市の法は、すべての都の下に敷ける。",
+        "bg": "res://assets/opening/003.png"
+      },
+      {
+        "speaker": "西施",
+        "text": "敷かないで。長安は、楔形の写しではない。",
+        "bg": "res://assets/opening/004.png"
+      },
+      {
+        "speaker": "洛神",
+        "text": "橋の真ん中が、もう一度、世界の真ん中になった。",
+        "bg": "res://assets/opening/005.png"
+      },
+      {
+        "speaker": "",
+        "text": "敦煌の壁画が、砂へ名前を返さずにいられた。",
+        "bg": "res://assets/opening/006.png"
+      },
+      {
+        "speaker": "西施",
+        "text": "華夏は返還された。絹は覆いではなく、衣だ。",
+        "bg": "res://assets/opening/007.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "世界樹の根に、王冠が絡んでいる。ノースをほどく。",
+        "bg": "res://assets/opening/008.png"
+      }
+    ]
+  },
+  {
+    "id": "ch19",
+    "title": "終章 7  ノース",
+    "body": "誓いは森に残り、王冠は箱へしまわない。",
+    "bg": "res://assets/opening/001.png",
+    "pages": [
+      {
+        "speaker": "フレイヤ",
+        "text": "木は、誓いの数だけ根を張る。それを切らないで。",
+        "bg": "res://assets/opening/001.png"
+      },
+      {
+        "speaker": "",
+        "text": "ウプサラの根が、地面を静かに持ち上げた。",
+        "bg": "res://assets/opening/002.png"
+      },
+      {
+        "speaker": "スカアハ",
+        "text": "王冠は、落ちた者を起こす約束でもある。",
+        "bg": "res://assets/opening/003.png"
+      },
+      {
+        "speaker": "フレイヤ",
+        "text": "約束は受け取る。森を城門の付属にはしない。",
+        "bg": "res://assets/opening/004.png"
+      },
+      {
+        "speaker": "トール",
+        "text": "橋のこちら側に、門番の名が戻った。",
+        "bg": "res://assets/opening/005.png"
+      },
+      {
+        "speaker": "",
+        "text": "ルーンの石が、刻まれた音を読めるようになった。",
+        "bg": "res://assets/opening/006.png"
+      },
+      {
+        "speaker": "フレイヤ",
+        "text": "ノースは返還された。冬は、冬のままだ。",
+        "bg": "res://assets/opening/007.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "最初の文字が、時刻表に塗りつぶされかけている。",
+        "bg": "res://assets/opening/008.png"
+      }
+    ]
+  },
+  {
+    "id": "ch20",
+    "title": "終章 8  メソポタミア",
+    "body": "楔形の文字が、蒸気の時刻表に上書きされない。",
+    "bg": "res://assets/opening/001.png",
+    "pages": [
+      {
+        "speaker": "イシュタル",
+        "text": "星は、灰色の空でも落ちてこない。",
+        "bg": "res://assets/opening/001.png"
+      },
+      {
+        "speaker": "",
+        "text": "ウルクの壁が、都市の始まりをまだ覚えていた。",
+        "bg": "res://assets/opening/002.png"
+      },
+      {
+        "speaker": "ウィーン",
+        "text": "楽譜は、粘土板より後に生まれた。後のものが、前を保管してもいい。",
+        "bg": "res://assets/opening/003.png"
+      },
+      {
+        "speaker": "イシュタル",
+        "text": "保管は、消去ではない。だが時刻表で、最初の行を消さないで。",
+        "bg": "res://assets/opening/004.png"
+      },
+      {
+        "speaker": "シュメール",
+        "text": "運河の目盛りに、収穫の年が戻った。",
+        "bg": "res://assets/opening/005.png"
+      },
+      {
+        "speaker": "",
+        "text": "バビロンの門の獣が、通る法の文言を取り戻す。",
+        "bg": "res://assets/opening/006.png"
+      },
+      {
+        "speaker": "イシュタル",
+        "text": "メソポタミアは返還された。最初の文字は、ここにある。",
+        "bg": "res://assets/opening/007.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "城門の跳ね橋が、現代の灯に幅を合わせている。",
+        "bg": "res://assets/opening/008.png"
+      }
+    ]
+  },
+  {
+    "id": "ch21",
+    "title": "終章 9  中世王国",
+    "body": "誓いと城門は、現代の灯の隣に残る。",
+    "bg": "res://assets/opening/001.png",
+    "pages": [
+      {
+        "speaker": "スカアハ",
+        "text": "落ちたら起こせ。それだけは、どの世紀でも同じだ。",
+        "bg": "res://assets/opening/001.png"
+      },
+      {
+        "speaker": "",
+        "text": "戴冠の堂の椅子が、誰の頭かを思い出した。",
+        "bg": "res://assets/opening/002.png"
+      },
+      {
+        "speaker": "パリ",
+        "text": "灯は、古い門を消すためではなく、夜を歩くためにある。",
+        "bg": "res://assets/opening/003.png"
+      },
+      {
+        "speaker": "スカアハ",
+        "text": "なら、門を残して。灯はその上でいい。",
+        "bg": "res://assets/opening/004.png"
+      },
+      {
+        "speaker": "アンダルス",
+        "text": "中庭の水路が、星の名を運び続けている。",
+        "bg": "res://assets/opening/005.png"
+      },
+      {
+        "speaker": "",
+        "text": "巡礼路の石塔に、次の宿の名が戻った。",
+        "bg": "res://assets/opening/006.png"
+      },
+      {
+        "speaker": "スカアハ",
+        "text": "中世は返還された。誓いは、看板の下でも有効だ。",
+        "bg": "res://assets/opening/007.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "蒸気と線路が、軌道の倉庫へ上げられかけている。",
+        "bg": "res://assets/opening/008.png"
+      }
+    ]
+  },
+  {
+    "id": "ch22",
+    "title": "終章 10  近代",
+    "body": "煤と楽譜と線路が、自分の世紀の手触りを守る。",
+    "bg": "res://assets/opening/001.png",
+    "pages": [
+      {
+        "speaker": "ウィーン",
+        "text": "譜面の次の小節は、未来が書かなくていい。私たちが書く。",
+        "bg": "res://assets/opening/001.png"
+      },
+      {
+        "speaker": "",
+        "text": "マンチェスターの運河が、煤のまま、誕生の汚れを残した。",
+        "bg": "res://assets/opening/002.png"
+      },
+      {
+        "speaker": "アエテルナ",
+        "text": "軌道は、この世紀をきれいに保管できる。",
+        "bg": "res://assets/opening/003.png"
+      },
+      {
+        "speaker": "ウィーン",
+        "text": "きれいにしないで。煤と、白い窓と、火の後の格子は、そのままで歴史だ。",
+        "bg": "res://assets/opening/004.png"
+      },
+      {
+        "speaker": "リスボン",
+        "text": "出航の塔は、まだ大西洋を数えている。",
+        "bg": "res://assets/opening/005.png"
+      },
+      {
+        "speaker": "",
+        "text": "海図の端が、軌道の線に書き換わるのをやめた。",
+        "bg": "res://assets/opening/006.png"
+      },
+      {
+        "speaker": "ウィーン",
+        "text": "近代は返還された。手触りは、倉庫へ上がらない。",
+        "bg": "res://assets/opening/007.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "いま生きている名前が、神話へ回収されかけている。",
+        "bg": "res://assets/opening/008.png"
+      }
+    ]
+  },
+  {
+    "id": "ch23",
+    "title": "終章 11  現代",
+    "body": "生きている都市の名は、神域の桜に回収されない。",
+    "bg": "res://assets/opening/001.png",
+    "pages": [
+      {
+        "speaker": "パリ",
+        "text": "河岸の灯は、今日の夜のためにある。千年の社のためではない。",
+        "bg": "res://assets/opening/001.png"
+      },
+      {
+        "speaker": "",
+        "text": "格子の夜に、一つの窓が今日の光のまま残った。",
+        "bg": "res://assets/opening/002.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "桜は覆いたい。美しいものほど、神域へ招きたくなる。",
+        "bg": "res://assets/opening/003.png"
+      },
+      {
+        "speaker": "パリ",
+        "text": "招かないで。私たちは、まだ終わっていない。",
+        "bg": "res://assets/opening/004.png"
+      },
+      {
+        "speaker": "ロンドン",
+        "text": "霧の乗換は、別の駅を指すのをやめた。",
+        "bg": "res://assets/opening/005.png"
+      },
+      {
+        "speaker": "",
+        "text": "終電のあと、駅名が正しい文字で点いている。",
+        "bg": "res://assets/opening/006.png"
+      },
+      {
+        "speaker": "パリ",
+        "text": "現代は返還された。いまの名前は、いまのものだ。",
+        "bg": "res://assets/opening/007.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "最後は、これから先。未来を、終わった東京の鏡へ渡さない。",
+        "bg": "res://assets/opening/008.png"
+      }
+    ]
+  },
+  {
+    "id": "ch24",
+    "title": "終章 12  未来",
+    "body": "軌道と方舟は、未来の核を自分たちで持つ。",
+    "bg": "res://assets/opening/001.png",
+    "pages": [
+      {
+        "speaker": "アエテルナ",
+        "text": "静止した軌道で、時間はまだ歩いている。それを止める権利は、過去にもない。",
+        "bg": "res://assets/opening/001.png"
+      },
+      {
+        "speaker": "",
+        "text": "環の港から、地球の夜が見えた。一点の灯は、東京だった。",
+        "bg": "res://assets/opening/002.png"
+      },
+      {
+        "speaker": "東京",
+        "text": "終わった街の鏡で、これから先を保管できる。",
+        "bg": "res://assets/opening/003.png"
+      },
+      {
+        "speaker": "アエテルナ",
+        "text": "保管は断る。未来は、廃墟の目録ではない。",
+        "bg": "res://assets/opening/004.png"
+      },
+      {
+        "speaker": "方舟",
+        "text": "種子のラベルに、略号だけでなく、季節の名が戻った。",
+        "bg": "res://assets/opening/005.png"
+      },
+      {
+        "speaker": "",
+        "text": "月面の黒い海で、最初の足跡が新しいまま残る。",
+        "bg": "res://assets/opening/006.png"
+      },
+      {
+        "speaker": "アエテルナ",
+        "text": "未来は返還された。十二の層が、それぞれの核を持った。",
+        "bg": "res://assets/opening/007.png"
+      },
+      {
+        "speaker": "天照",
+        "text": "先生。あと一つ。忘却に、名前を消させないこと。",
+        "bg": "res://assets/opening/008.png"
+      }
+    ]
+  }
+]

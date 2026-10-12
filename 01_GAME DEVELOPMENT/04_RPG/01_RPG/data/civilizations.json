@@ -1,0 +1,436 @@
+[
+  {
+    "id": "yamato",
+    "code": "YAMATO",
+    "civ": "japan",
+    "launch": true,
+    "name": "ヤマト",
+    "name_en": "YAMATO",
+    "members": [
+      "amaterasu",
+      "tsukuyomi",
+      "susanoo",
+      "inari",
+      "izanami",
+      "takemikazuchi",
+      "hachiman",
+      "benzaiten",
+      "ryugu",
+      "edo",
+      "osaka",
+      "nagasaki",
+      "kamakura"
+    ],
+    "features": [
+      "Shrine",
+      "Torii",
+      "Sakura",
+      "Stone Lantern",
+      "Sacred Tree",
+      "Divine Light",
+      "Sacred Water",
+      "Mountain"
+    ],
+    "civilization_shift": {
+      "power": 15,
+      "healing": 10,
+      "relic_generation": 20
+    },
+    "shift_text": "廃墟→光→桜→鳥居→神社→神木→YAMATO DOMAIN",
+    "banner": "res://assets/characters/_keyart/yamato.png",
+    "sheet": "res://assets/characters/_sheets/yamato.png"
+  },
+  {
+    "id": "tokyo",
+    "code": "TOKYO",
+    "civ": "japan",
+    "launch": true,
+    "name": "東京",
+    "name_en": "TOKYO",
+    "members": [
+      "tokyo",
+      "meiji",
+      "yokohama",
+      "future_tokyo",
+      "yamato"
+    ],
+    "features": [
+      "Skyscraper",
+      "Railway",
+      "Neon",
+      "Road",
+      "Digital Screen",
+      "Network",
+      "Station",
+      "Urban Infrastructure"
+    ],
+    "civilization_shift": {
+      "capture": 15,
+      "speed": 10,
+      "relic_generation": 10
+    },
+    "shift_text": "灰色の線路→ネオン→駅→回路都市→TOKYO DOMAIN",
+    "banner": "res://assets/characters/_keyart/tokyo.png",
+    "sheet": "res://assets/characters/_sheets/tokyo.png"
+  },
+  {
+    "id": "hellas",
+    "code": "HELLAS",
+    "civ": "greece",
+    "launch": true,
+    "name": "ヘラス",
+    "name_en": "HELLAS",
+    "members": [
+      "athena",
+      "poseidon",
+      "apollo",
+      "artemis",
+      "minos",
+      "sparta"
+    ],
+    "features": [
+      "Temple",
+      "Column",
+      "Statue",
+      "Marble Road",
+      "Olive Tree",
+      "Agora",
+      "Sacred Flame"
+    ],
+    "civilization_shift": {
+      "guard": 15,
+      "defense": 10
+    },
+    "shift_text": "廃墟→大理石→神殿→オリーブ→HELLAS DOMAIN",
+    "banner": "res://assets/characters/_keyart/hellas.png",
+    "sheet": "res://assets/characters/_sheets/hellas.png"
+  },
+  {
+    "id": "rome",
+    "code": "ROME",
+    "civ": "rome",
+    "launch": false,
+    "name": "ローマ",
+    "name_en": "ROME",
+    "members": [
+      "roma",
+      "venice",
+      "carthage",
+      "byzantium",
+      "ottoman",
+      "istanbul"
+    ],
+    "features": [
+      "Triumphal Arch",
+      "Aqueduct",
+      "Fortress",
+      "Roman Road",
+      "Forum",
+      "Column",
+      "Military Camp"
+    ],
+    "civilization_shift": {
+      "capture": 20,
+      "hp": 10
+    },
+    "shift_text": "瓦礫→石畳→凱旋門→街道→ROME DOMAIN",
+    "banner": "res://assets/characters/_keyart/rome.png",
+    "sheet": "res://assets/characters/_sheets/rome.png"
+  },
+  {
+    "id": "kemet",
+    "code": "KEMET",
+    "civ": "egypt",
+    "launch": true,
+    "name": "ケメト",
+    "name_en": "KEMET",
+    "members": [
+      "isis",
+      "anubis",
+      "ra",
+      "hathor",
+      "thoth",
+      "set",
+      "bastet",
+      "memphis",
+      "alexandria",
+      "thebes",
+      "cairo"
+    ],
+    "features": [
+      "Pyramid",
+      "Nile",
+      "Lotus",
+      "Obelisk",
+      "Temple",
+      "Papyrus",
+      "Star Ceiling"
+    ],
+    "civilization_shift": {
+      "healing": 15,
+      "revive_delay": 10
+    },
+    "shift_text": "砂→ナイル→蓮→神殿→KEMET DOMAIN",
+    "banner": "res://assets/characters/_keyart/kemet.png",
+    "sheet": "res://assets/characters/_sheets/kemet.png"
+  },
+  {
+    "id": "huaxia",
+    "code": "HUAXIA",
+    "civ": "china",
+    "launch": false,
+    "name": "華夏",
+    "name_en": "HUAXIA",
+    "members": [
+      "xishi",
+      "nuwa",
+      "luoshen",
+      "changan",
+      "luoyang",
+      "tang",
+      "hangzhou",
+      "beijing",
+      "shanghai",
+      "hongkong"
+    ],
+    "features": [
+      "Pavilion",
+      "West Lake",
+      "Silk",
+      "Palace",
+      "Scroll",
+      "Lantern",
+      "River"
+    ],
+    "civilization_shift": {
+      "ult": 10,
+      "healing": 10,
+      "control": 10
+    },
+    "shift_text": "枯山水→絹→西湖→楼閣→HUAXIA DOMAIN",
+    "banner": "res://assets/characters/_keyart/huaxia.png",
+    "sheet": "res://assets/characters/_sheets/huaxia.png"
+  },
+  {
+    "id": "norse",
+    "code": "NORSE",
+    "civ": "norse",
+    "launch": true,
+    "name": "ノース",
+    "name_en": "NORSE",
+    "members": [
+      "freya",
+      "odin",
+      "thor",
+      "hel",
+      "loki",
+      "frigg",
+      "valkyrie",
+      "asgard",
+      "uppsala",
+      "vinland",
+      "viking"
+    ],
+    "features": [
+      "Runestone",
+      "Longhouse",
+      "Yggdrasil",
+      "Bifrost",
+      "Fjord",
+      "Mead Hall"
+    ],
+    "civilization_shift": {
+      "ult": 15,
+      "power": 10
+    },
+    "shift_text": "霧→ルーン→神木→虹橋→NORSE DOMAIN",
+    "banner": "res://assets/characters/_keyart/norse.png",
+    "sheet": "res://assets/characters/_sheets/norse.png"
+  },
+  {
+    "id": "mesopotamia",
+    "code": "MESOPOTAMIA",
+    "civ": "mesopotamia",
+    "launch": true,
+    "name": "メソポタミア",
+    "name_en": "MESOPOTAMIA",
+    "members": [
+      "ishtar",
+      "sumer",
+      "babylon",
+      "persia",
+      "uruk",
+      "ur",
+      "nineveh",
+      "assyria",
+      "palmyra",
+      "ctesiphon"
+    ],
+    "features": [
+      "Ziggurat",
+      "Cuneiform",
+      "Gate",
+      "River",
+      "Garden",
+      "Clay Tablet"
+    ],
+    "civilization_shift": {
+      "hp": 12,
+      "control": 8
+    },
+    "shift_text": "砂塵→楔形→聖塔→両河→MESOPOTAMIA DOMAIN",
+    "banner": "res://assets/characters/_keyart/mesopotamia.png",
+    "sheet": "res://assets/characters/_sheets/mesopotamia.png"
+  },
+  {
+    "id": "celtic",
+    "code": "CELTIC",
+    "civ": "celtic",
+    "launch": false,
+    "name": "ケルト",
+    "name_en": "CELTIC",
+    "members": [
+      "scathach"
+    ],
+    "features": [
+      "Mist",
+      "Otherworld",
+      "Spear",
+      "Shadow",
+      "Isle"
+    ],
+    "civilization_shift": {
+      "power": 12,
+      "speed": 10
+    },
+    "shift_text": "霧→異界→影の槍→CELTIC DOMAIN",
+    "banner": "res://assets/characters/_keyart/celtic.png",
+    "sheet": "res://assets/characters/_sheets/celtic.png"
+  },
+  {
+    "id": "medieval",
+    "code": "MEDIEVAL",
+    "civ": "medieval",
+    "launch": false,
+    "name": "中世王国",
+    "name_en": "MEDIEVAL",
+    "members": [
+      "mongolia",
+      "goryeo",
+      "frank",
+      "andalus",
+      "mali"
+    ],
+    "features": [
+      "Castle",
+      "Cathedral",
+      "Banner",
+      "Keep",
+      "Market",
+      "Wall"
+    ],
+    "civilization_shift": {
+      "guard": 12,
+      "defense": 8
+    },
+    "shift_text": "荒野→城壁→旗→城塞→MEDIEVAL DOMAIN",
+    "banner": "res://assets/characters/_keyart/medieval.png",
+    "sheet": "res://assets/characters/_sheets/medieval.png"
+  },
+  {
+    "id": "modern",
+    "code": "MODERN",
+    "civ": "modern",
+    "launch": false,
+    "name": "近代文明",
+    "name_en": "MODERN",
+    "members": [
+      "manchester",
+      "vienna",
+      "berlin",
+      "petersburg",
+      "chicago",
+      "boston",
+      "lisbon",
+      "amsterdam",
+      "genoa"
+    ],
+    "features": [
+      "Factory",
+      "Railway",
+      "Boulevard",
+      "Academy",
+      "Harbor",
+      "Steam"
+    ],
+    "civilization_shift": {
+      "speed": 8,
+      "power": 8
+    },
+    "shift_text": "煤煙→汽笛→並木→近代都市→MODERN DOMAIN",
+    "banner": "res://assets/characters/_keyart/modern.png",
+    "sheet": "res://assets/characters/_sheets/modern.png"
+  },
+  {
+    "id": "contemporary",
+    "code": "CONTEMPORARY",
+    "civ": "contemporary",
+    "launch": false,
+    "name": "現代都市",
+    "name_en": "CONTEMPORARY",
+    "members": [
+      "newyork",
+      "paris",
+      "london",
+      "singapore",
+      "seoul",
+      "mexico",
+      "dubai"
+    ],
+    "features": [
+      "Plaza",
+      "Transit",
+      "Glass Tower",
+      "Riverfront",
+      "Archive",
+      "Light"
+    ],
+    "civilization_shift": {
+      "ult": 8,
+      "capture": 8
+    },
+    "shift_text": "空白→街灯→交差点→現代都市→CONTEMPORARY DOMAIN",
+    "banner": "res://assets/characters/_keyart/contemporary.png",
+    "sheet": "res://assets/characters/_sheets/contemporary.png"
+  },
+  {
+    "id": "future",
+    "code": "FUTURE",
+    "civ": "future",
+    "launch": false,
+    "name": "未来文明",
+    "name_en": "FUTURE",
+    "members": [
+      "orbital",
+      "machine",
+      "aeterna",
+      "lunar",
+      "ark",
+      "nexus_city"
+    ],
+    "features": [
+      "Orbital Ring",
+      "Archive Core",
+      "Light Bridge",
+      "Habitat",
+      "Machine Grove"
+    ],
+    "civilization_shift": {
+      "relic_generation": 12,
+      "control": 10
+    },
+    "shift_text": "沈黙→軌道→記憶核→FUTURE DOMAIN",
+    "banner": "res://assets/characters/_keyart/future.png",
+    "sheet": "res://assets/characters/_sheets/future.png"
+  }
+]

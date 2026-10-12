@@ -1,0 +1,101 @@
+{
+  "id": "asgard",
+  "uid": "asgard_001",
+  "name": "アスガルド",
+  "name_ja": "アスガルド",
+  "name_en": "ASGARD",
+  "origin": "LEGEND",
+  "era": "MYTH",
+  "civ": "norse",
+  "civilization": "NORSE",
+  "civilization_id": "norse",
+  "relic": "world_tree_shard",
+  "reconstruction": "霧の森とルーンが東京を覆う。",
+  "seed": false,
+  "class": "LEGEND",
+  "role": "DEFENDER",
+  "role_ui": "Defender",
+  "element": "REALM",
+  "weapon": "BIFROST_SHIELD",
+  "height": 170,
+  "appearance": {
+    "hair": "norse_hair",
+    "eyes": "asgard_eyes",
+    "costume": "norse_legend"
+  },
+  "stats": {
+    "hp": 1079,
+    "attack": 68,
+    "defense": 73,
+    "speed": 61
+  },
+  "hp": 152,
+  "speed": 6.8,
+  "damage": 13,
+  "skills": [
+    "asgard_skill1",
+    "asgard_skill2",
+    "asgard_skill3"
+  ],
+  "normal_attack": {
+    "id": "asgard_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "asgard_skill1",
+    "name_ja": "神壁",
+    "name_en": "神壁"
+  },
+  "skill_2": {
+    "id": "asgard_skill2",
+    "name_ja": "虹橋",
+    "name_en": "虹橋"
+  },
+  "ultimate": {
+    "id": "asgard_skill3",
+    "name_ja": "神域",
+    "name_en": "神域"
+  },
+  "passive": {
+    "id": "asgard_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "中心にいると非常に硬い"
+  },
+  "civilization_tags": [
+    "norse",
+    "NORSE",
+    "MYTH",
+    "LEGEND",
+    "REALM"
+  ],
+  "relationships": [],
+  "voice_type": "steadfast",
+  "music_theme": "神域・壁・虹",
+  "civilization_shift_effect": "霧→ルーン→神木→虹橋→NORSE DOMAIN",
+  "theme": "神域・壁・虹",
+  "passive_text": "中心にいると非常に硬い",
+  "story": "神の都は、落ちる前に輝く。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "norse",
+  "land": "norse",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/norse/asgard.png",
+  "colors": {
+    "body": [
+      0.226,
+      0.188,
+      0.182
+    ],
+    "emit": [
+      0.996,
+      0.578,
+      0.682
+    ]
+  }
+}

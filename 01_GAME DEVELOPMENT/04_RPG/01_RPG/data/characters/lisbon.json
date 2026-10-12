@@ -1,0 +1,101 @@
+{
+  "id": "lisbon",
+  "uid": "lisbon_001",
+  "name": "リスボン",
+  "name_ja": "リスボン",
+  "name_en": "LISBON",
+  "origin": "LEGACY",
+  "era": "EARLY MODERN",
+  "civ": "modern",
+  "civilization": "MODERN",
+  "civilization_id": "modern",
+  "relic": "modern_relic",
+  "reconstruction": "煤煙→汽笛→並木→近代都市→MODERN DOMAIN",
+  "seed": false,
+  "class": "LEGACY",
+  "role": "TACTICIAN",
+  "role_ui": "Tactician",
+  "element": "VOYAGE",
+  "weapon": "COMPASS_ROSE",
+  "height": 161,
+  "appearance": {
+    "hair": "modern_hair",
+    "eyes": "lisbon_eyes",
+    "costume": "modern_legacy"
+  },
+  "stats": {
+    "hp": 866,
+    "attack": 68,
+    "defense": 67,
+    "speed": 71
+  },
+  "hp": 122,
+  "speed": 7.9,
+  "damage": 13,
+  "skills": [
+    "lisbon_skill1",
+    "lisbon_skill2",
+    "lisbon_skill3"
+  ],
+  "normal_attack": {
+    "id": "lisbon_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "lisbon_skill1",
+    "name_ja": "出航",
+    "name_en": "出航"
+  },
+  "skill_2": {
+    "id": "lisbon_skill2",
+    "name_ja": "大地震",
+    "name_en": "大地震"
+  },
+  "ultimate": {
+    "id": "lisbon_skill3",
+    "name_ja": "再興の丘",
+    "name_en": "再興の丘"
+  },
+  "passive": {
+    "id": "lisbon_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "試合開始直後の捕獲が速い"
+  },
+  "civilization_tags": [
+    "modern",
+    "MODERN",
+    "EARLY_MODERN",
+    "LEGACY",
+    "VOYAGE"
+  ],
+  "relationships": [],
+  "voice_type": "measured",
+  "music_theme": "大航海・地震・再興",
+  "civilization_shift_effect": "煤煙→汽笛→並木→近代都市→MODERN DOMAIN",
+  "theme": "大航海・地震・再興",
+  "passive_text": "試合開始直後の捕獲が速い",
+  "story": "一度崩れても、海は開いている。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "modern",
+  "land": "modern",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/modern/lisbon.png",
+  "colors": {
+    "body": [
+      0.255,
+      0.253,
+      0.238
+    ],
+    "emit": [
+      0.755,
+      0.773,
+      0.778
+    ]
+  }
+}

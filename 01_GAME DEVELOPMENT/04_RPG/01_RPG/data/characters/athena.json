@@ -1,0 +1,107 @@
+{
+  "id": "athena",
+  "uid": "athena_001",
+  "name": "アテナ",
+  "name_ja": "アテナ",
+  "name_en": "ATHENA",
+  "origin": "MYTH",
+  "era": "ANCIENT",
+  "civ": "greece",
+  "civilization": "HELLAS",
+  "civilization_id": "hellas",
+  "relic": "lost_city_aegis",
+  "reconstruction": "都市が白い大理石の神殿都市へ変化する。",
+  "seed": true,
+  "class": "MYTH",
+  "role": "DEFENDER",
+  "role_ui": "Defender",
+  "element": "AEGIS",
+  "weapon": "AEGIS",
+  "height": 167,
+  "appearance": {
+    "hair": "hellas_hair",
+    "eyes": "athena_eyes",
+    "costume": "hellas_myth"
+  },
+  "stats": {
+    "hp": 1030,
+    "attack": 62,
+    "defense": 72,
+    "speed": 65
+  },
+  "hp": 145,
+  "speed": 7.2,
+  "damage": 12,
+  "skills": [
+    "athena_skill1",
+    "athena_skill2",
+    "athena_skill3"
+  ],
+  "normal_attack": {
+    "id": "athena_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "athena_skill1",
+    "name_ja": "アエギス",
+    "name_en": "アエギス"
+  },
+  "skill_2": {
+    "id": "athena_skill2",
+    "name_ja": "予兆",
+    "name_en": "予兆"
+  },
+  "ultimate": {
+    "id": "athena_skill3",
+    "name_ja": "戦女神",
+    "name_en": "戦女神"
+  },
+  "passive": {
+    "id": "athena_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "被弾後、短時間防御が上がる"
+  },
+  "civilization_tags": [
+    "greece",
+    "HELLAS",
+    "ANCIENT",
+    "MYTH",
+    "AEGIS"
+  ],
+  "relationships": [
+    "roma",
+    "byzantium",
+    "sparta",
+    "apollo",
+    "amaterasu"
+  ],
+  "voice_type": "steadfast",
+  "music_theme": "戦術・防御・カウンター",
+  "civilization_shift_effect": "廃墟→大理石→神殿→オリーブ→HELLAS DOMAIN",
+  "theme": "戦術・防御・カウンター",
+  "passive_text": "被弾後、短時間防御が上がる",
+  "story": "梟は先を見る。盾は、歴史が折れる音を聞く。",
+  "founder": true,
+  "implementation": "PLAYABLE",
+  "playable": true,
+  "belt": "hellas",
+  "land": "hellas",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/hellas/athena.png",
+  "colors": {
+    "body": [
+      0.78,
+      0.812,
+      0.852
+    ],
+    "emit": [
+      0.37,
+      0.572,
+      0.982
+    ]
+  }
+}

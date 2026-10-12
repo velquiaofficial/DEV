@@ -1,0 +1,11 @@
+{
+  "id": "tokyo_ruins",
+  "name": "色を失った東京",
+  "base": "forgotten",
+  "layers": ["japan", "greece", "egypt", "norse", "mesopotamia"],
+  "relics": [
+    { "id": "yata_mirror", "civ": "japan", "x": 400, "y": 80 }
+  ],
+  "spawn": { "player": [0, 380], "enemy": [0, -380] },
+  "enemy": "lost_memory"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "ishtar",
+  "obj": "assets/raw/ishtar.obj",
+  "portrait": "assets/characters/mesopotamia/ishtar.png",
+  "rig": "auto_rig",
+  "lod": [
+    "lod0",
+    "lod1",
+    "lod2"
+  ]
+}

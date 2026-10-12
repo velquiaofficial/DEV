@@ -1,0 +1,101 @@
+{
+  "id": "palmyra",
+  "uid": "palmyra_001",
+  "name": "パルミラ",
+  "name_ja": "パルミラ",
+  "name_en": "PALMYRA",
+  "origin": "LEGACY",
+  "era": "ANCIENT",
+  "civ": "mesopotamia",
+  "civilization": "MESOPOTAMIA",
+  "civilization_id": "mesopotamia",
+  "relic": "venus_star",
+  "reconstruction": "古代都市の門と星の王権が地上へ戻る。",
+  "seed": false,
+  "class": "LEGACY",
+  "role": "ASSASSIN",
+  "role_ui": "Assassin",
+  "element": "OASIS",
+  "weapon": "COLONNADE_KNIFE",
+  "height": 161,
+  "appearance": {
+    "hair": "mesopotamia_hair",
+    "eyes": "palmyra_eyes",
+    "costume": "mesopotamia_legacy"
+  },
+  "stats": {
+    "hp": 767,
+    "attack": 83,
+    "defense": 64,
+    "speed": 79
+  },
+  "hp": 108,
+  "speed": 8.8,
+  "damage": 16,
+  "skills": [
+    "palmyra_skill1",
+    "palmyra_skill2",
+    "palmyra_skill3"
+  ],
+  "normal_attack": {
+    "id": "palmyra_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "palmyra_skill1",
+    "name_ja": "列柱街",
+    "name_en": "列柱街"
+  },
+  "skill_2": {
+    "id": "palmyra_skill2",
+    "name_ja": "砂漠駆け",
+    "name_en": "砂漠駆け"
+  },
+  "ultimate": {
+    "id": "palmyra_skill3",
+    "name_ja": "オアシス",
+    "name_en": "オアシス"
+  },
+  "passive": {
+    "id": "palmyra_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "長い移動のあと攻撃が強化される"
+  },
+  "civilization_tags": [
+    "mesopotamia",
+    "MESOPOTAMIA",
+    "ANCIENT",
+    "LEGACY",
+    "OASIS"
+  ],
+  "relationships": [],
+  "voice_type": "quiet",
+  "music_theme": "隊商都市・列柱・砂漠",
+  "civilization_shift_effect": "砂塵→楔形→聖塔→両河→MESOPOTAMIA DOMAIN",
+  "theme": "隊商都市・列柱・砂漠",
+  "passive_text": "長い移動のあと攻撃が強化される",
+  "story": "中間の都は、両岸の記憶を運ぶ。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "mesopotamia",
+  "land": "mesopotamia",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/mesopotamia/palmyra.png",
+  "colors": {
+    "body": [
+      0.26,
+      0.148,
+      0.048
+    ],
+    "emit": [
+      1.0,
+      0.668,
+      0.168
+    ]
+  }
+}

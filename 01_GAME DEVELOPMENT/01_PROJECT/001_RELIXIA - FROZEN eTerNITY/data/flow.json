@@ -1,0 +1,46 @@
+{
+  "start": "intro",
+  "screens": {
+    "intro": {
+      "kicker": "TITLE",
+      "title": "永結のレリクシア",
+      "subtitle": "AETERNA RELIXIA",
+      "background": "assets/screens/intro.png",
+      "regions": ["背景", "立ち絵", "文言"],
+      "actions": [
+        { "label": "GAME START", "screen": "prepare" },
+        { "label": "CONTINUE", "screen": "battle" },
+        { "label": "CONFIG", "screen": "config" },
+        { "label": "ARCHIVE", "screen": "archive" }
+      ]
+    },
+    "prepare": {
+      "kicker": "PARTY",
+      "title": "編成",
+      "background": "assets/screens/prepare.png",
+      "regions": ["戦場", "編成", "ステータス"],
+      "actions": [
+        { "label": "戦闘へ", "screen": "battle" },
+        { "label": "戻る", "screen": "intro" }
+      ]
+    },
+    "config": {
+      "kicker": "CONFIG",
+      "title": "設定",
+      "background": "assets/screens/config.png",
+      "regions": ["音量", "速度", "表示"],
+      "actions": [
+        { "label": "戻る", "screen": "intro" }
+      ]
+    },
+    "archive": {
+      "kicker": "ARCHIVE",
+      "title": "記録",
+      "background": "assets/screens/archive.png",
+      "regions": ["章", "キャラ", "報酬"],
+      "actions": [
+        { "label": "戻る", "screen": "intro" }
+      ]
+    }
+  }
+}

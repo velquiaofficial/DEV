@@ -1,0 +1,101 @@
+{
+  "id": "aeterna",
+  "uid": "aeterna_001",
+  "name": "アエテルナ",
+  "name_ja": "アエテルナ",
+  "name_en": "AETERNA",
+  "origin": "NEXUS",
+  "era": "FUTURE",
+  "civ": "future",
+  "civilization": "FUTURE",
+  "civilization_id": "future",
+  "relic": "memory_core",
+  "reconstruction": "失われたネットワークが回路として蘇る。",
+  "seed": false,
+  "class": "NEXUS",
+  "role": "SUPPORT",
+  "role_ui": "Support",
+  "element": "AETERNA",
+  "weapon": "MEMORY_CORE",
+  "height": 164,
+  "appearance": {
+    "hair": "future_hair",
+    "eyes": "aeterna_eyes",
+    "costume": "future_nexus"
+  },
+  "stats": {
+    "hp": 895,
+    "attack": 62,
+    "defense": 68,
+    "speed": 71
+  },
+  "hp": 126,
+  "speed": 7.9,
+  "damage": 12,
+  "skills": [
+    "aeterna_skill1",
+    "aeterna_skill2",
+    "aeterna_skill3"
+  ],
+  "normal_attack": {
+    "id": "aeterna_normal",
+    "name_ja": "通常",
+    "name_en": "NORMAL ATTACK"
+  },
+  "skill_1": {
+    "id": "aeterna_skill1",
+    "name_ja": "記憶核",
+    "name_en": "記憶核"
+  },
+  "skill_2": {
+    "id": "aeterna_skill2",
+    "name_ja": "永遠契約",
+    "name_en": "永遠契約"
+  },
+  "ultimate": {
+    "id": "aeterna_skill3",
+    "name_ja": "世界再結",
+    "name_en": "世界再結"
+  },
+  "passive": {
+    "id": "aeterna_passive",
+    "name_ja": "パッシブ",
+    "name_en": "PASSIVE",
+    "text": "全連鎖の効果をわずかに底上げする"
+  },
+  "civilization_tags": [
+    "future",
+    "FUTURE",
+    "FUTURE",
+    "NEXUS",
+    "AETERNA"
+  ],
+  "relationships": [],
+  "voice_type": "warm",
+  "music_theme": "記憶核・永遠・結び",
+  "civilization_shift_effect": "沈黙→軌道→記憶核→FUTURE DOMAIN",
+  "theme": "記憶核・永遠・結び",
+  "passive_text": "全連鎖の効果をわずかに底上げする",
+  "story": "私は結び目。文明は、ここで永遠になる。",
+  "founder": false,
+  "implementation": "ARCHIVED_MEMORY",
+  "playable": true,
+  "belt": "future",
+  "land": "future",
+  "skins": [
+    "default"
+  ],
+  "portrait": "res://assets/characters/future/aeterna.png",
+  "colors": {
+    "body": [
+      0.052,
+      0.065,
+      0.103
+    ],
+    "emit": [
+      0.772,
+      0.815,
+      0.953
+    ]
+  }
+}
