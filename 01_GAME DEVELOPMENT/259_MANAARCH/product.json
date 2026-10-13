@@ -1,0 +1,11 @@
+{
+  "id": "259_MANABRIDGE",
+  "brand": "MANAARCH",
+  "kind": "card",
+  "genre": "カードバトル",
+  "port": 5444,
+  "theme": "ink",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

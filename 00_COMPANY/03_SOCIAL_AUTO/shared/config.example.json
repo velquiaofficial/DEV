@@ -1,0 +1,6 @@
+{
+  "timezone": "Asia/Tokyo",
+  "x": { "enabled": true },
+  "instagram": { "enabled": false },
+  "_comment": "Secrets live in shared/.env — copy .env.example to .env"
+}

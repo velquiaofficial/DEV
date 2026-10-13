@@ -1,0 +1,15 @@
+{
+  "id": "20_WORKFLOW",
+  "title": "AI業務自動化アプリ",
+  "recommend": false,
+  "lead": "メール、請求書、報告書、顧客データなどの定型業務を自動処理する。",
+  "revenue": "月額9,800〜100,000円",
+  "customers": "中小企業、士業、営業会社",
+  "strength": "業務時間を削減できれば高額契約につながりやすい。",
+  "risk": "企業ごとのシステム連携が必要になる。",
+  "note": "",
+  "status": "concept",
+  "brand": "WORKFLOW",
+  "standalone": true,
+  "version": "2.1.0"
+}

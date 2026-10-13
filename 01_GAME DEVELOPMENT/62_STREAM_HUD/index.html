@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#150f11">
+  <title>StreamHud — VELQUIA</title>
+  <link rel="stylesheet" href="shell.css">
+</head>
+<body>
+  <div class="app loop-brand">
+    <aside class="side">
+      <div class="brand">StreamHud<small data-i18n="sub">Stream HUD planner</small></div>
+      <p class="nav-label" data-i18n="angle_label">Angle</p>
+      <p class="mini" style="padding:0 10px 10px;margin:0" data-i18n="angle">creator</p>
+      <button class="nav-btn active" data-view="layout" data-i18n="nav_layout">Layout</button>
+      <button class="nav-btn" data-view="alerts" data-i18n="nav_alerts">Alerts</button>
+      <button class="nav-btn" data-view="goals" data-i18n="nav_goals">Goals</button>
+      <div class="side-foot">
+        <span data-i18n="foot2">Standalone · local demo</span>
+      </div>
+    </aside>
+    <main class="main">
+      <div class="workspace-banner">
+        <div><span class="status-dot"></span><strong>StreamHud</strong> · <span data-i18n="banner">VELQUIA workspace</span></div>
+        <span class="badge ok" data-i18n="live">Local live</span>
+      </div>
+      <div class="top">
+        <div>
+          <h1 data-i18n="title">Stream overlay plan</h1>
+          <p data-i18n="lead">Layout alerts, goal bars, and safe zones for streams.</p>
+        </div>
+        <div class="top-actions">
+          <button type="button" class="primary" id="btn-primary" data-i18n="btn_primary">Run AI</button>
+          <button type="button" id="btn-seed" data-i18n="btn_seed">Seed demo</button>
+        </div>
+      </div>
+      <section id="view-layout" class="section-enter"></section>
+      <section id="view-alerts" class="section-enter hidden"></section>
+      <section id="view-goals" class="section-enter hidden"></section>
+    </main>
+  </div>
+  <script src="strings.js"></script>
+  <script src="i18n.js"></script>
+  <script src="ai.js"></script>
+  <script src="app-kit.js"></script>
+  <script src="app.js"></script>
+  <script src="features.js"></script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+{
+  "id": "313_TAPFORGE1",
+  "brand": "TAPIMPERIUM",
+  "kind": "idle",
+  "genre": "放置クリッカー",
+  "port": 5498,
+  "theme": "meadow",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

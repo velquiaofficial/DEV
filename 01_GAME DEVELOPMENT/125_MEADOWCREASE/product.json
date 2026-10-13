@@ -1,0 +1,11 @@
+{
+  "id": "125_MEADOWFOLD",
+  "brand": "MEADOWCREASE",
+  "kind": "merge",
+  "genre": "草原フォールド",
+  "port": 5310,
+  "theme": "meadow",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "none"
+}

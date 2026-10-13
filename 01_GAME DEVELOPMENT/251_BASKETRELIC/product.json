@@ -1,0 +1,11 @@
+{
+  "id": "251_BASKETRX",
+  "brand": "BASKETRELIC",
+  "kind": "catch",
+  "genre": "キャッチアクション",
+  "port": 5436,
+  "theme": "magma",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

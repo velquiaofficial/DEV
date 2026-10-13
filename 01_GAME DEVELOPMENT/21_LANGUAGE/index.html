@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#15140f">
+  <title>LinguaLoop — VELQUIA</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=IBM+Plex+Sans+JP:wght@400;500;600;700&family=Outfit:wght@600;700;800" rel="stylesheet">
+  <link rel="stylesheet" href="shell.css">
+</head>
+<body>
+  <div class="app loop-brand">
+    <aside class="side">
+      <div class="brand">LinguaLoop<small data-i18n="sub">AI Language</small></div>
+      <button class="nav-btn active" data-view="chat" data-i18n="nav1">Practice</button>
+      <button class="nav-btn" data-view="drill" data-i18n="nav2">Drills</button>
+      <button class="nav-btn" data-view="progress" data-i18n="nav3">Progress</button>
+      <div class="side-foot"><span data-i18n="foot2">Demo · local AI</span></div>
+    </aside>
+    <main class="main">
+      <div class="workspace-banner">
+        <div><span class="status-dot"></span><strong>VELQUIA</strong> · standalone workspace</div>
+        <span class="badge ok">Local live</span>
+      </div>
+      <div class="top">
+        <div>
+          <h1 data-i18n="title">AI語学学習・会話</h1>
+          <p data-i18n="lead">レベル別コーチと会話し、発音・文法のフィードバックを受けるデモ。</p></div></div>
+      <section id="view-chat" class="grid grid-2">
+        <div class="card">
+          <label data-i18n="l_lv">Level</label><select id="lv"><option value="beginner">Beginner</option><option value="intermediate" selected>Intermediate</option><option value="advanced">Advanced</option></select>
+          <div class="chat" id="chat" style="min-height:260px"></div>
+          <div class="row" style="margin-top:10px"><input id="msg" placeholder="I usually wake up at..."><button class="primary" id="send" type="button" data-i18n="btn_send">Send</button></div>
+        </div>
+        <div class="card"><h2 data-i18n="h_goal">Today's goal</h2><p class="muted" id="goal"><span data-i18n="goal">Introduce yourself in 2 minutes</span></p><div class="stat"><span>Streak</span><strong id="streak">1</strong></div></div>
+      </section>
+      <section id="view-drill" class="card hidden"><h2 data-i18n="h_drill">Quick drill</h2><p id="q" class="preview"></p><input id="ans" placeholder="Your answer"><button class="primary" id="check" type="button" data-i18n="btn_check">Check</button><p id="fb" class="muted"></p></section>
+      <section id="view-progress" class="card hidden"><div class="grid grid-3"><div class="card"><div class="stat"><span>Sessions</span><strong id="sess">0</strong></div></div><div class="card"><div class="stat"><span>Lines</span><strong id="lines">0</strong></div></div><div class="card"><div class="stat"><span>Level</span><strong id="lvl">B1</strong></div></div></div></section>
+    </main>
+  </div>
+  <script src="strings.js"></script>
+  <script src="i18n.js"></script>
+  <script src="ai.js"></script>
+  <script src="app.js"></script>
+  <script src="app-kit.js"></script>
+  <script src="features.js"></script>
+</body>
+</html>

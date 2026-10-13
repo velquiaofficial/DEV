@@ -1,0 +1,11 @@
+{
+  "id": "312_SUMFORGE1",
+  "brand": "SUMSTRATUM",
+  "kind": "merge",
+  "genre": "合成パズル",
+  "port": 5497,
+  "theme": "ice",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "none"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "18_HOMEPAGE",
+  "title": "AIホームページ制作アプリ",
+  "recommend": false,
+  "lead": "業種と店舗情報を入力すると、ホームページ、紹介文、画像、問い合わせフォームを自動作成する。",
+  "revenue": "月額2,000〜15,000円＋初期制作費",
+  "customers": "個人事業主、中小企業、開業予定者",
+  "strength": "制作費と保守費の両方を収益化できる。",
+  "risk": "競合が多く、業種特化が必要。",
+  "note": "既存の 00_COMPANY/02_TEMPLATE を核にできる。",
+  "status": "concept",
+  "brand": "HOMEPAGE",
+  "standalone": true,
+  "version": "2.1.0"
+}

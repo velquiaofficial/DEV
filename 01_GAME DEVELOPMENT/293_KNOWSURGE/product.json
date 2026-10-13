@@ -1,0 +1,11 @@
+{
+  "id": "293_KNOWWAVE",
+  "brand": "KNOWSURGE",
+  "kind": "quiz",
+  "genre": "四択クイズ",
+  "port": 5478,
+  "theme": "meadow",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

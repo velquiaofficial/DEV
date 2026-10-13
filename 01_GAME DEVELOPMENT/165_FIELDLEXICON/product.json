@@ -1,0 +1,11 @@
+{
+  "id": "165_FIELDLEX",
+  "brand": "FIELDLEXICON",
+  "kind": "word",
+  "genre": "フィールド語彙",
+  "port": 5350,
+  "theme": "meadow",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

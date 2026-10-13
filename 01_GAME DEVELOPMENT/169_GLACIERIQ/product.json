@@ -1,0 +1,11 @@
+{
+  "id": "169_ICEIQ",
+  "brand": "GLACIERIQ",
+  "kind": "quiz",
+  "genre": "アイスIQ",
+  "port": 5354,
+  "theme": "ice",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

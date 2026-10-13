@@ -1,0 +1,8 @@
+{
+  "id": "112_MEMORYFLIP",
+  "brand": "MNEMOCARD",
+  "kind": "memory",
+  "port": 5212,
+  "standalone": true,
+  "version": "1.0.0"
+}

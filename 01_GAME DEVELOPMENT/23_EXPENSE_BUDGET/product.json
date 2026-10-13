@@ -1,0 +1,15 @@
+{
+  "id": "09_EXPENSE_BUDGET",
+  "title": "家計管理・経費精算アプリ",
+  "recommend": false,
+  "lead": "レシート読み取り、支出分類、予算管理、事業経費の整理を自動化する。",
+  "revenue": "月額500〜3,000円",
+  "customers": "個人、フリーランス、小規模事業者",
+  "strength": "毎月使うサービスになりやすい。",
+  "risk": "会計ソフトとの競争や金融データの安全管理。",
+  "note": "",
+  "status": "concept",
+  "brand": "EXPENSEBUDGET",
+  "standalone": true,
+  "version": "2.1.0"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "220_GLYPHTRY",
+  "brand": "GLYPHTRIAL",
+  "kind": "word",
+  "genre": "単語当て",
+  "port": 5405,
+  "theme": "paper",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

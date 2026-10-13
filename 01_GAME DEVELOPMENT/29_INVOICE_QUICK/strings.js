@@ -1,0 +1,42 @@
+window.VQ_STRINGS={
+  "en": {
+    "sub": "Quotes & Invoices",
+    "nav1": "Editor",
+    "nav2": "Documents",
+    "nav3": "Settings",
+    "foot": "Standalone",
+    "foot2": "Demo · local AI",
+    "title": "Quotes & invoices",
+    "lead": "Line items, tax, export, clients.",
+    "l_client": "Client",
+    "l_type": "Type",
+    "l_item": "Add line",
+    "btn_add": "Add line",
+    "btn": "Build document",
+    "h_p": "Preview",
+    "btn_save": "Save",
+    "h_l": "Saved docs",
+    "l_co": "Your company",
+    "l_bank": "Bank / payment note"
+  },
+  "ja": {
+    "sub": "見積・請求",
+    "nav1": "編集",
+    "nav2": "書類一覧",
+    "nav3": "設定",
+    "foot": "独立アプリ",
+    "foot2": "デモ · ローカルAI",
+    "title": "見積・請求書",
+    "lead": "明細・税・書き出し・取引先。",
+    "l_client": "取引先",
+    "l_type": "種別",
+    "l_item": "明細追加",
+    "btn_add": "行を追加",
+    "btn": "書類を作成",
+    "h_p": "プレビュー",
+    "btn_save": "保存",
+    "h_l": "保存済み",
+    "l_co": "自社名",
+    "l_bank": "振込先メモ"
+  }
+};

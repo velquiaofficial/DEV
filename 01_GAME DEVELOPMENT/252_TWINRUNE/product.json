@@ -1,0 +1,11 @@
+{
+  "id": "252_DOUBLERUNE",
+  "brand": "TWINRUNE",
+  "kind": "merge",
+  "genre": "合成パズル",
+  "port": 5437,
+  "theme": "ice",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "none"
+}

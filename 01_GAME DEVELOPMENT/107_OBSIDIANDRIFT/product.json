@@ -1,0 +1,8 @@
+{
+  "id": "107_ROCKFIELD",
+  "brand": "OBSIDIANDRIFT",
+  "kind": "asteroid",
+  "port": 5207,
+  "standalone": true,
+  "version": "1.0.0"
+}

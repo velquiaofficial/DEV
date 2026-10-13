@@ -1,0 +1,11 @@
+{
+  "id": "278_ASHCIRCLE",
+  "brand": "ASHCIRCLET",
+  "kind": "survivor",
+  "genre": "サバイバー",
+  "port": 5463,
+  "theme": "candy",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

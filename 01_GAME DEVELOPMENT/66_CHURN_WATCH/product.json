@@ -1,0 +1,8 @@
+{
+  "id": "66_CHURN_WATCH",
+  "brand": "ChurnWatch",
+  "sub": "Churn signals",
+  "angle": "biz",
+  "standalone": true,
+  "version": "2.1.0"
+}

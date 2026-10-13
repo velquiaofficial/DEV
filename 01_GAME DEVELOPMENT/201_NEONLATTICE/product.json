@@ -1,0 +1,11 @@
+{
+  "id": "201_NEONSUDO",
+  "brand": "NEONLATTICE",
+  "kind": "sudoku",
+  "genre": "ネオン数独",
+  "port": 5386,
+  "theme": "neon",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "307_TRICKLANE",
+  "brand": "TRICKMERIDIAN",
+  "kind": "card",
+  "genre": "カードバトル",
+  "port": 5492,
+  "theme": "orchard",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

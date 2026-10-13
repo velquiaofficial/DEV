@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0f1514">
+  <title>PuzzleLab — VELQUIA</title>
+  <link rel="stylesheet" href="shell.css">
+</head>
+<body>
+  <div class="app loop-brand">
+    <aside class="side">
+      <div class="brand">PuzzleLab<small data-i18n="sub">From 三角テトリス / TETORIS</small></div>
+      <p class="nav-label" data-i18n="based_label">Based on</p>
+      <p class="mini" style="padding:0 10px 10px;margin:0" data-i18n="based">02_PUZZLE / 01_TETORIS</p>
+      <button class="nav-btn active" data-view="pieces" data-i18n="nav_pieces">Pieces</button>
+      <button class="nav-btn" data-view="curve" data-i18n="nav_curve">Curve</button>
+      <button class="nav-btn" data-view="notes" data-i18n="nav_notes">Notes</button>
+      <div class="side-foot">
+        <span data-i18n="foot2">Standalone</span>
+      </div>
+    </aside>
+    <main class="main">
+      <div class="workspace-banner">
+        <div><span class="status-dot"></span><strong>PuzzleLab</strong> · <span data-i18n="banner">Studio tool</span></div>
+        <span class="badge ok" data-i18n="live">Local live</span>
+      </div>
+      <div class="top">
+        <div>
+          <h1 data-i18n="title">Triangle piece lab</h1>
+          <p data-i18n="lead">Balance Tetoris-style polyiamonds: piece sets, gravity notes, difficulty curves.</p>
+        </div>
+        <div class="top-actions">
+          <button type="button" class="primary" id="btn-primary" data-i18n="btn_primary">Run AI</button>
+          <button type="button" id="btn-seed" data-i18n="btn_seed">Seed from games</button>
+        </div>
+      </div>
+      <section id="view-pieces" class="section-enter"></section>
+      <section id="view-curve" class="section-enter hidden"></section>
+      <section id="view-notes" class="section-enter hidden"></section>
+    </main>
+  </div>
+  <script src="strings.js"></script>
+  <script src="i18n.js"></script>
+  <script src="ai.js"></script>
+  <script src="app-kit.js"></script>
+  <script src="app.js"></script>
+  <script src="features.js"></script>
+</body>
+</html>

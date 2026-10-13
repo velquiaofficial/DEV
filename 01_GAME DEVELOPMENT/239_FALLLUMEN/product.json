@@ -1,0 +1,11 @@
+{
+  "id": "239_FALLGLOW",
+  "brand": "FALLLUMEN",
+  "kind": "catch",
+  "genre": "キャッチアクション",
+  "port": 5424,
+  "theme": "ink",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

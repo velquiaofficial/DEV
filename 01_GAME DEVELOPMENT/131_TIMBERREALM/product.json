@@ -1,0 +1,11 @@
+{
+  "id": "131_LUMBERTY",
+  "brand": "TIMBERREALM",
+  "kind": "idle",
+  "genre": "木材タイクーン",
+  "port": 5316,
+  "theme": "meadow",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

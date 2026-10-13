@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#1a1410">
+  <title>MOSAIC COURT — VELQUIA</title>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=IBM+Plex+Sans+JP:wght@400;500;600&family=Outfit:wght@600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="shell">
+    <header>
+      <p class="eyebrow">Tabletop trial · tile draft</p>
+      <h1>MOSAIC COURT</h1>
+      <p class="lead">工房からタイルをドラフトし、パターン行に並べて壁へ固定。行・列の完成で得点。オリジナル作品です。</p>
+    </header>
+    <div class="bar">
+      <div>You <strong id="pts-you">0</strong></div>
+      <div>AI <strong id="pts-ai">0</strong></div>
+      <div id="round">Round 1</div>
+      <button id="btn-start" type="button">はじめる</button>
+    </div>
+    <p id="status" class="status">はじめるを押してください</p>
+    <h2>工房</h2>
+    <div id="factories" class="factories"></div>
+    <div class="boards">
+      <section>
+        <h2>あなたの壁</h2>
+        <div id="wall-you" class="wall"></div>
+        <h2>パターン行（クリックで配置）</h2>
+        <div id="pattern" class="pattern"></div>
+        <h2>床（ペナルティ）</h2>
+        <div id="floor" class="floor"></div>
+      </section>
+      <section>
+        <h2>AI 壁</h2>
+        <div id="wall-ai" class="wall"></div>
+      </section>
+    </div>
+  </main>
+  <script src="game.js"></script>
+</body>
+</html>

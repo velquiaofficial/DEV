@@ -1,0 +1,42 @@
+window.VQ_STRINGS = {
+  "en": {
+    "sub": "AI Homepage",
+    "nav1": "Generator",
+    "nav2": "Preview",
+    "nav3": "Export",
+    "foot": "Standalone",
+    "foot2": "Demo · local AI",
+    "title": "AI homepage builder",
+    "lead": "Enter industry and offer — get a one-page site instantly.",
+    "l_biz": "Industry",
+    "ph_biz": "Clinic / cafe / school",
+    "l_name": "Business name",
+    "ph_name": "VELQUIA Studio Cafe",
+    "l_offer": "Strength / offer",
+    "ph_offer": "Free first consult, 3 min from station",
+    "btn_gen": "Generate site",
+    "h_prev": "Preview",
+    "h_html": "HTML",
+    "btn_copy": "Copy HTML"
+  },
+  "ja": {
+    "sub": "AIホームページ",
+    "nav1": "生成",
+    "nav2": "プレビュー",
+    "nav3": "書き出し",
+    "foot": "独立アプリ",
+    "foot2": "デモ · ローカルAI",
+    "title": "AIホームページ制作",
+    "lead": "業種と強みを入れると、ヒーロー付きの1ページサイトを即生成。",
+    "l_biz": "業種",
+    "ph_biz": "整体院 / カフェ / 教室",
+    "l_name": "店舗名",
+    "ph_name": "VELQUIA Studio Cafe",
+    "l_offer": "強み・オファー",
+    "ph_offer": "初回カウンセリング無料、駅徒歩3分",
+    "btn_gen": "サイトを生成",
+    "h_prev": "プレビュー",
+    "h_html": "HTML",
+    "btn_copy": "HTMLコピー"
+  }
+};

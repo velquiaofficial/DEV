@@ -1,0 +1,16 @@
+{
+  "id": "16_SHORT_VIDEO",
+  "brand": "ClipForge",
+  "title": "ClipForge — AIショート動画設計",
+  "recommend": false,
+  "lead": "Shorts / TikTok / Reels 向けに、台本・シーン・フック・テロップをローカルで組み立てる。",
+  "revenue": "月額 ¥2,980–¥19,800 想定",
+  "customers": "インフルエンサー、広告代理店、インディー開発者",
+  "strength": "動画そのものより「設計パック」を先に固めて時短する。",
+  "risk": "本番の動画生成APIは原価管理が必須。",
+  "note": "デモは台本〜シーン設計まで。実映像レンダは未接続。",
+  "status": "demo",
+  "version": "2.1.0",
+  "port": 5616,
+  "standalone": true
+}

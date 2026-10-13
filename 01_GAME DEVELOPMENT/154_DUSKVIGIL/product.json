@@ -1,0 +1,11 @@
+{
+  "id": "154_DUSKWATCH",
+  "brand": "DUSKVIGIL",
+  "kind": "tower",
+  "genre": "黄昏の監視",
+  "port": 5339,
+  "theme": "dusk",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

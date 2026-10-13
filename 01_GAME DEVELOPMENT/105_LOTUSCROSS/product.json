@@ -1,0 +1,8 @@
+{
+  "id": "105_LILYPAD",
+  "brand": "LOTUSCROSS",
+  "kind": "frog",
+  "port": 5205,
+  "standalone": true,
+  "version": "1.0.0"
+}

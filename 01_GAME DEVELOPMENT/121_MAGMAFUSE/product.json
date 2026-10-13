@@ -1,0 +1,11 @@
+{
+  "id": "121_BLOCKFUSE",
+  "brand": "MAGMAFUSE",
+  "kind": "merge",
+  "genre": "ブロック融合",
+  "port": 5306,
+  "theme": "magma",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "none"
+}

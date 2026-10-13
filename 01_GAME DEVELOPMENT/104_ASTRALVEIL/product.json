@@ -1,0 +1,8 @@
+{
+  "id": "104_STARSWARM",
+  "brand": "ASTRALVEIL",
+  "kind": "invaders",
+  "port": 5204,
+  "standalone": true,
+  "version": "1.0.0"
+}

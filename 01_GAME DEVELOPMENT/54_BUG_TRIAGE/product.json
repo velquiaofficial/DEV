@@ -1,0 +1,8 @@
+{
+  "id": "54_BUG_TRIAGE",
+  "brand": "BugTriage",
+  "sub": "QA triage",
+  "angle": "studio",
+  "standalone": true,
+  "version": "2.1.0"
+}

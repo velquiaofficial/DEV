@@ -1,0 +1,8 @@
+{
+  "id": "62_STREAM_HUD",
+  "brand": "StreamHud",
+  "sub": "Stream HUD planner",
+  "angle": "creator",
+  "standalone": true,
+  "version": "2.1.0"
+}

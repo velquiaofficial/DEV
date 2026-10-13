@@ -1,0 +1,11 @@
+{
+  "id": "218_HORDEFALL",
+  "brand": "HORDEDESCENT",
+  "kind": "survivor",
+  "genre": "サバイバー",
+  "port": 5403,
+  "theme": "candy",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

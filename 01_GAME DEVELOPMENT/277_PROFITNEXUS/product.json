@@ -1,0 +1,11 @@
+{
+  "id": "277_PROFITPOD",
+  "brand": "PROFITNEXUS",
+  "kind": "idle",
+  "genre": "放置クリッカー",
+  "port": 5462,
+  "theme": "orchard",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

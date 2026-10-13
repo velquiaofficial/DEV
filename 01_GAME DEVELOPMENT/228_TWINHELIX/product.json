@@ -1,0 +1,11 @@
+{
+  "id": "228_TWINCELL",
+  "brand": "TWINHELIX",
+  "kind": "merge",
+  "genre": "合成パズル",
+  "port": 5413,
+  "theme": "candy",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "none"
+}

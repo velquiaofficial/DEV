@@ -1,0 +1,11 @@
+{
+  "id": "178_EMBERDASH",
+  "brand": "EMBERSTRIDE",
+  "kind": "runner",
+  "genre": "エンバーダッシュ",
+  "port": 5363,
+  "theme": "magma",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

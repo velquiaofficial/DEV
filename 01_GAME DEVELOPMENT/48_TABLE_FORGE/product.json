@@ -1,0 +1,7 @@
+{
+  "id": "48_TABLE_FORGE",
+  "brand": "TableForge",
+  "basedOn": "14_BOARDGAME · Islebound…Crownstack",
+  "standalone": true,
+  "version": "2.1.0"
+}

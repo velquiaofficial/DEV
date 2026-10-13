@@ -1,0 +1,7 @@
+{
+  "id": "47_ATELIER_DROP",
+  "brand": "AtelierDrop",
+  "basedOn": "10_FASHION",
+  "standalone": true,
+  "version": "2.1.0"
+}

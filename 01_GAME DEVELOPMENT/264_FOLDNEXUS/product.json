@@ -1,0 +1,11 @@
+{
+  "id": "264_FOLDCORE",
+  "brand": "FOLDNEXUS",
+  "kind": "merge",
+  "genre": "合成パズル",
+  "port": 5449,
+  "theme": "neon",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "none"
+}

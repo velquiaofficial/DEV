@@ -1,0 +1,11 @@
+{
+  "id": "186_BLADECARD",
+  "brand": "BLADEARCHIVE",
+  "kind": "card",
+  "genre": "ブレイドカード",
+  "port": 5371,
+  "theme": "magma",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

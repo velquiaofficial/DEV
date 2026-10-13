@@ -1,0 +1,11 @@
+{
+  "id": "156_WORDVEIL",
+  "brand": "WORDPHANTOM",
+  "kind": "word",
+  "genre": "単語ベール",
+  "port": 5341,
+  "theme": "dusk",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

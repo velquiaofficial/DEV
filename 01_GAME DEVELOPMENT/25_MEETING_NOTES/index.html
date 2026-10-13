@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#150f13">
+  <title>MeetNote — VELQUIA</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=IBM+Plex+Sans+JP:wght@400;500;600;700&family=Outfit:wght@600;700;800" rel="stylesheet">
+  <link rel="stylesheet" href="shell.css">
+</head>
+<body>
+  <div class="app loop-brand">
+    <aside class="side">
+      <div class="brand">MeetNote<small data-i18n="sub">Meeting AI</small></div>
+      <button class="nav-btn active" data-view="capture" data-i18n="nav1">Capture</button>
+      <button class="nav-btn" data-view="actions" data-i18n="nav2">Actions</button>
+      <button class="nav-btn" data-view="archive" data-i18n="nav3">Archive</button>
+      <div class="side-foot"><span data-i18n="foot2">Demo · local AI</span></div>
+    </aside>
+    <main class="main">
+      <div class="workspace-banner">
+        <div><span class="status-dot"></span><strong>VELQUIA</strong> · standalone workspace</div>
+        <span class="badge ok">Local live</span>
+      </div>
+      <div class="top"><div><h1 data-i18n="title">Meeting digests</h1><p data-i18n="lead">Paste notes → summary, decisions, action items, owners & due dates.</p></div></div>
+      <div class="kpi-row">
+        <div class="card"><div class="stat"><span data-i18n="k1">Meetings</span><strong id="k1">0</strong></div></div>
+        <div class="card"><div class="stat"><span data-i18n="k2">Open actions</span><strong id="k2">0</strong></div></div>
+        <div class="card"><div class="stat"><span data-i18n="k3">Done</span><strong id="k3">0</strong></div></div>
+        <div class="card"><div class="stat"><span data-i18n="k4">This week</span><strong id="k4">0</strong></div></div>
+      </div>
+      <section id="view-capture" class="grid grid-2">
+        <div class="card">
+          <label data-i18n="l_title">Title</label><input id="mtitle" placeholder="Weekly sync">
+          <label data-i18n="l_raw">Raw notes</label><textarea id="raw" style="min-height:220px" placeholder="決定: 発売日を来月に&#10;TODO: デザイン確定 — 田中"></textarea>
+          <div class="actions"><button class="primary" id="digest" type="button" data-i18n="btn">Digest with AI</button><button id="sample" type="button">Sample</button></div>
+        </div>
+        <div class="card"><h2 data-i18n="h_out">Digest</h2><div id="out" class="preview"></div>
+          <div class="actions"><button id="saveM" type="button" data-i18n="btn_save">Save meeting</button><button id="expM" type="button">Export</button></div>
+        </div>
+      </section>
+      <section id="view-actions" class="card hidden"><h2 data-i18n="h_act">Action board</h2><table class="table"><thead><tr><th>Action</th><th>Owner</th><th>Due</th><th></th></tr></thead><tbody id="abody"></tbody></table></section>
+      <section id="view-archive" class="card hidden"><h2 data-i18n="h_ar">Archive</h2><ul class="list" id="arch"></ul></section>
+    </main>
+  </div>
+  <script src="strings.js"></script>
+  <script src="i18n.js"></script>
+  <script src="ai.js"></script>
+  <script src="app.js"></script>
+  <script src="app-kit.js"></script>
+  <script src="features.js"></script>
+</body>
+</html>

@@ -1,0 +1,8 @@
+{
+  "id": "101_DOTMUNCH",
+  "brand": "LUMENMAW",
+  "kind": "pac",
+  "port": 5201,
+  "standalone": true,
+  "version": "1.0.0"
+}

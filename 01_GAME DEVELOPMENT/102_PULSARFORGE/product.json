@@ -1,0 +1,8 @@
+{
+  "id": "102_BRICKPULSE",
+  "brand": "PULSARFORGE",
+  "kind": "breakout",
+  "port": 5202,
+  "standalone": true,
+  "version": "1.0.0"
+}

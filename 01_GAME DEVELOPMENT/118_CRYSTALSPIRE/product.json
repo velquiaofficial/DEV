@@ -1,0 +1,11 @@
+{
+  "id": "118_GEMSTACK",
+  "brand": "CRYSTALSPIRE",
+  "kind": "merge",
+  "genre": "宝石合成",
+  "port": 5303,
+  "theme": "ice",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "none"
+}

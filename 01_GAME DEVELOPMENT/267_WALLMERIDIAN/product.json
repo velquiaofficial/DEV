@@ -1,0 +1,11 @@
+{
+  "id": "267_WALLPULSE",
+  "brand": "WALLMERIDIAN",
+  "kind": "tower",
+  "genre": "タワーディフェンス",
+  "port": 5452,
+  "theme": "orchard",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

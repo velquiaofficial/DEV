@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0f1510">
+  <title>RivalScan — VELQUIA</title>
+  <link rel="stylesheet" href="shell.css">
+</head>
+<body>
+  <div class="app loop-brand">
+    <aside class="side">
+      <div class="brand">RivalScan<small data-i18n="sub">Competitor Intel</small></div>
+      <button class="nav-btn active" data-view="scan" data-i18n="nav_scan">Scan</button>
+      <button class="nav-btn" data-view="cards" data-i18n="nav_cards">Battle cards</button>
+      <button class="nav-btn" data-view="watch" data-i18n="nav_watch">Watchlist</button>
+      <div class="side-foot">
+        <span data-i18n="foot2">Standalone · local demo</span>
+      </div>
+    </aside>
+    <main class="main">
+      <div class="workspace-banner">
+        <div><span class="status-dot"></span><strong>RivalScan</strong> · <span data-i18n="banner">VELQUIA workspace</span></div>
+        <span class="badge ok" data-i18n="live">Local live</span>
+      </div>
+      <div class="top">
+        <div>
+          <h1 data-i18n="title">Competitor briefs</h1>
+          <p data-i18n="lead">Capture rivals, compare positioning, and draft battle cards.</p>
+        </div>
+        <div class="top-actions">
+          <button type="button" class="primary" id="btn-primary" data-i18n="btn_primary">Run AI</button>
+          <button type="button" id="btn-seed" data-i18n="btn_seed">Seed demo</button>
+        </div>
+      </div>
+      <section id="view-scan" class="section-enter"></section>
+      <section id="view-cards" class="section-enter hidden"></section>
+      <section id="view-watch" class="section-enter hidden"></section>
+    </main>
+  </div>
+  <script src="strings.js"></script>
+  <script src="i18n.js"></script>
+  <script src="ai.js"></script>
+  <script src="app-kit.js"></script>
+  <script src="app.js"></script>
+  <script src="features.js"></script>
+</body>
+</html>

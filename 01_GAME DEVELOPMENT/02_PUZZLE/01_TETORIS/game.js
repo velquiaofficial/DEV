@@ -817,11 +817,25 @@
     boardCanvas.height = Math.round(VIEW_H * dpr);
     nextCanvas.width = Math.round(312 * dpr);
     nextCanvas.height = Math.round(132 * dpr);
+    // Keep next preview un-squashed (CSS may stretch canvas otherwise)
+    const nextBox = nextCanvas.getBoundingClientRect();
+    const nextAspect = 312 / 132;
+    let nw = Math.max(120, nextBox.width || nextCanvas.parentElement?.clientWidth || 280);
+    let nh = nw / nextAspect;
+    if (nextBox.height > 8 && nh > nextBox.height) {
+      nh = nextBox.height;
+      nw = nh * nextAspect;
+    }
+    nextCanvas.style.setProperty("width", Math.floor(nw) + "px", "important");
+    nextCanvas.style.setProperty("height", Math.floor(nh) + "px", "important");
+
     const stage = document.querySelector(".stage");
     const rect = stage.getBoundingClientRect();
-    const availW = rect.width - 22;
-    const availH = rect.height - 22;
-    if (availW < 64 || availH < 100) return;
+    // Fallback when stage collapsed (short mobile / embedded browser)
+    const fallbackH = Math.max(180, Math.floor(window.innerHeight * 0.48));
+    const availW = Math.max(64, rect.width - 22);
+    let availH = rect.height - 22;
+    if (availH < 100) availH = fallbackH;
     const aspect = VIEW_W / VIEW_H;
     let w = availW;
     let h = w / aspect;
@@ -829,8 +843,10 @@
       h = availH;
       w = h * aspect;
     }
-    boardCanvas.style.width = Math.floor(w) + "px";
-    boardCanvas.style.height = Math.floor(h) + "px";
+    w = Math.max(96, Math.floor(w));
+    h = Math.max(160, Math.floor(h));
+    boardCanvas.style.setProperty("width", w + "px", "important");
+    boardCanvas.style.setProperty("height", h + "px", "important");
   }
 
   function updateHud() {
@@ -909,6 +925,7 @@
     phase = "play";
     if (!spawnNext()) gameOver();
     syncUi();
+    fitCanvases();
     tone(523, 0.06, "triangle", 0.03, 40);
   }
 

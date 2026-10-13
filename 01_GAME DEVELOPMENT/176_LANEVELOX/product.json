@@ -1,0 +1,11 @@
+{
+  "id": "176_LANEDASH",
+  "brand": "LANEVELOX",
+  "kind": "runner",
+  "genre": "レーンダッシュ",
+  "port": 5361,
+  "theme": "dusk",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

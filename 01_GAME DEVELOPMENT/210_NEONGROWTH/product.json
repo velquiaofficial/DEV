@@ -1,0 +1,11 @@
+{
+  "id": "210_NEONGROW",
+  "brand": "NEONGROWTH",
+  "kind": "farm",
+  "genre": "ネオングロウ",
+  "port": 5395,
+  "theme": "neon",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "301_YIELDHIVE",
+  "brand": "YIELDIMPERIUM",
+  "kind": "idle",
+  "genre": "放置クリッカー",
+  "port": 5486,
+  "theme": "magma",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

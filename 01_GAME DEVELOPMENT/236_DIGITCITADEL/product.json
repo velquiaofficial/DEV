@@ -1,0 +1,11 @@
+{
+  "id": "236_DIGITKEEP",
+  "brand": "DIGITCITADEL",
+  "kind": "sudoku",
+  "genre": "数独",
+  "port": 5421,
+  "theme": "dusk",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

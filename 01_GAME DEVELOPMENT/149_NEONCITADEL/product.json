@@ -1,0 +1,11 @@
+{
+  "id": "149_NEONGRID",
+  "brand": "NEONCITADEL",
+  "kind": "tower",
+  "genre": "ネオングリッドTD",
+  "port": 5334,
+  "theme": "neon",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

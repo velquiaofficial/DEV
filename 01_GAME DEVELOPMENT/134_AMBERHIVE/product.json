@@ -1,0 +1,11 @@
+{
+  "id": "134_HONEYHIVE",
+  "brand": "AMBERHIVE",
+  "kind": "idle",
+  "genre": "蜂蜜ハイブ",
+  "port": 5319,
+  "theme": "orchard",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

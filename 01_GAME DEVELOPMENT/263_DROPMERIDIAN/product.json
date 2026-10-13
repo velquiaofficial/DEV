@@ -1,0 +1,11 @@
+{
+  "id": "263_DROPPULSE",
+  "brand": "DROPMERIDIAN",
+  "kind": "catch",
+  "genre": "キャッチアクション",
+  "port": 5448,
+  "theme": "meadow",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

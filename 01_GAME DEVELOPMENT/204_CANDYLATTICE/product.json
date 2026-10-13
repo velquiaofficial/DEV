@@ -1,0 +1,11 @@
+{
+  "id": "204_CANDYSUDO",
+  "brand": "CANDYLATTICE",
+  "kind": "sudoku",
+  "genre": "キャンディ数独",
+  "port": 5389,
+  "theme": "candy",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

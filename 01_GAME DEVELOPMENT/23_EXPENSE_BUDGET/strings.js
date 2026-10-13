@@ -1,0 +1,40 @@
+window.VQ_STRINGS = {
+  "en": {
+    "sub": "Expense AI",
+    "nav1": "Add",
+    "nav2": "Budget",
+    "nav3": "Report",
+    "foot": "Standalone",
+    "foot2": "Demo · local AI",
+    "title": "Budget & expenses",
+    "lead": "Log spend, categorize, and see a monthly report (local save).",
+    "l_amt": "Amount",
+    "ph_amt": "1280",
+    "l_cat": "Category",
+    "l_memo": "Memo / receipt",
+    "ph_memo": "Cafe, client meeting",
+    "btn_add": "Add",
+    "l_bud": "Monthly budget",
+    "btn_bud": "Save",
+    "h_break": "Breakdown"
+  },
+  "ja": {
+    "sub": "家計・経費",
+    "nav1": "追加",
+    "nav2": "予算",
+    "nav3": "レポート",
+    "foot": "独立アプリ",
+    "foot2": "デモ · ローカルAI",
+    "title": "家計管理・経費精算",
+    "lead": "支出登録・カテゴリ分類・月次レポート（ローカル保存）。",
+    "l_amt": "金額",
+    "ph_amt": "1280",
+    "l_cat": "カテゴリ",
+    "l_memo": "メモ / レシート内容",
+    "ph_memo": "カフェ、クライアント打合せ",
+    "btn_add": "追加",
+    "l_bud": "月間予算",
+    "btn_bud": "保存",
+    "h_break": "内訳"
+  }
+};

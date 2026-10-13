@@ -1,0 +1,11 @@
+{
+  "id": "124_PAPER2048",
+  "brand": "PAPERORBIT",
+  "kind": "merge",
+  "genre": "紙の2048",
+  "port": 5309,
+  "theme": "paper",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "none"
+}

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0f1415">
+  <title>A11yAudit — VELQUIA</title>
+  <link rel="stylesheet" href="shell.css">
+</head>
+<body>
+  <div class="app loop-brand">
+    <aside class="side">
+      <div class="brand">A11yAudit<small data-i18n="sub">A11y audit</small></div>
+      <p class="nav-label" data-i18n="angle_label">Angle</p>
+      <p class="mini" style="padding:0 10px 10px;margin:0" data-i18n="angle">eng</p>
+      <button class="nav-btn active" data-view="checks" data-i18n="nav_checks">Checks</button>
+      <button class="nav-btn" data-view="issues" data-i18n="nav_issues">Issues</button>
+      <button class="nav-btn" data-view="fix" data-i18n="nav_fix">Fixes</button>
+      <div class="side-foot">
+        <span data-i18n="foot2">Standalone · local demo</span>
+      </div>
+    </aside>
+    <main class="main">
+      <div class="workspace-banner">
+        <div><span class="status-dot"></span><strong>A11yAudit</strong> · <span data-i18n="banner">VELQUIA workspace</span></div>
+        <span class="badge ok" data-i18n="live">Local live</span>
+      </div>
+      <div class="top">
+        <div>
+          <h1 data-i18n="title">Accessibility audit</h1>
+          <p data-i18n="lead">WCAG-ish checks, owners, and severity.</p>
+        </div>
+        <div class="top-actions">
+          <button type="button" class="primary" id="btn-primary" data-i18n="btn_primary">Run AI</button>
+          <button type="button" id="btn-seed" data-i18n="btn_seed">Seed demo</button>
+        </div>
+      </div>
+      <section id="view-checks" class="section-enter"></section>
+      <section id="view-issues" class="section-enter hidden"></section>
+      <section id="view-fix" class="section-enter hidden"></section>
+    </main>
+  </div>
+  <script src="strings.js"></script>
+  <script src="i18n.js"></script>
+  <script src="ai.js"></script>
+  <script src="app-kit.js"></script>
+  <script src="app.js"></script>
+  <script src="features.js"></script>
+</body>
+</html>

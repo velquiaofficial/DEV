@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#150f11">
+  <title>HireReady — VELQUIA</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=IBM+Plex+Sans+JP:wght@400;500;600;700&family=Outfit:wght@600;700;800" rel="stylesheet">
+  <link rel="stylesheet" href="shell.css">
+</head>
+<body>
+  <div class="app loop-brand">
+    <aside class="side">
+      <div class="brand">HireReady<small data-i18n="sub">Resume & Interview</small></div>
+      <button class="nav-btn active" data-view="resume" data-i18n="nav1">Resume</button>
+      <button class="nav-btn" data-view="interview" data-i18n="nav2">Interview</button>
+      <button class="nav-btn" data-view="export" data-i18n="nav3">Export</button>
+      <div class="side-foot"><span data-i18n="foot2">Demo · local AI</span></div>
+    </aside>
+    <main class="main">
+      <div class="workspace-banner">
+        <div><span class="status-dot"></span><strong>VELQUIA</strong> · standalone workspace</div>
+        <span class="badge ok">Local live</span>
+      </div>
+      <div class="top">
+        <div>
+          <h1 data-i18n="title">AI履歴書・面接対策</h1>
+          <p data-i18n="lead">職務情報から履歴書文面と面接質問を生成。</p></div></div>
+      <section id="view-resume" class="grid grid-2">
+        <div class="card">
+          <label data-i18n="l_name">Name</label><input id="name" placeholder="山田 太郎">
+          <label data-i18n="l_role">Target role</label><input id="role" placeholder="フロントエンドエンジニア">
+          <label data-i18n="l_exp">Experience</label><textarea id="exp" placeholder="ECサイト刷新、CVR +18%..."></textarea>
+          <button class="primary" id="gen" type="button" data-i18n="btn_gen">Generate resume</button>
+        </div>
+        <div class="card"><h2 data-i18n="h_prev">Preview</h2><div id="resumeOut" class="preview"></div></div>
+      </section>
+      <section id="view-interview" class="card hidden">
+        <h2 data-i18n="h_iv">Interview sim</h2>
+        <p id="iq" class="preview"></p>
+        <textarea id="ians" placeholder="回答を入力"></textarea>
+        <button class="primary" id="icoach" type="button" data-i18n="btn_fb">Feedback</button>
+        <p id="ifb" class="muted"></p>
+        <button id="inext" type="button" data-i18n="btn_next">Next question</button>
+      </section>
+      <section id="view-export" class="card hidden"><div id="expOut" class="preview"></div><button class="primary" id="copy" type="button" data-i18n="btn_copy">Copy</button></section>
+    </main>
+  </div>
+  <script src="strings.js"></script>
+  <script src="i18n.js"></script>
+  <script src="ai.js"></script>
+  <script src="app.js"></script>
+  <script src="app-kit.js"></script>
+  <script src="features.js"></script>
+</body>
+</html>

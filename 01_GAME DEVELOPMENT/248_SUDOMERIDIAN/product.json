@@ -1,0 +1,11 @@
+{
+  "id": "248_SUDOPULSE",
+  "brand": "SUDOMERIDIAN",
+  "kind": "sudoku",
+  "genre": "数独",
+  "port": 5433,
+  "theme": "candy",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

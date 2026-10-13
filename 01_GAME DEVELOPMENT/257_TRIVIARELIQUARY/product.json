@@ -1,0 +1,11 @@
+{
+  "id": "257_TRIVIABOX",
+  "brand": "TRIVIARELIQUARY",
+  "kind": "quiz",
+  "genre": "四択クイズ",
+  "port": 5442,
+  "theme": "orchard",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

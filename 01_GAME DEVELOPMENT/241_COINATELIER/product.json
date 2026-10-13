@@ -1,0 +1,11 @@
+{
+  "id": "241_COINMILL",
+  "brand": "COINATELIER",
+  "kind": "idle",
+  "genre": "放置クリッカー",
+  "port": 5426,
+  "theme": "magma",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "21_LANGUAGE",
+  "title": "AI語学学習・会話アプリ",
+  "recommend": false,
+  "lead": "AIと会話し、発音、文法、語彙を個人に合わせて練習する。",
+  "revenue": "月額980〜3,980円",
+  "customers": "英語学習者、資格試験受験者、海外旅行者",
+  "strength": "継続利用の習慣を作れれば安定収益を狙える。",
+  "risk": "大手との競争とユーザー獲得費用。",
+  "note": "",
+  "status": "concept",
+  "brand": "LANGUAGE",
+  "standalone": true,
+  "version": "2.1.0"
+}

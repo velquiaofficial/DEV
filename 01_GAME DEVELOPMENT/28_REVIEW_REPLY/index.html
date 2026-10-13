@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#15100f">
+  <title>Repliqa — VELQUIA</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=IBM+Plex+Sans+JP:wght@400;500;600;700&family=Outfit:wght@600;700;800" rel="stylesheet">
+  <link rel="stylesheet" href="shell.css">
+</head>
+<body>
+  <div class="app loop-brand">
+    <aside class="side">
+      <div class="brand">Repliqa<small data-i18n="sub">Review Reply AI</small></div>
+      <button class="nav-btn active" data-view="inbox" data-i18n="nav1">Inbox</button>
+      <button class="nav-btn" data-view="studio" data-i18n="nav2">Reply studio</button>
+      <button class="nav-btn" data-view="stats" data-i18n="nav3">Stats</button>
+      <div class="side-foot"><span data-i18n="foot2">Demo · local AI</span></div>
+    </aside>
+    <main class="main">
+      <div class="workspace-banner">
+        <div><span class="status-dot"></span><strong>VELQUIA</strong> · standalone workspace</div>
+        <span class="badge ok">Local live</span>
+      </div>
+      <div class="top"><div><h1 data-i18n="title">Review reply AI</h1><p data-i18n="lead">Import reviews, draft tone-matched replies, track response rate.</p></div></div>
+      <section id="view-inbox" class="card">
+        <div class="toolbar"><button class="primary" id="seed" type="button" data-i18n="btn_seed">Load samples</button><span class="spacer"></span></div>
+        <ul class="list" id="list"></ul>
+      </section>
+      <section id="view-studio" class="grid grid-2 hidden">
+        <div class="card"><h2 data-i18n="h_r">Review</h2><div id="rev" class="preview"></div>
+          <label data-i18n="l_tone">Tone</label><select id="tone"><option value="warm">Warm</option><option value="formal">Formal</option><option value="short">Short</option></select>
+          <button class="primary" id="gen" type="button" data-i18n="btn">Draft reply</button>
+        </div>
+        <div class="card"><h2 data-i18n="h_a">Reply</h2><textarea id="reply" style="min-height:200px"></textarea>
+          <div class="actions"><button id="saveR" type="button" data-i18n="btn_save">Mark sent</button><button id="copyR" type="button">Copy</button></div>
+        </div>
+      </section>
+      <section id="view-stats" class="card hidden">
+        <div class="kpi-row">
+          <div class="card"><div class="stat"><span>Total</span><strong id="s1">0</strong></div></div>
+          <div class="card"><div class="stat"><span>Replied</span><strong id="s2">0</strong></div></div>
+          <div class="card"><div class="stat"><span>Avg stars</span><strong id="s3">0</strong></div></div>
+          <div class="card"><div class="stat"><span>Pending</span><strong id="s4">0</strong></div></div>
+        </div>
+      </section>
+    </main>
+  </div>
+  <script src="strings.js"></script>
+  <script src="i18n.js"></script>
+  <script src="ai.js"></script>
+  <script src="app.js"></script>
+  <script src="app-kit.js"></script>
+  <script src="features.js"></script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+{
+  "id": "143_MEADOWMAY",
+  "brand": "MEADOWSANCTUM",
+  "kind": "survivor",
+  "genre": "草原防衛戦",
+  "port": 5328,
+  "theme": "meadow",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

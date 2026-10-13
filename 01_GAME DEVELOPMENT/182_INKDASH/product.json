@@ -1,0 +1,11 @@
+{
+  "id": "182_INKRUN",
+  "brand": "INKDASH",
+  "kind": "runner",
+  "genre": "インクラン",
+  "port": 5367,
+  "theme": "ink",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

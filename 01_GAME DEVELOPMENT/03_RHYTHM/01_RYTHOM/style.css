@@ -776,3 +776,24 @@ button:focus-visible {
 @media (prefers-reduced-motion: reduce) {
   .ground, .celestial, .waves, .leg { animation: none !important; }
 }
+
+/* elevated-genre */
+body{animation:none}
+.shell,main{animation:vqGRise .65s ease both}
+@keyframes vqGRise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+button.primary,#action-btn{transition:filter .2s ease,transform .15s ease}
+button.primary:hover,#action-btn:hover{filter:brightness(1.06)}
+
+/* deep-elevate */
+.shell,main,#app{animation:deRise .65s ease both}@keyframes deRise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+
+/* loop-elevate:01_RYTHOM */
+:root{
+  --loop-accent:hsl(55 52% 56%);
+  --loop-accent2:hsl(97 58% 52%);
+}
+.eyebrow{color:var(--loop-accent)!important}
+button.primary,#btn-start,#action-btn{
+  background:linear-gradient(135deg,var(--loop-accent2),var(--loop-accent))!important;
+  color:#141008!important;border:none!important;
+}

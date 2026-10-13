@@ -1,0 +1,8 @@
+{
+  "id": "106_PADDLEDUEL",
+  "brand": "MIRRORLANCE",
+  "kind": "pong",
+  "port": 5206,
+  "standalone": true,
+  "version": "1.0.0"
+}

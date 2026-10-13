@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#1a1510">
+  <title>ISLEBOUND — VELQUIA</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=IBM+Plex+Sans+JP:wght@400;500;600&family=Outfit:wght@600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="shell">
+    <header class="hero">
+      <p class="eyebrow">Tabletop trial · settle & trade</p>
+      <h1>ISLEBOUND</h1>
+      <p class="lead">サイコロで資源を集め、道と集落を広げて勝利点7を先取する開拓ゲーム。あなた vs AI。</p>
+    </header>
+    <div class="layout">
+      <section class="board-wrap">
+        <canvas id="board" width="520" height="480" aria-label="hex board"></canvas>
+        <p id="status" class="status">はじめるを押して配置フェーズへ</p>
+      </section>
+      <aside class="panel">
+        <div class="scores">
+          <article><span>You</span><strong id="vp-you">0</strong><small>VP</small></article>
+          <article><span>AI</span><strong id="vp-ai">0</strong><small>VP</small></article>
+        </div>
+        <div class="dice-row">
+          <button id="btn-roll" type="button" disabled>サイコロ</button>
+          <strong id="dice">-</strong>
+        </div>
+        <h2>資源</h2>
+        <ul id="res" class="res"></ul>
+        <h2>建設</h2>
+        <div class="build">
+          <button id="btn-road" type="button" disabled>道 (木1 土1)</button>
+          <button id="btn-settle" type="button" disabled>集落 (木1 土1 麦1 羊1)</button>
+          <button id="btn-city" type="button" disabled>都市 (麦2 石3)</button>
+          <button id="btn-end" type="button" disabled>ターン終了</button>
+        </div>
+        <button id="btn-start" type="button" class="primary">はじめる</button>
+        <ul class="rules">
+          <li>配置：集落→道を交互に2回</li>
+          <li>7で盗賊。資源を奪う</li>
+          <li>集落1VP / 都市2VP · 先に7で勝ち</li>
+        </ul>
+      </aside>
+    </div>
+  </main>
+  <script src="game.js"></script>
+</body>
+</html>

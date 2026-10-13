@@ -1,0 +1,8 @@
+{
+  "id": "111_STACKDROP",
+  "brand": "AETHERSTACK",
+  "kind": "stack",
+  "port": 5211,
+  "standalone": true,
+  "version": "1.0.0"
+}

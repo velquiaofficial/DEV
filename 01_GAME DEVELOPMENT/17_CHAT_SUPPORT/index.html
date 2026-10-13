@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#15120f">
+  <title>Deskly AI — VELQUIA</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=IBM+Plex+Sans+JP:wght@400;500;600;700&family=Outfit:wght@600;700;800" rel="stylesheet">
+  <link rel="stylesheet" href="shell.css">
+</head>
+<body>
+  <div class="app loop-brand">
+    <aside class="side">
+      <div class="brand">Deskly<small data-i18n="sub">AI Support</small></div>
+      <button class="nav-btn active" data-view="widget" data-i18n="nav1">Live widget</button>
+      <button class="nav-btn" data-view="faq" data-i18n="nav2">FAQ brain</button>
+      <button class="nav-btn" data-view="inbox" data-i18n="nav3">Inbox</button>
+      <div class="side-foot"><span data-i18n="foot2">Demo · local AI</span></div>
+    </aside>
+    <main class="main">
+      <div class="workspace-banner">
+        <div><span class="status-dot"></span><strong>VELQUIA</strong> · standalone workspace</div>
+        <span class="badge ok">Local live</span>
+      </div>
+      <div class="top">
+        <div>
+          <h1 data-i18n="title">AI接客・問い合わせ自動対応</h1>
+          <p data-i18n="lead">Web/EC向けチャット。FAQと会話ログをローカルで運用デモ。</p></div></div>
+      <section id="view-widget" class="grid grid-2">
+        <div class="card"><h2 data-i18n="h_cust">Customer view</h2><div class="chat" id="chat"></div>
+          <div class="row" style="margin-top:10px"><input id="msg" data-i18n-placeholder="ph_msg" placeholder="What are your prices?"><button class="primary" id="send" type="button" data-i18n="btn_send">Send</button></div>
+        </div>
+        <div class="card"><h2 data-i18n="h_op">Operator</h2><p class="muted"><span data-i18n="op">Escalation list</span></p><ul class="list" id="escalations"></ul></div>
+      </section>
+      <section id="view-faq" class="card hidden">
+        <h2 data-i18n="h_faq">FAQ</h2>
+        <div class="row"><input id="fq" data-i18n-placeholder="ph_fq" placeholder="Keywords"><input id="fa" data-i18n-placeholder="ph_fa" placeholder="Answer"></div>
+        <button class="primary" id="addFaq" type="button" data-i18n="btn_faq">Add</button>
+        <ul class="list" id="faqList" style="margin-top:12px"></ul>
+      </section>
+      <section id="view-inbox" class="card hidden"><h2 data-i18n="h_in">Recent chats</h2><ul class="list" id="inbox"></ul></section>
+    </main>
+  </div>
+  <script src="strings.js"></script>
+  <script src="i18n.js"></script>
+  <script src="ai.js"></script>
+  <script src="app.js"></script>
+  <script src="app-kit.js"></script>
+  <script src="features.js"></script>
+</body>
+</html>

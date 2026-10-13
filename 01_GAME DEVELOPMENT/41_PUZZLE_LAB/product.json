@@ -1,0 +1,7 @@
+{
+  "id": "41_PUZZLE_LAB",
+  "brand": "PuzzleLab",
+  "basedOn": "02_PUZZLE / 01_TETORIS",
+  "standalone": true,
+  "version": "2.1.0"
+}

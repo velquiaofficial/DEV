@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#15100f">
+  <title>Outreach — VELQUIA</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=IBM+Plex+Sans+JP:wght@400;500;600;700&family=Outfit:wght@600;700;800" rel="stylesheet">
+  <link rel="stylesheet" href="shell.css">
+</head>
+<body>
+  <div class="app loop-brand">
+    <aside class="side">
+      <div class="brand">Outreach<small data-i18n="sub">Sales Email AI</small></div>
+      <button class="nav-btn active" data-view="write" data-i18n="nav1">Write</button>
+      <button class="nav-btn" data-view="seq" data-i18n="nav2">Sequence</button>
+      <button class="nav-btn" data-view="leads" data-i18n="nav3">Leads</button>
+      <div class="side-foot"><span data-i18n="foot2">Demo · local AI</span></div>
+    </aside>
+    <main class="main">
+      <div class="workspace-banner">
+        <div><span class="status-dot"></span><strong>VELQUIA</strong> · standalone workspace</div>
+        <span class="badge ok">Local live</span>
+      </div>
+      <div class="top"><div><h1 data-i18n="title">Sales email studio</h1><p data-i18n="lead">Personas, offers, 3-step sequences, lead list & copy export.</p></div></div>
+      <section id="view-write" class="grid grid-2">
+        <div class="card">
+          <label data-i18n="l_p">Persona</label><input id="persona" placeholder="EC store owner">
+          <label data-i18n="l_o">Offer</label><input id="offer" placeholder="ShelfShot EC asset automation">
+          <label data-i18n="l_c">CTA</label><input id="cta" placeholder="Book a 15-min demo">
+          <button class="primary" id="gen" type="button" data-i18n="btn">Generate email</button>
+        </div>
+        <div class="card"><h2 data-i18n="h_m">Email</h2><div id="mail" class="preview"></div>
+          <div class="actions"><button id="copy" type="button">Copy</button><button id="toSeq" type="button" data-i18n="btn_seq">Add to sequence</button></div>
+        </div>
+      </section>
+      <section id="view-seq" class="card hidden"><h2 data-i18n="h_s">3-step sequence</h2><ol id="seq" style="line-height:1.6;color:var(--muted)"></ol><button id="expS" type="button">Export sequence</button></section>
+      <section id="view-leads" class="card hidden">
+        <div class="row"><input id="lead" placeholder="lead@shop.com"><button class="primary" id="addL" type="button">Add lead</button></div>
+        <ul class="list" id="leads"></ul>
+      </section>
+    </main>
+  </div>
+  <script src="strings.js"></script>
+  <script src="i18n.js"></script>
+  <script src="ai.js"></script>
+  <script src="app.js"></script>
+  <script src="app-kit.js"></script>
+  <script src="features.js"></script>
+</body>
+</html>

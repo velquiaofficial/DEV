@@ -1,0 +1,15 @@
+{
+  "id": "10_BOOKING_CRM",
+  "title": "予約・顧客管理アプリ",
+  "recommend": false,
+  "lead": "美容室、整体院、スクールなどの予約受付、リマインダー、再来店案内を自動化する。",
+  "revenue": "月額3,000〜20,000円",
+  "customers": "地域店舗、個人サロン、教室",
+  "strength": "予約や顧客管理は継続的に必要。",
+  "risk": "既存サービスから乗り換えてもらう工夫が必要。",
+  "note": "",
+  "status": "concept",
+  "brand": "BOOKINGCRM",
+  "standalone": true,
+  "version": "2.1.0"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "274_DANCERING",
+  "brand": "DANCECIRCLET",
+  "kind": "dodge",
+  "genre": "弾幕回避",
+  "port": 5459,
+  "theme": "neon",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

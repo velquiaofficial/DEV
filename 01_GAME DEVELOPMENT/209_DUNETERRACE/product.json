@@ -1,0 +1,11 @@
+{
+  "id": "209_DUNEFIELD",
+  "brand": "DUNETERRACE",
+  "kind": "farm",
+  "genre": "デューンフィールド",
+  "port": 5394,
+  "theme": "sand",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

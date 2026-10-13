@@ -1,0 +1,8 @@
+{
+  "id": "110_SWEEPFIELD",
+  "brand": "MISTSWEEP",
+  "kind": "mines",
+  "port": 5210,
+  "standalone": true,
+  "version": "1.0.0"
+}

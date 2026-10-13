@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0f1415">
+  <title>ShelfShot — VELQUIA</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=IBM+Plex+Sans+JP:wght@400;500;600;700&family=Outfit:wght@600;700;800" rel="stylesheet">
+  <link rel="stylesheet" href="shell.css">
+</head>
+<body>
+  <div class="app loop-brand">
+    <aside class="side">
+      <div class="brand">ShelfShot<small data-i18n="sub">EC Asset AI</small></div>
+      <button class="nav-btn active" data-view="make" data-i18n="nav1">Generate</button>
+      <button class="nav-btn" data-view="library" data-i18n="nav2">Library</button>
+      <div class="side-foot"><span data-i18n="foot2">Demo · local AI</span></div>
+    </aside>
+    <main class="main">
+      <div class="workspace-banner">
+        <div><span class="status-dot"></span><strong>VELQUIA</strong> · standalone workspace</div>
+        <span class="badge ok">Local live</span>
+      </div>
+      <div class="top">
+        <div>
+          <h1 data-i18n="title">EC商品画像・説明自動生成</h1>
+          <p data-i18n="lead">商品情報から説明文・広告コピー・画像プロンプトを一括生成。</p></div></div>
+      <section id="view-make" class="grid grid-2">
+        <div class="card">
+          <label data-i18n="l_name">Product name</label><input id="pname" placeholder="セラミックマグ 350ml">
+          <label data-i18n="l_feat">Features</label><textarea id="feats" placeholder="保温, 手になじむ, 食洗機対応"></textarea>
+          <label data-i18n="l_ch">Channel</label><select id="ch"><option>Amazon</option><option>楽天</option><option>Shopify</option><option>SNS広告</option></select>
+          <button class="primary" id="gen" type="button" data-i18n="btn_gen">Generate assets</button>
+        </div>
+        <div class="card"><h2 data-i18n="h_out">Output</h2><div id="out" class="preview" data-i18n="prev">Results appear here</div><div class="actions"><button id="save" type="button" data-i18n="btn_save">Save to library</button></div></div>
+      </section>
+      <section id="view-library" class="card hidden"><h2 data-i18n="h_lib">Saved</h2><ul class="list" id="lib"></ul></section>
+    </main>
+  </div>
+  <script src="strings.js"></script>
+  <script src="i18n.js"></script>
+  <script src="ai.js"></script>
+  <script src="app.js"></script>
+  <script src="app-kit.js"></script>
+  <script src="features.js"></script>
+</body>
+</html>

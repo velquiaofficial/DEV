@@ -1,0 +1,11 @@
+{
+  "id": "302_PERIMETER",
+  "brand": "PERIMETERAXIOM",
+  "kind": "survivor",
+  "genre": "サバイバー",
+  "port": 5487,
+  "theme": "ice",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

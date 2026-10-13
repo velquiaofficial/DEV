@@ -1,0 +1,8 @@
+{
+  "id": "103_SNAKEBIT",
+  "brand": "VERDANTFANG",
+  "kind": "snake",
+  "port": 5203,
+  "standalone": true,
+  "version": "1.0.0"
+}

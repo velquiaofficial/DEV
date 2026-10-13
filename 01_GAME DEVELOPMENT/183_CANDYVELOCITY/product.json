@@ -1,0 +1,11 @@
+{
+  "id": "183_CANDYRUN",
+  "brand": "CANDYVELOCITY",
+  "kind": "runner",
+  "genre": "キャンディラン",
+  "port": 5368,
+  "theme": "candy",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "122_LEAFADD",
+  "brand": "VERDANTLEAF",
+  "kind": "merge",
+  "genre": "リーフ加算",
+  "port": 5307,
+  "theme": "orchard",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "none"
+}

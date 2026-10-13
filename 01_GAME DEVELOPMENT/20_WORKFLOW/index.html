@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#10150f">
+  <title>Flowbase — VELQUIA</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=IBM+Plex+Sans+JP:wght@400;500;600;700&family=Outfit:wght@600;700;800" rel="stylesheet">
+  <link rel="stylesheet" href="shell.css">
+</head>
+<body>
+  <div class="app loop-brand">
+    <aside class="side">
+      <div class="brand">Flowbase<small data-i18n="sub">AI Workflow</small></div>
+      <button class="nav-btn active" data-view="board" data-i18n="nav1">Board</button>
+      <button class="nav-btn" data-view="rules" data-i18n="nav2">Automations</button>
+      <button class="nav-btn" data-view="run" data-i18n="nav3">Run log</button>
+      <div class="side-foot"><span data-i18n="foot2">Demo · local AI</span></div>
+    </aside>
+    <main class="main">
+      <div class="workspace-banner">
+        <div><span class="status-dot"></span><strong>VELQUIA</strong> · standalone workspace</div>
+        <span class="badge ok">Local live</span>
+      </div>
+      <div class="top">
+        <div>
+          <h1 data-i18n="title">AI業務自動化</h1>
+          <p data-i18n="lead">メール・請求・報告書などの定型タスクをボードとルールで自動化。</p></div></div>
+      <section id="view-board" class="grid grid-3">
+        <div class="card"><h3 data-i18n="h_in">Inbox</h3><ul class="list" id="col-inbox"></ul><button id="addTask" type="button"><span data-i18n="btn_task">+ Task</span></button></div>
+        <div class="card"><h3 data-i18n="h_do">Doing</h3><ul class="list" id="col-doing"></ul></div>
+        <div class="card"><h3 data-i18n="h_done">Done</h3><ul class="list" id="col-done"></ul></div>
+      </section>
+      <section id="view-rules" class="card hidden">
+        <h2 data-i18n="h_rules">Automations</h2>
+        <label data-i18n="l_trig">Trigger text</label><input id="trig" placeholder="請求書">
+        <label data-i18n="l_act">Action</label><select id="act"><option value="doing">Doingへ移動</option><option value="done">Doneへ移動＋要約</option></select>
+        <button class="primary" id="addRule" type="button" data-i18n="btn_rule">Add rule</button>
+        <ul class="list" id="rules" style="margin-top:12px"></ul>
+      </section>
+      <section id="view-run" class="card hidden"><h2 data-i18n="h_log">Run log</h2><ul class="list" id="logs"></ul></section>
+    </main>
+  </div>
+  <script src="strings.js"></script>
+  <script src="i18n.js"></script>
+  <script src="ai.js"></script>
+  <script src="app.js"></script>
+  <script src="app-kit.js"></script>
+  <script src="features.js"></script>
+</body>
+</html>

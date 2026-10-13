@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0f1513">
+  <title>Billfold — VELQUIA</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=IBM+Plex+Sans+JP:wght@400;500;600;700&family=Outfit:wght@600;700;800" rel="stylesheet">
+  <link rel="stylesheet" href="shell.css">
+</head>
+<body>
+  <div class="app loop-brand">
+    <aside class="side">
+      <div class="brand">Billfold<small data-i18n="sub">Quotes & Invoices</small></div>
+      <button class="nav-btn active" data-view="editor" data-i18n="nav1">Editor</button>
+      <button class="nav-btn" data-view="list" data-i18n="nav2">Documents</button>
+      <button class="nav-btn" data-view="settings" data-i18n="nav3">Settings</button>
+      <div class="side-foot"><span data-i18n="foot2">Demo · local AI</span></div>
+    </aside>
+    <main class="main">
+      <div class="workspace-banner">
+        <div><span class="status-dot"></span><strong>VELQUIA</strong> · standalone workspace</div>
+        <span class="badge ok">Local live</span>
+      </div>
+      <div class="top"><div><h1 data-i18n="title">Quotes & invoices</h1><p data-i18n="lead">Line items, tax, PDF-ready text export, client profiles.</p></div></div>
+      <section id="view-editor" class="grid grid-2">
+        <div class="card">
+          <div class="row"><div><label data-i18n="l_client">Client</label><input id="client" placeholder="Acme Inc."></div>
+          <div><label data-i18n="l_type">Type</label><select id="dtype"><option value="quote">Quote</option><option value="invoice">Invoice</option></select></div></div>
+          <label data-i18n="l_item">Add line</label>
+          <div class="row"><input id="iname" placeholder="Design sprint"><input id="iqty" type="number" value="1"><input id="iprice" type="number" value="50000"></div>
+          <button id="addLine" type="button" data-i18n="btn_add">Add line</button>
+          <ul class="list" id="lines"></ul>
+          <button class="primary" id="build" type="button" data-i18n="btn">Build document</button>
+        </div>
+        <div class="card"><h2 data-i18n="h_p">Preview</h2><div id="prev" class="preview"></div>
+          <div class="actions"><button id="saveD" type="button" data-i18n="btn_save">Save</button><button id="expD" type="button">Export TXT</button></div>
+        </div>
+      </section>
+      <section id="view-list" class="card hidden"><h2 data-i18n="h_l">Saved docs</h2><ul class="list" id="docs"></ul></section>
+      <section id="view-settings" class="card hidden">
+        <label data-i18n="l_co">Your company</label><input id="co" placeholder="VELQUIA">
+        <label data-i18n="l_bank">Bank / payment note</label><textarea id="bank" placeholder="Please pay within 14 days."></textarea>
+        <button class="primary" id="saveSet" type="button">Save settings</button>
+      </section>
+    </main>
+  </div>
+  <script src="strings.js"></script>
+  <script src="i18n.js"></script>
+  <script src="ai.js"></script>
+  <script src="app.js"></script>
+  <script src="app-kit.js"></script>
+  <script src="features.js"></script>
+</body>
+</html>

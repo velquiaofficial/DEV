@@ -1,0 +1,11 @@
+{
+  "id": "164_SWEETWORD",
+  "brand": "SWEETCIPHER",
+  "kind": "word",
+  "genre": "スイートワード",
+  "port": 5349,
+  "theme": "candy",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

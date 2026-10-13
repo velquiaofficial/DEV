@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#11150f">
+  <title>NightScript — VELQUIA</title>
+  <link rel="stylesheet" href="shell.css">
+</head>
+<body>
+  <div class="app loop-brand">
+    <aside class="side">
+      <div class="brand">NightScript<small data-i18n="sub">From JINRO / WORD WOLF</small></div>
+      <p class="nav-label" data-i18n="based_label">Based on</p>
+      <p class="mini" style="padding:0 10px 10px;margin:0" data-i18n="based">05_PARTY / Jinro · Word Wolf</p>
+      <button class="nav-btn active" data-view="roles" data-i18n="nav_roles">Roles</button>
+      <button class="nav-btn" data-view="script" data-i18n="nav_script">Night script</button>
+      <button class="nav-btn" data-view="words" data-i18n="nav_words">Word pack</button>
+      <div class="side-foot">
+        <span data-i18n="foot2">Standalone</span>
+      </div>
+    </aside>
+    <main class="main">
+      <div class="workspace-banner">
+        <div><span class="status-dot"></span><strong>NightScript</strong> · <span data-i18n="banner">Studio tool</span></div>
+        <span class="badge ok" data-i18n="live">Local live</span>
+      </div>
+      <div class="top">
+        <div>
+          <h1 data-i18n="title">Party scenario writer</h1>
+          <p data-i18n="lead">Write werewolf / word-wolf style scenarios, roles, and night scripts.</p>
+        </div>
+        <div class="top-actions">
+          <button type="button" class="primary" id="btn-primary" data-i18n="btn_primary">Run AI</button>
+          <button type="button" id="btn-seed" data-i18n="btn_seed">Seed from games</button>
+        </div>
+      </div>
+      <section id="view-roles" class="section-enter"></section>
+      <section id="view-script" class="section-enter hidden"></section>
+      <section id="view-words" class="section-enter hidden"></section>
+    </main>
+  </div>
+  <script src="strings.js"></script>
+  <script src="i18n.js"></script>
+  <script src="ai.js"></script>
+  <script src="app-kit.js"></script>
+  <script src="app.js"></script>
+  <script src="features.js"></script>
+</body>
+</html>

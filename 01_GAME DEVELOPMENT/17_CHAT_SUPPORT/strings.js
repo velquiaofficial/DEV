@@ -1,0 +1,42 @@
+window.VQ_STRINGS = {
+  "en": {
+    "sub": "AI Support",
+    "nav1": "Live widget",
+    "nav2": "FAQ brain",
+    "nav3": "Inbox",
+    "foot": "Standalone",
+    "foot2": "Demo · local AI",
+    "title": "AI customer chat",
+    "lead": "Website / EC chat with FAQ brain and escalation.",
+    "h_cust": "Customer view",
+    "ph_msg": "What are your prices?",
+    "btn_send": "Send",
+    "h_op": "Operator",
+    "op": "Escalation list",
+    "h_faq": "FAQ",
+    "ph_fq": "Keywords",
+    "ph_fa": "Answer",
+    "btn_faq": "Add",
+    "h_in": "Recent chats"
+  },
+  "ja": {
+    "sub": "AI接客",
+    "nav1": "ウィジェット",
+    "nav2": "FAQ",
+    "nav3": "受信箱",
+    "foot": "独立アプリ",
+    "foot2": "デモ · ローカルAI",
+    "title": "AI接客・問い合わせ自動対応",
+    "lead": "Web/EC向けチャット。FAQと会話ログをローカルで運用デモ。",
+    "h_cust": "お客様視点",
+    "ph_msg": "料金はいくら？",
+    "btn_send": "送信",
+    "h_op": "オペレーター",
+    "op": "エスカレーション一覧",
+    "h_faq": "FAQ",
+    "ph_fq": "キーワード",
+    "ph_fa": "回答",
+    "btn_faq": "追加",
+    "h_in": "最近の会話"
+  }
+};

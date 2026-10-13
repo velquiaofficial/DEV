@@ -1,0 +1,11 @@
+{
+  "id": "268_WORDORBIT",
+  "brand": "WORDHELIX",
+  "kind": "word",
+  "genre": "単語当て",
+  "port": 5453,
+  "theme": "candy",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

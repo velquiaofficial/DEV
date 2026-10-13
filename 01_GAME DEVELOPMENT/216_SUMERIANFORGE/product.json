@@ -1,0 +1,11 @@
+{
+  "id": "216_SUMFORGE",
+  "brand": "SUMERIANFORGE",
+  "kind": "merge",
+  "genre": "合成パズル",
+  "port": 5401,
+  "theme": "dusk",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "none"
+}

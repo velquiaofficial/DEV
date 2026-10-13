@@ -1,0 +1,11 @@
+{
+  "id": "123_INKDOUBLE",
+  "brand": "INKETERNITY",
+  "kind": "ink-merge",
+  "genre": "インク倍化",
+  "port": 5308,
+  "standalone": true,
+  "engine": "none",
+  "version": "2.0.0",
+  "features": ["bleed-chain", "ink-pressure", "undo", "swipe", "sfx"]
+}

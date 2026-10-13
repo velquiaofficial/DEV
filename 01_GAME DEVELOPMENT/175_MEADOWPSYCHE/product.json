@@ -1,0 +1,11 @@
+{
+  "id": "175_MEADOWMIND",
+  "brand": "MEADOWPSYCHE",
+  "kind": "quiz",
+  "genre": "メドウマインド",
+  "port": 5360,
+  "theme": "meadow",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

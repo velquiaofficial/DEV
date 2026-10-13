@@ -1,0 +1,11 @@
+{
+  "id": "116_TILEFOLD",
+  "brand": "ORIGAMIFOLD",
+  "kind": "merge",
+  "genre": "数字タイル合成",
+  "port": 5301,
+  "theme": "dusk",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "none"
+}

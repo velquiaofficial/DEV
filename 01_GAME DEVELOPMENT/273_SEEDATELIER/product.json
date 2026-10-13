@@ -1,0 +1,11 @@
+{
+  "id": "273_SEEDMILL",
+  "brand": "SEEDATELIER",
+  "kind": "farm",
+  "genre": "農場シミュ",
+  "port": 5458,
+  "theme": "meadow",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

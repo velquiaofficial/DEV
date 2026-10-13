@@ -1,0 +1,28 @@
+VELQUIA — per-game servers (no shared control panel)
+====================================================
+Each game has its own start-server.bat / vq-server.js / port.txt.
+Run only the game you need. No shared hub / control panel.
+
+  RELIXIA              5101
+  TETORIS              5102
+  RYTHOM               5103
+  PARTY BOARD GAME     5105
+  JINRO                5106
+  WORD WOLF            5107
+  MUSUKING             5108
+  MATCHING (07)        5109
+  AISHO                5110
+  COOKING              5111
+  FASHION              5112
+  MATCHING (11)        5113
+  PRESENT              5114
+  TRAVEL               5115
+  ISLEBOUND            5141
+  GLINT BAZAAR         5142
+  RAILSPAN             5143
+  MOSAIC COURT         5144
+  CROWNSTACK           5145
+
+Example:
+  cd "02_PUZZLE\01_TETORIS"
+  start-server.bat

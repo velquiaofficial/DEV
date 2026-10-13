@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0f1511">
+  <title>SiteSpark — VELQUIA</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=IBM+Plex+Sans+JP:wght@400;500;600;700&family=Outfit:wght@600;700;800" rel="stylesheet">
+  <link rel="stylesheet" href="shell.css">
+</head>
+<body>
+  <div class="app loop-brand">
+    <aside class="side">
+      <div class="brand">SiteSpark<small data-i18n="sub">AI Homepage</small></div>
+      <button class="nav-btn active" data-view="form" data-i18n="nav1">Generator</button>
+      <button class="nav-btn" data-view="preview" data-i18n="nav2">Preview</button>
+      <button class="nav-btn" data-view="export" data-i18n="nav3">Export</button>
+      <div class="side-foot"><span data-i18n="foot2">Demo · local AI</span></div>
+    </aside>
+    <main class="main">
+      <div class="workspace-banner">
+        <div><span class="status-dot"></span><strong>VELQUIA</strong> · standalone workspace</div>
+        <span class="badge ok">Local live</span>
+      </div>
+      <div class="top">
+        <div>
+          <h1 data-i18n="title">AIホームページ制作</h1>
+          <p data-i18n="lead">業種と強みを入れると、ヒーロー付きの1ページサイトを即生成。</p></div></div>
+      <section id="view-form" class="card">
+        <div class="row">
+          <div><label data-i18n="l_biz">Industry</label><input id="biz" placeholder="整体院 / カフェ / 教室"></div>
+          <div><label data-i18n="l_name">Business name</label><input id="name" placeholder="VELQUIA Studio Cafe"></div>
+        </div>
+        <label data-i18n="l_offer">Strength / offer</label><textarea id="offer" placeholder="初回カウンセリング無料、駅徒歩3分"></textarea>
+        <button class="primary" id="gen" type="button" data-i18n="btn_gen">Generate site</button>
+      </section>
+      <section id="view-preview" class="card hidden"><h2 data-i18n="h_prev">Preview</h2><iframe id="frame" style="width:100%;height:480px;border:1px solid var(--line);border-radius:12px;background:#fff"></iframe></section>
+      <section id="view-export" class="card hidden"><h2 data-i18n="h_html">HTML</h2><div id="code" class="preview"></div><div class="actions"><button class="primary" id="copy" type="button" data-i18n="btn_copy">Copy HTML</button></div></section>
+    </main>
+  </div>
+  <script src="strings.js"></script>
+  <script src="i18n.js"></script>
+  <script src="ai.js"></script>
+  <script src="app.js"></script>
+  <script src="app-kit.js"></script>
+  <script src="features.js"></script>
+</body>
+</html>

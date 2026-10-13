@@ -1240,3 +1240,6 @@ button:focus-visible, .tcard:focus-visible {
 @media (prefers-reduced-motion: reduce) {
   .petals, .screen.shake, .screen.shake-super, .flash, .spark, .rarity-ur .tcard-frame, .rarity-ur .tcard-frame::after, .super-call.is-hot { animation: none; }
 }
+
+/* deep-elevate */
+.shell,main,#app{animation:deRise .65s ease both}@keyframes deRise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}

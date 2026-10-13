@@ -1,0 +1,8 @@
+{
+  "id": "109_GEMTRI",
+  "brand": "PRISMCLEAVE",
+  "kind": "match3",
+  "port": 5209,
+  "standalone": true,
+  "version": "1.0.0"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "192_DUNEHAND",
+  "brand": "DUNEARCANA",
+  "kind": "card",
+  "genre": "デューンハンド",
+  "port": 5377,
+  "theme": "sand",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

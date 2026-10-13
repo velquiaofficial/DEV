@@ -1,0 +1,11 @@
+{
+  "id": "130_BAKELOOP",
+  "brand": "OVENORBIT",
+  "kind": "idle",
+  "genre": "焼き置き",
+  "port": 5315,
+  "theme": "candy",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

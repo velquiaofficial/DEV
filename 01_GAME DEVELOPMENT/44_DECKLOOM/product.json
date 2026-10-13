@@ -1,0 +1,7 @@
+{
+  "id": "44_DECKLOOM",
+  "brand": "Deckloom",
+  "basedOn": "06_CARD / 001_MUSUKING",
+  "standalone": true,
+  "version": "2.1.0"
+}

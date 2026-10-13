@@ -1,0 +1,11 @@
+{
+  "id": "117_HEXMERGE",
+  "brand": "HEXALITH",
+  "kind": "merge",
+  "genre": "ネオン合成パズル",
+  "port": 5302,
+  "theme": "candy",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "none"
+}

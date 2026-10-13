@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0f150f">
+  <title>SparkMatch — VELQUIA</title>
+  <link rel="stylesheet" href="shell.css">
+</head>
+<body>
+  <div class="app loop-brand">
+    <aside class="side">
+      <div class="brand">SparkMatch<small data-i18n="sub">From MATCHING / AISHO</small></div>
+      <p class="nav-label" data-i18n="based_label">Based on</p>
+      <p class="mini" style="padding:0 10px 10px;margin:0" data-i18n="based">07·11_MATCHING · 08_AISHO</p>
+      <button class="nav-btn active" data-view="profiles" data-i18n="nav_profiles">Profiles</button>
+      <button class="nav-btn" data-view="tags" data-i18n="nav_tags">Affinity</button>
+      <button class="nav-btn" data-view="copy" data-i18n="nav_copy">Copy</button>
+      <div class="side-foot">
+        <span data-i18n="foot2">Standalone</span>
+      </div>
+    </aside>
+    <main class="main">
+      <div class="workspace-banner">
+        <div><span class="status-dot"></span><strong>SparkMatch</strong> · <span data-i18n="banner">Studio tool</span></div>
+        <span class="badge ok" data-i18n="live">Local live</span>
+      </div>
+      <div class="top">
+        <div>
+          <h1 data-i18n="title">Match profile lab</h1>
+          <p data-i18n="lead">Tune swipe profiles, affinity tags, and Aisho-style compatibility copy.</p>
+        </div>
+        <div class="top-actions">
+          <button type="button" class="primary" id="btn-primary" data-i18n="btn_primary">Run AI</button>
+          <button type="button" id="btn-seed" data-i18n="btn_seed">Seed from games</button>
+        </div>
+      </div>
+      <section id="view-profiles" class="section-enter"></section>
+      <section id="view-tags" class="section-enter hidden"></section>
+      <section id="view-copy" class="section-enter hidden"></section>
+    </main>
+  </div>
+  <script src="strings.js"></script>
+  <script src="i18n.js"></script>
+  <script src="ai.js"></script>
+  <script src="app-kit.js"></script>
+  <script src="app.js"></script>
+  <script src="features.js"></script>
+</body>
+</html>

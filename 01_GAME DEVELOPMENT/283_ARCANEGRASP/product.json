@@ -1,0 +1,11 @@
+{
+  "id": "283_ARCANEHAND",
+  "brand": "ARCANEGRASP",
+  "kind": "card",
+  "genre": "カードバトル",
+  "port": 5468,
+  "theme": "meadow",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

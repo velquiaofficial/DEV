@@ -1,0 +1,11 @@
+{
+  "id": "168_NIGHTTRIVIA",
+  "brand": "NOCTURNETRIVIA",
+  "kind": "quiz",
+  "genre": "ナイトトリビア",
+  "port": 5353,
+  "theme": "dusk",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "15_SOCIAL_POST",
+  "brand": "PulsePost",
+  "title": "PulsePost — AIソーシャル投稿スタジオ",
+  "recommend": true,
+  "lead": "投稿文・ハッシュタグ・予約キュー・テンプレを、ローカルで完結して回す。",
+  "revenue": "月額 ¥980–¥4,800 想定",
+  "customers": "Instagram / X 運用者、個人ブランド、小規模EC",
+  "strength": "下書き〜予約までを一画面で。Social Auto 連携を見据えた設計。",
+  "risk": "各SNS APIの仕様変更・利用制限への追随が必要。",
+  "note": "00_COMPANY/03_SOCIAL_AUTO との接続を想定したスタンドアロンデモ。",
+  "status": "demo",
+  "version": "2.1.0",
+  "port": 5615,
+  "standalone": true
+}

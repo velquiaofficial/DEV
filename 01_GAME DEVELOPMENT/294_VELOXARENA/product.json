@@ -1,0 +1,11 @@
+{
+  "id": "294_VELOCITY",
+  "brand": "VELOXARENA",
+  "kind": "runner",
+  "genre": "レーンラン",
+  "port": 5479,
+  "theme": "neon",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

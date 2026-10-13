@@ -1,0 +1,11 @@
+{
+  "id": "280_HINTLANE",
+  "brand": "HINTMERIDIAN",
+  "kind": "word",
+  "genre": "単語当て",
+  "port": 5465,
+  "theme": "paper",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

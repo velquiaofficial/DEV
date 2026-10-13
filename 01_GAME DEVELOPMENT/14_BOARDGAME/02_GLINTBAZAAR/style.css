@@ -1,0 +1,73 @@
+:root {
+  --bg: #0a1418; --ink: #e8f2f0; --muted: #8aa8a0; --line: rgba(244,238,252,.12);
+  --w:#e8e8ef; --u:#6b8cff; --g:#3ecf8e; --r:#ff6b6b; --k:#222; --gold:#f0c14b;
+  font-family: "Zen Maru Gothic", Outfit, sans-serif;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0; color: var(--ink);
+  background: radial-gradient(ellipse 70% 50% at 50% -10%, #122428, transparent), var(--bg);
+}
+.shell { max-width: 960px; margin: 0 auto; padding: 28px 16px 48px; }
+.eyebrow { color: #78c4b8; letter-spacing: .14em; text-transform: uppercase; font-size: .72rem; font-family: Outfit, sans-serif; margin: 0; }
+h1 { font-family: Outfit, sans-serif; font-weight: 800; margin: 6px 0 8px; font-size: clamp(2rem,5vw,3rem); }
+.lead { color: var(--muted); max-width: 38rem; line-height: 1.55; }
+.bar { display: flex; flex-wrap: wrap; gap: 14px; align-items: center; margin: 18px 0 8px; }
+.bar strong { font-family: Outfit, sans-serif; font-size: 1.4rem; margin-left: 6px; }
+.status { color: var(--muted); min-height: 1.4em; }
+h2 { font-size: .78rem; letter-spacing: .12em; text-transform: uppercase; color: var(--muted); font-family: Outfit, sans-serif; }
+.cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(132px, 1fr)); gap: 10px; }
+.card {
+  background: #122428; border: 1px solid var(--line); border-radius: 14px; padding: 10px; cursor: pointer;
+  transition: transform .15s ease, border-color .15s;
+}
+.card:hover { transform: translateY(-2px); border-color: #78c4b8; }
+.card .pts { font-family: Outfit, sans-serif; font-size: 1.3rem; color: var(--gold); }
+.card .bon { width: 14px; height: 14px; border-radius: 50%; display: inline-block; margin-right: 4px; vertical-align: middle; }
+.cost { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 8px; font-size: .78rem; }
+.cost i { width: 10px; height: 10px; border-radius: 50%; display: inline-block; margin-right: 2px; }
+.gems { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 10px; }
+.gem {
+  min-width: 64px; text-align: center; background: #122428; border-radius: 12px; padding: 8px;
+  border: 1px solid var(--line); cursor: pointer; font-size: .85rem;
+}
+.gem.sel { outline: 2px solid #78c4b8; }
+.gem b { display: block; font-family: Outfit, sans-serif; font-size: 1.2rem; }
+.row2 { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-top: 12px; }
+@media (max-width:720px){ .row2 { grid-template-columns: 1fr; } }
+.actions { display: grid; gap: 8px; margin-top: 8px; }
+button {
+  appearance: none; border: 1px solid var(--line); background: #122428; color: var(--ink);
+  border-radius: 999px; padding: 10px 14px; font: inherit; cursor: pointer;
+}
+button:disabled { opacity: .35; cursor: not-allowed; }
+#btn-start { background: linear-gradient(120deg,#7b5cff,#78c4b8); color: #160e28; font-weight: 700; border: none; }
+.dot-w{background:var(--w)} .dot-u{background:var(--u)} .dot-g{background:var(--g)}
+.dot-r{background:var(--r)} .dot-k{background:var(--k); box-shadow: inset 0 0 0 1px #666}
+.dot-gold{background:var(--gold)}
+
+/* elevated-genre */
+body{animation:none}
+.shell,main{animation:vqGRise .65s ease both}
+@keyframes vqGRise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+button.primary,#action-btn{transition:filter .2s ease,transform .15s ease}
+button.primary:hover,#action-btn:hover{filter:brightness(1.06)}
+
+/* board-elevate */
+body{background:radial-gradient(ellipse 70% 50% at 50% -10%,rgba(120,196,184,.18),transparent),#0a1418!important}
+.eyebrow{color:#78c4b8!important}
+.shell{animation:br .6s ease both}@keyframes br{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+
+/* deep-elevate */
+.shell,main,#app{animation:deRise .65s ease both}@keyframes deRise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+
+/* loop-elevate:02_GLINTBAZAAR */
+:root{
+  --loop-accent:hsl(0 52% 56%);
+  --loop-accent2:hsl(42 58% 52%);
+}
+.eyebrow{color:var(--loop-accent)!important}
+button.primary,#btn-start,#action-btn{
+  background:linear-gradient(135deg,var(--loop-accent2),var(--loop-accent))!important;
+  color:#141008!important;border:none!important;
+}

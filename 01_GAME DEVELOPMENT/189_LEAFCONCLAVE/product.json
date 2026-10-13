@@ -1,0 +1,11 @@
+{
+  "id": "189_LEAFCLASH",
+  "brand": "LEAFCONCLAVE",
+  "kind": "card",
+  "genre": "リーフクラッシュ",
+  "port": 5374,
+  "theme": "orchard",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

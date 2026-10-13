@@ -1,0 +1,8 @@
+{
+  "id": "113_WHACKBURST",
+  "brand": "STRIKERIFT",
+  "kind": "whack",
+  "port": 5213,
+  "standalone": true,
+  "version": "1.0.0"
+}

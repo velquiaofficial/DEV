@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0f0f15">
+  <title>TableForge — VELQUIA</title>
+  <link rel="stylesheet" href="shell.css">
+</head>
+<body>
+  <div class="app loop-brand">
+    <aside class="side">
+      <div class="brand">TableForge<small data-i18n="sub">From BOARDGAME trials</small></div>
+      <p class="nav-label" data-i18n="based_label">Based on</p>
+      <p class="mini" style="padding:0 10px 10px;margin:0" data-i18n="based">14_BOARDGAME · Islebound…Crownstack</p>
+      <button class="nav-btn active" data-view="titles" data-i18n="nav_titles">Titles</button>
+      <button class="nav-btn" data-view="sessions" data-i18n="nav_sessions">Sessions</button>
+      <button class="nav-btn" data-view="balance" data-i18n="nav_balance">Balance</button>
+      <div class="side-foot">
+        <span data-i18n="foot2">Standalone</span>
+      </div>
+    </aside>
+    <main class="main">
+      <div class="workspace-banner">
+        <div><span class="status-dot"></span><strong>TableForge</strong> · <span data-i18n="banner">Studio tool</span></div>
+        <span class="badge ok" data-i18n="live">Local live</span>
+      </div>
+      <div class="top">
+        <div>
+          <h1 data-i18n="title">Boardgame playtest desk</h1>
+          <p data-i18n="lead">Track Islebound / Glint / Railspan / Mosaic / Crownstack playtest notes & balance.</p>
+        </div>
+        <div class="top-actions">
+          <button type="button" class="primary" id="btn-primary" data-i18n="btn_primary">Run AI</button>
+          <button type="button" id="btn-seed" data-i18n="btn_seed">Seed from games</button>
+        </div>
+      </div>
+      <section id="view-titles" class="section-enter"></section>
+      <section id="view-sessions" class="section-enter hidden"></section>
+      <section id="view-balance" class="section-enter hidden"></section>
+    </main>
+  </div>
+  <script src="strings.js"></script>
+  <script src="i18n.js"></script>
+  <script src="ai.js"></script>
+  <script src="app-kit.js"></script>
+  <script src="app.js"></script>
+  <script src="features.js"></script>
+</body>
+</html>

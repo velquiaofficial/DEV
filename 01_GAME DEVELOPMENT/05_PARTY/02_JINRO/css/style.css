@@ -642,3 +642,6 @@ summary { cursor: pointer; }
     transition: none !important;
   }
 }
+
+/* deep-elevate */
+.shell,main,#app{animation:deRise .65s ease both}@keyframes deRise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}

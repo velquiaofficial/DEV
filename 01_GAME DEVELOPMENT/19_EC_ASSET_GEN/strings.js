@@ -1,0 +1,40 @@
+window.VQ_STRINGS = {
+  "en": {
+    "sub": "EC Asset AI",
+    "nav1": "Generate",
+    "nav2": "Library",
+    "foot": "Standalone",
+    "foot2": "Demo · local AI",
+    "title": "EC product assets",
+    "lead": "Turn product info into descriptions, ads, and image prompts.",
+    "l_name": "Product name",
+    "ph_name": "Ceramic mug 350ml",
+    "l_feat": "Features (comma-separated)",
+    "ph_feat": "keeps warm, fits the hand, dishwasher-safe",
+    "l_ch": "Channel",
+    "btn_gen": "Generate assets",
+    "h_out": "Output",
+    "prev": "Results appear here",
+    "btn_save": "Save to library",
+    "h_lib": "Saved"
+  },
+  "ja": {
+    "sub": "EC素材AI",
+    "nav1": "生成",
+    "nav2": "ライブラリ",
+    "foot": "独立アプリ",
+    "foot2": "デモ · ローカルAI",
+    "title": "EC商品画像・説明自動生成",
+    "lead": "商品情報から説明文・広告コピー・画像プロンプトを一括生成。",
+    "l_name": "商品名",
+    "ph_name": "セラミックマグ 350ml",
+    "l_feat": "特徴（カンマ区切り）",
+    "ph_feat": "保温, 手になじむ, 食洗機対応",
+    "l_ch": "チャネル",
+    "btn_gen": "素材を生成",
+    "h_out": "出力",
+    "prev": "ここに生成結果",
+    "btn_save": "ライブラリ保存",
+    "h_lib": "保存済み"
+  }
+};

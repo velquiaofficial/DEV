@@ -1,0 +1,11 @@
+{
+  "id": "225_SOILLOOP",
+  "brand": "SOILORBIT",
+  "kind": "farm",
+  "genre": "農場シミュ",
+  "port": 5410,
+  "theme": "sand",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

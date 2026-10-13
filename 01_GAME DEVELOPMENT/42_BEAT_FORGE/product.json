@@ -1,0 +1,7 @@
+{
+  "id": "42_BEAT_FORGE",
+  "brand": "BeatForge",
+  "basedOn": "03_RHYTHM / 01_RYTHOM",
+  "standalone": true,
+  "version": "2.1.0"
+}

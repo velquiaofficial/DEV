@@ -1,0 +1,11 @@
+{
+  "id": "140_VOIDCRAWL",
+  "brand": "VOIDCREEPER",
+  "kind": "survivor",
+  "genre": "ヴォイドクロール",
+  "port": 5325,
+  "theme": "ink",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

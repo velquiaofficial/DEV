@@ -1,0 +1,14 @@
+# CAP TABLE
+
+> VELQUIA アプリ · `72_CAP_TABLE`  
+> 単独フォルダ完結 · port **5672**
+
+## 起動
+
+`start-server.bat` → http://127.0.0.1:5672/
+
+## メモ
+
+- Alexia / Relixia とは独立
+- テーマアクセント: hsl(233 52% 56%)
+- バージョンループ更新: 2.1.0

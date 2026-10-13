@@ -1,0 +1,42 @@
+window.VQ_STRINGS = {
+  "en": {
+    "sub": "AI Workflow",
+    "nav1": "Board",
+    "nav2": "Automations",
+    "nav3": "Run log",
+    "foot": "Standalone",
+    "foot2": "Demo · local AI",
+    "title": "AI workflow automation",
+    "lead": "Board + rules for mail, invoices, and recurring reports.",
+    "h_in": "Inbox",
+    "h_do": "Doing",
+    "h_done": "Done",
+    "btn_task": "+ Task",
+    "h_rules": "Automations",
+    "l_trig": "Trigger text",
+    "ph_trig": "invoice",
+    "l_act": "Action",
+    "btn_rule": "Add rule",
+    "h_log": "Run log"
+  },
+  "ja": {
+    "sub": "AI業務自動化",
+    "nav1": "ボード",
+    "nav2": "自動化",
+    "nav3": "実行ログ",
+    "foot": "独立アプリ",
+    "foot2": "デモ · ローカルAI",
+    "title": "AI業務自動化",
+    "lead": "メール・請求・報告書などの定型タスクをボードとルールで自動化。",
+    "h_in": "受信",
+    "h_do": "対応中",
+    "h_done": "完了",
+    "btn_task": "+ タスク",
+    "h_rules": "オートメーション",
+    "l_trig": "トリガー文言",
+    "ph_trig": "請求書",
+    "l_act": "自動アクション",
+    "btn_rule": "ルール追加",
+    "h_log": "実行ログ"
+  }
+};

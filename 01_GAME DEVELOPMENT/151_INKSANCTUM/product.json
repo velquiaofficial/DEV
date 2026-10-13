@@ -1,0 +1,11 @@
+{
+  "id": "151_INKKEEP",
+  "brand": "INKSANCTUM",
+  "kind": "tower",
+  "genre": "インクの砦",
+  "port": 5336,
+  "theme": "ink",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

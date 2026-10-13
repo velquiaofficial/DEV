@@ -1,0 +1,11 @@
+{
+  "id": "253_DRILLBAY",
+  "brand": "DRILLHAVEN",
+  "kind": "idle",
+  "genre": "放置クリッカー",
+  "port": 5438,
+  "theme": "meadow",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

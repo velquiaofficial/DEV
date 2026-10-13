@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#120f1a">
+  <title>GLINT BAZAAR — VELQUIA</title>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=IBM+Plex+Sans+JP:wght@400;500;600&family=Outfit:wght@600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="shell">
+    <header>
+      <p class="eyebrow">Tabletop trial · gem engine</p>
+      <h1>GLINT BAZAAR</h1>
+      <p class="lead">宝石トークンと常駐ボーナスでカードを買い進め、名声15を先取するエンジン構築。オリジナル作品です。</p>
+    </header>
+    <div class="bar">
+      <div>You <strong id="pts-you">0</strong></div>
+      <div>AI <strong id="pts-ai">0</strong></div>
+      <div id="turn">-</div>
+      <button id="btn-start" type="button">はじめる</button>
+    </div>
+    <p id="status" class="status">はじめるを押してください</p>
+    <section>
+      <h2>市場カード</h2>
+      <div id="market" class="cards"></div>
+    </section>
+    <section class="row2">
+      <div>
+        <h2>宝石在庫</h2>
+        <div id="bank" class="gems"></div>
+      </div>
+      <div>
+        <h2>あなたの宝石</h2>
+        <div id="mine" class="gems"></div>
+        <h2>ボーナス</h2>
+        <div id="bonus" class="gems"></div>
+        <div class="actions">
+          <button id="btn-take3" type="button" disabled>違う色を3つ取る</button>
+          <button id="btn-take2" type="button" disabled>同じ色を2つ取る</button>
+          <button id="btn-pass" type="button" disabled>パスしてAIへ</button>
+        </div>
+      </div>
+    </section>
+  </main>
+  <script src="game.js"></script>
+</body>
+</html>

@@ -1,0 +1,15 @@
+{
+  "id": "22_RESUME",
+  "title": "AI履歴書・面接対策アプリ",
+  "recommend": false,
+  "lead": "履歴書や職務経歴書を作成し、応募先に合わせた面接練習を提供する。",
+  "revenue": "1回980〜4,980円、または月額制",
+  "customers": "転職希望者、就活生",
+  "strength": "利用者が得たい成果が明確。",
+  "risk": "求職期間が終わると解約されやすい。",
+  "note": "",
+  "status": "concept",
+  "brand": "RESUME",
+  "standalone": true,
+  "version": "2.1.0"
+}

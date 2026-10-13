@@ -1,0 +1,11 @@
+{
+  "id": "205_MEADOWSUDO",
+  "brand": "MEADOWLATTICE",
+  "kind": "sudoku",
+  "genre": "メドウ数独",
+  "port": 5390,
+  "theme": "meadow",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

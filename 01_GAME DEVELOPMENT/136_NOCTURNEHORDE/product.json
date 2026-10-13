@@ -1,0 +1,11 @@
+{
+  "id": "136_NIGHTSWARM",
+  "brand": "NOCTURNEHORDE",
+  "kind": "survivor",
+  "genre": "サバイバー夜戦",
+  "port": 5321,
+  "theme": "neon",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

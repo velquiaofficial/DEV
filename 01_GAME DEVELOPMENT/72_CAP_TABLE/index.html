@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0f0f15">
+  <title>CapTable — VELQUIA</title>
+  <link rel="stylesheet" href="shell.css">
+</head>
+<body>
+  <div class="app loop-brand">
+    <aside class="side">
+      <div class="brand">CapTable<small data-i18n="sub">Cap table notes</small></div>
+      <p class="nav-label" data-i18n="angle_label">Angle</p>
+      <p class="mini" style="padding:0 10px 10px;margin:0" data-i18n="angle">biz</p>
+      <button class="nav-btn active" data-view="holders" data-i18n="nav_holders">Holders</button>
+      <button class="nav-btn" data-view="rounds" data-i18n="nav_rounds">Rounds</button>
+      <button class="nav-btn" data-view="notes" data-i18n="nav_notes">Notes</button>
+      <div class="side-foot">
+        <span data-i18n="foot2">Standalone · local demo</span>
+      </div>
+    </aside>
+    <main class="main">
+      <div class="workspace-banner">
+        <div><span class="status-dot"></span><strong>CapTable</strong> · <span data-i18n="banner">VELQUIA workspace</span></div>
+        <span class="badge ok" data-i18n="live">Local live</span>
+      </div>
+      <div class="top">
+        <div>
+          <h1 data-i18n="title">Simple cap notes</h1>
+          <p data-i18n="lead">Lightweight ownership notes (demo only, not legal advice).</p>
+        </div>
+        <div class="top-actions">
+          <button type="button" class="primary" id="btn-primary" data-i18n="btn_primary">Run AI</button>
+          <button type="button" id="btn-seed" data-i18n="btn_seed">Seed demo</button>
+        </div>
+      </div>
+      <section id="view-holders" class="section-enter"></section>
+      <section id="view-rounds" class="section-enter hidden"></section>
+      <section id="view-notes" class="section-enter hidden"></section>
+    </main>
+  </div>
+  <script src="strings.js"></script>
+  <script src="i18n.js"></script>
+  <script src="ai.js"></script>
+  <script src="app-kit.js"></script>
+  <script src="app.js"></script>
+  <script src="features.js"></script>
+</body>
+</html>

@@ -1,0 +1,7 @@
+{
+  "id": "46_PANTRY_QUEST",
+  "brand": "PantryQuest",
+  "basedOn": "09_COOKING",
+  "standalone": true,
+  "version": "2.1.0"
+}

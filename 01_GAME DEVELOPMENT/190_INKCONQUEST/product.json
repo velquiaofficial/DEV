@@ -1,0 +1,11 @@
+{
+  "id": "190_INKWAR",
+  "brand": "INKCONQUEST",
+  "kind": "card",
+  "genre": "インクウォー",
+  "port": 5375,
+  "theme": "ink",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

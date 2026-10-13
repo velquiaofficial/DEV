@@ -1,0 +1,11 @@
+{
+  "id": "279_TURRETLINE",
+  "brand": "TURRETMERIDIAN",
+  "kind": "tower",
+  "genre": "タワーディフェンス",
+  "port": 5464,
+  "theme": "ink",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

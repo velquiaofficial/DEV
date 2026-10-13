@@ -1,0 +1,11 @@
+{
+  "id": "276_PAIRPULSE",
+  "brand": "PAIRMERIDIAN",
+  "kind": "merge",
+  "genre": "合成パズル",
+  "port": 5461,
+  "theme": "dusk",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "none"
+}

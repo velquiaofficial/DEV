@@ -1,0 +1,13 @@
+# 14_BOARDGAME
+
+ボードゲーム試作カテゴリ。子フォルダごとに README と（あれば）ローカルサーバを持ちます。
+
+## 収録
+
+- [`01_ISLEBOUND`](./01_ISLEBOUND/README.md)
+- [`02_GLINTBAZAAR`](./02_GLINTBAZAAR/README.md)
+- [`03_RAILSPAN`](./03_RAILSPAN/README.md)
+- [`04_MOSAICCOURT`](./04_MOSAICCOURT/README.md)
+- [`05_CROWNSTACK`](./05_CROWNSTACK/README.md)
+
+Relixia（`01_PROJECT`）は本カテゴリに含まれません。

@@ -1,0 +1,7 @@
+{
+  "id": "45_SPARK_MATCH",
+  "brand": "SparkMatch",
+  "basedOn": "07·11_MATCHING · 08_AISHO",
+  "standalone": true,
+  "version": "2.1.0"
+}

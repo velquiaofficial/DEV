@@ -1,0 +1,11 @@
+{
+  "id": "171_LEAFLORE",
+  "brand": "LEAFLIBRARY",
+  "kind": "quiz",
+  "genre": "リーフロア",
+  "port": 5356,
+  "theme": "orchard",
+  "standalone": true,
+  "version": "2.0.0",
+  "engine": "inlined"
+}

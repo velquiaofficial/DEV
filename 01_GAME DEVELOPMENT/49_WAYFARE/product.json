@@ -1,0 +1,7 @@
+{
+  "id": "49_WAYFARE",
+  "brand": "Wayfare",
+  "basedOn": "13_TRAVEL · 12_PRESENT · 04_RPG",
+  "standalone": true,
+  "version": "2.1.0"
+}
